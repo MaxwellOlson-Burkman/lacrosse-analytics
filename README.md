@@ -1,46 +1,61 @@
-# Lacrosse Analytics: Predictive Modeling + RAG Chatbot
-### Using Scikit-learn and RAG to analyze NCAA D1/D2 performance
+# Lacrosse Analytics: Predictive Modeling and RAG Interface
+### Statistical Analysis of NCAA Division I and II Performance
 
-## 🏒 Project Motivation
-As an NCAA lacrosse athlete and an Applied Math student, I’ve noticed that most sports analytics are either too simple or too "black box." You get a prediction, but no explanation of which stats actually drove that outcome. 
+## Project Overview
+This project is a technical exploration into "Explainable AI" within the context of NCAA Lacrosse. While many sports analytics platforms provide raw predictions, they often lack a natural language interface that explains the underlying statistical drivers. 
 
-I built this project to bridge that gap. It uses a historical regression model to predict game outcomes and a RAG (Retrieval-Augmented Generation) system to explain those predictions in plain English.
-
----
-
-## 🛠 My Tech Stack
-* **Data/Math:** Python, Scikit-learn (Random Forest), Pandas, NumPy
-* **AI/LLM:** LangChain, ChromaDB (Vector Store), OpenAI API
-* **Web/UI:** Streamlit
-* **Data Source:** Custom scraper for NCAA.org historical stats
+This system utilizes a historical regression model built with Scikit-learn to predict game outcomes and season success. It then integrates a Retrieval-Augmented Generation (RAG) pipeline to allow users to query the model’s findings using natural language. This provides a bridge between complex mathematical outputs and actionable coaching or scouting insights.
 
 ---
 
-## 🧠 How It Works
-The project is split into two main parts: the "Predictor" and the "Explainer."
+## Methodology and Logic
 
-### Part 1: The Statistical Model (The Math)
-Using 10+ years of NCAA box scores, I built a `Scikit-learn` model to predict win probabilities. 
-* **Feature Engineering:** I didn't just use goals and assists. I focused on metrics that actually win games—like possession value (Face-off % vs. Turnovers) and clearing efficiency.
-* **The Goal:** To identify which "hidden stats" correlate most strongly with a win in D1/D2 play.
+### 1. Data Engineering and Feature Selection
+Data is sourced via custom scraping of historical NCAA box scores spanning the last 10 years. The focus is on identifying "high-leverage" features that correlate most strongly with win probability. 
 
-### Part 2: The RAG Interface (The "Talk to Your Data")
-Instead of just looking at a spreadsheet of predictions, you can chat with the data.
-* I stored team stats and model outputs in a **ChromaDB** vector database.
-* The system uses **LangChain** to pull relevant team context and feed it to an LLM.
-* **Example:** You can ask, "Why does the model think [Team X] is an underdog this weekend?" and the bot will point to specific stats like their man-down defense or recent shooting percentage.
+Key metrics analyzed include:
+* **Efficiency Ratings:** Normalizing scoring and defensive stats against pace of play (possessions per game).
+* **Possession Value Index:** A calculated metric weighing Face-off Win % against Turnover Ratios.
+* **Strength of Schedule (SOS) Weighting:** Using a mathematical weight to adjust performance metrics based on opponent difficulty.
+* **Clearing and Extra-Man Efficiency:** Analyzing the statistical impact of specialized unit performance on final score margins.
+
+### 2. Predictive Modeling (The Math)
+The core of the system is a Scikit-learn pipeline. 
+* **Model Selection:** Utilizing Random Forest and Gradient Boosting Regressors to handle the non-linear nature of sports data.
+* **Validation:** Models are evaluated using Mean Absolute Error (MAE) and R-Squared values to ensure predictive reliability across different NCAA divisions.
+* **Feature Importance:** Using the model to rank which statistical categories are the most significant predictors of success in the modern D1/D2 game.
+
+### 3. Retrieval-Augmented Generation (The Interface)
+The RAG component transforms this from a static model into an interactive tool.
+* **Vectorization:** Team-specific performance reports and model predictions are embedded into a ChromaDB vector database.
+* **Contextual Querying:** When a user asks a question (e.g., "Why is Team X trending upward despite a losing record?"), the system retrieves relevant statistical "chunks" and model weights.
+* **Natural Language Output:** An LLM processes this retrieved context to generate a response grounded in the actual data, preventing the "hallucinations" common in standard AI models.
 
 ---
 
-## 📋 My To-Do List (Project Roadmap)
-
-- [ ] **Data Collection:** Scrape 10 years of D1/D2 stats from the NCAA site. (In Progress)
-- [ ] **Feature Engineering:** Calculate advanced metrics (Efficiency, SOS weighting).
-- [ ] **Modeling:** Train and tune the Scikit-learn regressor.
-- [ ] **RAG Setup:** Build the vector database and connection to the LLM.
-- [ ] **Deployment:** Put it all together in a Streamlit dashboard.
+## Technical Stack
+* **Languages:** Python
+* **Machine Learning:** Scikit-learn, Pandas, NumPy
+* **Generative AI:** LangChain, ChromaDB, OpenAI API
+* **Web Framework:** Streamlit
+* **Version Control:** Git
 
 ---
 
-## 💡 Why This Matters
-This project isn't just about coding; it's about **Explainable AI**. It shows that I can take raw numbers, find the mathematical signal in the noise, and then use Generative AI to make those insights useful for a coach or a scout.
+## Development Roadmap
+
+### Phase 1: Data Acquisition
+* Develop scrapers for NCAA.org to pull 10+ years of Division I and II statistics.
+* Clean and normalize data to handle seasonal variances and conference changes.
+
+### Phase 2: Statistical Modeling
+* Conduct Exploratory Data Analysis (EDA) to find correlations.
+* Train, tune, and validate Scikit-learn regression models.
+* Export feature importance and prediction results for the RAG pipeline.
+
+### Phase 3: RAG Implementation
+* Construct the LangChain pipeline and Vector Store.
+* Perform prompt engineering to ensure the AI prioritizes statistical accuracy over general knowledge.
+
+### Phase 4: Deployment
+* Launch a Streamlit dashboard that allows for real-time stat input and conversational analysis.
