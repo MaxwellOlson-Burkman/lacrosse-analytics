@@ -1,0 +1,25 @@
+# Data Processing & Math
+pandas
+numpy
+scipy
+scikit-learn
+
+# Web Scraping (Phase 1)
+requests
+beautifulsoup4
+lxml
+html5lib
+
+# Generative AI & RAG (Phase 3)
+langchain
+langchain-openai
+langchain-community
+chromadb
+python-dotenv
+tiktoken
+
+# UI & Deployment (Phase 4)
+streamlit
+
+# Quality of Life
+ipykernel
