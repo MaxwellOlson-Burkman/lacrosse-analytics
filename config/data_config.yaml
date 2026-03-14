@@ -15,12 +15,14 @@ scraping:
   # Use lower values (e.g. 22) for in-progress seasons
   ranking_period: 26
   # Delay between requests (seconds) - be respectful to NCAA servers
-  request_delay_seconds: 2
+  request_delay_seconds: 3
   max_retries: 3
   retry_delay_seconds: 5
   # Archive fallback watchdog/progress controls
   archive_progress_every: 10
   archive_max_runtime_minutes: 20
+  # Cooldown between season/division pairs to avoid rate-limiting
+  season_cooldown_seconds: 10
   # skip_failed: if true, skip pages that return 403 and continue (partial data)
   skip_failed: false
   # use_archive_fallback: when stats.ncaa.org returns 403, use web1 ranksummary fallback

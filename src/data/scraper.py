@@ -1,6 +1,7 @@
-"""NCAA stats.org scraper with rate limiting, 403 bypass, and graceful error handling."""
+"""NCAA stats.ncaa.org scraper with ranking_period discovery and 403 bypass."""
 
 import logging
+import re
 import time
 from pathlib import Path
 from urllib.parse import urlencode, urljoin
@@ -11,7 +12,6 @@ from urllib3.util.retry import Retry
 
 logger = logging.getLogger(__name__)
 
-# Rotate through these User-Agents on 403 (different browsers/versions)
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
@@ -27,12 +27,22 @@ BASE_HEADERS = {
     "Referer": "https://stats.ncaa.org/",
 }
 
+# Candidate ranking_periods to probe, highest first.
+# NCAA season length varies year to year — final periods can range from ~19 to ~35.
+# We probe high-to-low so we find the final (most complete) period.
+RANKING_PERIOD_CANDIDATES = [35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18]
+
+# Longer pause between discovery probes to avoid triggering rate limits
+DISCOVERY_PROBE_DELAY = 3
+
+# Cache: (year, division) -> discovered final ranking_period
+_period_cache: dict[tuple[int, int], int] = {}
+
 
 def _create_session(
     user_agent: str,
     max_retries: int = 3,
 ) -> requests.Session:
-    """Create a requests session with retry logic (excludes 403 from auto-retry)."""
     session = requests.Session()
     session.headers.update(BASE_HEADERS)
     session.headers["User-Agent"] = user_agent
@@ -46,7 +56,6 @@ def _create_session(
 
 
 def _fetch_with_curl_cffi(url: str, timeout: int = 30) -> tuple[str | None, int | None]:
-    """Try curl_cffi (mimics browser TLS fingerprint). Returns (html, status_code) or (None, status)."""
     try:
         from curl_cffi import requests as curl_requests
 
@@ -55,15 +64,13 @@ def _fetch_with_curl_cffi(url: str, timeout: int = 30) -> tuple[str | None, int 
             return (resp.text, 200)
         return (None, resp.status_code)
     except ImportError:
-        logger.debug("curl_cffi not installed, skipping")
         return (None, None)
     except Exception as e:
-        logger.warning("curl_cffi failed: %s", e)
+        logger.debug("curl_cffi failed: %s", e)
         return (None, None)
 
 
 def _fetch_with_cloudscraper(url: str, timeout: int = 30) -> str | None:
-    """Try cloudscraper (bypasses Cloudflare). Returns HTML or None on failure."""
     try:
         import cloudscraper
 
@@ -71,16 +78,14 @@ def _fetch_with_cloudscraper(url: str, timeout: int = 30) -> str | None:
         resp = scraper.get(url, timeout=timeout)
         if resp.status_code == 200:
             return resp.text
-        logger.warning("cloudscraper returned %s for %s", resp.status_code, url[:80])
     except ImportError:
-        logger.debug("cloudscraper not installed, skipping")
+        pass
     except Exception as e:
-        logger.warning("cloudscraper failed: %s", e)
+        logger.debug("cloudscraper failed: %s", e)
     return None
 
 
 def _fetch_with_playwright(url: str, timeout: int = 30000) -> str | None:
-    """Use real headless browser (Playwright). Bypasses virtually all anti-bot protection."""
     try:
         from playwright.sync_api import sync_playwright
 
@@ -92,29 +97,54 @@ def _fetch_with_playwright(url: str, timeout: int = 30000) -> str | None:
             browser.close()
             if content is not None:
                 return content
-            logger.warning("Playwright returned %s for %s", resp.status if resp else "None", url[:80])
     except ImportError:
-        logger.debug("Playwright not installed; run: pip install playwright && playwright install chromium")
+        pass
     except Exception as e:
-        logger.warning("Playwright failed: %s", e)
+        logger.debug("Playwright failed: %s", e)
     return None
 
 
-def _fetch_with_requests(
-    url: str,
-    session: requests.Session,
-    timeout: int = 30,
-) -> str:
-    """Fetch with requests; raises on non-2xx."""
-    resp = session.get(url, timeout=timeout)
-    resp.raise_for_status()
-    return resp.text
-
-
 def _url_with_float_params(params: dict) -> str:
-    """NCAA sometimes expects float params (e.g. academic_year=2014.0)."""
     float_params = {k: float(v) if isinstance(v, (int, float)) else v for k, v in params.items()}
     return urlencode(float_params)
+
+
+def _has_ranking_table(html: str) -> bool:
+    """Quick check that the page contains actual team ranking data, not an error page."""
+    return "/teams/" in html and "<table" in html.lower()
+
+
+def _count_teams(html: str) -> int:
+    """Count team links in a rankings page to gauge completeness."""
+    return len(re.findall(r"/teams/\d+", html))
+
+
+def _parse_ranking_period_dropdown(html: str) -> tuple[int | None, int | None]:
+    """Parse the ranking period <select> dropdown from an NCAA stats page.
+
+    Returns (final_period, latest_period) where:
+    - final_period: the period labeled "Final Statistics", or None if season is in progress
+    - latest_period: the first (most recent) period in the dropdown, or None
+    """
+    select_match = re.search(
+        r'<select[^>]*name="rp"[^>]*>(.*?)</select>',
+        html, re.DOTALL | re.IGNORECASE,
+    )
+    if not select_match:
+        return None, None
+
+    select_html = select_match.group(1)
+
+    final_match = re.search(
+        r'<option\s+value="([\d.]+)"[^>]*>[^<]*Final Statistics',
+        select_html, re.IGNORECASE,
+    )
+    final_period = int(float(final_match.group(1))) if final_match else None
+
+    first_match = re.search(r'<option\s+value="([\d.]+)"', select_html)
+    latest_period = int(float(first_match.group(1))) if first_match else None
+
+    return final_period, latest_period
 
 
 def fetch_page(
@@ -122,81 +152,124 @@ def fetch_page(
     path: str,
     params: dict,
     session: requests.Session | None = None,
-) -> str:
-    """Fetch a page with 403 bypass: curl_cffi -> cloudscraper -> Playwright -> requests with UA rotation.
+) -> str | None:
+    """Fetch a page using layered 403/404 bypass.
 
-    Raises:
-        requests.HTTPError: If all methods fail with 403 or other error.
+    Returns HTML string on success, None if all methods fail.
     """
     url = urljoin(base_url, path)
-    urls_to_try = [
+    urls_to_try = list(dict.fromkeys([
+        f"{url}?{_url_with_float_params(params)}",
         f"{url}?{urlencode(params)}",
-        f"{url}?{_url_with_float_params(params)}",  # NCAA uses academic_year=2014.0
-    ]
-    urls_to_try = list(dict.fromkeys(urls_to_try))  # dedupe
-
-    def _try_all_methods(u: str) -> str | None:
-        html, status = _fetch_with_curl_cffi(u)
-        if html is not None:
-            return html
-        if status != 404:
-            html = _fetch_with_cloudscraper(u)
-            if html is not None:
-                return html
-        return _fetch_with_playwright(u)
+    ]))
 
     for full_url in urls_to_try:
-        html = _try_all_methods(full_url)
-        if html is not None:
+        html, status = _fetch_with_curl_cffi(full_url)
+        if html and _has_ranking_table(html):
             return html
 
-    # 4. Fallback: requests with rotating User-Agents (create fresh session per UA)
-    last_error: Exception | None = None
+        if status == 404:
+            logger.debug("curl_cffi got 404 for %s; page does not exist", full_url)
+            continue
+
+        html = _fetch_with_cloudscraper(full_url)
+        if html and _has_ranking_table(html):
+            return html
+
+        html = _fetch_with_playwright(full_url)
+        if html and _has_ranking_table(html):
+            return html
+
+    # Last resort: requests with rotating User-Agents
     for i, ua in enumerate(USER_AGENTS):
         try:
             sess = _create_session(ua)
-            html = _fetch_with_requests(full_url, sess)
-            return html
-        except requests.HTTPError as e:
-            last_error = e
-            if e.response is not None and e.response.status_code == 403:
-                logger.warning("403 with UA #%s, trying next in 2s...", i + 1)
+            resp = sess.get(urls_to_try[0], timeout=30)
+            if resp.status_code == 200 and _has_ranking_table(resp.text):
+                return resp.text
+            if resp.status_code == 403:
+                logger.debug("403 with UA #%s", i + 1)
             if i < len(USER_AGENTS) - 1:
                 time.sleep(2)
-                continue
-            raise
-        except Exception as e:
-            last_error = e
-            logger.warning("Request failed with UA #%s: %s", i + 1, e)
+        except Exception:
             if i < len(USER_AGENTS) - 1:
                 time.sleep(2)
-                continue
-            raise
 
-    if last_error is not None:
-        raise last_error
-    raise requests.HTTPError(f"Failed to fetch {full_url}")
+    return None
 
 
-def scrape_team_stats_page(
+def discover_final_ranking_period(
     base_url: str,
     rankings_path: str,
     academic_year: int,
     division: int,
-    stat_seq: int,
-    ranking_period: int,
     sport_code: str,
-    session: requests.Session | None,
-) -> str:
-    """Fetch a single team stats ranking page."""
-    params = {
-        "academic_year": academic_year,
-        "division": division,
-        "ranking_period": ranking_period,
-        "sport_code": sport_code,
-        "stat_seq": stat_seq,
-    }
-    return fetch_page(base_url=base_url, path=rankings_path, params=params, session=session)
+    stat_seq: int,
+    default_period: int,
+    session: requests.Session | None = None,
+) -> int:
+    """Find the correct final ranking_period for a year/division.
+
+    Primary strategy: fetch one page and parse the ranking-period <select>
+    dropdown for the option labeled "Final Statistics".  Every stats.ncaa.org
+    page includes this dropdown with every available period for the sport/year,
+    so a single request is enough.
+
+    Fallback: if no "Final Statistics" label exists (e.g. an in-progress
+    season), use the most recent (first) period in the dropdown.
+
+    Results are cached per (year, division).
+    """
+    cache_key = (academic_year, division)
+    if cache_key in _period_cache:
+        return _period_cache[cache_key]
+
+    # We need ANY valid page to read the ranking-period dropdown.
+    # Older years (pre-2015) use low period numbers (6-21), newer years use
+    # higher numbers (26-130+).  Try the default first, then a spread of
+    # fallbacks so we hit at least one valid period.
+    probe_periods = [default_period] + [p for p in [21, 15, 10, 50, 100] if p != default_period]
+
+    html = None
+    for probe in probe_periods:
+        params = {
+            "academic_year": academic_year,
+            "division": division,
+            "ranking_period": probe,
+            "sport_code": sport_code,
+            "stat_seq": stat_seq,
+        }
+        html = fetch_page(base_url=base_url, path=rankings_path, params=params, session=session)
+        if html:
+            break
+        time.sleep(DISCOVERY_PROBE_DELAY)
+
+    if html:
+        final_period, latest_period = _parse_ranking_period_dropdown(html)
+
+        if final_period is not None:
+            logger.info(
+                "Found 'Final Statistics' at ranking_period=%d for %s D%s",
+                final_period, academic_year, division,
+            )
+            _period_cache[cache_key] = final_period
+            return final_period
+
+        if latest_period is not None:
+            logger.info(
+                "No 'Final Statistics' for %s D%s (season in progress?); "
+                "using latest period=%d",
+                academic_year, division, latest_period,
+            )
+            _period_cache[cache_key] = latest_period
+            return latest_period
+
+    logger.warning(
+        "Could not discover ranking_period for %s D%s; using default %d",
+        academic_year, division, default_period,
+    )
+    _period_cache[cache_key] = default_period
+    return default_period
 
 
 def scrape_season(
@@ -206,10 +279,13 @@ def scrape_season(
     existing_raw_paths: set[Path],
     raw_dir: Path,
 ) -> list[Path]:
-    """Scrape all team stat pages for a season/division.
+    """Scrape all team stat pages for a season/division from stats.ncaa.org.
 
-    Skips pages that already exist. On 403, retries with cloudscraper and UA rotation.
-    If skip_failed is True in config, continues on failure; otherwise raises.
+    Key improvements over earlier version:
+    - Auto-discovers the correct final ranking_period per year/division.
+    - Tries stats.ncaa.org FIRST for every stat, even if archive data exists.
+    - Does NOT bail to archive on a single stat failure; skips that stat and continues.
+    - Only falls back to archive when stats.ncaa.org is completely inaccessible.
     """
     scraping = config["scraping"]
     team_stats = config["team_stats"]
@@ -217,14 +293,13 @@ def scrape_season(
 
     base_url = scraping["base_url"]
     rankings_path = scraping["rankings_path"]
-    ranking_period = scraping["ranking_period"]
+    default_period = scraping["ranking_period"]
     sport_code = scraping["sport_code"]
     delay = scraping["request_delay_seconds"]
-    skip_failed = scraping.get("skip_failed", False)
 
     session = _create_session(USER_AGENTS[0], scraping.get("max_retries", 3))
 
-    # Visit landing page to establish session
+    # Visit landing page to establish cookies/session
     try:
         session.get(base_url, timeout=10)
         time.sleep(1)
@@ -234,25 +309,41 @@ def scrape_season(
     season_dir = raw_dir / output["raw_format"].format(year=year, division=division)
     season_dir.mkdir(parents=True, exist_ok=True)
 
-    # Fast path: if archive fallback data already exists, skip expensive stats.ncaa.org attempts.
-    archive_listschools = season_dir / "archive_listschools.html"
-    archive_org_files = list(season_dir.glob("orgsummary_*.html"))
-    if archive_listschools.exists() and archive_org_files:
+    # Check if all stat files already exist (skip discovery + scraping entirely)
+    all_exist = all(
+        (season_dir / f"{s['name']}.html") in existing_raw_paths
+        for s in team_stats
+    )
+    if all_exist:
+        logger.info("All stats already on disk for %s D%s; skipping.", year, division)
+        return [season_dir / f"{s['name']}.html" for s in team_stats]
+
+    # Check how many files we're actually missing
+    missing_stats = [s for s in team_stats if (season_dir / f"{s['name']}.html") not in existing_raw_paths]
+    have_stats = [s for s in team_stats if (season_dir / f"{s['name']}.html") in existing_raw_paths]
+    if have_stats:
         logger.info(
-            "Skipping stats scrape for %s D%s (archive fallback already present: %s teams)",
-            year,
-            division,
-            len(archive_org_files),
+            "%s D%s: %d stats on disk, %d to fetch",
+            year, division, len(have_stats), len(missing_stats),
         )
-        return [archive_listschools, *archive_org_files]
+
+    # Discover the correct final ranking_period for this year/division
+    probe_stat = team_stats[0]["stat_seq"]
+    final_period = discover_final_ranking_period(
+        base_url=base_url,
+        rankings_path=rankings_path,
+        academic_year=year,
+        division=division,
+        sport_code=sport_code,
+        stat_seq=probe_stat,
+        default_period=default_period,
+        session=session,
+    )
+    logger.info("Using ranking_period=%d for %s D%s", final_period, year, division)
 
     saved: list[Path] = []
     failed: list[str] = []
-
-    def _has_any_season_html() -> bool:
-        # If at least one stat page exists for this season/division, we can continue
-        # with partial data instead of aborting an entire long-running job.
-        return any(season_dir.glob("*.html"))
+    expected_teams = 0
 
     for stat in team_stats:
         stat_seq = stat["stat_seq"]
@@ -261,106 +352,88 @@ def scrape_season(
 
         if out_path in existing_raw_paths:
             logger.info("Skipping existing: %s", out_path)
+            saved.append(out_path)
             continue
 
-        try:
-            html = scrape_team_stats_page(
-                base_url=base_url,
-                rankings_path=rankings_path,
-                academic_year=year,
-                division=division,
-                stat_seq=stat_seq,
-                ranking_period=ranking_period,
-                sport_code=sport_code,
-                session=session,
-            )
+        params = {
+            "academic_year": year,
+            "division": division,
+            "ranking_period": final_period,
+            "sport_code": sport_code,
+            "stat_seq": stat_seq,
+        }
+        html = fetch_page(base_url=base_url, path=rankings_path, params=params, session=session)
+
+        if html and _has_ranking_table(html):
+            count = _count_teams(html)
+            expected_teams = max(expected_teams, count)
+
+            # If this page has <50% of expected teams, the ranking_period may
+            # be wrong for this specific stat. Try higher periods.
+            if expected_teams > 0 and count < expected_teams * 0.5:
+                logger.info(
+                    "%s has %d teams (expected ~%d); probing higher periods...",
+                    stat_name, count, expected_teams,
+                )
+                best_html = html
+                best_count = count
+                for alt_period in RANKING_PERIOD_CANDIDATES:
+                    if alt_period <= final_period:
+                        continue
+                    alt_params = {**params, "ranking_period": alt_period}
+                    alt_html = fetch_page(
+                        base_url=base_url, path=rankings_path, params=alt_params, session=session,
+                    )
+                    if alt_html and _has_ranking_table(alt_html):
+                        alt_count = _count_teams(alt_html)
+                        if alt_count > best_count:
+                            best_count = alt_count
+                            best_html = alt_html
+                            logger.info(
+                                "ranking_period=%d gives %d teams for %s",
+                                alt_period, alt_count, stat_name,
+                            )
+                        if alt_count >= expected_teams * 0.8:
+                            break
+                    time.sleep(DISCOVERY_PROBE_DELAY)
+                html = best_html
+
             out_path.write_text(html, encoding="utf-8")
             saved.append(out_path)
-            logger.info("Saved: %s", out_path)
-        except requests.RequestException as e:
-            failed.append((stat_name, e))
-            if skip_failed:
-                logger.warning("Failed %s/%s (skipping): %s", year, stat_name, e)
-            else:
-                logger.error("Failed to fetch %s/%s: %s", year, stat_name, e)
-                # Try archive immediately on first failure (avoid 15 slow 403s)
-                if scraping.get("use_archive_fallback", False):
-                    from .archive_scraper import scrape_archive_season
-
-                    logger.info(
-                        "Switching to archive fallback for %s D%s after failure on stat '%s'",
-                        year,
-                        division,
-                        stat_name,
-                    )
-                    archive_saved = scrape_archive_season(
-                        config=config,
-                        year=year,
-                        division=division,
-                        existing_raw_paths=existing_raw_paths,
-                        raw_dir=raw_dir,
-                        delay=delay,
-                    )
-                    if archive_saved:
-                        logger.info(
-                            "Using web1 archive for %s D%s (stats.ncaa.org returned 403)",
-                            year,
-                            division,
-                        )
-                        return saved + archive_saved
-                    # Archive failed too. If we already have some season files, continue
-                    # and keep only this stat missing instead of crashing the full run.
-                    if _has_any_season_html():
-                        logger.warning(
-                            "Archive fallback unavailable for %s D%s after '%s' failure; "
-                            "continuing with partial season data.",
-                            year,
-                            division,
-                            stat_name,
-                        )
-                        continue
-                    # No usable season data exists, re-raise.
-                    raise e
+            logger.info("Saved: %s (%d teams)", out_path, _count_teams(html))
+        else:
+            failed.append(stat_name)
+            logger.warning(
+                "Could not fetch %s D%s %s (all methods failed); skipping stat.",
+                year, division, stat_name,
+            )
 
         time.sleep(delay)
 
-    if failed and not skip_failed:
-        if _has_any_season_html():
-            stat_names = [s[0] for s in failed]
-            logger.warning(
-                "Proceeding with partial scrape for %s D%s; missing stat(s): %s",
-                year,
-                division,
-                stat_names,
-            )
-            return saved
+    if failed:
+        logger.warning(
+            "Missing %d stat(s) for %s D%s: %s",
+            len(failed), year, division, failed,
+        )
 
-        # Try archive fallback before giving up
-        use_archive = scraping.get("use_archive_fallback", False)
-        if use_archive:
-            from .archive_scraper import scrape_archive_season
+    # If stats.ncaa.org returned NOTHING at all, try archive as last resort
+    if not saved and scraping.get("use_archive_fallback", False):
+        logger.info(
+            "stats.ncaa.org returned no data for %s D%s; trying archive fallback...",
+            year, division,
+        )
+        from .archive_scraper import scrape_archive_season
 
-            archive_saved = scrape_archive_season(
-                config=config,
-                year=year,
-                division=division,
-                existing_raw_paths=existing_raw_paths,
-                raw_dir=raw_dir,
-                delay=delay,
-            )
-            if archive_saved:
-                logger.info("Using web1 archive for %s D%s (stats.ncaa.org unavailable)", year, division)
-                saved.extend(archive_saved)
-                failed.clear()
-            else:
-                _, first_err = failed[0]
-                raise first_err
-        else:
-            _, first_err = failed[0]
-            raise first_err
-
-    if failed and skip_failed:
-        stat_names = [s[0] for s in failed]
-        logger.warning("Skipped %s stat(s) for %s D%s: %s", len(failed), year, division, stat_names)
+        archive_saved = scrape_archive_season(
+            config=config,
+            year=year,
+            division=division,
+            existing_raw_paths=existing_raw_paths,
+            raw_dir=raw_dir,
+            delay=delay,
+        )
+        if archive_saved:
+            logger.info("Using web1 archive for %s D%s (stats.ncaa.org unavailable)", year, division)
+            return archive_saved
 
     return saved
