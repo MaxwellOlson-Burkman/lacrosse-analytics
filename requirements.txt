@@ -3,12 +3,18 @@ pandas
 numpy
 scipy
 scikit-learn
+pyarrow
 
 # Web Scraping (Phase 1)
 requests
 beautifulsoup4
 lxml
 html5lib
+pyyaml
+# 403 bypass: curl_cffi (TLS), cloudscraper (Cloudflare), playwright (real browser)
+curl_cffi
+cloudscraper
+playwright
 
 # Generative AI & RAG (Phase 3)
 langchain

@@ -1,1 +1,4 @@
 .venv/
+
+# Raw scraped HTML (large; regenerate with run_pipeline.py)
+data/raw/

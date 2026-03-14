@@ -42,10 +42,40 @@ The RAG component transforms this from a static model into an interactive tool.
 
 ---
 
+## Getting Started
+
+### Phase 1: Data Acquisition (Setup)
+
+1. Install dependencies (includes `curl_cffi`, `cloudscraper`, and `playwright` for 403 bypass):
+   ```bash
+   pip install -r requirements.txt
+   playwright install chromium
+   ```
+
+2. Configure scraping in `config/data_config.yaml` (years, divisions, delay, etc.).
+   - `archive_progress_every`: how often archive fallback logs team progress
+   - `archive_max_runtime_minutes`: watchdog timeout for archive fallback
+
+3. Run the pipeline:
+   ```bash
+   python run_pipeline.py                    # Full range from config
+   python run_pipeline.py --years 2024       # Single year
+   python run_pipeline.py --years 2014-2024  # Custom range
+   ```
+
+4. Output: `data/raw/` (HTML, gitignored) and `data/processed/` (CSV + Parquet, committed). The repo includes a processed snapshot for 2014–2024; see `data/README.md`.
+
+5. Run a trainability/completeness check on model-ready features:
+   ```bash
+   python scripts/data_completeness_report.py
+   ```
+
+---
+
 ## Development Roadmap
 
 ### Phase 1: Data Acquisition
-* Develop scrapers for NCAA.org to pull 10+ years of Division I and II statistics.
+* ~~Develop scrapers for stats.ncaa.org to pull 10+ years of Division I and II statistics.~~
 * Clean and normalize data to handle seasonal variances and conference changes.
 
 ### Phase 2: Statistical Modeling

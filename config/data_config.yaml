@@ -1,0 +1,75 @@
+# NCAA Lacrosse Data Pipeline Configuration
+# Use this file to control scraping behavior without changing code.
+# Re-run the pipeline with different values to add new seasons incrementally.
+
+scraping:
+  base_url: "https://stats.ncaa.org"
+  # Entry point for rankings; academic_year is appended as query param for historical data
+  rankings_path: "/rankings/national_ranking"
+  sport_code: "MLA"  # Men's Lacrosse
+  # Academic year = season end year (2024 = 2023-24 season, 2026 = 2025-26 season)
+  start_year: 2014
+  end_year: 2024
+  divisions: [1, 2]
+  # ranking_period: 26 = Final statistics (use for completed seasons)
+  # Use lower values (e.g. 22) for in-progress seasons
+  ranking_period: 26
+  # Delay between requests (seconds) - be respectful to NCAA servers
+  request_delay_seconds: 2
+  max_retries: 3
+  retry_delay_seconds: 5
+  # Archive fallback watchdog/progress controls
+  archive_progress_every: 10
+  archive_max_runtime_minutes: 20
+  # skip_failed: if true, skip pages that return 403 and continue (partial data)
+  skip_failed: false
+  # use_archive_fallback: when stats.ncaa.org returns 403, use web1 ranksummary fallback
+  # (rankSeq + listSchools + orgSummary pages)
+  use_archive_fallback: true
+
+# Team-level stat categories to scrape (stat_seq IDs from stats.ncaa.org)
+# These align with your README: efficiency, face-off, clearing, scoring
+team_stats:
+  - stat_seq: 228
+    name: scoring_offense
+  - stat_seq: 229
+    name: scoring_defense
+  - stat_seq: 230
+    name: faceoff_winning_pct
+  - stat_seq: 231
+    name: man_up_offense
+  - stat_seq: 232
+    name: man_down_defense
+  - stat_seq: 233
+    name: winning_pct
+  - stat_seq: 238
+    name: scoring_margin
+  - stat_seq: 535
+    name: assists_per_game
+  - stat_seq: 536
+    name: saves_per_game
+  - stat_seq: 537
+    name: points_per_game
+  - stat_seq: 538
+    name: ground_balls_per_game
+  - stat_seq: 559
+    name: turnovers_per_game
+  - stat_seq: 561
+    name: caused_turnovers_per_game
+  - stat_seq: 563
+    name: shot_pct
+  - stat_seq: 838
+    name: clearing_pct
+  - stat_seq: 1213
+    name: opponent_clear_pct
+
+output:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  # Per-season raw files: data/raw/{year}/division_{div}/...
+  raw_format: "{year}/division_{division}"
+  # Processed files
+  team_stats_file: "team_stats.parquet"
+  team_stats_csv: "team_stats.csv"
+  model_ready_file: "team_stats_model_ready.parquet"
+  model_ready_csv: "team_stats_model_ready.csv"
