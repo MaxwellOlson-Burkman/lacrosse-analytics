@@ -3,5 +3,8 @@
 # Raw scraped HTML (large; regenerate with run_pipeline.py)
 data/raw/
 
+# RAG vector index (regenerate with scripts/build_rag_index.py)
+data/chroma/
+
 # Model binaries (large; regenerate with run_training.py)
 models/*.joblib

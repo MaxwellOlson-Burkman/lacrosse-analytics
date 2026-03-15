@@ -26,6 +26,9 @@ playwright
 langchain
 langchain-openai
 langchain-community
+langchain-ollama
+langchain-core
+langchain-chroma
 chromadb
 python-dotenv
 tiktoken

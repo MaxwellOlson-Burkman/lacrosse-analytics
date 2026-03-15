@@ -36,7 +36,7 @@ The RAG component transforms this from a static model into an interactive tool.
 ## Technical Stack
 * **Languages:** Python
 * **Machine Learning:** Scikit-learn, Pandas, NumPy
-* **Generative AI:** LangChain, ChromaDB, OpenAI API
+* **Generative AI:** LangChain, ChromaDB, Ollama (local LLM and embeddings)
 * **Web Framework:** Streamlit
 * **Version Control:** Git
 
@@ -90,6 +90,32 @@ The RAG component transforms this from a static model into an interactive tool.
 
 4. Outputs: `models/best_model.joblib`, `models/feature_importance.json`, `models/team_reports/*.txt`
 
+### Phase 3: RAG (Ollama)
+
+1. Install [Ollama](https://ollama.com) and pull the models used by the RAG pipeline (no API keys required):
+   ```bash
+   ollama pull nomic-embed-text
+   ollama pull llama3.2
+   ```
+
+2. Install Python dependencies (if not already present):
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Build the vector index from team reports and metadata:
+   ```bash
+   python scripts/build_rag_index.py
+   ```
+
+4. Ask questions in natural language:
+   ```bash
+   python scripts/query_rag.py "Why did Air Force outperform expectations in 2014?"
+   python scripts/query_rag.py "What stats matter most for winning?" --sources
+   ```
+
+5. Optional: edit `config/rag_config.yaml` to change the Ollama chat model (e.g. `mistral`), retriever `k`, or paths. Phase 4 (Streamlit) will add a web UI on top of this.
+
 ---
 
 ## Development Roadmap
@@ -104,8 +130,8 @@ The RAG component transforms this from a static model into an interactive tool.
 * ~~Export feature importance and prediction results for the RAG pipeline.~~
 
 ### Phase 3: RAG Implementation
-* Construct the LangChain pipeline and Vector Store.
-* Perform prompt engineering to ensure the AI prioritizes statistical accuracy over general knowledge.
+* ~~Construct the LangChain pipeline and Vector Store (Ollama + ChromaDB).~~
+* ~~Perform prompt engineering to ensure the AI prioritizes statistical accuracy over general knowledge.~~
 
 ### Phase 4: Deployment
 * Launch a Streamlit dashboard that allows for real-time stat input and conversational analysis.
