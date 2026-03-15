@@ -2,16 +2,22 @@ Team: St. Thomas Aquinas
 Season: 2022 D2
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.170
+Predicted Winning %: 0.167
 
 Stat Comparison vs League Average:
   points_per_game: 11.640 (6.001 below average)
   scoring_defense: 13.640 (2.404 above average)
-  scoring_offense: 7.430 (3.884 below average)
-  scoring_margin: -6.210 (7.944 below average)
+  scoring_offense: 7.430 (3.883 below average)
   defensive_efficiency: 14.739 (0.964 below average)
-  saves_per_game: 16.430 (4.442 above average)
+  scoring_margin: -6.210 (7.940 below average)
+  saves_per_game: 16.430 (4.443 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 25.070 (5.824 below average)
   clearing_percentage: 0.749 (0.094 below average)
-  ground_balls_per_game: 25.070 (5.826 below average)
-  shot_percentage: 0.256 (0.035 below average)
-  offensive_efficiency: 29.023 (9.643 below average)
+  possession_value_index: 0.047 (0.122 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 71 of 74
+  Avg opponent win %: 0.354
+  Model schedule difficulty rank: 71 of 74
+  Schedule difficulty score: 0.352

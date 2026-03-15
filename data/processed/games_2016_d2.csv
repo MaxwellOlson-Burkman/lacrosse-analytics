@@ -1,0 +1,947 @@
+academic_year,division,team_org_id,opp_org_id,team_name,opp_name,game_date,location,team_score,opp_score,result,goal_margin
+2016,2,24019,24089.0,Adams St.,Colorado Col.,2016-02-20,A,7,14,L,-7
+2016,2,24019,24029.0,Adams St.,Rockhurst,2016-03-06,A,6,10,L,-4
+2016,2,24019,24029.0,Adams St.,Rockhurst,2016-03-15,H,9,4,W,5
+2016,2,24019,24016.0,Adams St.,Saint Leo,2016-03-19,A,7,17,L,-10
+2016,2,24019,24001.0,Adams St.,Fla. Southern,2016-03-22,A,6,13,L,-7
+2016,2,24019,24018.0,Adams St.,Tampa,2016-03-25,A,3,20,L,-17
+2016,2,24019,24048.0,Adams St.,Notre Dame de Namur,2016-04-03,H,12,5,W,7
+2016,2,24019,24057.0,Adams St.,Westminster (UT),2016-04-08,H,8,10,L,-2
+2016,2,24019,24040.0,Adams St.,Colorado Mesa,2016-04-10,H,3,9,L,-6
+2016,2,24019,24035.0,Adams St.,CSU Pueblo,2016-04-19,H,10,4,W,6
+2016,2,24019,24057.0,Adams St.,Westminster (UT),2016-04-22,A,7,17,L,-10
+2016,2,24019,24040.0,Adams St.,Colorado Mesa,2016-04-24,A,4,16,L,-12
+2016,2,24019,24035.0,Adams St.,CSU Pueblo,2016-04-30,A,7,4,W,3
+2016,2,24019,24040.0,Adams St.,Colorado Mesa,2016-05-06,A,6,9,L,-3
+2016,2,23993,24018.0,Adelphi,Tampa,2016-02-19,A,11,19,L,-8
+2016,2,23993,24001.0,Adelphi,Fla. Southern,2016-02-22,A,15,8,W,7
+2016,2,23993,24005.0,Adelphi,LIU Post,2016-02-27,A,15,9,W,6
+2016,2,23993,23995.0,Adelphi,American Int'l,2016-03-05,A,24,7,W,17
+2016,2,23993,24030.0,Adelphi,Saint Rose,2016-03-12,H,13,7,W,6
+2016,2,23993,23996.0,Adelphi,Assumption,2016-03-15,A,18,8,W,10
+2016,2,23993,24010.0,Adelphi,Southern N.H.,2016-03-19,A,21,8,W,13
+2016,2,23993,24017.0,Adelphi,Saint Michael's,2016-03-26,H,16,9,W,7
+2016,2,23993,24008.0,Adelphi,Merrimack,2016-04-02,A,14,18,L,-4
+2016,2,23993,24015.0,Adelphi,Saint Anselm,2016-04-06,H,13,12,W,1
+2016,2,23993,24002.0,Adelphi,Franklin Pierce,2016-04-09,H,19,11,W,8
+2016,2,23993,24012.0,Adelphi,Pace,2016-04-12,A,13,12,W,1
+2016,2,23993,23997.0,Adelphi,Bentley,2016-04-16,H,19,7,W,12
+2016,2,23993,24011.0,Adelphi,New York Tech,2016-04-20,A,7,12,L,-5
+2016,2,23993,24004.0,Adelphi,Le Moyne,2016-04-23,A,6,13,L,-7
+2016,2,23993,24015.0,Adelphi,Saint Anselm,2016-05-03,H,13,7,W,6
+2016,2,23993,24008.0,Adelphi,Merrimack,2016-05-06,A,13,14,L,-1
+2016,2,23994,24186.0,Alabama Huntsville,Sewanee,2016-02-13,A,2,17,L,-15
+2016,2,23994,24050.0,Alabama Huntsville,Brevard,2016-02-21,H,11,10,W,1
+2016,2,23994,24039.0,Alabama Huntsville,North Greenville,2016-03-05,A,1,16,L,-15
+2016,2,23994,24045.0,Alabama Huntsville,Ohio Valley,2016-03-09,H,14,17,L,-3
+2016,2,23994,24021.0,Alabama Huntsville,Catawba,2016-03-21,A,3,11,L,-8
+2016,2,23994,24032.0,Alabama Huntsville,Wingate,2016-03-23,A,3,13,L,-10
+2016,2,23994,24035.0,Alabama Huntsville,CSU Pueblo,2016-03-26,H,8,18,L,-10
+2016,2,23994,24020.0,Alabama Huntsville,Alderson Broaddus,2016-04-01,A,11,22,L,-11
+2016,2,23994,23998.0,Alabama Huntsville,Davis & Elkins,2016-04-03,A,10,9,W,1
+2016,2,23994,24055.0,Alabama Huntsville,Young Harris,2016-04-09,H,3,14,L,-11
+2016,2,23994,24044.0,Alabama Huntsville,Lees-McRae,2016-04-16,H,10,9,W,1
+2016,2,23994,24054.0,Alabama Huntsville,Shorter,2016-04-23,A,8,24,L,-16
+2016,2,24020,24041.0,Alderson Broaddus,Queens (NC),2016-02-13,A,11,20,L,-9
+2016,2,24020,24053.0,Alderson Broaddus,Roberts Wesleyan,2016-02-19,H,16,5,W,11
+2016,2,24020,24044.0,Alderson Broaddus,Lees-McRae,2016-02-27,H,19,4,W,15
+2016,2,24020,24000.0,Alderson Broaddus,Florida Tech,2016-03-10,H,7,11,L,-4
+2016,2,24020,24051.0,Alderson Broaddus,Lindenwood,2016-03-12,A,7,8,L,-1
+2016,2,24020,23999.0,Alderson Broaddus,Dist. Columbia,2016-03-16,H,12,16,L,-4
+2016,2,24020,24052.0,Alderson Broaddus,Walsh,2016-03-19,H,9,14,L,-5
+2016,2,24020,24036.0,Alderson Broaddus,Lake Erie,2016-03-25,A,9,15,L,-6
+2016,2,24020,23994.0,Alderson Broaddus,UAH,2016-04-01,H,22,11,W,11
+2016,2,24020,24045.0,Alderson Broaddus,Ohio Valley,2016-04-07,A,15,5,W,10
+2016,2,24020,24007.0,Alderson Broaddus,Mercyhurst,2016-04-12,H,5,17,L,-12
+2016,2,24020,24042.0,Alderson Broaddus,Wheeling,2016-04-16,A,9,18,L,-9
+2016,2,24020,23998.0,Alderson Broaddus,Davis & Elkins,2016-04-21,H,26,4,W,22
+2016,2,24020,24003.0,Alderson Broaddus,UIndy,2016-04-23,H,10,14,L,-4
+2016,2,24020,24049.0,Alderson Broaddus,Seton Hill,2016-04-27,H,6,13,L,-7
+2016,2,23995,24006.0,American Int'l,Mercy,2016-02-20,A,4,20,L,-16
+2016,2,23995,24008.0,American Int'l,Merrimack,2016-02-28,A,2,27,L,-25
+2016,2,23995,24028.0,American Int'l,Post,2016-03-02,A,2,17,L,-15
+2016,2,23995,23993.0,American Int'l,Adelphi,2016-03-05,H,7,24,L,-17
+2016,2,23995,23996.0,American Int'l,Assumption,2016-03-11,A,5,19,L,-14
+2016,2,23995,24037.0,American Int'l,Dominican (NY),2016-03-15,A,14,19,L,-5
+2016,2,23995,24015.0,American Int'l,Saint Anselm,2016-03-19,H,11,25,L,-14
+2016,2,23995,24004.0,American Int'l,Le Moyne,2016-03-22,H,2,17,L,-15
+2016,2,23995,24002.0,American Int'l,Franklin Pierce,2016-03-26,A,5,16,L,-11
+2016,2,23995,24012.0,American Int'l,Pace,2016-03-29,A,7,23,L,-16
+2016,2,23995,24030.0,American Int'l,Saint Rose,2016-04-06,H,6,17,L,-11
+2016,2,23995,23997.0,American Int'l,Bentley,2016-04-08,H,2,12,L,-10
+2016,2,23995,24010.0,American Int'l,Southern N.H.,2016-04-12,A,11,22,L,-11
+2016,2,23995,24017.0,American Int'l,Saint Michael's,2016-04-23,H,9,21,L,-12
+2016,2,23995,24038.0,American Int'l,Georgian Court,2016-04-30,H,13,10,W,3
+2016,2,23996,24009.0,Assumption,Molloy,2016-02-20,A,12,13,L,-1
+2016,2,23996,24034.0,Assumption,Dowling,2016-03-05,H,6,12,L,-6
+2016,2,23996,24011.0,Assumption,New York Tech,2016-03-08,A,6,13,L,-7
+2016,2,23996,23995.0,Assumption,American Int'l,2016-03-11,H,19,5,W,14
+2016,2,23996,23993.0,Assumption,Adelphi,2016-03-15,H,8,18,L,-10
+2016,2,23996,24030.0,Assumption,Saint Rose,2016-03-19,H,11,8,W,3
+2016,2,23996,23997.0,Assumption,Bentley,2016-03-26,A,9,10,L,-1
+2016,2,23996,24002.0,Assumption,Franklin Pierce,2016-04-06,A,9,11,L,-2
+2016,2,23996,24017.0,Assumption,Saint Michael's,2016-04-09,H,7,14,L,-7
+2016,2,23996,24004.0,Assumption,Le Moyne,2016-04-12,A,2,18,L,-16
+2016,2,23996,24015.0,Assumption,Saint Anselm,2016-04-16,H,7,10,L,-3
+2016,2,23996,24008.0,Assumption,Merrimack,2016-04-20,H,5,15,L,-10
+2016,2,23996,24012.0,Assumption,Pace,2016-04-23,A,8,13,L,-5
+2016,2,23996,24010.0,Assumption,Southern N.H.,2016-04-30,H,15,10,W,5
+2016,2,24033,24021.0,Belmont Abbey,Catawba,2016-02-13,H,18,3,W,15
+2016,2,24033,24023.0,Belmont Abbey,Lenoir-Rhyne,2016-02-20,H,11,10,W,1
+2016,2,24033,24041.0,Belmont Abbey,Queens (NC),2016-02-24,A,10,16,L,-6
+2016,2,24033,24032.0,Belmont Abbey,Wingate,2016-02-27,H,13,9,W,4
+2016,2,24033,24050.0,Belmont Abbey,Brevard,2016-03-02,H,9,5,W,4
+2016,2,24033,24014.0,Belmont Abbey,Rollins,2016-03-10,A,13,10,W,3
+2016,2,24033,24054.0,Belmont Abbey,Shorter,2016-03-12,A,15,9,W,6
+2016,2,24033,24056.0,Belmont Abbey,Emmanuel (GA),2016-03-19,A,24,4,W,20
+2016,2,24033,24044.0,Belmont Abbey,Lees-McRae,2016-03-22,H,30,6,W,24
+2016,2,24033,24027.0,Belmont Abbey,Mount Olive,2016-04-02,A,7,12,L,-5
+2016,2,24033,24022.0,Belmont Abbey,Coker,2016-04-06,A,16,6,W,10
+2016,2,24033,24039.0,Belmont Abbey,North Greenville,2016-04-09,H,17,3,W,14
+2016,2,24033,24024.0,Belmont Abbey,Limestone,2016-04-13,H,6,25,L,-19
+2016,2,24033,24026.0,Belmont Abbey,Mars Hill,2016-04-16,A,17,0,W,17
+2016,2,24033,24013.0,Belmont Abbey,Pfeiffer,2016-04-23,A,18,10,W,8
+2016,2,24033,24027.0,Belmont Abbey,"Mount Olive @ Gaffney, S.C.",2016-04-29,H,8,10,L,-2
+2016,2,23997,24011.0,Bentley,New York Tech,2016-03-05,H,3,8,L,-5
+2016,2,23997,24021.0,Bentley,Catawba,2016-03-15,A,12,10,W,2
+2016,2,23997,24002.0,Bentley,Franklin Pierce,2016-03-19,H,11,8,W,3
+2016,2,23997,23996.0,Bentley,Assumption,2016-03-26,H,10,9,W,1
+2016,2,23997,24010.0,Bentley,Southern N.H.,2016-03-30,A,12,13,L,-1
+2016,2,23997,24017.0,Bentley,Saint Michael's,2016-04-02,A,8,7,W,1
+2016,2,23997,23995.0,Bentley,American Int'l,2016-04-08,A,12,2,W,10
+2016,2,23997,24030.0,Bentley,Saint Rose,2016-04-12,A,8,3,W,5
+2016,2,23997,23993.0,Bentley,Adelphi,2016-04-16,A,7,19,L,-12
+2016,2,23997,24012.0,Bentley,Pace,2016-04-20,H,10,11,L,-1
+2016,2,23997,24008.0,Bentley,Merrimack,2016-04-23,H,8,12,L,-4
+2016,2,23997,24015.0,Bentley,Saint Anselm,2016-04-26,A,8,14,L,-6
+2016,2,23997,24004.0,Bentley,Le Moyne,2016-04-29,H,2,17,L,-15
+2016,2,24050,24013.0,Brevard,Pfeiffer,2016-02-06,A,7,15,L,-8
+2016,2,24050,24027.0,Brevard,Mount Olive,2016-02-10,H,6,15,L,-9
+2016,2,24050,23994.0,Brevard,UAH,2016-02-21,A,10,11,L,-1
+2016,2,24050,24055.0,Brevard,Young Harris,2016-02-27,A,7,24,L,-17
+2016,2,24050,24033.0,Brevard,Belmont Abbey,2016-03-02,A,5,9,L,-4
+2016,2,24050,24043.0,Brevard,Tusculum,2016-03-05,H,6,13,L,-7
+2016,2,24050,23998.0,Brevard,Davis & Elkins,2016-03-10,H,21,6,W,15
+2016,2,24050,24022.0,Brevard,Coker,2016-03-12,A,11,12,L,-1
+2016,2,24050,24041.0,Brevard,Queens (NC),2016-03-18,A,5,18,L,-13
+2016,2,24050,24023.0,Brevard,Lenoir-Rhyne,2016-03-23,H,13,22,L,-9
+2016,2,24050,24025.0,Brevard,Lincoln Memorial,2016-04-03,A,6,12,L,-6
+2016,2,24050,24026.0,Brevard,Mars Hill,2016-04-06,A,6,8,L,-2
+2016,2,24050,24044.0,Brevard,Lees-McRae,2016-04-12,H,17,9,W,8
+2016,2,24050,24032.0,Brevard,Wingate,2016-04-16,H,12,15,L,-3
+2016,2,24050,24021.0,Brevard,Catawba,2016-04-19,A,7,15,L,-8
+2016,2,24035,24051.0,CSU Pueblo,Lindenwood,2016-02-25,A,5,24,L,-19
+2016,2,24035,24029.0,CSU Pueblo,Rockhurst,2016-02-27,A,12,18,L,-6
+2016,2,24035,24029.0,CSU Pueblo,Rockhurst,2016-03-16,H,13,17,L,-4
+2016,2,24035,24055.0,CSU Pueblo,Young Harris,2016-03-19,A,9,16,L,-7
+2016,2,24035,24056.0,CSU Pueblo,Emmanuel (GA),2016-03-21,A,16,12,W,4
+2016,2,24035,24054.0,CSU Pueblo,Shorter,2016-03-24,A,9,13,L,-4
+2016,2,24035,23994.0,CSU Pueblo,UAH,2016-03-26,A,18,8,W,10
+2016,2,24035,24048.0,CSU Pueblo,Notre Dame de Namur,2016-04-01,H,17,6,W,11
+2016,2,24035,24040.0,CSU Pueblo,Colorado Mesa,2016-04-08,H,7,17,L,-10
+2016,2,24035,24057.0,CSU Pueblo,Westminster (UT),2016-04-10,H,10,17,L,-7
+2016,2,24035,24019.0,CSU Pueblo,Adams St.,2016-04-19,A,4,10,L,-6
+2016,2,24035,24040.0,CSU Pueblo,Colorado Mesa,2016-04-22,A,6,17,L,-11
+2016,2,24035,24057.0,CSU Pueblo,Westminster (UT),2016-04-24,A,9,21,L,-12
+2016,2,24035,24019.0,CSU Pueblo,Adams St.,2016-04-30,H,4,7,L,-3
+2016,2,24021,24033.0,Catawba,Belmont Abbey,2016-02-13,A,3,18,L,-15
+2016,2,24021,24027.0,Catawba,Mount Olive,2016-02-20,A,5,11,L,-6
+2016,2,24021,24041.0,Catawba,Queens (NC),2016-03-05,H,11,14,L,-3
+2016,2,24021,24025.0,Catawba,Lincoln Memorial,2016-03-12,A,12,3,W,9
+2016,2,24021,23997.0,Catawba,Bentley,2016-03-15,H,10,12,L,-2
+2016,2,24021,24026.0,Catawba,Mars Hill,2016-03-19,A,17,6,W,11
+2016,2,24021,23994.0,Catawba,UAH,2016-03-21,H,11,3,W,8
+2016,2,24021,24043.0,Catawba,Tusculum,2016-03-26,H,6,11,L,-5
+2016,2,24021,24022.0,Catawba,Coker,2016-03-30,A,7,8,L,-1
+2016,2,24021,24032.0,Catawba,Wingate,2016-04-02,A,9,10,L,-1
+2016,2,24021,24054.0,Catawba,Shorter,2016-04-09,A,10,8,W,2
+2016,2,24021,24013.0,Catawba,Pfeiffer,2016-04-13,A,8,14,L,-6
+2016,2,24021,24050.0,Catawba,Brevard,2016-04-19,H,15,7,W,8
+2016,2,24021,24023.0,Catawba,Lenoir-Rhyne,2016-04-23,H,7,12,L,-5
+2016,2,24021,24041.0,Catawba,Queens (NC),2016-04-26,A,5,13,L,-8
+2016,2,24047,24049.0,Chestnut Hill,Seton Hill,2016-02-20,H,6,18,L,-12
+2016,2,24047,24018.0,Chestnut Hill,Tampa,2016-03-01,A,6,12,L,-6
+2016,2,24047,24001.0,Chestnut Hill,Fla. Southern,2016-03-03,A,10,12,L,-2
+2016,2,24047,24009.0,Chestnut Hill,Molloy,2016-03-06,H,9,14,L,-5
+2016,2,24047,24006.0,Chestnut Hill,Mercy,2016-03-12,A,8,9,L,-1
+2016,2,24047,24005.0,Chestnut Hill,LIU Post,2016-03-19,H,14,10,W,4
+2016,2,24047,24034.0,Chestnut Hill,Dowling,2016-03-26,A,6,14,L,-8
+2016,2,24047,24037.0,Chestnut Hill,Dominican (NY),2016-04-02,A,15,5,W,10
+2016,2,24047,24053.0,Chestnut Hill,Roberts Wesleyan,2016-04-16,A,16,7,W,9
+2016,2,24047,24038.0,Chestnut Hill,Georgian Court,2016-04-20,H,17,9,W,8
+2016,2,24047,24028.0,Chestnut Hill,Post,2016-04-23,H,12,5,W,7
+2016,2,24047,23999.0,Chestnut Hill,Dist. Columbia,2016-04-26,H,13,7,W,6
+2016,2,24047,24011.0,Chestnut Hill,New York Tech,2016-04-30,H,7,16,L,-9
+2016,2,24022,24014.0,Coker,Rollins,2016-02-12,H,10,12,L,-2
+2016,2,24022,24053.0,Coker,Roberts Wesleyan,2016-02-15,H,7,18,L,-11
+2016,2,24022,24013.0,Coker,Pfeiffer,2016-02-26,H,10,12,L,-2
+2016,2,24022,24046.0,Coker,Lynn,2016-02-29,H,9,14,L,-5
+2016,2,24022,24023.0,Coker,Lenoir-Rhyne,2016-03-05,A,9,22,L,-13
+2016,2,24022,24016.0,Coker,Saint Leo,2016-03-08,A,8,13,L,-5
+2016,2,24022,24050.0,Coker,Brevard,2016-03-12,H,12,11,W,1
+2016,2,24022,24054.0,Coker,Shorter,2016-03-19,H,13,11,W,2
+2016,2,24022,24032.0,Coker,Wingate,2016-03-26,H,11,13,L,-2
+2016,2,24022,24021.0,Coker,Catawba,2016-03-30,H,8,7,W,1
+2016,2,24022,24026.0,Coker,Mars Hill,2016-04-02,A,10,16,L,-6
+2016,2,24022,24033.0,Coker,Belmont Abbey,2016-04-06,H,6,16,L,-10
+2016,2,24022,24043.0,Coker,Tusculum,2016-04-09,A,11,10,W,1
+2016,2,24022,24041.0,Coker,Queens (NC),2016-04-16,H,5,16,L,-11
+2016,2,24022,24025.0,Coker,Lincoln Memorial,2016-04-23,A,12,9,W,3
+2016,2,24022,24043.0,Coker,Tusculum,2016-04-26,H,9,12,L,-3
+2016,2,24040,24057.0,Colorado Mesa,Westminster (UT),2016-02-20,H,7,12,L,-5
+2016,2,24040,24066.0,Colorado Mesa,"Augustana (IL) @ Denver, Colo.",2016-02-29,H,18,6,W,12
+2016,2,24040,24018.0,Colorado Mesa,Tampa,2016-03-12,A,7,12,L,-5
+2016,2,24040,24016.0,Colorado Mesa,Saint Leo,2016-03-15,A,7,9,L,-2
+2016,2,24040,24001.0,Colorado Mesa,Fla. Southern,2016-03-17,A,13,10,W,3
+2016,2,24040,24014.0,Colorado Mesa,Rollins,2016-03-19,A,5,7,L,-2
+2016,2,24040,24048.0,Colorado Mesa,Notre Dame de Namur,2016-03-31,H,17,5,W,12
+2016,2,24040,24029.0,Colorado Mesa,Rockhurst,2016-04-01,H,11,8,W,3
+2016,2,24040,24035.0,Colorado Mesa,CSU Pueblo,2016-04-08,A,17,7,W,10
+2016,2,24040,24019.0,Colorado Mesa,Adams St.,2016-04-10,A,9,3,W,6
+2016,2,24040,24057.0,Colorado Mesa,Westminster (UT),2016-04-16,A,8,7,W,1
+2016,2,24040,24035.0,Colorado Mesa,CSU Pueblo,2016-04-22,H,17,6,W,11
+2016,2,24040,24019.0,Colorado Mesa,Adams St.,2016-04-24,H,16,4,W,12
+2016,2,24040,24051.0,Colorado Mesa,"Lindenwood @ Kansas City, MO",2016-04-29,H,10,9,W,1
+2016,2,24040,24029.0,Colorado Mesa,Rockhurst,2016-04-30,A,15,9,W,6
+2016,2,24040,24019.0,Colorado Mesa,Adams St.,2016-05-06,H,9,6,W,3
+2016,2,24040,24057.0,Colorado Mesa,Westminster (UT),2016-05-07,H,8,6,W,2
+2016,2,23998,24055.0,Davis & Elkins,Young Harris,2016-03-05,A,1,18,L,-17
+2016,2,23998,24054.0,Davis & Elkins,Shorter,2016-03-08,A,4,26,L,-22
+2016,2,23998,24050.0,Davis & Elkins,Brevard,2016-03-10,A,6,21,L,-15
+2016,2,23998,,Davis & Elkins,Cumberlands (KY),2016-03-12,A,7,18,L,-11
+2016,2,23998,23994.0,Davis & Elkins,UAH,2016-04-03,H,9,10,L,-1
+2016,2,23998,24042.0,Davis & Elkins,Wheeling,2016-04-06,A,3,33,L,-30
+2016,2,23998,24020.0,Davis & Elkins,Alderson Broaddus,2016-04-21,A,4,26,L,-22
+2016,2,23998,24026.0,Davis & Elkins,"Mars Hill @ Charleston, W. Va.",2016-04-23,H,3,16,L,-13
+2016,2,23998,24045.0,Davis & Elkins,Ohio Valley,2016-04-30,A,6,19,L,-13
+2016,2,23999,24028.0,Dist. Columbia,Post,2016-02-27,H,10,19,L,-9
+2016,2,23999,24037.0,Dist. Columbia,Dominican (NY),2016-03-04,H,8,9,L,-1
+2016,2,23999,24031.0,Dist. Columbia,St. Thomas Aquinas,2016-03-12,A,13,7,W,6
+2016,2,23999,24020.0,Dist. Columbia,Alderson Broaddus,2016-03-16,A,16,12,W,4
+2016,2,23999,24011.0,Dist. Columbia,New York Tech,2016-03-19,H,10,20,L,-10
+2016,2,23999,24006.0,Dist. Columbia,Mercy,2016-03-26,A,12,16,L,-4
+2016,2,23999,24034.0,Dist. Columbia,Dowling,2016-04-02,H,7,13,L,-6
+2016,2,23999,24038.0,Dist. Columbia,Georgian Court,2016-04-13,H,13,8,W,5
+2016,2,23999,24009.0,Dist. Columbia,Molloy,2016-04-16,H,10,16,L,-6
+2016,2,23999,24053.0,Dist. Columbia,Roberts Wesleyan,2016-04-23,A,14,8,W,6
+2016,2,23999,24047.0,Dist. Columbia,Chestnut Hill,2016-04-26,A,7,13,L,-6
+2016,2,23999,24005.0,Dist. Columbia,LIU Post,2016-04-30,A,3,18,L,-15
+2016,2,24037,24038.0,Dominican (NY),Georgian Court,2016-02-20,A,9,4,W,5
+2016,2,24037,24015.0,Dominican (NY),Saint Anselm,2016-02-27,A,3,20,L,-17
+2016,2,24037,24012.0,Dominican (NY),Pace,2016-03-02,A,5,18,L,-13
+2016,2,24037,23999.0,Dominican (NY),Dist. Columbia,2016-03-04,A,9,8,W,1
+2016,2,24037,24046.0,Dominican (NY),"Lynn @ Baltimore, Md.",2016-03-09,H,5,16,L,-11
+2016,2,24037,24053.0,Dominican (NY),Roberts Wesleyan,2016-03-11,H,8,14,L,-6
+2016,2,24037,23995.0,Dominican (NY),American Int'l,2016-03-15,H,19,14,W,5
+2016,2,24037,24028.0,Dominican (NY),Post,2016-03-18,A,11,15,L,-4
+2016,2,24037,24005.0,Dominican (NY),LIU Post,2016-03-24,A,3,21,L,-18
+2016,2,24037,24047.0,Dominican (NY),Chestnut Hill,2016-04-02,H,5,15,L,-10
+2016,2,24037,24006.0,Dominican (NY),Mercy,2016-04-05,A,4,15,L,-11
+2016,2,24037,24271.0,Dominican (NY),Farmingdale St.,2016-04-10,A,4,14,L,-10
+2016,2,24037,24009.0,Dominican (NY),Molloy,2016-04-13,A,3,18,L,-15
+2016,2,24037,24011.0,Dominican (NY),New York Tech,2016-04-25,H,6,21,L,-15
+2016,2,24037,24034.0,Dominican (NY),Dowling,2016-04-30,H,7,25,L,-18
+2016,2,24034,24031.0,Dowling,St. Thomas Aquinas,2016-02-24,H,18,2,W,16
+2016,2,24034,24012.0,Dowling,Pace,2016-02-27,A,14,13,W,1
+2016,2,24034,23996.0,Dowling,Assumption,2016-03-05,A,12,6,W,6
+2016,2,24034,24028.0,Dowling,Post,2016-03-08,H,14,6,W,8
+2016,2,24034,24011.0,Dowling,New York Tech,2016-03-12,H,8,14,L,-6
+2016,2,24034,24006.0,Dowling,Mercy,2016-03-19,A,11,7,W,4
+2016,2,24034,24007.0,Dowling,Mercyhurst,2016-03-23,A,7,8,L,-1
+2016,2,24034,24047.0,Dowling,Chestnut Hill,2016-03-26,H,14,6,W,8
+2016,2,24034,23999.0,Dowling,Dist. Columbia,2016-04-02,A,13,7,W,6
+2016,2,24034,24053.0,Dowling,Roberts Wesleyan,2016-04-09,H,13,5,W,8
+2016,2,24034,24005.0,Dowling,LIU Post,2016-04-16,A,9,10,L,-1
+2016,2,24034,24009.0,Dowling,Molloy,2016-04-23,H,12,11,W,1
+2016,2,24034,24008.0,Dowling,"Merrimack @ Ridgefield, Conn.",2016-04-28,H,9,16,L,-7
+2016,2,24034,24037.0,Dowling,Dominican (NY),2016-04-30,A,25,7,W,18
+2016,2,24034,24011.0,Dowling,New York Tech,2016-05-04,A,7,13,L,-6
+2016,2,24001,24041.0,Fla. Southern,Queens (NC),2016-02-07,H,6,12,L,-6
+2016,2,24001,24055.0,Fla. Southern,Young Harris,2016-02-13,A,10,3,W,7
+2016,2,24001,24052.0,Fla. Southern,Walsh,2016-02-19,H,9,8,W,1
+2016,2,24001,23993.0,Fla. Southern,Adelphi,2016-02-22,H,8,15,L,-7
+2016,2,24001,24026.0,Fla. Southern,Mars Hill,2016-02-26,H,12,6,W,6
+2016,2,24001,24023.0,Fla. Southern,Lenoir-Rhyne,2016-02-28,H,11,6,W,5
+2016,2,24001,24047.0,Fla. Southern,Chestnut Hill,2016-03-03,H,12,10,W,2
+2016,2,24001,24032.0,Fla. Southern,Wingate,2016-03-09,H,11,13,L,-2
+2016,2,24001,24024.0,Fla. Southern,Limestone,2016-03-12,H,15,23,L,-8
+2016,2,24001,24040.0,Fla. Southern,Colorado Mesa,2016-03-17,H,10,13,L,-3
+2016,2,24001,24003.0,Fla. Southern,UIndy,2016-03-19,H,17,12,W,5
+2016,2,24001,24019.0,Fla. Southern,Adams St.,2016-03-22,H,13,6,W,7
+2016,2,24001,24000.0,Fla. Southern,Florida Tech,2016-03-26,H,12,5,W,7
+2016,2,24001,24018.0,Fla. Southern,Tampa,2016-04-01,A,7,22,L,-15
+2016,2,24001,24014.0,Fla. Southern,Rollins,2016-04-09,H,10,11,L,-1
+2016,2,24001,24046.0,Fla. Southern,Lynn,2016-04-16,A,11,10,W,1
+2016,2,24001,24016.0,Fla. Southern,Saint Leo,2016-04-23,H,8,9,L,-1
+2016,2,24001,24018.0,Fla. Southern,Tampa,2016-04-29,A,9,15,L,-6
+2016,2,24000,24055.0,Florida Tech,Young Harris,2016-02-05,H,16,14,W,2
+2016,2,24000,24039.0,Florida Tech,North Greenville,2016-02-13,H,10,5,W,5
+2016,2,24000,24023.0,Florida Tech,Lenoir-Rhyne,2016-02-26,H,10,13,L,-3
+2016,2,24000,24026.0,Florida Tech,Mars Hill,2016-02-28,H,10,7,W,3
+2016,2,24000,24042.0,Florida Tech,"Wheeling @ Baltimore, MD",2016-03-07,H,12,11,W,1
+2016,2,24000,24049.0,Florida Tech,Seton Hill,2016-03-09,A,7,11,L,-4
+2016,2,24000,24020.0,Florida Tech,Alderson Broaddus,2016-03-10,A,11,7,W,4
+2016,2,24000,24024.0,Florida Tech,Limestone,2016-03-19,A,7,23,L,-16
+2016,2,24000,24001.0,Florida Tech,Fla. Southern,2016-03-26,A,5,12,L,-7
+2016,2,24000,24016.0,Florida Tech,Saint Leo,2016-04-01,H,13,11,W,2
+2016,2,24000,24018.0,Florida Tech,Tampa,2016-04-06,H,6,12,L,-6
+2016,2,24000,24014.0,Florida Tech,Rollins,2016-04-16,A,9,11,L,-2
+2016,2,24000,24046.0,Florida Tech,Lynn,2016-04-23,H,6,10,L,-4
+2016,2,24002,24028.0,Franklin Pierce,Post,2016-03-05,H,11,15,L,-4
+2016,2,24002,24017.0,Franklin Pierce,Saint Michael's,2016-03-12,A,10,9,W,1
+2016,2,24002,24038.0,Franklin Pierce,Georgian Court,2016-03-16,A,16,5,W,11
+2016,2,24002,23997.0,Franklin Pierce,Bentley,2016-03-19,A,8,11,L,-3
+2016,2,24002,23995.0,Franklin Pierce,American Int'l,2016-03-26,H,16,5,W,11
+2016,2,24002,24015.0,Franklin Pierce,Saint Anselm,2016-03-29,A,9,11,L,-2
+2016,2,24002,24004.0,Franklin Pierce,Le Moyne,2016-04-02,H,5,10,L,-5
+2016,2,24002,23996.0,Franklin Pierce,Assumption,2016-04-06,H,11,9,W,2
+2016,2,24002,23993.0,Franklin Pierce,Adelphi,2016-04-09,A,11,19,L,-8
+2016,2,24002,24008.0,Franklin Pierce,Merrimack,2016-04-12,A,7,19,L,-12
+2016,2,24002,24010.0,Franklin Pierce,Southern N.H.,2016-04-16,H,13,14,L,-1
+2016,2,24002,24030.0,Franklin Pierce,Saint Rose,2016-04-23,A,13,10,W,3
+2016,2,24002,24012.0,Franklin Pierce,Pace,2016-04-30,H,8,17,L,-9
+2016,2,24038,24037.0,Georgian Court,Dominican (NY),2016-02-20,H,4,9,L,-5
+2016,2,24038,24006.0,Georgian Court,Mercy,2016-02-23,A,5,17,L,-12
+2016,2,24038,24009.0,Georgian Court,Molloy,2016-03-02,H,5,16,L,-11
+2016,2,24038,24012.0,Georgian Court,Pace,2016-03-05,H,7,18,L,-11
+2016,2,24038,24005.0,Georgian Court,LIU Post,2016-03-08,H,3,16,L,-13
+2016,2,24038,24010.0,Georgian Court,Southern N.H.,2016-03-12,H,9,23,L,-14
+2016,2,24038,24002.0,Georgian Court,Franklin Pierce,2016-03-16,H,5,16,L,-11
+2016,2,24038,24017.0,Georgian Court,Saint Michael's,2016-03-21,H,9,19,L,-10
+2016,2,24038,24025.0,Georgian Court,Lincoln Memorial,2016-03-24,H,10,16,L,-6
+2016,2,24038,24031.0,Georgian Court,St. Thomas Aquinas,2016-04-04,A,11,6,W,5
+2016,2,24038,24028.0,Georgian Court,Post,2016-04-09,A,9,14,L,-5
+2016,2,24038,23999.0,Georgian Court,Dist. Columbia,2016-04-13,A,8,13,L,-5
+2016,2,24038,24047.0,Georgian Court,Chestnut Hill,2016-04-20,A,9,17,L,-8
+2016,2,24038,24031.0,Georgian Court,St. Thomas Aquinas,2016-04-25,H,11,9,W,2
+2016,2,24038,23995.0,Georgian Court,American Int'l,2016-04-30,A,10,13,L,-3
+2016,2,24005,24008.0,LIU Post,Merrimack,2016-02-20,A,10,12,L,-2
+2016,2,24005,23993.0,LIU Post,Adelphi,2016-02-27,H,9,15,L,-6
+2016,2,24005,24031.0,LIU Post,St. Thomas Aquinas,2016-03-02,H,16,3,W,13
+2016,2,24005,24053.0,LIU Post,Roberts Wesleyan,2016-03-05,A,15,6,W,9
+2016,2,24005,24038.0,LIU Post,Georgian Court,2016-03-08,A,16,3,W,13
+2016,2,24005,24009.0,LIU Post,Molloy,2016-03-12,A,9,7,W,2
+2016,2,24005,24047.0,LIU Post,Chestnut Hill,2016-03-19,A,10,14,L,-4
+2016,2,24005,24037.0,LIU Post,Dominican (NY),2016-03-24,H,21,3,W,18
+2016,2,24005,24028.0,LIU Post,Post,2016-03-30,H,19,5,W,14
+2016,2,24005,24011.0,LIU Post,New York Tech,2016-04-09,A,15,5,W,10
+2016,2,24005,24034.0,LIU Post,Dowling,2016-04-16,H,10,9,W,1
+2016,2,24005,24006.0,LIU Post,Mercy,2016-04-23,H,10,9,W,1
+2016,2,24005,23999.0,LIU Post,Dist. Columbia,2016-04-30,H,18,3,W,15
+2016,2,24005,24006.0,LIU Post,Mercy,2016-05-04,H,12,10,W,2
+2016,2,24005,24011.0,LIU Post,New York Tech,2016-05-07,H,12,11,W,1
+2016,2,24005,24008.0,LIU Post,Merrimack,2016-05-14,A,13,15,L,-2
+2016,2,24036,24006.0,Lake Erie,Mercy,2016-02-27,A,12,11,W,1
+2016,2,24036,24023.0,Lake Erie,Lenoir-Rhyne,2016-03-02,A,14,6,W,8
+2016,2,24036,24018.0,Lake Erie,Tampa,2016-03-05,A,7,9,L,-2
+2016,2,24036,24004.0,Lake Erie,Le Moyne,2016-03-12,H,9,22,L,-13
+2016,2,24036,24045.0,Lake Erie,Ohio Valley,2016-03-16,H,13,5,W,8
+2016,2,24036,24013.0,Lake Erie,Pfeiffer,2016-03-19,H,13,4,W,9
+2016,2,24036,24052.0,Lake Erie,Walsh,2016-03-22,H,15,8,W,7
+2016,2,24036,24020.0,Lake Erie,Alderson Broaddus,2016-03-25,H,15,9,W,6
+2016,2,24036,24049.0,Lake Erie,Seton Hill,2016-04-02,A,14,8,W,6
+2016,2,24036,24003.0,Lake Erie,UIndy,2016-04-07,A,7,9,L,-2
+2016,2,24036,24051.0,Lake Erie,Lindenwood,2016-04-09,A,8,7,W,1
+2016,2,24036,24024.0,Lake Erie,Limestone,2016-04-16,H,7,18,L,-11
+2016,2,24036,24007.0,Lake Erie,Mercyhurst,2016-04-23,A,4,12,L,-8
+2016,2,24036,24042.0,Lake Erie,Wheeling,2016-05-01,H,22,13,W,9
+2016,2,24036,24051.0,Lake Erie,"Lindenwood @ Erie, Pa.",2016-05-06,H,6,8,L,-2
+2016,2,24004,24029.0,Le Moyne,Rockhurst,2016-02-20,H,24,8,W,16
+2016,2,24004,24052.0,Le Moyne,Walsh,2016-02-27,H,22,5,W,17
+2016,2,24004,24027.0,Le Moyne,"Mount Olive @ Baltimore, Md.",2016-03-06,H,12,5,W,7
+2016,2,24004,24036.0,Le Moyne,Lake Erie,2016-03-12,A,22,9,W,13
+2016,2,24004,24008.0,Le Moyne,Merrimack,2016-03-19,H,11,6,W,5
+2016,2,24004,23995.0,Le Moyne,American Int'l,2016-03-22,A,17,2,W,15
+2016,2,24004,24010.0,Le Moyne,Southern N.H.,2016-03-26,H,17,5,W,12
+2016,2,24004,24030.0,Le Moyne,Saint Rose,2016-03-29,A,8,4,W,4
+2016,2,24004,24002.0,Le Moyne,Franklin Pierce,2016-04-02,A,10,5,W,5
+2016,2,24004,24012.0,Le Moyne,Pace,2016-04-06,H,11,7,W,4
+2016,2,24004,24015.0,Le Moyne,Saint Anselm,2016-04-09,A,18,3,W,15
+2016,2,24004,23996.0,Le Moyne,Assumption,2016-04-12,H,18,2,W,16
+2016,2,24004,24017.0,Le Moyne,Saint Michael's,2016-04-16,A,14,5,W,9
+2016,2,24004,23993.0,Le Moyne,Adelphi,2016-04-23,H,13,6,W,7
+2016,2,24004,23997.0,Le Moyne,Bentley,2016-04-29,A,17,2,W,15
+2016,2,24004,24010.0,Le Moyne,Southern N.H.,2016-05-06,H,15,3,W,12
+2016,2,24004,24008.0,Le Moyne,Merrimack,2016-05-08,H,8,6,W,2
+2016,2,24004,24011.0,Le Moyne,New York Tech,2016-05-14,H,8,7,W,1
+2016,2,24004,24008.0,Le Moyne,Merrimack,2016-05-21,H,8,4,W,4
+2016,2,24004,24024.0,Le Moyne,"Limestone @ Philadelphia, Pa.",2016-05-29,H,8,4,W,4
+2016,2,24044,24113.0,Lees-McRae,Greensboro,2016-02-13,A,6,8,L,-2
+2016,2,24044,24020.0,Lees-McRae,Alderson Broaddus,2016-02-27,A,4,19,L,-15
+2016,2,24044,24048.0,Lees-McRae,Notre Dame de Namur,2016-03-05,H,12,10,W,2
+2016,2,24044,24014.0,Lees-McRae,Rollins,2016-03-08,A,3,21,L,-18
+2016,2,24044,24016.0,Lees-McRae,Saint Leo,2016-03-11,A,2,22,L,-20
+2016,2,24044,24013.0,Lees-McRae,Pfeiffer,2016-03-15,H,10,16,L,-6
+2016,2,24044,24033.0,Lees-McRae,Belmont Abbey,2016-03-22,A,6,30,L,-24
+2016,2,24044,24039.0,Lees-McRae,North Greenville,2016-03-30,A,10,19,L,-9
+2016,2,24044,24055.0,Lees-McRae,Young Harris,2016-04-02,H,15,16,L,-1
+2016,2,24044,24027.0,Lees-McRae,Mount Olive,2016-04-09,A,3,16,L,-13
+2016,2,24044,24050.0,Lees-McRae,Brevard,2016-04-12,A,9,17,L,-8
+2016,2,24044,23994.0,Lees-McRae,UAH,2016-04-16,A,9,10,L,-1
+2016,2,24044,24024.0,Lees-McRae,Limestone,2016-04-19,H,5,26,L,-21
+2016,2,24044,24056.0,Lees-McRae,Emmanuel (GA),2016-04-23,H,12,11,W,1
+2016,2,24023,24024.0,Lenoir-Rhyne,Limestone,2016-02-13,A,12,23,L,-11
+2016,2,24023,24033.0,Lenoir-Rhyne,Belmont Abbey,2016-02-20,A,10,11,L,-1
+2016,2,24023,24000.0,Lenoir-Rhyne,Florida Tech,2016-02-26,A,13,10,W,3
+2016,2,24023,24001.0,Lenoir-Rhyne,Fla. Southern,2016-02-28,A,6,11,L,-5
+2016,2,24023,24036.0,Lenoir-Rhyne,Lake Erie,2016-03-02,H,6,14,L,-8
+2016,2,24023,24022.0,Lenoir-Rhyne,Coker,2016-03-05,H,22,9,W,13
+2016,2,24023,24046.0,Lenoir-Rhyne,Lynn,2016-03-12,H,10,9,W,1
+2016,2,24023,24032.0,Lenoir-Rhyne,Wingate,2016-03-16,H,17,6,W,11
+2016,2,24023,24043.0,Lenoir-Rhyne,Tusculum,2016-03-19,A,8,7,W,1
+2016,2,24023,24050.0,Lenoir-Rhyne,Brevard,2016-03-23,A,22,13,W,9
+2016,2,24023,24026.0,Lenoir-Rhyne,Mars Hill,2016-03-26,H,12,4,W,8
+2016,2,24023,24041.0,Lenoir-Rhyne,Queens (NC),2016-04-09,A,12,11,W,1
+2016,2,24023,24025.0,Lenoir-Rhyne,Lincoln Memorial,2016-04-16,H,15,7,W,8
+2016,2,24023,24021.0,Lenoir-Rhyne,Catawba,2016-04-23,A,12,7,W,5
+2016,2,24023,24043.0,Lenoir-Rhyne,"Tusculum @ Charlotte, N.C.",2016-04-28,H,18,10,W,8
+2016,2,24023,24041.0,Lenoir-Rhyne,Queens (NC),2016-04-30,H,10,9,W,1
+2016,2,24024,24043.0,Limestone,Tusculum,2016-02-06,A,16,5,W,11
+2016,2,24024,24023.0,Limestone,Lenoir-Rhyne,2016-02-13,H,23,12,W,11
+2016,2,24024,24056.0,Limestone,Emmanuel (GA),2016-02-17,A,23,3,W,20
+2016,2,24024,24016.0,Limestone,Saint Leo,2016-02-20,A,16,7,W,9
+2016,2,24024,24018.0,Limestone,Tampa,2016-02-27,H,25,7,W,18
+2016,2,24024,24046.0,Limestone,Lynn,2016-03-05,H,16,6,W,10
+2016,2,24024,24041.0,Limestone,Queens (NC),2016-03-08,A,19,8,W,11
+2016,2,24024,24001.0,Limestone,Fla. Southern,2016-03-12,A,23,15,W,8
+2016,2,24024,24000.0,Limestone,Florida Tech,2016-03-19,H,23,7,W,16
+2016,2,24024,24039.0,Limestone,North Greenville,2016-03-23,H,27,5,W,22
+2016,2,24024,24049.0,Limestone,Seton Hill,2016-03-26,A,19,8,W,11
+2016,2,24024,24011.0,Limestone,New York Tech,2016-04-02,H,13,11,W,2
+2016,2,24024,24013.0,Limestone,Pfeiffer,2016-04-09,H,19,5,W,14
+2016,2,24024,24033.0,Limestone,Belmont Abbey,2016-04-13,A,25,6,W,19
+2016,2,24024,24036.0,Limestone,Lake Erie,2016-04-16,A,18,7,W,11
+2016,2,24024,24044.0,Limestone,Lees-McRae,2016-04-19,A,26,5,W,21
+2016,2,24024,24027.0,Limestone,Mount Olive,2016-04-23,H,20,6,W,14
+2016,2,24024,24013.0,Limestone,Pfeiffer,2016-04-29,H,23,4,W,19
+2016,2,24024,24027.0,Limestone,Mount Olive,2016-05-01,H,18,11,W,7
+2016,2,24024,24027.0,Limestone,Mount Olive,2016-05-14,H,15,6,W,9
+2016,2,24024,24018.0,Limestone,Tampa,2016-05-22,H,13,10,W,3
+2016,2,24024,24004.0,Limestone,"Le Moyne @ Philadelphia, Pa.",2016-05-29,H,4,8,L,-4
+2016,2,24025,24056.0,Lincoln Memorial,Emmanuel (GA),2016-02-06,H,12,4,W,8
+2016,2,24025,24039.0,Lincoln Memorial,North Greenville,2016-02-17,A,12,7,W,5
+2016,2,24025,24041.0,Lincoln Memorial,Queens (NC),2016-02-27,A,8,20,L,-12
+2016,2,24025,24048.0,Lincoln Memorial,Notre Dame de Namur,2016-03-07,H,22,7,W,15
+2016,2,24025,24021.0,Lincoln Memorial,Catawba,2016-03-12,H,3,12,L,-9
+2016,2,24025,24032.0,Lincoln Memorial,Wingate,2016-03-19,A,10,18,L,-8
+2016,2,24025,24038.0,Lincoln Memorial,Georgian Court,2016-03-24,A,16,10,W,6
+2016,2,24025,24043.0,Lincoln Memorial,Tusculum,2016-03-30,A,13,12,W,1
+2016,2,24025,24050.0,Lincoln Memorial,Brevard,2016-04-03,H,12,6,W,6
+2016,2,24025,24026.0,Lincoln Memorial,Mars Hill,2016-04-09,H,6,7,L,-1
+2016,2,24025,24023.0,Lincoln Memorial,Lenoir-Rhyne,2016-04-16,A,7,15,L,-8
+2016,2,24025,24022.0,Lincoln Memorial,Coker,2016-04-23,H,9,12,L,-3
+2016,2,24051,24054.0,Lindenwood,Shorter,2016-02-20,A,19,7,W,12
+2016,2,24051,24035.0,Lindenwood,CSU Pueblo,2016-02-25,H,24,5,W,19
+2016,2,24051,24014.0,Lindenwood,Rollins,2016-02-28,H,7,11,L,-4
+2016,2,24051,24045.0,Lindenwood,Ohio Valley,2016-03-03,A,21,6,W,15
+2016,2,24051,24049.0,Lindenwood,Seton Hill,2016-03-05,A,9,13,L,-4
+2016,2,24051,24020.0,Lindenwood,Alderson Broaddus,2016-03-12,H,8,7,W,1
+2016,2,24051,24042.0,Lindenwood,Wheeling,2016-03-19,H,13,7,W,6
+2016,2,24051,24003.0,Lindenwood,UIndy,2016-03-29,A,3,8,L,-5
+2016,2,24051,24053.0,Lindenwood,Roberts Wesleyan,2016-03-31,A,12,4,W,8
+2016,2,24051,24007.0,Lindenwood,Mercyhurst,2016-04-02,A,8,7,W,1
+2016,2,24051,24036.0,Lindenwood,Lake Erie,2016-04-09,H,7,8,L,-1
+2016,2,24051,24052.0,Lindenwood,Walsh,2016-04-15,H,10,9,W,1
+2016,2,24051,24029.0,Lindenwood,Rockhurst,2016-04-23,H,10,5,W,5
+2016,2,24051,24040.0,Lindenwood,"Colorado Mesa @ Kansas City, MO",2016-04-29,H,9,10,L,-1
+2016,2,24051,24036.0,Lindenwood,"Lake Erie @ Erie, Pa.",2016-05-06,H,8,6,W,2
+2016,2,24051,24007.0,Lindenwood,Mercyhurst,2016-05-08,A,7,11,L,-4
+2016,2,24046,24054.0,Lynn,Shorter,2016-02-13,H,15,6,W,9
+2016,2,24046,24027.0,Lynn,Mount Olive,2016-02-27,A,10,8,W,2
+2016,2,24046,24022.0,Lynn,Coker,2016-02-29,A,14,9,W,5
+2016,2,24046,24024.0,Lynn,Limestone,2016-03-05,A,6,16,L,-10
+2016,2,24046,24056.0,Lynn,Emmanuel (GA),2016-03-06,A,19,6,W,13
+2016,2,24046,24037.0,Lynn,"Dominican (NY) @ Baltimore, Md.",2016-03-09,H,16,5,W,11
+2016,2,24046,24023.0,Lynn,Lenoir-Rhyne,2016-03-12,A,9,10,L,-1
+2016,2,24046,24018.0,Lynn,Tampa,2016-03-19,H,10,15,L,-5
+2016,2,24046,24140.0,Lynn,MIT,2016-03-23,H,17,6,W,11
+2016,2,24046,24055.0,Lynn,Young Harris,2016-03-26,H,13,5,W,8
+2016,2,24046,24014.0,Lynn,Rollins,2016-04-02,A,14,7,W,7
+2016,2,24046,24016.0,Lynn,Saint Leo,2016-04-09,A,5,11,L,-6
+2016,2,24046,24001.0,Lynn,Fla. Southern,2016-04-16,H,10,11,L,-1
+2016,2,24046,24000.0,Lynn,Florida Tech,2016-04-23,A,10,6,W,4
+2016,2,24026,24013.0,Mars Hill,Pfeiffer,2016-02-13,H,9,13,L,-4
+2016,2,24026,24003.0,Mars Hill,UIndy,2016-02-20,H,9,12,L,-3
+2016,2,24026,24001.0,Mars Hill,Fla. Southern,2016-02-26,A,6,12,L,-6
+2016,2,24026,24000.0,Mars Hill,Florida Tech,2016-02-28,A,7,10,L,-3
+2016,2,24026,24032.0,Mars Hill,Wingate,2016-03-05,H,6,7,L,-1
+2016,2,24026,24041.0,Mars Hill,Queens (NC),2016-03-12,A,5,11,L,-6
+2016,2,24026,24021.0,Mars Hill,Catawba,2016-03-19,H,6,17,L,-11
+2016,2,24026,24023.0,Mars Hill,Lenoir-Rhyne,2016-03-26,A,4,12,L,-8
+2016,2,24026,24022.0,Mars Hill,Coker,2016-04-02,H,16,10,W,6
+2016,2,24026,24050.0,Mars Hill,Brevard,2016-04-06,H,8,6,W,2
+2016,2,24026,24025.0,Mars Hill,Lincoln Memorial,2016-04-09,A,7,6,W,1
+2016,2,24026,24043.0,Mars Hill,Tusculum,2016-04-13,A,5,15,L,-10
+2016,2,24026,24033.0,Mars Hill,Belmont Abbey,2016-04-16,H,0,17,L,-17
+2016,2,24026,24039.0,Mars Hill,North Greenville,2016-04-20,A,6,7,L,-1
+2016,2,24026,23998.0,Mars Hill,"Davis & Elkins @ Charleston, W. Va.",2016-04-23,H,16,3,W,13
+2016,2,24006,23995.0,Mercy,American Int'l,2016-02-20,H,20,4,W,16
+2016,2,24006,24038.0,Mercy,Georgian Court,2016-02-23,H,17,5,W,12
+2016,2,24006,24036.0,Mercy,Lake Erie,2016-02-27,H,11,12,L,-1
+2016,2,24006,24030.0,Mercy,Saint Rose,2016-03-04,A,7,2,W,5
+2016,2,24006,24047.0,Mercy,Chestnut Hill,2016-03-12,H,9,8,W,1
+2016,2,24006,24034.0,Mercy,Dowling,2016-03-19,H,7,11,L,-4
+2016,2,24006,23999.0,Mercy,Dist. Columbia,2016-03-26,H,16,12,W,4
+2016,2,24006,24031.0,Mercy,St. Thomas Aquinas,2016-03-29,H,14,2,W,12
+2016,2,24006,24053.0,Mercy,Roberts Wesleyan,2016-04-02,A,7,5,W,2
+2016,2,24006,24037.0,Mercy,Dominican (NY),2016-04-05,H,15,4,W,11
+2016,2,24006,24009.0,Mercy,Molloy,2016-04-09,A,9,6,W,3
+2016,2,24006,24011.0,Mercy,New York Tech,2016-04-16,A,9,11,L,-2
+2016,2,24006,24005.0,Mercy,LIU Post,2016-04-23,A,9,10,L,-1
+2016,2,24006,24049.0,Mercy,Seton Hill,2016-04-30,H,8,12,L,-4
+2016,2,24006,24005.0,Mercy,LIU Post,2016-05-04,A,10,12,L,-2
+2016,2,24007,24032.0,Mercyhurst,"Wingate @ Ashland, Va.",2016-02-21,H,9,8,W,1
+2016,2,24007,24030.0,Mercyhurst,Saint Rose,2016-02-27,A,7,3,W,4
+2016,2,24007,24042.0,Mercyhurst,Wheeling,2016-03-05,A,11,10,W,1
+2016,2,24007,24027.0,Mercyhurst,Mount Olive,2016-03-12,H,6,10,L,-4
+2016,2,24007,24052.0,Mercyhurst,Walsh,2016-03-15,A,18,7,W,11
+2016,2,24007,24049.0,Mercyhurst,Seton Hill,2016-03-19,H,11,8,W,3
+2016,2,24007,24034.0,Mercyhurst,Dowling,2016-03-23,H,8,7,W,1
+2016,2,24007,24041.0,Mercyhurst,Queens (NC),2016-03-26,A,14,6,W,8
+2016,2,24007,24051.0,Mercyhurst,Lindenwood,2016-04-02,H,7,8,L,-1
+2016,2,24007,24018.0,Mercyhurst,Tampa,2016-04-09,H,11,5,W,6
+2016,2,24007,24020.0,Mercyhurst,Alderson Broaddus,2016-04-12,A,17,5,W,12
+2016,2,24007,24045.0,Mercyhurst,Ohio Valley,2016-04-17,H,19,4,W,15
+2016,2,24007,24036.0,Mercyhurst,Lake Erie,2016-04-23,H,12,4,W,8
+2016,2,24007,24053.0,Mercyhurst,Roberts Wesleyan,2016-04-27,H,13,9,W,4
+2016,2,24007,24003.0,Mercyhurst,UIndy,2016-04-30,A,10,2,W,8
+2016,2,24007,24003.0,Mercyhurst,UIndy,2016-05-06,H,9,7,W,2
+2016,2,24007,24051.0,Mercyhurst,Lindenwood,2016-05-08,H,11,7,W,4
+2016,2,24007,24018.0,Mercyhurst,Tampa,2016-05-14,H,9,10,L,-1
+2016,2,24008,24005.0,Merrimack,LIU Post,2016-02-20,H,12,10,W,2
+2016,2,24008,23995.0,Merrimack,American Int'l,2016-02-28,H,27,2,W,25
+2016,2,24008,24010.0,Merrimack,Southern N.H.,2016-03-05,A,19,12,W,7
+2016,2,24008,24017.0,Merrimack,Saint Michael's,2016-03-08,H,20,6,W,14
+2016,2,24008,24012.0,Merrimack,Pace,2016-03-12,A,17,8,W,9
+2016,2,24008,24004.0,Merrimack,Le Moyne,2016-03-19,A,6,11,L,-5
+2016,2,24008,24009.0,Merrimack,Molloy,2016-03-26,H,13,9,W,4
+2016,2,24008,23993.0,Merrimack,Adelphi,2016-04-02,H,18,14,W,4
+2016,2,24008,24030.0,Merrimack,Saint Rose,2016-04-09,H,15,7,W,8
+2016,2,24008,24002.0,Merrimack,Franklin Pierce,2016-04-12,H,19,7,W,12
+2016,2,24008,23996.0,Merrimack,Assumption,2016-04-20,A,15,5,W,10
+2016,2,24008,23997.0,Merrimack,Bentley,2016-04-23,A,12,8,W,4
+2016,2,24008,24034.0,Merrimack,"Dowling @ Ridgefield, Conn.",2016-04-28,H,16,9,W,7
+2016,2,24008,24015.0,Merrimack,Saint Anselm,2016-04-30,H,13,12,W,1
+2016,2,24008,23993.0,Merrimack,Adelphi,2016-05-06,H,14,13,W,1
+2016,2,24008,24004.0,Merrimack,Le Moyne,2016-05-08,A,6,8,L,-2
+2016,2,24008,24005.0,Merrimack,LIU Post,2016-05-14,H,15,13,W,2
+2016,2,24008,24004.0,Merrimack,Le Moyne,2016-05-21,A,4,8,L,-4
+2016,2,24009,23996.0,Molloy,Assumption,2016-02-20,H,13,12,W,1
+2016,2,24009,24042.0,Molloy,Wheeling,2016-02-27,H,13,11,W,2
+2016,2,24009,24038.0,Molloy,Georgian Court,2016-03-02,A,16,5,W,11
+2016,2,24009,24047.0,Molloy,Chestnut Hill,2016-03-06,A,14,9,W,5
+2016,2,24009,24010.0,Molloy,Southern N.H.,2016-03-09,H,15,8,W,7
+2016,2,24009,24005.0,Molloy,LIU Post,2016-03-12,H,7,9,L,-2
+2016,2,24009,24030.0,Molloy,Saint Rose,2016-03-16,A,12,8,W,4
+2016,2,24009,24011.0,Molloy,New York Tech,2016-03-23,A,7,11,L,-4
+2016,2,24009,24008.0,Molloy,Merrimack,2016-03-26,A,9,13,L,-4
+2016,2,24009,24028.0,Molloy,Post,2016-04-02,A,8,7,W,1
+2016,2,24009,24006.0,Molloy,Mercy,2016-04-09,H,6,9,L,-3
+2016,2,24009,24037.0,Molloy,Dominican (NY),2016-04-13,H,18,3,W,15
+2016,2,24009,23999.0,Molloy,Dist. Columbia,2016-04-16,A,16,10,W,6
+2016,2,24009,24034.0,Molloy,Dowling,2016-04-23,A,11,12,L,-1
+2016,2,24009,24053.0,Molloy,Roberts Wesleyan,2016-04-30,H,16,13,W,3
+2016,2,24027,24050.0,Mount Olive,Brevard,2016-02-10,A,15,6,W,9
+2016,2,24027,24014.0,Mount Olive,Rollins,2016-02-14,H,11,8,W,3
+2016,2,24027,24053.0,Mount Olive,Roberts Wesleyan,2016-02-17,H,13,4,W,9
+2016,2,24027,24021.0,Mount Olive,Catawba,2016-02-20,H,11,5,W,6
+2016,2,24027,24046.0,Mount Olive,Lynn,2016-02-27,H,8,10,L,-2
+2016,2,24027,24032.0,Mount Olive,Wingate,2016-03-02,A,9,8,W,1
+2016,2,24027,24004.0,Mount Olive,"Le Moyne @ Baltimore, Md.",2016-03-06,H,5,12,L,-7
+2016,2,24027,24007.0,Mount Olive,Mercyhurst,2016-03-12,A,10,6,W,4
+2016,2,24027,24039.0,Mount Olive,North Greenville,2016-03-19,A,12,6,W,6
+2016,2,24027,24013.0,Mount Olive,Pfeiffer,2016-03-23,A,10,8,W,2
+2016,2,24027,24033.0,Mount Olive,Belmont Abbey,2016-04-02,H,12,7,W,5
+2016,2,24027,24044.0,Mount Olive,Lees-McRae,2016-04-09,H,16,3,W,13
+2016,2,24027,24056.0,Mount Olive,Emmanuel (GA),2016-04-16,H,23,2,W,21
+2016,2,24027,24041.0,Mount Olive,Queens (NC),2016-04-20,H,14,8,W,6
+2016,2,24027,24024.0,Mount Olive,Limestone,2016-04-23,A,6,20,L,-14
+2016,2,24027,24033.0,Mount Olive,"Belmont Abbey @ Gaffney, S.C.",2016-04-29,H,10,8,W,2
+2016,2,24027,24024.0,Mount Olive,Limestone,2016-05-01,A,11,18,L,-7
+2016,2,24027,24024.0,Mount Olive,Limestone,2016-05-14,A,6,15,L,-9
+2016,2,24011,24031.0,New York Tech,St. Thomas Aquinas,2016-02-17,H,20,1,W,19
+2016,2,24011,24049.0,New York Tech,Seton Hill,2016-02-27,A,10,12,L,-2
+2016,2,24011,23997.0,New York Tech,Bentley,2016-03-05,A,8,3,W,5
+2016,2,24011,23996.0,New York Tech,Assumption,2016-03-08,H,13,6,W,7
+2016,2,24011,24034.0,New York Tech,Dowling,2016-03-12,A,14,8,W,6
+2016,2,24011,24017.0,New York Tech,Saint Michael's,2016-03-16,H,13,5,W,8
+2016,2,24011,23999.0,New York Tech,Dist. Columbia,2016-03-19,A,20,10,W,10
+2016,2,24011,24009.0,New York Tech,Molloy,2016-03-23,H,11,7,W,4
+2016,2,24011,24053.0,New York Tech,Roberts Wesleyan,2016-03-26,H,24,9,W,15
+2016,2,24011,24024.0,New York Tech,Limestone,2016-04-02,A,11,13,L,-2
+2016,2,24011,24005.0,New York Tech,LIU Post,2016-04-09,H,5,15,L,-10
+2016,2,24011,24006.0,New York Tech,Mercy,2016-04-16,H,11,9,W,2
+2016,2,24011,23993.0,New York Tech,Adelphi,2016-04-20,H,12,7,W,5
+2016,2,24011,24037.0,New York Tech,Dominican (NY),2016-04-25,A,21,6,W,15
+2016,2,24011,24047.0,New York Tech,Chestnut Hill,2016-04-30,A,16,7,W,9
+2016,2,24011,24034.0,New York Tech,Dowling,2016-05-04,H,13,7,W,6
+2016,2,24011,24005.0,New York Tech,LIU Post,2016-05-07,A,11,12,L,-1
+2016,2,24011,24004.0,New York Tech,Le Moyne,2016-05-14,A,7,8,L,-1
+2016,2,24039,24000.0,North Greenville,Florida Tech,2016-02-13,A,5,10,L,-5
+2016,2,24039,24025.0,North Greenville,Lincoln Memorial,2016-02-17,H,7,12,L,-5
+2016,2,24039,24056.0,North Greenville,Emmanuel (GA),2016-02-24,H,12,8,W,4
+2016,2,24039,24043.0,North Greenville,Tusculum,2016-02-27,H,9,8,W,1
+2016,2,24039,24055.0,North Greenville,Young Harris,2016-03-02,A,5,11,L,-6
+2016,2,24039,23994.0,North Greenville,UAH,2016-03-05,H,16,1,W,15
+2016,2,24039,24042.0,North Greenville,Wheeling,2016-03-09,A,8,11,L,-3
+2016,2,24039,24052.0,North Greenville,Walsh,2016-03-12,A,9,13,L,-4
+2016,2,24039,24027.0,North Greenville,Mount Olive,2016-03-19,H,6,12,L,-6
+2016,2,24039,24024.0,North Greenville,Limestone,2016-03-23,A,5,27,L,-22
+2016,2,24039,24044.0,North Greenville,Lees-McRae,2016-03-30,H,19,10,W,9
+2016,2,24039,24054.0,North Greenville,Shorter,2016-04-02,A,4,10,L,-6
+2016,2,24039,24033.0,North Greenville,Belmont Abbey,2016-04-09,A,3,17,L,-14
+2016,2,24039,24013.0,North Greenville,Pfeiffer,2016-04-16,A,9,12,L,-3
+2016,2,24039,24026.0,North Greenville,Mars Hill,2016-04-20,H,7,6,W,1
+2016,2,24048,24057.0,Notre Dame de Namur,Westminster (UT),2016-02-13,H,10,18,L,-8
+2016,2,24048,24044.0,Notre Dame de Namur,Lees-McRae,2016-03-05,A,10,12,L,-2
+2016,2,24048,24025.0,Notre Dame de Namur,Lincoln Memorial,2016-03-07,A,7,22,L,-15
+2016,2,24048,24055.0,Notre Dame de Namur,Young Harris,2016-03-09,A,7,17,L,-10
+2016,2,24048,24056.0,Notre Dame de Namur,Emmanuel (GA),2016-03-10,A,12,13,L,-1
+2016,2,24048,24040.0,Notre Dame de Namur,Colorado Mesa,2016-03-31,A,5,17,L,-12
+2016,2,24048,24035.0,Notre Dame de Namur,CSU Pueblo,2016-04-01,A,6,17,L,-11
+2016,2,24048,24019.0,Notre Dame de Namur,Adams St.,2016-04-03,A,5,12,L,-7
+2016,2,24045,24051.0,Ohio Valley,Lindenwood,2016-03-03,H,6,21,L,-15
+2016,2,24045,24055.0,Ohio Valley,Young Harris,2016-03-07,A,7,25,L,-18
+2016,2,24045,23994.0,Ohio Valley,UAH,2016-03-09,A,17,14,W,3
+2016,2,24045,24036.0,Ohio Valley,Lake Erie,2016-03-16,A,5,13,L,-8
+2016,2,24045,221996.0,Ohio Valley,Hampton,2016-03-19,A,16,4,W,12
+2016,2,24045,24042.0,Ohio Valley,Wheeling,2016-04-02,H,13,21,L,-8
+2016,2,24045,24020.0,Ohio Valley,Alderson Broaddus,2016-04-07,H,5,15,L,-10
+2016,2,24045,24003.0,Ohio Valley,UIndy,2016-04-10,H,9,15,L,-6
+2016,2,24045,24049.0,Ohio Valley,Seton Hill,2016-04-14,A,0,23,L,-23
+2016,2,24045,24007.0,Ohio Valley,Mercyhurst,2016-04-17,A,4,19,L,-15
+2016,2,24045,24052.0,Ohio Valley,Walsh,2016-04-23,A,4,14,L,-10
+2016,2,24045,23998.0,Ohio Valley,Davis & Elkins,2016-04-30,H,19,6,W,13
+2016,2,24012,24028.0,Pace,Post,2016-02-20,H,15,9,W,6
+2016,2,24012,24034.0,Pace,Dowling,2016-02-27,H,13,14,L,-1
+2016,2,24012,24037.0,Pace,Dominican (NY),2016-03-02,H,18,5,W,13
+2016,2,24012,24038.0,Pace,Georgian Court,2016-03-05,A,18,7,W,11
+2016,2,24012,24008.0,Pace,Merrimack,2016-03-12,H,8,17,L,-9
+2016,2,24012,24017.0,Pace,Saint Michael's,2016-03-19,A,11,7,W,4
+2016,2,24012,24031.0,Pace,St. Thomas Aquinas,2016-03-26,A,13,6,W,7
+2016,2,24012,23995.0,Pace,American Int'l,2016-03-29,H,23,7,W,16
+2016,2,24012,24015.0,Pace,Saint Anselm,2016-04-02,A,15,9,W,6
+2016,2,24012,24004.0,Pace,Le Moyne,2016-04-06,A,7,11,L,-4
+2016,2,24012,24010.0,Pace,Southern N.H.,2016-04-09,H,13,14,L,-1
+2016,2,24012,23993.0,Pace,Adelphi,2016-04-12,H,12,13,L,-1
+2016,2,24012,24030.0,Pace,Saint Rose,2016-04-16,A,11,8,W,3
+2016,2,24012,23997.0,Pace,Bentley,2016-04-20,A,11,10,W,1
+2016,2,24012,23996.0,Pace,Assumption,2016-04-23,H,13,8,W,5
+2016,2,24012,24002.0,Pace,Franklin Pierce,2016-04-30,A,17,8,W,9
+2016,2,24012,24010.0,Pace,Southern N.H.,2016-05-03,A,13,15,L,-2
+2016,2,24013,24050.0,Pfeiffer,Brevard,2016-02-06,H,15,7,W,8
+2016,2,24013,24026.0,Pfeiffer,Mars Hill,2016-02-13,A,13,9,W,4
+2016,2,24013,24041.0,Pfeiffer,Queens (NC),2016-02-20,H,14,12,W,2
+2016,2,24013,24022.0,Pfeiffer,Coker,2016-02-26,A,12,10,W,2
+2016,2,24013,24016.0,Pfeiffer,Saint Leo,2016-03-05,A,8,9,L,-1
+2016,2,24013,24049.0,Pfeiffer,Seton Hill,2016-03-12,H,8,16,L,-8
+2016,2,24013,24044.0,Pfeiffer,Lees-McRae,2016-03-15,A,16,10,W,6
+2016,2,24013,24036.0,Pfeiffer,Lake Erie,2016-03-19,A,4,13,L,-9
+2016,2,24013,24027.0,Pfeiffer,Mount Olive,2016-03-23,H,8,10,L,-2
+2016,2,24013,24056.0,Pfeiffer,Emmanuel (GA),2016-04-02,A,13,8,W,5
+2016,2,24013,24024.0,Pfeiffer,Limestone,2016-04-09,A,5,19,L,-14
+2016,2,24013,24021.0,Pfeiffer,Catawba,2016-04-13,H,14,8,W,6
+2016,2,24013,24039.0,Pfeiffer,North Greenville,2016-04-16,H,12,9,W,3
+2016,2,24013,24033.0,Pfeiffer,Belmont Abbey,2016-04-23,H,10,18,L,-8
+2016,2,24013,24024.0,Pfeiffer,Limestone,2016-04-29,A,4,23,L,-19
+2016,2,24028,24012.0,Post,Pace,2016-02-20,A,9,15,L,-6
+2016,2,24028,23999.0,Post,Dist. Columbia,2016-02-27,A,19,10,W,9
+2016,2,24028,23995.0,Post,American Int'l,2016-03-02,H,17,2,W,15
+2016,2,24028,24002.0,Post,Franklin Pierce,2016-03-05,A,15,11,W,4
+2016,2,24028,24034.0,Post,Dowling,2016-03-08,A,6,14,L,-8
+2016,2,24028,24015.0,Post,Saint Anselm,2016-03-12,H,10,20,L,-10
+2016,2,24028,24037.0,Post,Dominican (NY),2016-03-18,H,15,11,W,4
+2016,2,24028,24017.0,Post,Saint Michael's,2016-03-23,H,8,12,L,-4
+2016,2,24028,24005.0,Post,LIU Post,2016-03-30,A,5,19,L,-14
+2016,2,24028,24009.0,Post,Molloy,2016-04-02,H,7,8,L,-1
+2016,2,24028,24038.0,Post,Georgian Court,2016-04-09,H,14,9,W,5
+2016,2,24028,24031.0,Post,St. Thomas Aquinas,2016-04-20,A,15,7,W,8
+2016,2,24028,24047.0,Post,Chestnut Hill,2016-04-23,A,5,12,L,-7
+2016,2,24028,24010.0,Post,Southern N.H.,2016-04-26,A,12,15,L,-3
+2016,2,24041,24001.0,Queens (NC),Fla. Southern,2016-02-07,A,12,6,W,6
+2016,2,24041,24020.0,Queens (NC),Alderson Broaddus,2016-02-13,H,20,11,W,9
+2016,2,24041,24013.0,Queens (NC),Pfeiffer,2016-02-20,A,12,14,L,-2
+2016,2,24041,24033.0,Queens (NC),Belmont Abbey,2016-02-24,H,16,10,W,6
+2016,2,24041,24025.0,Queens (NC),Lincoln Memorial,2016-02-27,H,20,8,W,12
+2016,2,24041,24021.0,Queens (NC),Catawba,2016-03-05,A,14,11,W,3
+2016,2,24041,24024.0,Queens (NC),Limestone,2016-03-08,H,8,19,L,-11
+2016,2,24041,24026.0,Queens (NC),Mars Hill,2016-03-12,H,11,5,W,6
+2016,2,24041,24050.0,Queens (NC),Brevard,2016-03-18,H,18,5,W,13
+2016,2,24041,24007.0,Queens (NC),Mercyhurst,2016-03-26,H,6,14,L,-8
+2016,2,24041,24032.0,Queens (NC),Wingate,2016-03-30,A,8,9,L,-1
+2016,2,24041,24043.0,Queens (NC),Tusculum,2016-04-02,H,16,9,W,7
+2016,2,24041,24023.0,Queens (NC),Lenoir-Rhyne,2016-04-09,H,11,12,L,-1
+2016,2,24041,24022.0,Queens (NC),Coker,2016-04-16,A,16,5,W,11
+2016,2,24041,24027.0,Queens (NC),Mount Olive,2016-04-20,A,8,14,L,-6
+2016,2,24041,24021.0,Queens (NC),Catawba,2016-04-26,H,13,5,W,8
+2016,2,24041,24032.0,Queens (NC),Wingate,2016-04-28,A,9,5,W,4
+2016,2,24041,24023.0,Queens (NC),Lenoir-Rhyne,2016-04-30,A,9,10,L,-1
+2016,2,24053,221996.0,Roberts Wesleyan,Hampton,2016-02-13,A,20,3,W,17
+2016,2,24053,24022.0,Roberts Wesleyan,Coker,2016-02-15,A,18,7,W,11
+2016,2,24053,24027.0,Roberts Wesleyan,Mount Olive,2016-02-17,A,4,13,L,-9
+2016,2,24053,24020.0,Roberts Wesleyan,Alderson Broaddus,2016-02-19,A,5,16,L,-11
+2016,2,24053,24052.0,Roberts Wesleyan,Walsh,2016-03-02,A,9,10,L,-1
+2016,2,24053,24005.0,Roberts Wesleyan,LIU Post,2016-03-05,H,6,15,L,-9
+2016,2,24053,24030.0,Roberts Wesleyan,Saint Rose,2016-03-09,H,6,14,L,-8
+2016,2,24053,24037.0,Roberts Wesleyan,Dominican (NY),2016-03-11,A,14,8,W,6
+2016,2,24053,24011.0,Roberts Wesleyan,New York Tech,2016-03-26,A,9,24,L,-15
+2016,2,24053,24051.0,Roberts Wesleyan,Lindenwood,2016-03-31,H,4,12,L,-8
+2016,2,24053,24006.0,Roberts Wesleyan,Mercy,2016-04-02,H,5,7,L,-2
+2016,2,24053,24034.0,Roberts Wesleyan,Dowling,2016-04-09,A,5,13,L,-8
+2016,2,24053,24047.0,Roberts Wesleyan,Chestnut Hill,2016-04-16,H,7,16,L,-9
+2016,2,24053,23999.0,Roberts Wesleyan,Dist. Columbia,2016-04-23,H,8,14,L,-6
+2016,2,24053,24007.0,Roberts Wesleyan,Mercyhurst,2016-04-27,A,9,13,L,-4
+2016,2,24053,24009.0,Roberts Wesleyan,Molloy,2016-04-30,A,13,16,L,-3
+2016,2,24029,24233.0,Rockhurst,Hendrix,2016-02-13,A,7,6,W,1
+2016,2,24029,24004.0,Rockhurst,Le Moyne,2016-02-20,A,8,24,L,-16
+2016,2,24029,24035.0,Rockhurst,CSU Pueblo,2016-02-27,H,18,12,W,6
+2016,2,24029,24019.0,Rockhurst,Adams St.,2016-03-06,H,10,6,W,4
+2016,2,24029,24092.0,Rockhurst,Cornell College,2016-03-07,H,19,4,W,15
+2016,2,24029,24019.0,Rockhurst,Adams St.,2016-03-15,A,4,9,L,-5
+2016,2,24029,24035.0,Rockhurst,CSU Pueblo,2016-03-16,A,17,13,W,4
+2016,2,24029,24057.0,Rockhurst,"Westminster (UT) @ Colorado Springs, CO",2016-03-19,H,7,9,L,-2
+2016,2,24029,24234.0,Rockhurst,Huntingdon,2016-03-24,H,18,11,W,7
+2016,2,24029,,Rockhurst,St. Mary (KS),2016-03-29,H,27,5,W,22
+2016,2,24029,24040.0,Rockhurst,Colorado Mesa,2016-04-01,A,8,11,L,-3
+2016,2,24029,24057.0,Rockhurst,"Westminster (UT) @ Grand Junction, CO",2016-04-03,H,11,12,L,-1
+2016,2,24029,,Rockhurst,Ottawa (KS),2016-04-09,H,25,5,W,20
+2016,2,24029,24052.0,Rockhurst,"Walsh @ St. Charles, Mo.",2016-04-17,H,14,8,W,6
+2016,2,24029,24051.0,Rockhurst,Lindenwood,2016-04-23,A,5,10,L,-5
+2016,2,24029,24040.0,Rockhurst,Colorado Mesa,2016-04-30,H,9,15,L,-6
+2016,2,24029,24057.0,Rockhurst,"Westminster (UT) @ Grand Junction, CO",2016-05-06,H,11,16,L,-5
+2016,2,24014,24055.0,Rollins,Young Harris,2016-02-07,H,13,6,W,7
+2016,2,24014,24022.0,Rollins,Coker,2016-02-12,A,12,10,W,2
+2016,2,24014,24027.0,Rollins,Mount Olive,2016-02-14,A,8,11,L,-3
+2016,2,24014,24051.0,Rollins,Lindenwood,2016-02-28,A,11,7,W,4
+2016,2,24014,24044.0,Rollins,Lees-McRae,2016-03-08,H,21,3,W,18
+2016,2,24014,24033.0,Rollins,Belmont Abbey,2016-03-10,H,10,13,L,-3
+2016,2,24014,24032.0,Rollins,Wingate,2016-03-12,H,4,10,L,-6
+2016,2,24014,24003.0,Rollins,UIndy,2016-03-16,H,9,7,W,2
+2016,2,24014,24040.0,Rollins,Colorado Mesa,2016-03-19,H,7,5,W,2
+2016,2,24014,24016.0,Rollins,Saint Leo,2016-03-26,A,12,10,W,2
+2016,2,24014,24046.0,Rollins,Lynn,2016-04-02,H,7,14,L,-7
+2016,2,24014,24001.0,Rollins,Fla. Southern,2016-04-09,A,11,10,W,1
+2016,2,24014,24000.0,Rollins,Florida Tech,2016-04-16,H,11,9,W,2
+2016,2,24014,24018.0,Rollins,Tampa,2016-04-22,H,9,11,L,-2
+2016,2,24014,24016.0,Rollins,Saint Leo @ Unknown,2016-04-29,H,10,9,W,1
+2016,2,24014,24018.0,Rollins,Tampa,2016-05-01,A,7,16,L,-9
+2016,2,24016,24056.0,Saint Leo,Emmanuel (GA),2016-02-13,H,22,3,W,19
+2016,2,24016,24024.0,Saint Leo,Limestone,2016-02-20,H,7,16,L,-9
+2016,2,24016,24054.0,Saint Leo,Shorter,2016-02-27,A,17,7,W,10
+2016,2,24016,24013.0,Saint Leo,Pfeiffer,2016-03-05,H,9,8,W,1
+2016,2,24016,24022.0,Saint Leo,Coker,2016-03-08,H,13,8,W,5
+2016,2,24016,24044.0,Saint Leo,Lees-McRae,2016-03-11,H,22,2,W,20
+2016,2,24016,24040.0,Saint Leo,Colorado Mesa,2016-03-15,H,9,7,W,2
+2016,2,24016,24019.0,Saint Leo,Adams St.,2016-03-19,H,17,7,W,10
+2016,2,24016,24014.0,Saint Leo,Rollins,2016-03-26,H,10,12,L,-2
+2016,2,24016,24000.0,Saint Leo,Florida Tech,2016-04-01,A,11,13,L,-2
+2016,2,24016,24046.0,Saint Leo,Lynn,2016-04-09,H,11,5,W,6
+2016,2,24016,24018.0,Saint Leo,Tampa,2016-04-15,A,7,12,L,-5
+2016,2,24016,24001.0,Saint Leo,Fla. Southern,2016-04-23,A,9,8,W,1
+2016,2,24016,24014.0,Saint Leo,Rollins @ Unknown,2016-04-29,H,9,10,L,-1
+2016,2,24017,24008.0,Saint Michael's,Merrimack,2016-03-08,A,6,20,L,-14
+2016,2,24017,24002.0,Saint Michael's,Franklin Pierce,2016-03-12,H,9,10,L,-1
+2016,2,24017,24011.0,Saint Michael's,New York Tech,2016-03-16,A,5,13,L,-8
+2016,2,24017,24012.0,Saint Michael's,Pace,2016-03-19,H,7,11,L,-4
+2016,2,24017,24038.0,Saint Michael's,Georgian Court,2016-03-21,A,19,9,W,10
+2016,2,24017,24028.0,Saint Michael's,Post,2016-03-23,A,12,8,W,4
+2016,2,24017,23993.0,Saint Michael's,Adelphi,2016-03-26,A,9,16,L,-7
+2016,2,24017,23997.0,Saint Michael's,Bentley,2016-04-02,H,7,8,L,-1
+2016,2,24017,24010.0,Saint Michael's,Southern N.H.,2016-04-06,H,7,17,L,-10
+2016,2,24017,23996.0,Saint Michael's,Assumption,2016-04-09,A,14,7,W,7
+2016,2,24017,24015.0,Saint Michael's,Saint Anselm,2016-04-12,A,9,10,L,-1
+2016,2,24017,24004.0,Saint Michael's,Le Moyne,2016-04-16,H,5,14,L,-9
+2016,2,24017,23995.0,Saint Michael's,American Int'l,2016-04-23,A,21,9,W,12
+2016,2,24017,24030.0,Saint Michael's,Saint Rose,2016-04-30,A,9,8,W,1
+2016,2,24030,24007.0,Saint Rose,Mercyhurst,2016-02-27,H,3,7,L,-4
+2016,2,24030,24006.0,Saint Rose,Mercy,2016-03-04,H,2,7,L,-5
+2016,2,24030,24031.0,Saint Rose,St. Thomas Aquinas,2016-03-06,H,12,3,W,9
+2016,2,24030,24053.0,Saint Rose,Roberts Wesleyan,2016-03-09,A,14,6,W,8
+2016,2,24030,23993.0,Saint Rose,Adelphi,2016-03-12,A,7,13,L,-6
+2016,2,24030,24009.0,Saint Rose,Molloy,2016-03-16,H,8,12,L,-4
+2016,2,24030,23996.0,Saint Rose,Assumption,2016-03-19,A,8,11,L,-3
+2016,2,24030,24015.0,Saint Rose,Saint Anselm,2016-03-26,H,8,9,L,-1
+2016,2,24030,24004.0,Saint Rose,Le Moyne,2016-03-29,H,4,8,L,-4
+2016,2,24030,24010.0,Saint Rose,Southern N.H.,2016-04-02,A,9,16,L,-7
+2016,2,24030,23995.0,Saint Rose,American Int'l,2016-04-06,A,17,6,W,11
+2016,2,24030,24008.0,Saint Rose,Merrimack,2016-04-09,A,7,15,L,-8
+2016,2,24030,23997.0,Saint Rose,Bentley,2016-04-12,H,3,8,L,-5
+2016,2,24030,24012.0,Saint Rose,Pace,2016-04-16,H,8,11,L,-3
+2016,2,24030,24002.0,Saint Rose,Franklin Pierce,2016-04-23,H,10,13,L,-3
+2016,2,24030,24017.0,Saint Rose,Saint Michael's,2016-04-30,H,8,9,L,-1
+2016,2,24049,24032.0,Seton Hill,Wingate,2016-02-13,A,13,12,W,1
+2016,2,24049,24047.0,Seton Hill,Chestnut Hill,2016-02-20,A,18,6,W,12
+2016,2,24049,24011.0,Seton Hill,New York Tech,2016-02-27,H,12,10,W,2
+2016,2,24049,24051.0,Seton Hill,Lindenwood,2016-03-05,H,13,9,W,4
+2016,2,24049,24000.0,Seton Hill,Florida Tech,2016-03-09,H,11,7,W,4
+2016,2,24049,24013.0,Seton Hill,Pfeiffer,2016-03-12,A,16,8,W,8
+2016,2,24049,24007.0,Seton Hill,Mercyhurst,2016-03-19,A,8,11,L,-3
+2016,2,24049,24024.0,Seton Hill,Limestone,2016-03-26,H,8,19,L,-11
+2016,2,24049,24036.0,Seton Hill,Lake Erie,2016-04-02,H,8,14,L,-6
+2016,2,24049,24052.0,Seton Hill,Walsh,2016-04-09,A,11,9,W,2
+2016,2,24049,24045.0,Seton Hill,Ohio Valley,2016-04-14,H,23,0,W,23
+2016,2,24049,24003.0,Seton Hill,UIndy,2016-04-16,A,9,7,W,2
+2016,2,24049,24042.0,Seton Hill,Wheeling,2016-04-23,H,15,16,L,-1
+2016,2,24049,24020.0,Seton Hill,Alderson Broaddus,2016-04-27,A,13,6,W,7
+2016,2,24049,24006.0,Seton Hill,Mercy,2016-04-30,A,12,8,W,4
+2016,2,24054,,Shorter,Reinhardt,2016-02-05,H,9,5,W,4
+2016,2,24054,24046.0,Shorter,Lynn,2016-02-13,A,6,15,L,-9
+2016,2,24054,24051.0,Shorter,Lindenwood,2016-02-20,H,7,19,L,-12
+2016,2,24054,24016.0,Shorter,Saint Leo,2016-02-27,H,7,17,L,-10
+2016,2,24054,24003.0,Shorter,UIndy,2016-03-05,A,6,17,L,-11
+2016,2,24054,23998.0,Shorter,Davis & Elkins,2016-03-08,H,26,4,W,22
+2016,2,24054,24033.0,Shorter,Belmont Abbey,2016-03-12,H,9,15,L,-6
+2016,2,24054,24022.0,Shorter,Coker,2016-03-19,A,11,13,L,-2
+2016,2,24054,24035.0,Shorter,CSU Pueblo,2016-03-24,H,13,9,W,4
+2016,2,24054,24056.0,Shorter,Emmanuel (GA),2016-03-29,A,22,8,W,14
+2016,2,24054,24039.0,Shorter,North Greenville,2016-04-02,H,10,4,W,6
+2016,2,24054,24021.0,Shorter,Catawba,2016-04-09,H,8,10,L,-2
+2016,2,24054,24055.0,Shorter,Young Harris,2016-04-16,H,13,11,W,2
+2016,2,24054,23994.0,Shorter,UAH,2016-04-23,H,24,8,W,16
+2016,2,24010,24008.0,Southern N.H.,Merrimack,2016-03-05,H,12,19,L,-7
+2016,2,24010,24009.0,Southern N.H.,Molloy,2016-03-09,A,8,15,L,-7
+2016,2,24010,24038.0,Southern N.H.,Georgian Court,2016-03-12,A,23,9,W,14
+2016,2,24010,23993.0,Southern N.H.,Adelphi,2016-03-19,H,8,21,L,-13
+2016,2,24010,24004.0,Southern N.H.,Le Moyne,2016-03-26,A,5,17,L,-12
+2016,2,24010,23997.0,Southern N.H.,Bentley,2016-03-30,H,13,12,W,1
+2016,2,24010,24030.0,Southern N.H.,Saint Rose,2016-04-02,H,16,9,W,7
+2016,2,24010,24017.0,Southern N.H.,Saint Michael's,2016-04-06,A,17,7,W,10
+2016,2,24010,24012.0,Southern N.H.,Pace,2016-04-09,A,14,13,W,1
+2016,2,24010,23995.0,Southern N.H.,American Int'l,2016-04-12,H,22,11,W,11
+2016,2,24010,24002.0,Southern N.H.,Franklin Pierce,2016-04-16,A,14,13,W,1
+2016,2,24010,24015.0,Southern N.H.,Saint Anselm,2016-04-20,H,13,12,W,1
+2016,2,24010,24028.0,Southern N.H.,Post,2016-04-26,H,15,12,W,3
+2016,2,24010,23996.0,Southern N.H.,Assumption,2016-04-30,A,10,15,L,-5
+2016,2,24010,24012.0,Southern N.H.,Pace,2016-05-03,H,15,13,W,2
+2016,2,24010,24004.0,Southern N.H.,Le Moyne,2016-05-06,A,3,15,L,-12
+2016,2,24015,24037.0,St. Anselm,Dominican (NY),2016-02-27,H,20,3,W,17
+2016,2,24015,24028.0,St. Anselm,Post,2016-03-12,A,20,10,W,10
+2016,2,24015,23995.0,St. Anselm,American Int'l,2016-03-19,A,25,11,W,14
+2016,2,24015,24030.0,St. Anselm,Saint Rose,2016-03-26,A,9,8,W,1
+2016,2,24015,24002.0,St. Anselm,Franklin Pierce,2016-03-29,H,11,9,W,2
+2016,2,24015,24012.0,St. Anselm,Pace,2016-04-02,H,9,15,L,-6
+2016,2,24015,23993.0,St. Anselm,Adelphi,2016-04-06,A,12,13,L,-1
+2016,2,24015,24004.0,St. Anselm,Le Moyne,2016-04-09,H,3,18,L,-15
+2016,2,24015,24017.0,St. Anselm,Saint Michael's,2016-04-12,H,10,9,W,1
+2016,2,24015,23996.0,St. Anselm,Assumption,2016-04-16,A,10,7,W,3
+2016,2,24015,24010.0,St. Anselm,Southern N.H.,2016-04-20,A,12,13,L,-1
+2016,2,24015,23997.0,St. Anselm,Bentley,2016-04-26,H,14,8,W,6
+2016,2,24015,24008.0,St. Anselm,Merrimack,2016-04-30,A,12,13,L,-1
+2016,2,24015,23993.0,St. Anselm,Adelphi,2016-05-03,A,7,13,L,-6
+2016,2,24031,24011.0,St. Thomas Aquinas,New York Tech,2016-02-17,A,1,20,L,-19
+2016,2,24031,24034.0,St. Thomas Aquinas,Dowling,2016-02-24,A,2,18,L,-16
+2016,2,24031,24005.0,St. Thomas Aquinas,LIU Post,2016-03-02,A,3,16,L,-13
+2016,2,24031,24030.0,St. Thomas Aquinas,Saint Rose,2016-03-06,A,3,12,L,-9
+2016,2,24031,23999.0,St. Thomas Aquinas,Dist. Columbia,2016-03-12,H,7,13,L,-6
+2016,2,24031,24012.0,St. Thomas Aquinas,Pace,2016-03-26,H,6,13,L,-7
+2016,2,24031,24006.0,St. Thomas Aquinas,Mercy,2016-03-29,A,2,14,L,-12
+2016,2,24031,24038.0,St. Thomas Aquinas,Georgian Court,2016-04-04,H,6,11,L,-5
+2016,2,24031,24148.0,St. Thomas Aquinas,Moravian,2016-04-06,A,3,8,L,-5
+2016,2,24031,24271.0,St. Thomas Aquinas,Farmingdale St.,2016-04-15,A,3,15,L,-12
+2016,2,24031,24028.0,St. Thomas Aquinas,Post,2016-04-20,H,7,15,L,-8
+2016,2,24031,24038.0,St. Thomas Aquinas,Georgian Court,2016-04-25,A,9,11,L,-2
+2016,2,24018,24043.0,Tampa,Tusculum,2016-02-14,H,17,9,W,8
+2016,2,24018,23993.0,Tampa,Adelphi,2016-02-19,H,19,11,W,8
+2016,2,24018,24052.0,Tampa,Walsh,2016-02-21,H,15,8,W,7
+2016,2,24018,24024.0,Tampa,Limestone,2016-02-27,A,7,25,L,-18
+2016,2,24018,24047.0,Tampa,Chestnut Hill,2016-03-01,H,12,6,W,6
+2016,2,24018,24036.0,Tampa,Lake Erie,2016-03-05,H,9,7,W,2
+2016,2,24018,24040.0,Tampa,Colorado Mesa,2016-03-12,H,12,7,W,5
+2016,2,24018,24046.0,Tampa,Lynn,2016-03-19,A,15,10,W,5
+2016,2,24018,24019.0,Tampa,Adams St.,2016-03-25,H,20,3,W,17
+2016,2,24018,24001.0,Tampa,Fla. Southern,2016-04-01,H,22,7,W,15
+2016,2,24018,24000.0,Tampa,Florida Tech,2016-04-06,A,12,6,W,6
+2016,2,24018,24007.0,Tampa,Mercyhurst,2016-04-09,A,5,11,L,-6
+2016,2,24018,24016.0,Tampa,Saint Leo,2016-04-15,H,12,7,W,5
+2016,2,24018,24014.0,Tampa,Rollins,2016-04-22,A,11,9,W,2
+2016,2,24018,24001.0,Tampa,Fla. Southern,2016-04-29,H,15,9,W,6
+2016,2,24018,24014.0,Tampa,Rollins,2016-05-01,H,16,7,W,9
+2016,2,24018,24007.0,Tampa,Mercyhurst,2016-05-14,A,10,9,W,1
+2016,2,24018,24024.0,Tampa,Limestone,2016-05-22,A,10,13,L,-3
+2016,2,24043,24024.0,Tusculum,Limestone,2016-02-06,H,5,16,L,-11
+2016,2,24043,24018.0,Tusculum,Tampa,2016-02-14,A,9,17,L,-8
+2016,2,24043,24039.0,Tusculum,North Greenville,2016-02-27,A,8,9,L,-1
+2016,2,24043,24050.0,Tusculum,Brevard,2016-03-05,A,13,6,W,7
+2016,2,24043,24052.0,Tusculum,Walsh,2016-03-08,A,9,10,L,-1
+2016,2,24043,24056.0,Tusculum,Emmanuel (GA),2016-03-12,A,12,11,W,1
+2016,2,24043,24023.0,Tusculum,Lenoir-Rhyne,2016-03-19,H,7,8,L,-1
+2016,2,24043,24021.0,Tusculum,Catawba,2016-03-26,A,11,6,W,5
+2016,2,24043,24025.0,Tusculum,Lincoln Memorial,2016-03-30,H,12,13,L,-1
+2016,2,24043,24041.0,Tusculum,Queens (NC),2016-04-02,A,9,16,L,-7
+2016,2,24043,24022.0,Tusculum,Coker,2016-04-09,H,10,11,L,-1
+2016,2,24043,24026.0,Tusculum,Mars Hill,2016-04-13,H,15,5,W,10
+2016,2,24043,24032.0,Tusculum,Wingate,2016-04-23,A,6,8,L,-2
+2016,2,24043,24022.0,Tusculum,Coker,2016-04-26,A,12,9,W,3
+2016,2,24043,24023.0,Tusculum,"Lenoir-Rhyne @ Charlotte, N.C.",2016-04-28,H,10,18,L,-8
+2016,2,24003,24026.0,UIndy,Mars Hill,2016-02-20,A,12,9,W,3
+2016,2,24003,24056.0,UIndy,Emmanuel (GA),2016-02-27,A,16,6,W,10
+2016,2,24003,24054.0,UIndy,Shorter,2016-03-05,H,17,6,W,11
+2016,2,24003,24042.0,UIndy,Wheeling,2016-03-12,A,7,11,L,-4
+2016,2,24003,24014.0,UIndy,Rollins,2016-03-16,A,7,9,L,-2
+2016,2,24003,24001.0,UIndy,Fla. Southern,2016-03-19,A,12,17,L,-5
+2016,2,24003,24051.0,UIndy,Lindenwood,2016-03-29,H,8,3,W,5
+2016,2,24003,24052.0,UIndy,Walsh,2016-04-02,A,5,4,W,1
+2016,2,24003,24036.0,UIndy,Lake Erie,2016-04-07,H,9,7,W,2
+2016,2,24003,24045.0,UIndy,Ohio Valley,2016-04-10,A,15,9,W,6
+2016,2,24003,24049.0,UIndy,Seton Hill,2016-04-16,H,7,9,L,-2
+2016,2,24003,24020.0,UIndy,Alderson Broaddus,2016-04-23,A,14,10,W,4
+2016,2,24003,24007.0,UIndy,Mercyhurst,2016-04-30,H,2,10,L,-8
+2016,2,24003,24007.0,UIndy,Mercyhurst,2016-05-06,A,7,9,L,-2
+2016,2,24052,24001.0,Walsh,Fla. Southern,2016-02-19,A,8,9,L,-1
+2016,2,24052,24018.0,Walsh,Tampa,2016-02-21,A,8,15,L,-7
+2016,2,24052,24004.0,Walsh,Le Moyne,2016-02-27,A,5,22,L,-17
+2016,2,24052,24053.0,Walsh,Roberts Wesleyan,2016-03-02,H,10,9,W,1
+2016,2,24052,24043.0,Walsh,Tusculum,2016-03-08,H,10,9,W,1
+2016,2,24052,24039.0,Walsh,North Greenville,2016-03-12,H,13,9,W,4
+2016,2,24052,24007.0,Walsh,Mercyhurst,2016-03-15,H,7,18,L,-11
+2016,2,24052,24020.0,Walsh,Alderson Broaddus,2016-03-19,A,14,9,W,5
+2016,2,24052,24036.0,Walsh,Lake Erie,2016-03-22,A,8,15,L,-7
+2016,2,24052,24042.0,Walsh,Wheeling,2016-03-26,A,10,12,L,-2
+2016,2,24052,24003.0,Walsh,UIndy,2016-04-02,H,4,5,L,-1
+2016,2,24052,24049.0,Walsh,Seton Hill,2016-04-09,H,9,11,L,-2
+2016,2,24052,24051.0,Walsh,Lindenwood,2016-04-15,A,9,10,L,-1
+2016,2,24052,24029.0,Walsh,"Rockhurst @ St. Charles, Mo.",2016-04-17,H,8,14,L,-6
+2016,2,24052,24045.0,Walsh,Ohio Valley,2016-04-23,H,14,4,W,10
+2016,2,24042,24009.0,Wheeling,Molloy,2016-02-27,A,11,13,L,-2
+2016,2,24042,24007.0,Wheeling,Mercyhurst,2016-03-05,H,10,11,L,-1
+2016,2,24042,24000.0,Wheeling,"Florida Tech @ Baltimore, MD",2016-03-07,H,11,12,L,-1
+2016,2,24042,24039.0,Wheeling,North Greenville,2016-03-09,H,11,8,W,3
+2016,2,24042,24003.0,Wheeling,UIndy,2016-03-12,H,11,7,W,4
+2016,2,24042,24051.0,Wheeling,Lindenwood,2016-03-19,A,7,13,L,-6
+2016,2,24042,24052.0,Wheeling,Walsh,2016-03-26,H,12,10,W,2
+2016,2,24042,24045.0,Wheeling,Ohio Valley,2016-04-02,A,21,13,W,8
+2016,2,24042,23998.0,Wheeling,Davis & Elkins,2016-04-06,H,33,3,W,30
+2016,2,24042,24020.0,Wheeling,Alderson Broaddus,2016-04-16,H,18,9,W,9
+2016,2,24042,24049.0,Wheeling,Seton Hill,2016-04-23,A,16,15,W,1
+2016,2,24042,24036.0,Wheeling,Lake Erie,2016-05-01,A,13,22,L,-9
+2016,2,24032,24049.0,Wingate,Seton Hill,2016-02-13,H,12,13,L,-1
+2016,2,24032,24007.0,Wingate,"Mercyhurst @ Ashland, Va.",2016-02-21,H,8,9,L,-1
+2016,2,24032,24033.0,Wingate,Belmont Abbey,2016-02-27,A,9,13,L,-4
+2016,2,24032,24027.0,Wingate,Mount Olive,2016-03-02,H,8,9,L,-1
+2016,2,24032,24026.0,Wingate,Mars Hill,2016-03-05,A,7,6,W,1
+2016,2,24032,24001.0,Wingate,Fla. Southern,2016-03-09,A,13,11,W,2
+2016,2,24032,24014.0,Wingate,Rollins,2016-03-12,A,10,4,W,6
+2016,2,24032,24023.0,Wingate,Lenoir-Rhyne,2016-03-16,A,6,17,L,-11
+2016,2,24032,24025.0,Wingate,Lincoln Memorial,2016-03-19,H,18,10,W,8
+2016,2,24032,23994.0,Wingate,UAH,2016-03-23,H,13,3,W,10
+2016,2,24032,24022.0,Wingate,Coker,2016-03-26,A,13,11,W,2
+2016,2,24032,24041.0,Wingate,Queens (NC),2016-03-30,H,9,8,W,1
+2016,2,24032,24021.0,Wingate,Catawba,2016-04-02,H,10,9,W,1
+2016,2,24032,24050.0,Wingate,Brevard,2016-04-16,A,15,12,W,3
+2016,2,24032,24043.0,Wingate,Tusculum,2016-04-23,H,8,6,W,2
+2016,2,24032,24041.0,Wingate,Queens (NC),2016-04-28,H,5,9,L,-4
+2016,2,24055,24000.0,Young Harris,Florida Tech,2016-02-05,A,14,16,L,-2
+2016,2,24055,24014.0,Young Harris,Rollins,2016-02-07,A,6,13,L,-7
+2016,2,24055,24001.0,Young Harris,Fla. Southern,2016-02-13,H,3,10,L,-7
+2016,2,24055,24050.0,Young Harris,Brevard,2016-02-27,H,24,7,W,17
+2016,2,24055,24039.0,Young Harris,North Greenville,2016-03-02,H,11,5,W,6
+2016,2,24055,23998.0,Young Harris,Davis & Elkins,2016-03-05,H,18,1,W,17
+2016,2,24055,24045.0,Young Harris,Ohio Valley,2016-03-07,H,25,7,W,18
+2016,2,24055,24048.0,Young Harris,Notre Dame de Namur,2016-03-09,H,17,7,W,10
+2016,2,24055,24035.0,Young Harris,CSU Pueblo,2016-03-19,H,16,9,W,7
+2016,2,24055,24046.0,Young Harris,Lynn,2016-03-26,A,5,13,L,-8
+2016,2,24055,,Young Harris,Reinhardt,2016-03-30,H,14,3,W,11
+2016,2,24055,24044.0,Young Harris,Lees-McRae,2016-04-02,A,16,15,W,1
+2016,2,24055,24056.0,Young Harris,Emmanuel (GA),2016-04-06,H,19,11,W,8
+2016,2,24055,23994.0,Young Harris,UAH,2016-04-09,A,14,3,W,11
+2016,2,24055,24054.0,Young Harris,Shorter,2016-04-16,A,11,13,L,-2

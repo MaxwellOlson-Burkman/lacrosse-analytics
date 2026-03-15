@@ -2,16 +2,22 @@ Team: Mercyhurst
 Season: 2023 D2
 Record: 16-3
 Winning %: 0.842
-Predicted Winning %: 0.791
+Predicted Winning %: 0.800
 
 Stat Comparison vs League Average:
   points_per_game: 23.420 (5.779 above average)
   scoring_defense: 8.840 (2.396 below average)
-  scoring_offense: 15.370 (4.056 above average)
-  scoring_margin: 6.530 (4.796 above average)
+  scoring_offense: 15.370 (4.057 above average)
   defensive_efficiency: 18.086 (2.383 above average)
-  saves_per_game: 11.420 (0.568 below average)
+  scoring_margin: 6.530 (4.800 above average)
+  saves_per_game: 11.420 (0.567 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 39.630 (8.736 above average)
   clearing_percentage: 0.856 (0.013 above average)
-  ground_balls_per_game: 39.630 (8.734 above average)
-  shot_percentage: 0.307 (0.016 above average)
-  offensive_efficiency: 50.065 (11.399 above average)
+  possession_value_index: 0.256 (0.086 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 12 of 74
+  Avg opponent win %: 0.575
+  Model schedule difficulty rank: 12 of 74
+  Schedule difficulty score: 0.574

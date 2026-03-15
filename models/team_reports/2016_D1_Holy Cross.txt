@@ -2,16 +2,22 @@ Team: Holy Cross
 Season: 2016 D1
 Record: 4-11
 Winning %: 0.267
-Predicted Winning %: 0.286
+Predicted Winning %: 0.281
 
 Stat Comparison vs League Average:
   points_per_game: 13.070 (4.571 below average)
   scoring_defense: 11.530 (0.294 above average)
-  scoring_offense: 8.930 (2.384 below average)
-  scoring_margin: -2.600 (4.334 below average)
+  scoring_offense: 8.930 (2.383 below average)
   defensive_efficiency: 13.939 (1.764 below average)
-  saves_per_game: 9.530 (2.458 below average)
+  scoring_margin: -2.600 (4.330 below average)
+  saves_per_game: 9.530 (2.457 below average)
+  Win % (from schedule): 0.267 (0.232 below average)
+  ground_balls_per_game: 25.670 (5.224 below average)
   clearing_percentage: 0.858 (0.015 above average)
-  ground_balls_per_game: 25.670 (5.226 below average)
-  shot_percentage: 0.250 (0.041 below average)
-  offensive_efficiency: 35.720 (2.946 below average)
+  possession_value_index: 0.185 (0.016 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 20 of 68
+  Avg opponent win %: 0.522
+  Model schedule difficulty rank: 20 of 68
+  Schedule difficulty score: 0.521

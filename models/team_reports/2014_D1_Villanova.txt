@@ -2,16 +2,22 @@ Team: Villanova
 Season: 2014 D1
 Record: 6-10
 Winning %: 0.375
-Predicted Winning %: 0.407
+Predicted Winning %: 0.391
 
 Stat Comparison vs League Average:
   points_per_game: 14.690 (2.951 below average)
   scoring_defense: 10.250 (0.986 below average)
-  scoring_offense: 9.440 (1.874 below average)
-  scoring_margin: -0.810 (2.544 below average)
+  scoring_offense: 9.440 (1.873 below average)
   defensive_efficiency: 16.384 (0.681 above average)
-  saves_per_game: 10.130 (1.858 below average)
+  scoring_margin: -0.810 (2.540 below average)
+  saves_per_game: 10.130 (1.857 below average)
+  Win % (from schedule): 0.375 (0.123 below average)
+  ground_balls_per_game: 30.500 (0.394 below average)
   clearing_percentage: 0.815 (0.028 below average)
-  ground_balls_per_game: 30.500 (0.396 below average)
-  shot_percentage: 0.263 (0.028 below average)
-  offensive_efficiency: 35.894 (2.773 below average)
+  possession_value_index: 0.184 (0.014 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 8 of 67
+  Avg opponent win %: 0.565
+  Model schedule difficulty rank: 8 of 67
+  Schedule difficulty score: 0.564

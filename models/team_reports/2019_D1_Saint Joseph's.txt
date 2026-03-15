@@ -2,16 +2,22 @@ Team: Saint Joseph's
 Season: 2019 D1
 Record: 7-7
 Winning %: 0.500
-Predicted Winning %: 0.443
+Predicted Winning %: 0.442
 
 Stat Comparison vs League Average:
   points_per_game: 16.000 (1.641 below average)
   scoring_defense: 10.640 (0.596 below average)
-  scoring_offense: 9.930 (1.384 below average)
-  scoring_margin: -0.710 (2.444 below average)
+  scoring_offense: 9.930 (1.383 below average)
   defensive_efficiency: 16.085 (0.382 above average)
-  saves_per_game: 12.000 (0.012 above average)
+  scoring_margin: -0.710 (2.440 below average)
+  saves_per_game: 12.000 (0.013 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 32.860 (1.966 above average)
   clearing_percentage: 0.809 (0.034 below average)
-  ground_balls_per_game: 32.860 (1.964 above average)
-  shot_percentage: 0.258 (0.033 below average)
-  offensive_efficiency: 38.488 (0.178 below average)
+  possession_value_index: 0.132 (0.037 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 61 of 73
+  Avg opponent win %: 0.420
+  Model schedule difficulty rank: 61 of 73
+  Schedule difficulty score: 0.420

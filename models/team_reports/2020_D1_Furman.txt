@@ -2,16 +2,22 @@ Team: Furman
 Season: 2020 D1
 Record: 1-6
 Winning %: 0.143
-Predicted Winning %: 0.152
+Predicted Winning %: 0.146
 
 Stat Comparison vs League Average:
   points_per_game: 14.860 (2.781 below average)
   scoring_defense: 16.430 (5.194 above average)
-  scoring_offense: 9.140 (2.174 below average)
-  scoring_margin: -7.290 (9.024 below average)
+  scoring_offense: 9.140 (2.173 below average)
   defensive_efficiency: 10.836 (4.867 below average)
-  saves_per_game: 14.570 (2.582 above average)
+  scoring_margin: -7.290 (9.020 below average)
+  saves_per_game: 14.570 (2.583 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 26.140 (4.754 below average)
   clearing_percentage: 0.780 (0.063 below average)
-  ground_balls_per_game: 26.140 (4.756 below average)
-  shot_percentage: 0.279 (0.012 below average)
-  offensive_efficiency: 32.760 (5.906 below average)
+  possession_value_index: 0.047 (0.123 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 16 of 74
+  Avg opponent win %: 0.628
+  Model schedule difficulty rank: 16 of 74
+  Schedule difficulty score: 0.627

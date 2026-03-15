@@ -2,16 +2,22 @@ Team: NJIT
 Season: 2021 D1
 Record: 1-10
 Winning %: 0.091
-Predicted Winning %: 0.101
+Predicted Winning %: 0.109
 
 Stat Comparison vs League Average:
   points_per_game: 11.090 (6.551 below average)
   scoring_defense: 14.450 (3.214 above average)
-  scoring_offense: 7.180 (4.134 below average)
-  scoring_margin: -7.270 (9.004 below average)
+  scoring_offense: 7.180 (4.133 below average)
   defensive_efficiency: 13.269 (2.434 below average)
-  saves_per_game: 15.730 (3.742 above average)
+  scoring_margin: -7.270 (9.000 below average)
+  saves_per_game: 15.730 (3.743 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 26.910 (3.984 below average)
   clearing_percentage: 0.856 (0.013 above average)
-  ground_balls_per_game: 26.910 (3.986 below average)
-  shot_percentage: 0.222 (0.069 below average)
-  offensive_efficiency: 32.342 (6.324 below average)
+  possession_value_index: 0.099 (0.071 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 9 of 64
+  Avg opponent win %: 0.568
+  Model schedule difficulty rank: 9 of 64
+  Schedule difficulty score: 0.568

@@ -2,16 +2,22 @@ Team: Wingate
 Season: 2014 D2
 Record: 7-6
 Winning %: 0.538
-Predicted Winning %: 0.624
+Predicted Winning %: 0.601
 
 Stat Comparison vs League Average:
   points_per_game: 21.080 (3.439 above average)
   scoring_defense: 7.995 (3.241 below average)
-  scoring_offense: 12.850 (1.536 above average)
-  scoring_margin: 2.920 (1.186 above average)
+  scoring_offense: 12.850 (1.537 above average)
   defensive_efficiency: 19.515 (3.812 above average)
-  saves_per_game: 11.850 (0.138 below average)
+  scoring_margin: 2.920 (1.190 above average)
+  saves_per_game: 11.850 (0.137 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 36.150 (5.256 above average)
   clearing_percentage: 0.892 (0.049 above average)
-  ground_balls_per_game: 36.150 (5.254 above average)
-  shot_percentage: 0.310 (0.019 above average)
-  offensive_efficiency: 41.452 (2.786 above average)
+  possession_value_index: 0.237 (0.068 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 37 of 53
+  Avg opponent win %: 0.474
+  Model schedule difficulty rank: 37 of 53
+  Schedule difficulty score: 0.474

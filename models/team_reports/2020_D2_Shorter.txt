@@ -2,16 +2,22 @@ Team: Shorter
 Season: 2020 D2
 Record: 1-7
 Winning %: 0.125
-Predicted Winning %: 0.145
+Predicted Winning %: 0.149
 
 Stat Comparison vs League Average:
   points_per_game: 9.880 (7.761 below average)
   scoring_defense: 12.380 (1.144 above average)
-  scoring_offense: 6.630 (4.684 below average)
-  scoring_margin: 6.680 (4.946 above average)
+  scoring_offense: 6.630 (4.683 below average)
   defensive_efficiency: 15.804 (0.101 above average)
-  saves_per_game: 14.630 (2.642 above average)
+  scoring_margin: 6.680 (4.950 above average)
+  saves_per_game: 14.630 (2.643 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 22.500 (8.394 below average)
   clearing_percentage: 0.786 (0.057 below average)
-  ground_balls_per_game: 22.500 (8.396 below average)
-  shot_percentage: 0.248 (0.043 below average)
-  offensive_efficiency: 26.734 (11.932 below average)
+  possession_value_index: 0.104 (0.065 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 42 of 72
+  Avg opponent win %: 0.496
+  Model schedule difficulty rank: 42 of 72
+  Schedule difficulty score: 0.495

@@ -2,16 +2,22 @@ Team: Georgetown
 Season: 2015 D1
 Record: 10-6
 Winning %: 0.625
-Predicted Winning %: 0.541
+Predicted Winning %: 0.575
 
 Stat Comparison vs League Average:
   points_per_game: 17.750 (0.109 above average)
   scoring_defense: 10.880 (0.356 below average)
-  scoring_offense: 11.630 (0.316 above average)
-  scoring_margin: 0.750 (0.984 below average)
+  scoring_offense: 11.630 (0.317 above average)
   defensive_efficiency: 15.812 (0.109 above average)
-  saves_per_game: 13.190 (1.202 above average)
+  scoring_margin: 0.750 (0.980 below average)
+  saves_per_game: 13.190 (1.203 above average)
+  Win % (from schedule): 0.625 (0.127 above average)
+  ground_balls_per_game: 30.250 (0.644 below average)
   clearing_percentage: 0.842 (0.001 below average)
-  ground_balls_per_game: 30.250 (0.646 below average)
-  shot_percentage: 0.299 (0.008 above average)
-  offensive_efficiency: 38.896 (0.230 above average)
+  possession_value_index: 0.228 (0.058 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 22 of 68
+  Avg opponent win %: 0.525
+  Model schedule difficulty rank: 21 of 68
+  Schedule difficulty score: 0.525

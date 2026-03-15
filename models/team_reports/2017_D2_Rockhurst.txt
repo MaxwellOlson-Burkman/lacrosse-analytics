@@ -2,16 +2,22 @@ Team: Rockhurst
 Season: 2017 D2
 Record: 12-5
 Winning %: 0.706
-Predicted Winning %: 0.666
+Predicted Winning %: 0.662
 
 Stat Comparison vs League Average:
   points_per_game: 21.000 (3.359 above average)
   scoring_defense: 9.410 (1.826 below average)
-  scoring_offense: 12.760 (1.446 above average)
-  scoring_margin: 3.350 (1.616 above average)
-  defensive_efficiency: 17.617 (1.914 above average)
-  saves_per_game: 11.825 (0.163 below average)
+  scoring_offense: 12.760 (1.447 above average)
+  defensive_efficiency: 17.617 (1.915 above average)
+  scoring_margin: 3.350 (1.620 above average)
+  saves_per_game: 11.825 (0.162 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 34.710 (3.816 above average)
   clearing_percentage: 0.836 (0.007 below average)
-  ground_balls_per_game: 34.710 (3.814 above average)
-  shot_percentage: 0.294 (0.003 above average)
-  offensive_efficiency: 43.401 (4.735 above average)
+  possession_value_index: 0.155 (0.014 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 29 of 65
+  Avg opponent win %: 0.503
+  Model schedule difficulty rank: 29 of 65
+  Schedule difficulty score: 0.503

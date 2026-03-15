@@ -2,16 +2,22 @@ Team: Merrimack
 Season: 2017 D2
 Record: 15-4
 Winning %: 0.789
-Predicted Winning %: 0.818
+Predicted Winning %: 0.825
 
 Stat Comparison vs League Average:
   points_per_game: 22.680 (5.039 above average)
   scoring_defense: 7.790 (3.446 below average)
-  scoring_offense: 15.260 (3.946 above average)
-  scoring_margin: 7.470 (5.736 above average)
+  scoring_offense: 15.260 (3.947 above average)
   defensive_efficiency: 18.793 (3.090 above average)
-  saves_per_game: 9.210 (2.778 below average)
+  scoring_margin: 7.470 (5.740 above average)
+  saves_per_game: 9.210 (2.777 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 33.890 (2.996 above average)
   clearing_percentage: 0.838 (0.005 below average)
-  ground_balls_per_game: 33.890 (2.994 above average)
-  shot_percentage: 0.334 (0.043 above average)
-  offensive_efficiency: 45.689 (7.023 above average)
+  possession_value_index: 0.225 (0.056 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 17 of 65
+  Avg opponent win %: 0.525
+  Model schedule difficulty rank: 17 of 65
+  Schedule difficulty score: 0.526

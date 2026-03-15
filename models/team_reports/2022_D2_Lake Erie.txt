@@ -2,16 +2,22 @@ Team: Lake Erie
 Season: 2022 D2
 Record: 7-7
 Winning %: 0.500
-Predicted Winning %: 0.355
+Predicted Winning %: 0.344
 
 Stat Comparison vs League Average:
   points_per_game: 16.430 (1.211 below average)
   scoring_defense: 13.000 (1.764 above average)
-  scoring_offense: 10.790 (0.524 below average)
-  scoring_margin: -2.210 (3.944 below average)
+  scoring_offense: 10.790 (0.523 below average)
   defensive_efficiency: 13.661 (2.042 below average)
-  saves_per_game: 13.070 (1.082 above average)
+  scoring_margin: -2.210 (3.940 below average)
+  saves_per_game: 13.070 (1.083 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 32.790 (1.896 above average)
   clearing_percentage: 0.802 (0.041 below average)
-  ground_balls_per_game: 32.790 (1.894 above average)
-  shot_percentage: 0.282 (0.009 below average)
-  offensive_efficiency: 38.262 (0.404 below average)
+  possession_value_index: 0.073 (0.097 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 49 of 74
+  Avg opponent win %: 0.458
+  Model schedule difficulty rank: 49 of 74
+  Schedule difficulty score: 0.458

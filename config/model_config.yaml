@@ -1,0 +1,33 @@
+# Phase 2: Statistical Modeling Configuration
+
+# Train/test split
+test_year: 2024  # Hold out most recent season
+train_years: [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
+
+# Cross-validation
+cv_folds: 5
+stratify_by_division: true
+
+# Target
+target: winning_percentage
+
+# Random Forest hyperparameter grid
+random_forest:
+  n_estimators: [100, 200, 300]
+  max_depth: [8, 12, 16, null]
+  min_samples_leaf: [1, 2, 4]
+
+# Gradient Boosting hyperparameter grid
+gradient_boosting:
+  n_estimators: [100, 200]
+  learning_rate: [0.05, 0.1]
+  max_depth: [4, 6, 8]
+  subsample: [0.8, 1.0]
+
+# Output paths (relative to project root)
+output:
+  model_dir: models
+  model_file: best_model.joblib
+  feature_importance_file: feature_importance.json
+  metadata_file: model_metadata.json
+  team_reports_dir: models/team_reports

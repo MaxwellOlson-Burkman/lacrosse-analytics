@@ -2,16 +2,22 @@ Team: Tampa
 Season: 2021 D2
 Record: 10-1
 Winning %: 0.909
-Predicted Winning %: 0.882
+Predicted Winning %: 0.877
 
 Stat Comparison vs League Average:
   points_per_game: 27.450 (9.809 above average)
   scoring_defense: 7.820 (3.416 below average)
-  scoring_offense: 17.000 (5.686 above average)
-  scoring_margin: 9.180 (7.446 above average)
+  scoring_offense: 17.000 (5.687 above average)
   defensive_efficiency: 19.617 (3.914 above average)
-  saves_per_game: 12.090 (0.102 above average)
+  scoring_margin: 9.180 (7.450 above average)
+  saves_per_game: 12.090 (0.103 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 37.270 (6.376 above average)
   clearing_percentage: 0.888 (0.045 above average)
-  ground_balls_per_game: 37.270 (6.374 above average)
-  shot_percentage: 0.344 (0.053 above average)
-  offensive_efficiency: 49.419 (10.752 above average)
+  possession_value_index: 0.225 (0.056 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 20 of 69
+  Avg opponent win %: 0.519
+  Model schedule difficulty rank: 20 of 69
+  Schedule difficulty score: 0.519

@@ -2,16 +2,22 @@ Team: Loyola Maryland
 Season: 2014 D1
 Record: 15-2
 Winning %: 0.882
-Predicted Winning %: 0.856
+Predicted Winning %: 0.848
 
 Stat Comparison vs League Average:
   points_per_game: 20.410 (2.769 above average)
   scoring_defense: 7.470 (3.766 below average)
-  scoring_offense: 12.880 (1.566 above average)
-  scoring_margin: 5.410 (3.676 above average)
+  scoring_offense: 12.880 (1.567 above average)
   defensive_efficiency: 19.278 (3.575 above average)
-  saves_per_game: 11.060 (0.928 below average)
+  scoring_margin: 5.410 (3.680 above average)
+  saves_per_game: 11.060 (0.927 below average)
+  Win % (from schedule): 0.882 (0.384 above average)
+  ground_balls_per_game: 36.000 (5.106 above average)
   clearing_percentage: 0.918 (0.075 above average)
-  ground_balls_per_game: 36.000 (5.104 above average)
-  shot_percentage: 0.313 (0.022 above average)
-  offensive_efficiency: 41.150 (2.484 above average)
+  possession_value_index: 0.274 (0.105 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 35 of 67
+  Avg opponent win %: 0.491
+  Model schedule difficulty rank: 34 of 67
+  Schedule difficulty score: 0.492

@@ -2,16 +2,22 @@ Team: Wheeling
 Season: 2024 D2
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.567
+Predicted Winning %: 0.579
 
 Stat Comparison vs League Average:
   points_per_game: 23.870 (6.229 above average)
   scoring_defense: 12.000 (0.764 above average)
-  scoring_offense: 14.400 (3.086 above average)
-  scoring_margin: 2.400 (0.666 above average)
+  scoring_offense: 14.400 (3.087 above average)
   defensive_efficiency: 16.304 (0.601 above average)
-  saves_per_game: 14.530 (2.542 above average)
+  scoring_margin: 2.400 (0.670 above average)
+  saves_per_game: 14.530 (2.543 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 34.730 (3.836 above average)
   clearing_percentage: 0.828 (0.015 below average)
-  ground_balls_per_game: 34.730 (3.834 above average)
-  shot_percentage: 0.324 (0.033 above average)
-  offensive_efficiency: 44.444 (5.778 above average)
+  possession_value_index: 0.122 (0.048 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 62 of 79
+  Avg opponent win %: 0.451
+  Model schedule difficulty rank: 62 of 79
+  Schedule difficulty score: 0.451

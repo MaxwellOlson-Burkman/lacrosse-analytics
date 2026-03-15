@@ -2,16 +2,22 @@ Team: Lake Erie
 Season: 2024 D2
 Record: 8-8
 Winning %: 0.500
-Predicted Winning %: 0.461
+Predicted Winning %: 0.457
 
 Stat Comparison vs League Average:
   points_per_game: 18.810 (1.169 above average)
   scoring_defense: 11.810 (0.574 above average)
-  scoring_offense: 12.560 (1.246 above average)
-  scoring_margin: 0.750 (0.984 below average)
+  scoring_offense: 12.560 (1.247 above average)
   defensive_efficiency: 14.240 (1.463 below average)
-  saves_per_game: 10.250 (1.738 below average)
+  scoring_margin: 0.750 (0.980 below average)
+  saves_per_game: 10.250 (1.737 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 26.940 (3.954 below average)
   clearing_percentage: 0.890 (0.047 above average)
-  ground_balls_per_game: 26.940 (3.956 below average)
-  shot_percentage: 0.301 (0.010 above average)
-  offensive_efficiency: 41.728 (3.061 above average)
+  possession_value_index: 0.089 (0.080 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 25 of 79
+  Avg opponent win %: 0.535
+  Model schedule difficulty rank: 24 of 79
+  Schedule difficulty score: 0.536

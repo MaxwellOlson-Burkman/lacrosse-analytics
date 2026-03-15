@@ -2,16 +2,22 @@ Team: Harvard
 Season: 2024 D1
 Record: 8-5
 Winning %: 0.615
-Predicted Winning %: 0.598
+Predicted Winning %: 0.606
 
 Stat Comparison vs League Average:
   points_per_game: 21.620 (3.979 above average)
   scoring_defense: 11.850 (0.614 above average)
-  scoring_offense: 13.920 (2.606 above average)
-  scoring_margin: 2.080 (0.346 above average)
+  scoring_offense: 13.920 (2.607 above average)
   defensive_efficiency: 14.836 (0.867 below average)
-  saves_per_game: 11.920 (0.068 below average)
+  scoring_margin: 2.080 (0.350 above average)
+  saves_per_game: 11.920 (0.067 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 33.540 (2.646 above average)
   clearing_percentage: 0.885 (0.042 above average)
-  ground_balls_per_game: 33.540 (2.644 above average)
-  shot_percentage: 0.334 (0.043 above average)
-  offensive_efficiency: 41.677 (3.011 above average)
+  possession_value_index: 0.174 (0.004 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 27 of 73
+  Avg opponent win %: 0.512
+  Model schedule difficulty rank: 26 of 73
+  Schedule difficulty score: 0.512

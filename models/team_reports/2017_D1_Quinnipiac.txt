@@ -2,16 +2,20 @@ Team: Quinnipiac
 Season: 2017 D1
 Record: 2-9
 Winning %: 0.182
-Predicted Winning %: 0.329
+Predicted Winning %: 0.322
 
 Stat Comparison vs League Average:
   points_per_game: 14.820 (2.821 below average)
   scoring_defense: 11.450 (0.214 above average)
-  scoring_offense: 9.270 (2.044 below average)
-  scoring_margin: -2.180 (3.914 below average)
+  scoring_offense: 9.270 (2.043 below average)
   defensive_efficiency: 14.771 (0.932 below average)
-  saves_per_game: 11.270 (0.718 below average)
+  scoring_margin: -2.180 (3.910 below average)
+  saves_per_game: 11.270 (0.717 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 30.180 (0.714 below average)
   clearing_percentage: 0.862 (0.019 above average)
-  ground_balls_per_game: 30.180 (0.716 below average)
-  shot_percentage: 0.249 (0.042 below average)
-  offensive_efficiency: 37.229 (1.437 below average)
+  possession_value_index: 0.186 (0.017 above average)
+
+Strength of schedule:
+  Model schedule difficulty rank: 1 of 70
+  Schedule difficulty score: 0.495

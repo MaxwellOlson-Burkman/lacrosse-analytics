@@ -2,16 +2,22 @@ Team: Johns Hopkins
 Season: 2024 D1
 Record: 11-5
 Winning %: 0.688
-Predicted Winning %: 0.633
+Predicted Winning %: 0.640
 
 Stat Comparison vs League Average:
   points_per_game: 18.380 (0.739 above average)
   scoring_defense: 9.630 (1.606 below average)
-  scoring_offense: 11.560 (0.246 above average)
-  scoring_margin: 1.940 (0.206 above average)
+  scoring_offense: 11.560 (0.247 above average)
   defensive_efficiency: 17.069 (1.366 above average)
-  saves_per_game: 12.630 (0.642 above average)
+  scoring_margin: 1.940 (0.210 above average)
+  saves_per_game: 12.630 (0.643 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 29.310 (1.584 below average)
   clearing_percentage: 0.880 (0.037 above average)
-  ground_balls_per_game: 29.310 (1.586 below average)
-  shot_percentage: 0.309 (0.018 above average)
-  offensive_efficiency: 37.411 (1.255 below average)
+  possession_value_index: 0.195 (0.025 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 4 of 73
+  Avg opponent win %: 0.612
+  Model schedule difficulty rank: 4 of 73
+  Schedule difficulty score: 0.611

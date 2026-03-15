@@ -2,16 +2,22 @@ Team: Johns Hopkins
 Season: 2018 D1
 Record: 12-5
 Winning %: 0.706
-Predicted Winning %: 0.663
+Predicted Winning %: 0.646
 
 Stat Comparison vs League Average:
   points_per_game: 19.000 (1.359 above average)
   scoring_defense: 9.710 (1.526 below average)
-  scoring_offense: 11.710 (0.396 above average)
-  scoring_margin: 2.000 (0.266 above average)
+  scoring_offense: 11.710 (0.397 above average)
   defensive_efficiency: 16.654 (0.951 above average)
-  saves_per_game: 9.880 (2.108 below average)
+  scoring_margin: 2.000 (0.270 above average)
+  saves_per_game: 9.880 (2.107 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 27.000 (3.894 below average)
   clearing_percentage: 0.897 (0.054 above average)
-  ground_balls_per_game: 27.000 (3.896 below average)
-  shot_percentage: 0.294 (0.003 above average)
-  offensive_efficiency: 39.830 (1.164 above average)
+  possession_value_index: 0.296 (0.126 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 4 of 71
+  Avg opponent win %: 0.595
+  Model schedule difficulty rank: 4 of 71
+  Schedule difficulty score: 0.593

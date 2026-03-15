@@ -2,16 +2,22 @@ Team: Westminster (UT)
 Season: 2019 D2
 Record: 11-6
 Winning %: 0.647
-Predicted Winning %: 0.705
+Predicted Winning %: 0.686
 
 Stat Comparison vs League Average:
   points_per_game: 20.120 (2.479 above average)
   scoring_defense: 10.060 (1.176 below average)
-  scoring_offense: 13.000 (1.686 above average)
-  scoring_margin: 5.430 (3.696 above average)
+  scoring_offense: 13.000 (1.687 above average)
   defensive_efficiency: 17.076 (1.373 above average)
-  saves_per_game: 12.120 (0.132 above average)
+  scoring_margin: 5.430 (3.700 above average)
+  saves_per_game: 12.120 (0.133 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 36.120 (5.226 above average)
   clearing_percentage: 0.843 (0.000 below average)
-  ground_balls_per_game: 36.120 (5.224 above average)
-  shot_percentage: 0.313 (0.022 above average)
-  offensive_efficiency: 41.534 (2.867 above average)
+  possession_value_index: 0.101 (0.068 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 29 of 70
+  Avg opponent win %: 0.515
+  Model schedule difficulty rank: 29 of 70
+  Schedule difficulty score: 0.515

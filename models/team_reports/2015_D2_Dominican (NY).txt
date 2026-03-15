@@ -2,16 +2,22 @@ Team: Dominican (NY)
 Season: 2015 D2
 Record: 1-12
 Winning %: 0.077
-Predicted Winning %: 0.192
+Predicted Winning %: 0.195
 
 Stat Comparison vs League Average:
   points_per_game: 10.310 (7.331 below average)
   scoring_defense: 14.460 (3.224 above average)
-  scoring_offense: 10.500 (0.814 below average)
-  scoring_margin: 4.130 (2.396 above average)
+  scoring_offense: 10.500 (0.813 below average)
   defensive_efficiency: 13.151 (2.552 below average)
-  saves_per_game: 14.920 (2.932 above average)
+  scoring_margin: 4.130 (2.400 above average)
+  saves_per_game: 14.920 (2.933 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 33.310 (2.416 above average)
   clearing_percentage: 0.701 (0.142 below average)
-  ground_balls_per_game: 33.310 (2.414 above average)
-  shot_percentage: 0.297 (0.007 above average)
-  offensive_efficiency: 35.294 (3.372 below average)
+  possession_value_index: 0.003 (0.167 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 42 of 59
+  Avg opponent win %: 0.468
+  Model schedule difficulty rank: 42 of 59
+  Schedule difficulty score: 0.468

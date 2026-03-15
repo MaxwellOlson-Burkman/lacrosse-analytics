@@ -2,16 +2,22 @@ Team: Towson
 Season: 2023 D1
 Record: 6-9
 Winning %: 0.400
-Predicted Winning %: 0.537
+Predicted Winning %: 0.544
 
 Stat Comparison vs League Average:
   points_per_game: 18.930 (1.289 above average)
   scoring_defense: 10.470 (0.766 below average)
-  scoring_offense: 11.930 (0.616 above average)
-  scoring_margin: 1.470 (0.264 below average)
+  scoring_offense: 11.930 (0.617 above average)
   defensive_efficiency: 15.709 (0.006 above average)
-  saves_per_game: 11.130 (0.858 below average)
+  scoring_margin: 1.470 (0.260 below average)
+  saves_per_game: 11.130 (0.857 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 33.870 (2.976 above average)
   clearing_percentage: 0.891 (0.048 above average)
-  ground_balls_per_game: 33.870 (2.974 above average)
-  shot_percentage: 0.282 (0.009 below average)
-  offensive_efficiency: 42.305 (3.639 above average)
+  possession_value_index: 0.164 (0.005 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 20 of 72
+  Avg opponent win %: 0.536
+  Model schedule difficulty rank: 20 of 72
+  Schedule difficulty score: 0.536

@@ -2,16 +2,22 @@ Team: Post
 Season: 2017 D2
 Record: 5-8
 Winning %: 0.385
-Predicted Winning %: 0.324
+Predicted Winning %: 0.319
 
 Stat Comparison vs League Average:
   points_per_game: 15.690 (1.951 below average)
   scoring_defense: 13.150 (1.914 above average)
-  scoring_offense: 10.150 (1.164 below average)
-  scoring_margin: 5.035 (3.301 above average)
+  scoring_offense: 10.150 (1.163 below average)
   defensive_efficiency: 14.806 (0.897 below average)
-  saves_per_game: 14.620 (2.632 above average)
+  scoring_margin: 5.035 (3.305 above average)
+  saves_per_game: 14.620 (2.633 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 30.310 (0.584 below average)
   clearing_percentage: 0.815 (0.028 below average)
-  ground_balls_per_game: 30.310 (0.586 below average)
-  shot_percentage: 0.282 (0.009 below average)
-  offensive_efficiency: 35.993 (2.673 below average)
+  possession_value_index: 0.171 (0.002 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 59 of 65
+  Avg opponent win %: 0.422
+  Model schedule difficulty rank: 58 of 65
+  Schedule difficulty score: 0.423

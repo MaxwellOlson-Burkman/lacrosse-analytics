@@ -2,16 +2,22 @@ Team: Alderson Broaddus
 Season: 2022 D2
 Record: 1-11
 Winning %: 0.083
-Predicted Winning %: 0.075
+Predicted Winning %: 0.078
 
 Stat Comparison vs League Average:
   points_per_game: 10.080 (7.561 below average)
   scoring_defense: 16.000 (4.764 above average)
-  scoring_offense: 6.750 (4.564 below average)
-  scoring_margin: -9.250 (10.984 below average)
+  scoring_offense: 6.750 (4.563 below average)
   defensive_efficiency: 12.070 (3.633 below average)
-  saves_per_game: 15.000 (3.012 above average)
+  scoring_margin: -9.250 (10.980 below average)
+  saves_per_game: 15.000 (3.013 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 19.080 (11.814 below average)
   clearing_percentage: 0.770 (0.073 below average)
-  ground_balls_per_game: 19.080 (11.816 below average)
-  shot_percentage: 0.220 (0.071 below average)
-  offensive_efficiency: 30.682 (7.984 below average)
+  possession_value_index: 0.044 (0.125 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 72 of 74
+  Avg opponent win %: 0.353
+  Model schedule difficulty rank: 71 of 74
+  Schedule difficulty score: 0.352

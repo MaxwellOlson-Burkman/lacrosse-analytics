@@ -176,6 +176,15 @@ def main() -> None:
     else:
         print(year_div_report.to_string(index=False))
 
+    # Recent years summary (2020+)
+    recent = year_div_report[year_div_report["academic_year"] >= 2020] if not year_div_report.empty else year_div_report
+    if not recent.empty:
+        print("\n=== Recent years (2020+) — fully complete rows ===")
+        print(recent.to_string(index=False))
+        full = recent[recent["fully_complete_pct"] >= 100.0]
+        if len(full) > 0:
+            print(f"\nFully filled year/divisions: {len(full)} (e.g. 2022–2024 D1/D2 have all 16 features).")
+
     if args.save_dir is not None:
         save_dir = args.save_dir if args.save_dir.is_absolute() else (project_root / args.save_dir)
         save_dir.mkdir(parents=True, exist_ok=True)

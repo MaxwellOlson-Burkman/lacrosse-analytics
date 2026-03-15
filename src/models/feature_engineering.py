@@ -32,6 +32,9 @@ BASE_FEATURE_COLS = [
     c for c in RAW_STAT_COLS if c != "opponent_clear_percentage"
 ]
 
+# Strength-of-schedule metrics (from schedule-based SOS pipeline)
+SOS_FEATURE_COLS = ["wp", "opp_wp", "opp_opp_wp", "rpi"]
+
 TARGET_COL = "winning_percentage"
 
 
@@ -130,13 +133,19 @@ def impute_missing(
     return out
 
 
-def get_feature_columns(include_derived: bool = True, include_clearing_margin: bool = False) -> list[str]:
+def get_feature_columns(
+    include_derived: bool = True,
+    include_clearing_margin: bool = False,
+    include_sos: bool = True,
+) -> list[str]:
     """Return list of feature column names for modeling."""
     cols = list(BASE_FEATURE_COLS)
     if include_derived:
         cols += ["possession_value_index", "offensive_efficiency", "defensive_efficiency", "extra_man_impact"]
     if include_clearing_margin:
         cols.append("clearing_margin")
+    if include_sos:
+        cols += SOS_FEATURE_COLS
     return cols
 
 
@@ -191,4 +200,8 @@ def load_and_prepare(data_path: Optional[Path] = None) -> pd.DataFrame:
     # Impute any remaining NaNs in derived features (edge cases)
     derived = ["possession_value_index", "offensive_efficiency", "defensive_efficiency", "extra_man_impact"]
     df = impute_missing(df, feature_cols=[c for c in derived if c in df.columns])
+    # Impute SOS columns when present (schedule-based wp, opp_wp, opp_opp_wp, rpi)
+    sos_cols = [c for c in SOS_FEATURE_COLS if c in df.columns]
+    if sos_cols:
+        df = impute_missing(df, feature_cols=sos_cols)
     return df

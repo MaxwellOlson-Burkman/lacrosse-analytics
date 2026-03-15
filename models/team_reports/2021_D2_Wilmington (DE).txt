@@ -2,16 +2,22 @@ Team: Wilmington (DE)
 Season: 2021 D2
 Record: 5-4
 Winning %: 0.556
-Predicted Winning %: 0.521
+Predicted Winning %: 0.526
 
 Stat Comparison vs League Average:
   points_per_game: 17.890 (0.249 above average)
   scoring_defense: 11.110 (0.126 below average)
-  scoring_offense: 11.110 (0.204 below average)
-  scoring_margin: 6.375 (4.641 above average)
+  scoring_offense: 11.110 (0.203 below average)
   defensive_efficiency: 15.878 (0.175 above average)
-  saves_per_game: 13.110 (1.122 above average)
+  scoring_margin: 6.375 (4.645 above average)
+  saves_per_game: 13.110 (1.123 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 31.000 (0.106 above average)
   clearing_percentage: 0.815 (0.028 below average)
-  ground_balls_per_game: 31.000 (0.104 above average)
-  shot_percentage: 0.272 (0.019 below average)
-  offensive_efficiency: 40.846 (2.179 above average)
+  possession_value_index: 0.095 (0.074 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 39 of 69
+  Avg opponent win %: 0.483
+  Model schedule difficulty rank: 39 of 69
+  Schedule difficulty score: 0.483

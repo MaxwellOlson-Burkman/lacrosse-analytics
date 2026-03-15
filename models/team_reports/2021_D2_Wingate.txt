@@ -2,16 +2,22 @@ Team: Wingate
 Season: 2021 D2
 Record: 12-3
 Winning %: 0.800
-Predicted Winning %: 0.819
+Predicted Winning %: 0.812
 
 Stat Comparison vs League Average:
   points_per_game: 27.800 (10.159 above average)
   scoring_defense: 9.670 (1.566 below average)
-  scoring_offense: 17.000 (5.686 above average)
-  scoring_margin: 7.330 (5.596 above average)
+  scoring_offense: 17.000 (5.687 above average)
   defensive_efficiency: 17.519 (1.816 above average)
-  saves_per_game: 10.330 (1.658 below average)
+  scoring_margin: 7.330 (5.600 above average)
+  saves_per_game: 10.330 (1.657 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 40.070 (9.176 above average)
   clearing_percentage: 0.890 (0.047 above average)
-  ground_balls_per_game: 40.070 (9.174 above average)
-  shot_percentage: 0.317 (0.026 above average)
-  offensive_efficiency: 53.628 (14.962 above average)
+  possession_value_index: 0.232 (0.062 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 17 of 69
+  Avg opponent win %: 0.526
+  Model schedule difficulty rank: 17 of 69
+  Schedule difficulty score: 0.526

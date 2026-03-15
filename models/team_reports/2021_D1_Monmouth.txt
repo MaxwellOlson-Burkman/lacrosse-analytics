@@ -2,16 +2,22 @@ Team: Monmouth
 Season: 2021 D1
 Record: 8-3
 Winning %: 0.727
-Predicted Winning %: 0.598
+Predicted Winning %: 0.620
 
 Stat Comparison vs League Average:
   points_per_game: 13.820 (3.821 below average)
   scoring_defense: 8.730 (2.506 below average)
-  scoring_offense: 9.450 (1.864 below average)
-  scoring_margin: 0.730 (1.004 below average)
+  scoring_offense: 9.450 (1.863 below average)
   defensive_efficiency: 17.838 (2.135 above average)
-  saves_per_game: 10.360 (1.628 below average)
+  scoring_margin: 0.730 (1.000 below average)
+  saves_per_game: 10.360 (1.627 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 34.730 (3.836 above average)
   clearing_percentage: 0.880 (0.037 above average)
-  ground_balls_per_game: 34.730 (3.834 above average)
-  shot_percentage: 0.244 (0.047 below average)
-  offensive_efficiency: 38.730 (0.063 above average)
+  possession_value_index: 0.206 (0.037 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 38 of 64
+  Avg opponent win %: 0.473
+  Model schedule difficulty rank: 37 of 64
+  Schedule difficulty score: 0.474

@@ -2,16 +2,22 @@ Team: Johns Hopkins
 Season: 2016 D1
 Record: 8-7
 Winning %: 0.533
-Predicted Winning %: 0.519
+Predicted Winning %: 0.528
 
 Stat Comparison vs League Average:
   points_per_game: 19.600 (1.959 above average)
   scoring_defense: 11.600 (0.364 above average)
-  scoring_offense: 12.330 (1.016 above average)
-  scoring_margin: 0.730 (1.004 below average)
+  scoring_offense: 12.330 (1.017 above average)
   defensive_efficiency: 14.816 (0.887 below average)
-  saves_per_game: 10.270 (1.718 below average)
+  scoring_margin: 0.730 (1.000 below average)
+  saves_per_game: 10.270 (1.717 below average)
+  Win % (from schedule): 0.533 (0.035 above average)
+  ground_balls_per_game: 29.070 (1.824 below average)
   clearing_percentage: 0.843 (0.000 below average)
-  ground_balls_per_game: 29.070 (1.826 below average)
-  shot_percentage: 0.313 (0.022 above average)
-  offensive_efficiency: 39.393 (0.727 above average)
+  possession_value_index: 0.262 (0.092 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 2 of 68
+  Avg opponent win %: 0.602
+  Model schedule difficulty rank: 2 of 68
+  Schedule difficulty score: 0.601

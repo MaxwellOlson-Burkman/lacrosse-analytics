@@ -2,16 +2,22 @@ Team: Lehigh
 Season: 2024 D1
 Record: 10-7
 Winning %: 0.588
-Predicted Winning %: 0.423
+Predicted Winning %: 0.429
 
 Stat Comparison vs League Average:
   points_per_game: 14.710 (2.931 below average)
   scoring_defense: 11.000 (0.236 below average)
-  scoring_offense: 10.710 (0.604 below average)
-  scoring_margin: -0.290 (2.024 below average)
+  scoring_offense: 10.710 (0.603 below average)
   defensive_efficiency: 15.686 (0.017 below average)
-  saves_per_game: 11.470 (0.518 below average)
+  scoring_margin: -0.290 (2.020 below average)
+  saves_per_game: 11.470 (0.517 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 31.590 (0.696 above average)
   clearing_percentage: 0.826 (0.017 below average)
-  ground_balls_per_game: 31.590 (0.694 above average)
-  shot_percentage: 0.306 (0.015 above average)
-  offensive_efficiency: 35.000 (3.666 below average)
+  possession_value_index: 0.142 (0.028 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 26 of 73
+  Avg opponent win %: 0.512
+  Model schedule difficulty rank: 26 of 73
+  Schedule difficulty score: 0.512

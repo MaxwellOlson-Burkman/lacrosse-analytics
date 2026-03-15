@@ -2,16 +2,22 @@ Team: Virginia
 Season: 2014 D1
 Record: 10-6
 Winning %: 0.625
-Predicted Winning %: 0.631
+Predicted Winning %: 0.650
 
 Stat Comparison vs League Average:
   points_per_game: 20.310 (2.669 above average)
   scoring_defense: 11.130 (0.106 below average)
-  scoring_offense: 12.630 (1.316 above average)
-  scoring_margin: 1.500 (0.234 below average)
+  scoring_offense: 12.630 (1.317 above average)
   defensive_efficiency: 14.589 (1.114 below average)
-  saves_per_game: 9.880 (2.108 below average)
+  scoring_margin: 1.500 (0.230 below average)
+  saves_per_game: 9.880 (2.107 below average)
+  Win % (from schedule): 0.625 (0.127 above average)
+  ground_balls_per_game: 37.750 (6.856 above average)
   clearing_percentage: 0.851 (0.008 above average)
-  ground_balls_per_game: 37.750 (6.854 above average)
-  shot_percentage: 0.308 (0.017 above average)
-  offensive_efficiency: 41.006 (2.340 above average)
+  possession_value_index: 0.244 (0.075 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 4 of 67
+  Avg opponent win %: 0.590
+  Model schedule difficulty rank: 4 of 67
+  Schedule difficulty score: 0.589

@@ -2,16 +2,22 @@ Team: Villanova
 Season: 2022 D1
 Record: 9-6
 Winning %: 0.600
-Predicted Winning %: 0.612
+Predicted Winning %: 0.620
 
 Stat Comparison vs League Average:
   points_per_game: 21.470 (3.829 above average)
   scoring_defense: 11.670 (0.434 above average)
-  scoring_offense: 13.270 (1.956 above average)
-  scoring_margin: 1.600 (0.134 below average)
+  scoring_offense: 13.270 (1.957 above average)
   defensive_efficiency: 15.659 (0.044 below average)
-  saves_per_game: 12.130 (0.142 above average)
+  scoring_margin: 1.600 (0.130 below average)
+  saves_per_game: 12.130 (0.143 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 31.330 (0.436 above average)
   clearing_percentage: 0.839 (0.004 below average)
-  ground_balls_per_game: 31.330 (0.434 above average)
-  shot_percentage: 0.285 (0.006 below average)
-  offensive_efficiency: 46.561 (7.895 above average)
+  possession_value_index: 0.232 (0.063 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 29 of 72
+  Avg opponent win %: 0.505
+  Model schedule difficulty rank: 29 of 72
+  Schedule difficulty score: 0.505

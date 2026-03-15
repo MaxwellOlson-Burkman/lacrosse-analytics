@@ -2,16 +2,22 @@ Team: Young Harris
 Season: 2017 D2
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.548
+Predicted Winning %: 0.544
 
 Stat Comparison vs League Average:
   points_per_game: 19.070 (1.429 above average)
   scoring_defense: 9.870 (1.366 below average)
-  scoring_offense: 12.270 (0.956 above average)
-  scoring_margin: 5.035 (3.301 above average)
-  defensive_efficiency: 17.058 (1.354 above average)
-  saves_per_game: 11.825 (0.163 below average)
+  scoring_offense: 12.270 (0.957 above average)
+  defensive_efficiency: 17.058 (1.355 above average)
+  scoring_margin: 5.035 (3.305 above average)
+  saves_per_game: 11.825 (0.162 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 31.800 (0.906 above average)
   clearing_percentage: 0.855 (0.012 above average)
-  ground_balls_per_game: 31.800 (0.904 above average)
-  shot_percentage: 0.286 (0.005 below average)
-  offensive_efficiency: 42.902 (4.236 above average)
+  possession_value_index: 0.217 (0.047 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 61 of 65
+  Avg opponent win %: 0.397
+  Model schedule difficulty rank: 61 of 65
+  Schedule difficulty score: 0.397

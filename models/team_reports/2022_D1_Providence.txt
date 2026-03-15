@@ -2,16 +2,22 @@ Team: Providence
 Season: 2022 D1
 Record: 6-8
 Winning %: 0.429
-Predicted Winning %: 0.270
+Predicted Winning %: 0.285
 
 Stat Comparison vs League Average:
   points_per_game: 16.710 (0.931 below average)
   scoring_defense: 14.140 (2.904 above average)
-  scoring_offense: 11.070 (0.244 below average)
-  scoring_margin: -3.070 (4.804 below average)
+  scoring_offense: 11.070 (0.243 below average)
   defensive_efficiency: 12.761 (2.942 below average)
-  saves_per_game: 11.570 (0.418 below average)
+  scoring_margin: -3.070 (4.800 below average)
+  saves_per_game: 11.570 (0.417 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 28.360 (2.534 below average)
   clearing_percentage: 0.874 (0.031 above average)
-  ground_balls_per_game: 28.360 (2.536 below average)
-  shot_percentage: 0.261 (0.030 below average)
-  offensive_efficiency: 42.414 (3.748 above average)
+  possession_value_index: 0.156 (0.013 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 38 of 72
+  Avg opponent win %: 0.476
+  Model schedule difficulty rank: 38 of 72
+  Schedule difficulty score: 0.475

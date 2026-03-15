@@ -2,16 +2,22 @@ Team: Wagner
 Season: 2015 D1
 Record: 4-9
 Winning %: 0.308
-Predicted Winning %: 0.364
+Predicted Winning %: 0.345
 
 Stat Comparison vs League Average:
   points_per_game: 11.310 (6.331 below average)
   scoring_defense: 8.230 (3.006 below average)
-  scoring_offense: 7.150 (4.164 below average)
-  scoring_margin: -1.080 (2.814 below average)
+  scoring_offense: 7.150 (4.163 below average)
   defensive_efficiency: 17.758 (2.055 above average)
-  saves_per_game: 9.310 (2.678 below average)
+  scoring_margin: -1.080 (2.810 below average)
+  saves_per_game: 9.310 (2.677 below average)
+  Win % (from schedule): 0.308 (0.191 below average)
+  ground_balls_per_game: 22.310 (8.584 below average)
   clearing_percentage: 0.806 (0.037 below average)
-  ground_balls_per_game: 22.310 (8.586 below average)
-  shot_percentage: 0.227 (0.064 below average)
-  offensive_efficiency: 31.498 (7.168 below average)
+  possession_value_index: 0.205 (0.035 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 68 of 68
+  Avg opponent win %: 0.342
+  Model schedule difficulty rank: 68 of 68
+  Schedule difficulty score: 0.341

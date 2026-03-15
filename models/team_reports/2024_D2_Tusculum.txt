@@ -2,16 +2,22 @@ Team: Tusculum
 Season: 2024 D2
 Record: 2-14
 Winning %: 0.125
-Predicted Winning %: 0.136
+Predicted Winning %: 0.151
 
 Stat Comparison vs League Average:
   points_per_game: 15.630 (2.011 below average)
   scoring_defense: 18.190 (6.954 above average)
-  scoring_offense: 9.380 (1.934 below average)
-  scoring_margin: -8.810 (10.544 below average)
+  scoring_offense: 9.380 (1.933 below average)
   defensive_efficiency: 9.787 (5.916 below average)
-  saves_per_game: 16.440 (4.452 above average)
+  scoring_margin: -8.810 (10.540 below average)
+  saves_per_game: 16.440 (4.453 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 31.250 (0.356 above average)
   clearing_percentage: 0.733 (0.110 below average)
-  ground_balls_per_game: 31.250 (0.354 above average)
-  shot_percentage: 0.314 (0.023 above average)
-  offensive_efficiency: 29.873 (8.794 below average)
+  possession_value_index: 0.019 (0.151 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 39 of 79
+  Avg opponent win %: 0.502
+  Model schedule difficulty rank: 38 of 79
+  Schedule difficulty score: 0.503

@@ -2,16 +2,22 @@ Team: Bellarmine
 Season: 2021 D1
 Record: 5-10
 Winning %: 0.333
-Predicted Winning %: 0.272
+Predicted Winning %: 0.292
 
 Stat Comparison vs League Average:
   points_per_game: 12.470 (5.171 below average)
   scoring_defense: 10.930 (0.306 below average)
-  scoring_offense: 7.870 (3.444 below average)
-  scoring_margin: -3.070 (4.804 below average)
+  scoring_offense: 7.870 (3.443 below average)
   defensive_efficiency: 15.600 (0.103 below average)
-  saves_per_game: 11.000 (0.988 below average)
+  scoring_margin: -3.070 (4.800 below average)
+  saves_per_game: 11.000 (0.987 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 21.800 (9.094 below average)
   clearing_percentage: 0.840 (0.003 below average)
-  ground_balls_per_game: 21.800 (9.096 below average)
-  shot_percentage: 0.251 (0.040 below average)
-  offensive_efficiency: 31.355 (7.312 below average)
+  possession_value_index: 0.100 (0.070 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 42 of 64
+  Avg opponent win %: 0.457
+  Model schedule difficulty rank: 42 of 64
+  Schedule difficulty score: 0.458

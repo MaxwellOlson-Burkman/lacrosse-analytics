@@ -2,16 +2,22 @@ Team: Detroit Mercy
 Season: 2021 D1
 Record: 3-4
 Winning %: 0.429
-Predicted Winning %: 0.482
+Predicted Winning %: 0.480
 
 Stat Comparison vs League Average:
   points_per_game: 14.710 (2.931 below average)
   scoring_defense: 9.570 (1.666 below average)
-  scoring_offense: 9.710 (1.604 below average)
-  scoring_margin: 0.140 (1.594 below average)
+  scoring_offense: 9.710 (1.603 below average)
   defensive_efficiency: 16.539 (0.836 above average)
-  saves_per_game: 11.430 (0.558 below average)
+  scoring_margin: 0.140 (1.590 below average)
+  saves_per_game: 11.430 (0.557 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 32.290 (1.396 above average)
   clearing_percentage: 0.835 (0.008 below average)
-  ground_balls_per_game: 32.290 (1.394 above average)
-  shot_percentage: 0.232 (0.059 below average)
-  offensive_efficiency: 41.853 (3.187 above average)
+  possession_value_index: 0.148 (0.022 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 49 of 64
+  Avg opponent win %: 0.445
+  Model schedule difficulty rank: 49 of 64
+  Schedule difficulty score: 0.445

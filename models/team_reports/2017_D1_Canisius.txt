@@ -2,16 +2,20 @@ Team: Canisius
 Season: 2017 D1
 Record: 6-9
 Winning %: 0.400
-Predicted Winning %: 0.418
+Predicted Winning %: 0.434
 
 Stat Comparison vs League Average:
   points_per_game: 15.730 (1.911 below average)
   scoring_defense: 10.670 (0.566 below average)
-  scoring_offense: 9.800 (1.514 below average)
-  scoring_margin: -0.870 (2.604 below average)
+  scoring_offense: 9.800 (1.513 below average)
   defensive_efficiency: 15.319 (0.384 below average)
-  saves_per_game: 9.730 (2.258 below average)
+  scoring_margin: -0.870 (2.600 below average)
+  saves_per_game: 9.730 (2.257 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 26.270 (4.624 below average)
   clearing_percentage: 0.869 (0.026 above average)
-  ground_balls_per_game: 26.270 (4.626 below average)
-  shot_percentage: 0.304 (0.013 above average)
-  offensive_efficiency: 32.237 (6.429 below average)
+  possession_value_index: 0.195 (0.026 above average)
+
+Strength of schedule:
+  Model schedule difficulty rank: 1 of 70
+  Schedule difficulty score: 0.495

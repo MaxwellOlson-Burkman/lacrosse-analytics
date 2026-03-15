@@ -2,16 +2,22 @@ Team: Hofstra
 Season: 2022 D1
 Record: 6-9
 Winning %: 0.400
-Predicted Winning %: 0.405
+Predicted Winning %: 0.421
 
 Stat Comparison vs League Average:
   points_per_game: 14.800 (2.841 below average)
   scoring_defense: 11.000 (0.236 below average)
-  scoring_offense: 10.000 (1.314 below average)
-  scoring_margin: -1.000 (2.734 below average)
+  scoring_offense: 10.000 (1.313 below average)
   defensive_efficiency: 15.934 (0.231 above average)
-  saves_per_game: 12.130 (0.142 above average)
+  scoring_margin: -1.000 (2.730 below average)
+  saves_per_game: 12.130 (0.143 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 28.800 (2.094 below average)
   clearing_percentage: 0.865 (0.022 above average)
-  ground_balls_per_game: 28.800 (2.096 below average)
-  shot_percentage: 0.294 (0.003 above average)
-  offensive_efficiency: 34.014 (4.653 below average)
+  possession_value_index: 0.135 (0.035 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 36 of 72
+  Avg opponent win %: 0.484
+  Model schedule difficulty rank: 34 of 72
+  Schedule difficulty score: 0.484

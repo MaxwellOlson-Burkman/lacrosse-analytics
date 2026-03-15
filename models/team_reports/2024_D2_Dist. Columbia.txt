@@ -2,16 +2,22 @@ Team: Dist. Columbia
 Season: 2024 D2
 Record: 1-11
 Winning %: 0.083
-Predicted Winning %: 0.024
+Predicted Winning %: 0.028
 
 Stat Comparison vs League Average:
   points_per_game: 8.250 (9.391 below average)
   scoring_defense: 19.330 (8.094 above average)
-  scoring_offense: 5.500 (5.814 below average)
-  scoring_margin: -13.830 (15.564 below average)
+  scoring_offense: 5.500 (5.813 below average)
   defensive_efficiency: 9.825 (5.878 below average)
-  saves_per_game: 19.250 (7.262 above average)
+  scoring_margin: -13.830 (15.560 below average)
+  saves_per_game: 19.250 (7.263 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 25.080 (5.814 below average)
   clearing_percentage: 0.633 (0.210 below average)
-  ground_balls_per_game: 25.080 (5.816 below average)
-  shot_percentage: 0.251 (0.040 below average)
-  offensive_efficiency: 21.912 (16.754 below average)
+  possession_value_index: 0.000 (0.170 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 66 of 79
+  Avg opponent win %: 0.438
+  Model schedule difficulty rank: 64 of 79
+  Schedule difficulty score: 0.439

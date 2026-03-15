@@ -2,16 +2,20 @@ Team: Hampton
 Season: 2017 D1
 Record: 1-7
 Winning %: 0.125
-Predicted Winning %: 0.228
+Predicted Winning %: 0.237
 
 Stat Comparison vs League Average:
   points_per_game: 15.800 (1.841 below average)
   scoring_defense: 13.630 (2.394 above average)
-  scoring_offense: 10.130 (1.184 below average)
-  scoring_margin: 0.130 (1.604 below average)
+  scoring_offense: 10.130 (1.183 below average)
   defensive_efficiency: 12.979 (2.724 below average)
-  saves_per_game: 14.130 (2.142 above average)
+  scoring_margin: 0.130 (1.600 below average)
+  saves_per_game: 14.130 (2.143 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 27.470 (3.424 below average)
   clearing_percentage: 0.897 (0.054 above average)
-  ground_balls_per_game: 27.470 (3.426 below average)
-  shot_percentage: 0.229 (0.062 below average)
-  offensive_efficiency: 44.236 (5.570 above average)
+  possession_value_index: 0.165 (0.004 below average)
+
+Strength of schedule:
+  Model schedule difficulty rank: 1 of 70
+  Schedule difficulty score: 0.495

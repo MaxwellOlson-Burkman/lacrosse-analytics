@@ -2,16 +2,22 @@ Team: Molloy
 Season: 2015 D2
 Record: 11-4
 Winning %: 0.733
-Predicted Winning %: 0.681
+Predicted Winning %: 0.692
 
 Stat Comparison vs League Average:
   points_per_game: 20.130 (2.489 above average)
   scoring_defense: 9.670 (1.566 below average)
-  scoring_offense: 12.870 (1.556 above average)
-  scoring_margin: 3.200 (1.466 above average)
+  scoring_offense: 12.870 (1.557 above average)
   defensive_efficiency: 16.536 (0.833 above average)
-  saves_per_game: 10.270 (1.718 below average)
+  scoring_margin: 3.200 (1.470 above average)
+  saves_per_game: 10.270 (1.717 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 30.600 (0.294 below average)
   clearing_percentage: 0.854 (0.011 above average)
-  ground_balls_per_game: 30.600 (0.296 below average)
-  shot_percentage: 0.311 (0.020 above average)
-  offensive_efficiency: 41.383 (2.717 above average)
+  possession_value_index: 0.239 (0.070 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 53 of 59
+  Avg opponent win %: 0.397
+  Model schedule difficulty rank: 53 of 59
+  Schedule difficulty score: 0.397

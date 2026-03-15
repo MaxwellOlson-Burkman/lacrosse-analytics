@@ -2,16 +2,22 @@ Team: Notre Dame de Namur
 Season: 2018 D2
 Record: 2-8
 Winning %: 0.200
-Predicted Winning %: 0.281
+Predicted Winning %: 0.279
 
 Stat Comparison vs League Average:
   points_per_game: 13.500 (4.141 below average)
   scoring_defense: 12.900 (1.664 above average)
-  scoring_offense: 9.000 (2.314 below average)
-  scoring_margin: 5.195 (3.461 above average)
+  scoring_offense: 9.000 (2.313 below average)
   defensive_efficiency: 13.460 (2.243 below average)
-  saves_per_game: 9.300 (2.688 below average)
+  scoring_margin: 5.195 (3.465 above average)
+  saves_per_game: 9.300 (2.687 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 32.300 (1.406 above average)
   clearing_percentage: 0.725 (0.118 below average)
-  ground_balls_per_game: 32.300 (1.404 above average)
-  shot_percentage: 0.243 (0.048 below average)
-  offensive_efficiency: 37.037 (1.629 below average)
+  possession_value_index: 0.090 (0.079 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 45 of 68
+  Avg opponent win %: 0.486
+  Model schedule difficulty rank: 45 of 68
+  Schedule difficulty score: 0.487

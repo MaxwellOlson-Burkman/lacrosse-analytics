@@ -2,16 +2,22 @@ Team: UMass Lowell
 Season: 2023 D1
 Record: 0-13
 Winning %: 0.000
-Predicted Winning %: 0.072
+Predicted Winning %: 0.074
 
 Stat Comparison vs League Average:
   points_per_game: 11.770 (5.871 below average)
   scoring_defense: 15.770 (4.534 above average)
-  scoring_offense: 7.920 (3.394 below average)
-  scoring_margin: -7.850 (9.584 below average)
+  scoring_offense: 7.920 (3.393 below average)
   defensive_efficiency: 11.965 (3.738 below average)
-  saves_per_game: 15.000 (3.012 above average)
+  scoring_margin: -7.850 (9.580 below average)
+  saves_per_game: 15.000 (3.013 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 24.380 (6.514 below average)
   clearing_percentage: 0.818 (0.025 below average)
-  ground_balls_per_game: 24.380 (6.516 below average)
-  shot_percentage: 0.293 (0.002 above average)
-  offensive_efficiency: 27.031 (11.635 below average)
+  possession_value_index: 0.094 (0.076 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 30 of 72
+  Avg opponent win %: 0.502
+  Model schedule difficulty rank: 30 of 72
+  Schedule difficulty score: 0.502

@@ -2,16 +2,22 @@ Team: Bentley
 Season: 2017 D2
 Record: 6-7
 Winning %: 0.462
-Predicted Winning %: 0.500
+Predicted Winning %: 0.517
 
 Stat Comparison vs League Average:
   points_per_game: 15.920 (1.721 below average)
   scoring_defense: 9.770 (1.466 below average)
-  scoring_offense: 10.690 (0.624 below average)
-  scoring_margin: 5.035 (3.301 above average)
+  scoring_offense: 10.690 (0.623 below average)
   defensive_efficiency: 17.119 (1.416 above average)
-  saves_per_game: 10.080 (1.908 below average)
+  scoring_margin: 5.035 (3.305 above average)
+  saves_per_game: 10.080 (1.907 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 34.920 (4.026 above average)
   clearing_percentage: 0.763 (0.080 below average)
-  ground_balls_per_game: 34.920 (4.024 above average)
-  shot_percentage: 0.277 (0.014 below average)
-  offensive_efficiency: 38.592 (0.074 below average)
+  possession_value_index: 0.195 (0.026 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 16 of 65
+  Avg opponent win %: 0.532
+  Model schedule difficulty rank: 16 of 65
+  Schedule difficulty score: 0.532

@@ -2,16 +2,22 @@ Team: Yale
 Season: 2015 D1
 Record: 11-5
 Winning %: 0.688
-Predicted Winning %: 0.697
+Predicted Winning %: 0.702
 
 Stat Comparison vs League Average:
   points_per_game: 18.060 (0.419 above average)
   scoring_defense: 8.130 (3.106 below average)
-  scoring_offense: 11.380 (0.066 above average)
-  scoring_margin: 3.250 (1.516 above average)
+  scoring_offense: 11.380 (0.067 above average)
   defensive_efficiency: 17.962 (2.259 above average)
-  saves_per_game: 8.440 (3.548 below average)
+  scoring_margin: 3.250 (1.520 above average)
+  saves_per_game: 8.440 (3.547 below average)
+  Win % (from schedule): 0.688 (0.189 above average)
+  ground_balls_per_game: 27.380 (3.514 below average)
   clearing_percentage: 0.891 (0.048 above average)
-  ground_balls_per_game: 27.380 (3.516 below average)
-  shot_percentage: 0.324 (0.033 above average)
-  offensive_efficiency: 35.123 (3.543 below average)
+  possession_value_index: 0.239 (0.070 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 9 of 68
+  Avg opponent win %: 0.552
+  Model schedule difficulty rank: 9 of 68
+  Schedule difficulty score: 0.552

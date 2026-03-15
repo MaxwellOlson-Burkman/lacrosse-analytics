@@ -2,16 +2,22 @@ Team: High Point
 Season: 2018 D1
 Record: 6-8
 Winning %: 0.429
-Predicted Winning %: 0.444
+Predicted Winning %: 0.433
 
 Stat Comparison vs League Average:
   points_per_game: 17.000 (0.641 below average)
   scoring_defense: 12.070 (0.834 above average)
-  scoring_offense: 11.360 (0.046 above average)
-  scoring_margin: -0.710 (2.444 below average)
+  scoring_offense: 11.360 (0.047 above average)
   defensive_efficiency: 15.165 (0.538 below average)
-  saves_per_game: 13.000 (1.012 above average)
+  scoring_margin: -0.710 (2.440 below average)
+  saves_per_game: 13.000 (1.013 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 31.070 (0.176 above average)
   clearing_percentage: 0.891 (0.048 above average)
-  ground_balls_per_game: 31.070 (0.174 above average)
-  shot_percentage: 0.317 (0.026 above average)
-  offensive_efficiency: 35.836 (2.830 below average)
+  possession_value_index: 0.205 (0.036 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 28 of 71
+  Avg opponent win %: 0.511
+  Model schedule difficulty rank: 28 of 71
+  Schedule difficulty score: 0.512

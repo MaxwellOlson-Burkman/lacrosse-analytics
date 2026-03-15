@@ -2,16 +2,22 @@ Team: Syracuse
 Season: 2016 D1
 Record: 12-5
 Winning %: 0.706
-Predicted Winning %: 0.705
+Predicted Winning %: 0.703
 
 Stat Comparison vs League Average:
   points_per_game: 19.470 (1.829 above average)
   scoring_defense: 8.760 (2.476 below average)
-  scoring_offense: 12.470 (1.156 above average)
-  scoring_margin: 3.710 (1.976 above average)
+  scoring_offense: 12.470 (1.157 above average)
   defensive_efficiency: 16.420 (0.717 above average)
-  saves_per_game: 8.350 (3.638 below average)
+  scoring_margin: 3.710 (1.980 above average)
+  saves_per_game: 8.350 (3.637 below average)
+  Win % (from schedule): 0.706 (0.207 above average)
+  ground_balls_per_game: 30.590 (0.304 below average)
   clearing_percentage: 0.902 (0.059 above average)
-  ground_balls_per_game: 30.590 (0.306 below average)
-  shot_percentage: 0.306 (0.015 above average)
-  offensive_efficiency: 40.752 (2.086 above average)
+  possession_value_index: 0.330 (0.161 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 26 of 68
+  Avg opponent win %: 0.512
+  Model schedule difficulty rank: 26 of 68
+  Schedule difficulty score: 0.512

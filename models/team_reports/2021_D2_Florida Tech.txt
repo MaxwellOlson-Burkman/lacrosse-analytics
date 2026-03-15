@@ -2,16 +2,22 @@ Team: Florida Tech
 Season: 2021 D2
 Record: 3-5
 Winning %: 0.375
-Predicted Winning %: 0.439
+Predicted Winning %: 0.462
 
 Stat Comparison vs League Average:
   points_per_game: 19.750 (2.109 above average)
   scoring_defense: 12.880 (1.644 above average)
-  scoring_offense: 12.500 (1.186 above average)
-  scoring_margin: 6.375 (4.641 above average)
+  scoring_offense: 12.500 (1.187 above average)
   defensive_efficiency: 13.619 (2.084 below average)
-  saves_per_game: 10.880 (1.108 below average)
+  scoring_margin: 6.375 (4.645 above average)
+  saves_per_game: 10.880 (1.107 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 38.250 (7.356 above average)
   clearing_percentage: 0.821 (0.022 below average)
-  ground_balls_per_game: 38.250 (7.354 above average)
-  shot_percentage: 0.289 (0.002 below average)
-  offensive_efficiency: 43.253 (4.586 above average)
+  possession_value_index: 0.080 (0.089 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 3 of 69
+  Avg opponent win %: 0.582
+  Model schedule difficulty rank: 3 of 69
+  Schedule difficulty score: 0.581

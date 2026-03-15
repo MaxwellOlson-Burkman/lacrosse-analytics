@@ -2,16 +2,22 @@ Team: Harvard
 Season: 2023 D1
 Record: 5-7
 Winning %: 0.417
-Predicted Winning %: 0.426
+Predicted Winning %: 0.449
 
 Stat Comparison vs League Average:
   points_per_game: 19.830 (2.189 above average)
   scoring_defense: 13.420 (2.184 above average)
-  scoring_offense: 12.500 (1.186 above average)
-  scoring_margin: -0.920 (2.654 below average)
+  scoring_offense: 12.500 (1.187 above average)
   defensive_efficiency: 13.314 (2.389 below average)
-  saves_per_game: 11.330 (0.658 below average)
+  scoring_margin: -0.920 (2.650 below average)
+  saves_per_game: 11.330 (0.657 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 35.580 (4.686 above average)
   clearing_percentage: 0.891 (0.048 above average)
-  ground_balls_per_game: 35.580 (4.684 above average)
-  shot_percentage: 0.271 (0.020 below average)
-  offensive_efficiency: 46.125 (7.459 above average)
+  possession_value_index: 0.173 (0.003 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 19 of 72
+  Avg opponent win %: 0.538
+  Model schedule difficulty rank: 19 of 72
+  Schedule difficulty score: 0.537

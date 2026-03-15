@@ -2,16 +2,22 @@ Team: Princeton
 Season: 2016 D1
 Record: 5-8
 Winning %: 0.385
-Predicted Winning %: 0.403
+Predicted Winning %: 0.407
 
 Stat Comparison vs League Average:
   points_per_game: 16.540 (1.101 below average)
   scoring_defense: 11.540 (0.304 above average)
-  scoring_offense: 10.000 (1.314 below average)
-  scoring_margin: -1.540 (3.274 below average)
+  scoring_offense: 10.000 (1.313 below average)
   defensive_efficiency: 14.251 (1.452 below average)
-  saves_per_game: 9.920 (2.068 below average)
+  scoring_margin: -1.540 (3.270 below average)
+  saves_per_game: 9.920 (2.067 below average)
+  Win % (from schedule): 0.385 (0.114 below average)
+  ground_balls_per_game: 29.850 (1.044 below average)
   clearing_percentage: 0.863 (0.020 above average)
-  ground_balls_per_game: 29.850 (1.046 below average)
-  shot_percentage: 0.327 (0.036 above average)
-  offensive_efficiency: 30.581 (8.085 below average)
+  possession_value_index: 0.241 (0.072 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 13 of 68
+  Avg opponent win %: 0.547
+  Model schedule difficulty rank: 13 of 68
+  Schedule difficulty score: 0.547

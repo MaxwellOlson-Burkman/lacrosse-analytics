@@ -2,16 +2,22 @@ Team: CSU Pueblo
 Season: 2024 D2
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.143
+Predicted Winning %: 0.150
 
 Stat Comparison vs League Average:
   points_per_game: 13.860 (3.781 below average)
   scoring_defense: 18.570 (7.334 above average)
-  scoring_offense: 8.710 (2.604 below average)
-  scoring_margin: -9.860 (11.594 below average)
+  scoring_offense: 8.710 (2.603 below average)
   defensive_efficiency: 7.695 (8.008 below average)
-  saves_per_game: 10.500 (1.488 below average)
+  scoring_margin: -9.860 (11.590 below average)
+  saves_per_game: 10.500 (1.487 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 34.070 (3.176 above average)
   clearing_percentage: 0.718 (0.125 below average)
-  ground_balls_per_game: 34.070 (3.174 above average)
-  shot_percentage: 0.272 (0.019 below average)
-  offensive_efficiency: 32.022 (6.644 below average)
+  possession_value_index: 0.010 (0.159 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 68 of 79
+  Avg opponent win %: 0.430
+  Model schedule difficulty rank: 68 of 79
+  Schedule difficulty score: 0.430

@@ -2,16 +2,22 @@ Team: Lindenwood
 Season: 2016 D2
 Record: 10-6
 Winning %: 0.625
-Predicted Winning %: 0.638
+Predicted Winning %: 0.648
 
 Stat Comparison vs League Average:
   points_per_game: 15.630 (2.011 below average)
   scoring_defense: 7.750 (3.486 below average)
-  scoring_offense: 10.940 (0.374 below average)
-  scoring_margin: 3.190 (1.456 above average)
+  scoring_offense: 10.940 (0.373 below average)
   defensive_efficiency: 19.258 (3.555 above average)
-  saves_per_game: 9.310 (2.678 below average)
+  scoring_margin: 3.190 (1.460 above average)
+  saves_per_game: 9.310 (2.677 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 30.690 (0.204 below average)
   clearing_percentage: 0.859 (0.016 above average)
-  ground_balls_per_game: 30.690 (0.206 below average)
-  shot_percentage: 0.273 (0.018 below average)
-  offensive_efficiency: 40.073 (1.407 above average)
+  possession_value_index: 0.201 (0.032 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 26 of 63
+  Avg opponent win %: 0.504
+  Model schedule difficulty rank: 26 of 63
+  Schedule difficulty score: 0.505

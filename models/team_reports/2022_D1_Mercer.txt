@@ -2,16 +2,22 @@ Team: Mercer
 Season: 2022 D1
 Record: 5-10
 Winning %: 0.333
-Predicted Winning %: 0.291
+Predicted Winning %: 0.299
 
 Stat Comparison vs League Average:
   points_per_game: 16.800 (0.841 below average)
   scoring_defense: 13.800 (2.564 above average)
-  scoring_offense: 10.470 (0.844 below average)
-  scoring_margin: -3.330 (5.064 below average)
+  scoring_offense: 10.470 (0.843 below average)
   defensive_efficiency: 13.340 (2.363 below average)
-  saves_per_game: 12.800 (0.812 above average)
+  scoring_margin: -3.330 (5.060 below average)
+  saves_per_game: 12.800 (0.813 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 26.330 (4.564 below average)
   clearing_percentage: 0.879 (0.036 above average)
-  ground_balls_per_game: 26.330 (4.566 below average)
-  shot_percentage: 0.282 (0.009 below average)
-  offensive_efficiency: 37.128 (1.538 below average)
+  possession_value_index: 0.147 (0.022 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 50 of 72
+  Avg opponent win %: 0.455
+  Model schedule difficulty rank: 49 of 72
+  Schedule difficulty score: 0.455

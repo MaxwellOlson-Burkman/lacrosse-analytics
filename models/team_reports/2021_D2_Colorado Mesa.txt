@@ -2,16 +2,22 @@ Team: Colorado Mesa
 Season: 2021 D2
 Record: 9-2
 Winning %: 0.818
-Predicted Winning %: 0.880
+Predicted Winning %: 0.899
 
 Stat Comparison vs League Average:
   points_per_game: 27.270 (9.629 above average)
   scoring_defense: 7.270 (3.966 below average)
-  scoring_offense: 16.000 (4.686 above average)
-  scoring_margin: 8.730 (6.996 above average)
+  scoring_offense: 16.000 (4.687 above average)
   defensive_efficiency: 20.096 (4.393 above average)
-  saves_per_game: 10.820 (1.168 below average)
+  scoring_margin: 8.730 (7.000 above average)
+  saves_per_game: 10.820 (1.167 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 44.360 (13.466 above average)
   clearing_percentage: 0.901 (0.058 above average)
-  ground_balls_per_game: 44.360 (13.464 above average)
-  shot_percentage: 0.295 (0.004 above average)
-  offensive_efficiency: 54.237 (15.571 above average)
+  possession_value_index: 0.177 (0.008 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 66 of 69
+  Avg opponent win %: 0.390
+  Model schedule difficulty rank: 66 of 69
+  Schedule difficulty score: 0.390

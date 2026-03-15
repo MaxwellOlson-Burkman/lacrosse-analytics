@@ -2,16 +2,22 @@ Team: Jacksonville
 Season: 2023 D1
 Record: 12-4
 Winning %: 0.750
-Predicted Winning %: 0.709
+Predicted Winning %: 0.710
 
 Stat Comparison vs League Average:
   points_per_game: 22.880 (5.239 above average)
   scoring_defense: 10.250 (0.986 below average)
-  scoring_offense: 14.440 (3.126 above average)
-  scoring_margin: 4.190 (2.456 above average)
+  scoring_offense: 14.440 (3.127 above average)
   defensive_efficiency: 17.327 (1.624 above average)
-  saves_per_game: 12.190 (0.202 above average)
+  scoring_margin: 4.190 (2.460 above average)
+  saves_per_game: 12.190 (0.203 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 35.560 (4.666 above average)
   clearing_percentage: 0.877 (0.034 above average)
-  ground_balls_per_game: 35.560 (4.664 above average)
-  shot_percentage: 0.315 (0.024 above average)
-  offensive_efficiency: 45.841 (7.175 above average)
+  possession_value_index: 0.186 (0.017 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 50 of 72
+  Avg opponent win %: 0.468
+  Model schedule difficulty rank: 50 of 72
+  Schedule difficulty score: 0.468

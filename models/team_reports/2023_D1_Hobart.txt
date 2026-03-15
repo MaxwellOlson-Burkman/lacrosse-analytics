@@ -2,16 +2,22 @@ Team: Hobart
 Season: 2023 D1
 Record: 5-8
 Winning %: 0.385
-Predicted Winning %: 0.412
+Predicted Winning %: 0.441
 
 Stat Comparison vs League Average:
   points_per_game: 19.540 (1.899 above average)
   scoring_defense: 14.380 (3.144 above average)
-  scoring_offense: 13.230 (1.916 above average)
-  scoring_margin: -1.150 (2.884 below average)
+  scoring_offense: 13.230 (1.917 above average)
   defensive_efficiency: 12.120 (3.583 below average)
-  saves_per_game: 12.000 (0.012 above average)
+  scoring_margin: -1.150 (2.880 below average)
+  saves_per_game: 12.000 (0.013 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 27.920 (2.974 below average)
   clearing_percentage: 0.845 (0.002 above average)
-  ground_balls_per_game: 27.920 (2.976 below average)
-  shot_percentage: 0.299 (0.008 above average)
-  offensive_efficiency: 44.247 (5.581 above average)
+  possession_value_index: 0.218 (0.048 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 46 of 72
+  Avg opponent win %: 0.475
+  Model schedule difficulty rank: 46 of 72
+  Schedule difficulty score: 0.475

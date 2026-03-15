@@ -2,16 +2,22 @@ Team: Duke
 Season: 2015 D1
 Record: 12-6
 Winning %: 0.667
-Predicted Winning %: 0.689
+Predicted Winning %: 0.696
 
 Stat Comparison vs League Average:
   points_per_game: 22.390 (4.749 above average)
   scoring_defense: 11.560 (0.324 above average)
-  scoring_offense: 14.280 (2.966 above average)
-  scoring_margin: 2.720 (0.986 above average)
+  scoring_offense: 14.280 (2.967 above average)
   defensive_efficiency: 14.585 (1.118 below average)
-  saves_per_game: 11.000 (0.988 below average)
+  scoring_margin: 2.720 (0.990 above average)
+  saves_per_game: 11.000 (0.987 below average)
+  Win % (from schedule): 0.667 (0.168 above average)
+  ground_balls_per_game: 37.000 (6.106 above average)
   clearing_percentage: 0.876 (0.033 above average)
-  ground_balls_per_game: 37.000 (6.104 above average)
-  shot_percentage: 0.322 (0.031 above average)
-  offensive_efficiency: 44.348 (5.682 above average)
+  possession_value_index: 0.230 (0.060 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 3 of 68
+  Avg opponent win %: 0.613
+  Model schedule difficulty rank: 3 of 68
+  Schedule difficulty score: 0.612

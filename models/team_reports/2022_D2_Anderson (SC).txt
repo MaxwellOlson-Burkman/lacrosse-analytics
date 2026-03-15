@@ -2,16 +2,22 @@ Team: Anderson (SC)
 Season: 2022 D2
 Record: 9-7
 Winning %: 0.563
-Predicted Winning %: 0.601
+Predicted Winning %: 0.608
 
 Stat Comparison vs League Average:
   points_per_game: 23.630 (5.989 above average)
   scoring_defense: 13.000 (1.764 above average)
-  scoring_offense: 14.630 (3.316 above average)
-  scoring_margin: 1.630 (0.104 below average)
+  scoring_offense: 14.630 (3.317 above average)
   defensive_efficiency: 14.719 (0.984 below average)
-  saves_per_game: 14.380 (2.392 above average)
+  scoring_margin: 1.630 (0.100 below average)
+  saves_per_game: 14.380 (2.393 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 38.130 (7.236 above average)
   clearing_percentage: 0.828 (0.015 below average)
-  ground_balls_per_game: 38.130 (7.234 above average)
-  shot_percentage: 0.321 (0.030 above average)
-  offensive_efficiency: 45.576 (6.910 above average)
+  possession_value_index: 0.153 (0.017 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 38 of 74
+  Avg opponent win %: 0.491
+  Model schedule difficulty rank: 37 of 74
+  Schedule difficulty score: 0.492

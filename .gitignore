@@ -7,4 +7,5 @@ data/raw/
 data/chroma/
 
 # Model binaries (large; regenerate with run_training.py)
-models/*.joblib
+models/*.joblib__pycache__/
+*.pyc

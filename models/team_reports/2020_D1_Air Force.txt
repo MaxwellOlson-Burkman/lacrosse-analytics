@@ -2,16 +2,22 @@ Team: Air Force
 Season: 2020 D1
 Record: 4-3
 Winning %: 0.571
-Predicted Winning %: 0.489
+Predicted Winning %: 0.488
 
 Stat Comparison vs League Average:
   points_per_game: 17.000 (0.641 below average)
   scoring_defense: 11.000 (0.236 below average)
-  scoring_offense: 10.290 (1.024 below average)
-  scoring_margin: -0.710 (2.444 below average)
+  scoring_offense: 10.290 (1.023 below average)
   defensive_efficiency: 16.392 (0.689 above average)
-  saves_per_game: 12.290 (0.302 above average)
+  scoring_margin: -0.710 (2.440 below average)
+  saves_per_game: 12.290 (0.303 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 27.710 (3.184 below average)
   clearing_percentage: 0.810 (0.033 below average)
-  ground_balls_per_game: 27.710 (3.186 below average)
-  shot_percentage: 0.312 (0.021 above average)
-  offensive_efficiency: 32.981 (5.685 below average)
+  possession_value_index: 0.161 (0.009 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 59 of 74
+  Avg opponent win %: 0.410
+  Model schedule difficulty rank: 59 of 74
+  Schedule difficulty score: 0.411

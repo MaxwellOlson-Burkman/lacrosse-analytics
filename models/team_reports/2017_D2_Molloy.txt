@@ -2,16 +2,22 @@ Team: Molloy
 Season: 2017 D2
 Record: 9-5
 Winning %: 0.643
-Predicted Winning %: 0.671
+Predicted Winning %: 0.649
 
 Stat Comparison vs League Average:
   points_per_game: 16.000 (1.641 below average)
   scoring_defense: 7.710 (3.526 below average)
-  scoring_offense: 10.000 (1.314 below average)
-  scoring_margin: 5.035 (3.301 above average)
+  scoring_offense: 10.000 (1.313 below average)
   defensive_efficiency: 18.407 (2.704 above average)
-  saves_per_game: 8.790 (3.198 below average)
+  scoring_margin: 5.035 (3.305 above average)
+  saves_per_game: 8.790 (3.197 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 30.710 (0.184 below average)
   clearing_percentage: 0.872 (0.029 above average)
-  ground_balls_per_game: 30.710 (0.186 below average)
-  shot_percentage: 0.245 (0.046 below average)
-  offensive_efficiency: 40.816 (2.150 above average)
+  possession_value_index: 0.224 (0.054 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 42 of 65
+  Avg opponent win %: 0.477
+  Model schedule difficulty rank: 42 of 65
+  Schedule difficulty score: 0.476

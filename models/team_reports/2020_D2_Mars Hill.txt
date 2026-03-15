@@ -2,16 +2,22 @@ Team: Mars Hill
 Season: 2020 D2
 Record: 3-5
 Winning %: 0.375
-Predicted Winning %: 0.273
+Predicted Winning %: 0.292
 
 Stat Comparison vs League Average:
   points_per_game: 15.500 (2.141 below average)
   scoring_defense: 16.130 (4.894 above average)
-  scoring_offense: 10.380 (0.934 below average)
-  scoring_margin: 6.680 (4.946 above average)
+  scoring_offense: 10.380 (0.933 below average)
   defensive_efficiency: 11.104 (4.599 below average)
-  saves_per_game: 13.630 (1.642 above average)
+  scoring_margin: 6.680 (4.950 above average)
+  saves_per_game: 13.630 (1.643 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 40.000 (9.106 above average)
   clearing_percentage: 0.721 (0.122 below average)
-  ground_balls_per_game: 40.000 (9.104 above average)
-  shot_percentage: 0.286 (0.005 below average)
-  offensive_efficiency: 36.294 (2.372 below average)
+  possession_value_index: 0.000 (0.170 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 48 of 72
+  Avg opponent win %: 0.469
+  Model schedule difficulty rank: 48 of 72
+  Schedule difficulty score: 0.470

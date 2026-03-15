@@ -56,7 +56,9 @@ The `team_stats_model_ready.*` outputs are standardized for ML training and incl
 
 - **Processed files** (`processed/*.csv`, `processed/*.parquet`) are committed so the repo is usable without re-scraping.
 - **Coverage:** D1 and D2, academic years 2014–2024 (~1,418 team-season rows).
-- **Known gaps:** `winning_percentage` and `opponent_clear_percentage` are partially missing (especially in archive-sourced years). Run `python scripts/data_completeness_report.py` for details.
+- **winning_percentage:** Filled from `record` (e.g. `12-6` → 12/18) in the pipeline, or run `python scripts/backfill_winning_percentage.py --inplace` on existing files.
+- **opponent_clear_percentage:** Present for stats.ncaa.org–sourced years (e.g. 2020 D1, 2022–2024 D1/D2); missing for many archive years. Recent years (2022–2024) are fully filled for all 16 features.
+- Run `python scripts/data_completeness_report.py` for per-feature and per-year completeness.
 
 ## Last Updated
 

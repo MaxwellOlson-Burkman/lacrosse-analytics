@@ -2,16 +2,22 @@ Team: Penn
 Season: 2023 D1
 Record: 7-6
 Winning %: 0.538
-Predicted Winning %: 0.570
+Predicted Winning %: 0.565
 
 Stat Comparison vs League Average:
   points_per_game: 19.380 (1.739 above average)
   scoring_defense: 11.230 (0.006 below average)
-  scoring_offense: 11.850 (0.536 above average)
-  scoring_margin: 0.620 (1.114 below average)
+  scoring_offense: 11.850 (0.537 above average)
   defensive_efficiency: 15.812 (0.109 above average)
-  saves_per_game: 13.690 (1.702 above average)
+  scoring_margin: 0.620 (1.110 below average)
+  saves_per_game: 13.690 (1.703 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 27.770 (3.124 below average)
   clearing_percentage: 0.884 (0.041 above average)
-  ground_balls_per_game: 27.770 (3.126 below average)
-  shot_percentage: 0.300 (0.009 above average)
-  offensive_efficiency: 39.500 (0.834 above average)
+  possession_value_index: 0.175 (0.006 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 7 of 72
+  Avg opponent win %: 0.601
+  Model schedule difficulty rank: 7 of 72
+  Schedule difficulty score: 0.601

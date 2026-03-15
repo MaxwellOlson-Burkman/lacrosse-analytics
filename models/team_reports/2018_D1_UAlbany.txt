@@ -2,16 +2,22 @@ Team: UAlbany
 Season: 2018 D1
 Record: 16-3
 Winning %: 0.842
-Predicted Winning %: 0.795
+Predicted Winning %: 0.792
 
 Stat Comparison vs League Average:
   points_per_game: 24.000 (6.359 above average)
   scoring_defense: 8.630 (2.606 below average)
-  scoring_offense: 14.420 (3.106 above average)
-  scoring_margin: 5.790 (4.056 above average)
+  scoring_offense: 14.420 (3.107 above average)
   defensive_efficiency: 17.556 (1.853 above average)
-  saves_per_game: 10.470 (1.518 below average)
+  scoring_margin: 5.790 (4.060 above average)
+  saves_per_game: 10.470 (1.517 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 33.260 (2.366 above average)
   clearing_percentage: 0.918 (0.075 above average)
-  ground_balls_per_game: 33.260 (2.364 above average)
-  shot_percentage: 0.326 (0.035 above average)
-  offensive_efficiency: 44.233 (5.567 above average)
+  possession_value_index: 0.387 (0.217 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 9 of 71
+  Avg opponent win %: 0.562
+  Model schedule difficulty rank: 9 of 71
+  Schedule difficulty score: 0.564

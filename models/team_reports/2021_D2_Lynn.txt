@@ -2,16 +2,22 @@ Team: Lynn
 Season: 2021 D2
 Record: 6-2
 Winning %: 0.750
-Predicted Winning %: 0.720
+Predicted Winning %: 0.727
 
 Stat Comparison vs League Average:
   points_per_game: 20.250 (2.609 above average)
   scoring_defense: 9.630 (1.606 below average)
-  scoring_offense: 13.000 (1.686 above average)
-  scoring_margin: 3.380 (1.646 above average)
+  scoring_offense: 13.000 (1.687 above average)
   defensive_efficiency: 17.559 (1.856 above average)
-  saves_per_game: 11.380 (0.608 below average)
+  scoring_margin: 3.380 (1.650 above average)
+  saves_per_game: 11.380 (0.607 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 36.630 (5.736 above average)
   clearing_percentage: 0.877 (0.034 above average)
-  ground_balls_per_game: 36.630 (5.734 above average)
-  shot_percentage: 0.283 (0.008 below average)
-  offensive_efficiency: 45.936 (7.270 above average)
+  possession_value_index: 0.242 (0.072 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 52 of 69
+  Avg opponent win %: 0.441
+  Model schedule difficulty rank: 51 of 69
+  Schedule difficulty score: 0.441

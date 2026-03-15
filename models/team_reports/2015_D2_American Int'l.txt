@@ -2,16 +2,22 @@ Team: American Int'l
 Season: 2015 D2
 Record: 2-13
 Winning %: 0.133
-Predicted Winning %: 0.102
+Predicted Winning %: 0.111
 
 Stat Comparison vs League Average:
   points_per_game: 9.800 (7.841 below average)
   scoring_defense: 14.400 (3.164 above average)
-  scoring_offense: 6.470 (4.844 below average)
-  scoring_margin: 4.130 (2.396 above average)
+  scoring_offense: 6.470 (4.843 below average)
   defensive_efficiency: 13.175 (2.528 below average)
-  saves_per_game: 14.600 (2.612 above average)
+  scoring_margin: 4.130 (2.400 above average)
+  saves_per_game: 14.600 (2.613 above average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 25.400 (5.494 below average)
   clearing_percentage: 0.772 (0.071 below average)
-  ground_balls_per_game: 25.400 (5.496 below average)
-  shot_percentage: 0.255 (0.036 below average)
-  offensive_efficiency: 25.373 (13.294 below average)
+  possession_value_index: 0.035 (0.135 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 36 of 59
+  Avg opponent win %: 0.481
+  Model schedule difficulty rank: 36 of 59
+  Schedule difficulty score: 0.480

@@ -2,16 +2,22 @@ Team: Pace
 Season: 2024 D2
 Record: 13-4
 Winning %: 0.765
-Predicted Winning %: 0.760
+Predicted Winning %: 0.756
 
 Stat Comparison vs League Average:
   points_per_game: 23.590 (5.949 above average)
   scoring_defense: 10.180 (1.056 below average)
-  scoring_offense: 15.060 (3.746 above average)
-  scoring_margin: 4.880 (3.146 above average)
+  scoring_offense: 15.060 (3.747 above average)
   defensive_efficiency: 16.395 (0.692 above average)
-  saves_per_game: 10.350 (1.638 below average)
+  scoring_margin: 4.880 (3.150 above average)
+  saves_per_game: 10.350 (1.637 below average)
+  Win % (from schedule): 0.500 (0.002 above average)
+  ground_balls_per_game: 40.880 (9.986 above average)
   clearing_percentage: 0.886 (0.043 above average)
-  ground_balls_per_game: 40.880 (9.984 above average)
-  shot_percentage: 0.340 (0.049 above average)
-  offensive_efficiency: 44.294 (5.628 above average)
+  possession_value_index: 0.181 (0.012 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 16 of 79
+  Avg opponent win %: 0.556
+  Model schedule difficulty rank: 16 of 79
+  Schedule difficulty score: 0.556

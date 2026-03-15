@@ -2,16 +2,22 @@ Team: Siena
 Season: 2014 D1
 Record: 11-6
 Winning %: 0.647
-Predicted Winning %: 0.538
+Predicted Winning %: 0.596
 
 Stat Comparison vs League Average:
   points_per_game: 16.180 (1.461 below average)
   scoring_defense: 9.820 (1.416 below average)
-  scoring_offense: 10.180 (1.134 below average)
-  scoring_margin: 0.350 (1.384 below average)
+  scoring_offense: 10.180 (1.133 below average)
   defensive_efficiency: 15.751 (0.048 above average)
-  saves_per_game: 11.120 (0.868 below average)
+  scoring_margin: 0.350 (1.380 below average)
+  saves_per_game: 11.120 (0.867 below average)
+  Win % (from schedule): 0.647 (0.149 above average)
+  ground_balls_per_game: 31.470 (0.576 above average)
   clearing_percentage: 0.884 (0.041 above average)
-  ground_balls_per_game: 31.470 (0.574 above average)
-  shot_percentage: 0.253 (0.038 below average)
-  offensive_efficiency: 40.237 (1.571 above average)
+  possession_value_index: 0.239 (0.069 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 47 of 67
+  Avg opponent win %: 0.461
+  Model schedule difficulty rank: 47 of 67
+  Schedule difficulty score: 0.461
