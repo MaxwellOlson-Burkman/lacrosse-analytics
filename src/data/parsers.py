@@ -76,28 +76,11 @@ def parse_team_ranking_table(html: str, stat_name: str) -> list[dict]:
                     row["value"] = float(text) if text else None
                 except ValueError:
                     row["value"] = text
-            elif header == "goals" and "value" not in row:
-                try:
-                    row["value"] = float(text) if text else None
-                except ValueError:
-                    row["value"] = text
             else:
-                # Last numeric column is often the stat value
+                # NCAA always puts the ranking stat in the LAST numeric column.
+                # Keep overwriting so we end up with the rightmost value.
                 try:
-                    val = float(text.replace(",", ""))
-                    if "value" not in row:
-                        row["value"] = val
-                except (ValueError, AttributeError):
-                    pass
-
-        # Ensure value exists for pivot
-        if "value" not in row:
-            # Try last numeric cell
-            for c in reversed(cells[1:]):
-                t = c.get_text(strip=True)
-                try:
-                    row["value"] = float(t.replace(",", ""))
-                    break
+                    row["value"] = float(text.replace(",", ""))
                 except (ValueError, AttributeError):
                     pass
 
@@ -140,17 +123,25 @@ def load_and_parse_raw_files(
 
     df = pd.DataFrame(all_rows)
 
-    # Pivot: one row per team per season, columns = stat values
-    # Use minimal index - games/record may be absent on some stat pages
-    index_cols = ["academic_year", "division", "team_name", "org_id"]
-    extra_cols = [c for c in ("conference", "games", "record") if c in df.columns]
-    index_cols = [c for c in index_cols + extra_cols if c in df.columns]
-
+    # Pivot on the minimal key to avoid mismatches when different stat pages
+    # show different metadata (games, record) for the same team.
+    pivot_index = ["academic_year", "division", "team_name", "org_id"]
     pivot_df = df.pivot_table(
-        index=index_cols,
+        index=pivot_index,
         columns="stat",
         values="value",
         aggfunc="first",
     ).reset_index()
+
+    # Attach metadata (conference, games, record) from whichever stat page
+    # reported it, preferring non-null values.
+    for meta_col in ("conference", "games", "record"):
+        if meta_col not in df.columns:
+            continue
+        meta = (
+            df.dropna(subset=[meta_col])
+            .drop_duplicates(subset=pivot_index, keep="first")[pivot_index + [meta_col]]
+        )
+        pivot_df = pivot_df.merge(meta, on=pivot_index, how="left")
 
     return pivot_df

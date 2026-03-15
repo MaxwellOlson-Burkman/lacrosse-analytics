@@ -76,34 +76,39 @@ def _season_label(academic_year: int) -> str:
 
 
 def _extract_rankseq(index_html: str, academic_year: int, division: int) -> str | None:
-    """Extract the first rankSeq for season/division (final week row in UI)."""
+    """Extract the LAST (final-season) rankSeq for season/division.
+
+    The web1 ranksummary page lists multiple ranking snapshots per season;
+    the last one corresponds to end-of-season / final statistics.
+    """
+    def _find_all_in_window(window: str) -> list[str]:
+        return re.findall(rf"loadDivision\((\d+),\s*{division}\)", window)
+
     # Most reliable anchor is the division/year HTML marker (e.g., D2_2014)
-    # which appears in the expanded tree and avoids crossing into D1 blocks.
     marker_pattern = rf"D{division}_{academic_year}"
     marker_match = re.search(marker_pattern, index_html)
     if marker_match:
         window = index_html[marker_match.start() : marker_match.start() + 30000]
-        match = re.search(rf"loadDivision\((\d+),\s*{division}\)", window)
-        if match:
-            return match.group(1)
+        matches = _find_all_in_window(window)
+        if matches:
+            return matches[-1]
 
-    # Fallback: locate by season label and then constrain to division-specific loadDivision.
     season = _season_label(academic_year)
     season_idx = index_html.find(season)
     if season_idx != -1:
         window = index_html[season_idx : season_idx + 30000]
-        match = re.search(rf"loadDivision\((\d+),\s*{division}\)", window)
-        if match:
-            return match.group(1)
+        matches = _find_all_in_window(window)
+        if matches:
+            return matches[-1]
 
-    # Last resort: global search for division-specific loadDivision near year marker text.
-    global_match = re.search(
-        rf"(?:{academic_year}|{re.escape(_season_label(academic_year))}).*?loadDivision\((\d+),\s*{division}\)",
+    # Last resort: global search
+    all_matches = re.findall(
+        rf"(?:{academic_year}|{re.escape(season)}).*?loadDivision\((\d+),\s*{division}\)",
         index_html,
         re.DOTALL,
     )
-    if global_match:
-        return global_match.group(1)
+    if all_matches:
+        return all_matches[-1]
     return None
 
 

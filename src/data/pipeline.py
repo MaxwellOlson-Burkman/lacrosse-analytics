@@ -1,6 +1,8 @@
 """Orchestrate scraping and processing pipeline."""
 
 import logging
+import re
+import time
 from pathlib import Path
 
 import pandas as pd
@@ -15,6 +17,21 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
 )
 logger = logging.getLogger(__name__)
+
+
+def _winning_percentage_from_record(record_series: pd.Series) -> pd.Series:
+    """Compute winning_percentage from record (e.g. '12-6' -> 12/(12+6))."""
+    def one(val):
+        if pd.isna(val) or not isinstance(val, str):
+            return None
+        m = re.match(r"^(\d+)-(\d+)$", str(val).strip())
+        if not m:
+            return None
+        w, L = int(m.group(1)), int(m.group(2))
+        total = w + L
+        return (w / total) if total else None
+
+    return record_series.map(one)
 
 
 def get_existing_raw_paths(raw_dir: Path) -> set[Path]:
@@ -32,6 +49,7 @@ def run_pipeline(
     start_year: int | None = None,
     end_year: int | None = None,
     incremental: bool = True,
+    process_only: bool = False,
 ) -> tuple[list[Path], pd.DataFrame]:
     """Run the full data pipeline: scrape then process.
 
@@ -40,6 +58,7 @@ def run_pipeline(
         start_year: Override config start_year (optional).
         end_year: Override config end_year (optional).
         incremental: If True, skip seasons that already have raw data.
+        process_only: If True, skip scraping and only process existing raw files.
 
     Returns:
         Tuple of (list of newly scraped file paths, combined processed DataFrame).
@@ -58,23 +77,30 @@ def run_pipeline(
     ey = end_year if end_year is not None else scraping["end_year"]
     divisions = scraping["divisions"]
 
-    existing = get_existing_raw_paths(raw_dir) if incremental else set()
     scraped: list[Path] = []
 
-    for year in range(sy, ey + 1):
-        for division in divisions:
-            logger.info("Processing %s Division %s", year, division)
-            scraped.extend(
-                scrape_season(
+    if not process_only:
+        existing = get_existing_raw_paths(raw_dir) if incremental else set()
+        season_cooldown = scraping.get("season_cooldown_seconds", 5)
+
+        for year in range(sy, ey + 1):
+            for division in divisions:
+                logger.info("Scraping %s Division %s", year, division)
+                new_files = scrape_season(
                     config=config,
                     year=year,
                     division=division,
                     existing_raw_paths=existing,
                     raw_dir=raw_dir,
                 )
-            )
-            for p in scraped:
-                existing.add(p)
+                scraped.extend(new_files)
+                for p in new_files:
+                    existing.add(p)
+                if new_files:
+                    logger.info("Cooling down %ds between seasons...", season_cooldown)
+                    time.sleep(season_cooldown)
+    else:
+        logger.info("Process-only mode: skipping scraping.")
 
     # Process all raw data into structured output
     all_dfs: list[pd.DataFrame] = []
@@ -148,6 +174,15 @@ def run_pipeline(
         model_df = model_df[
             ["academic_year", "division", "team_name", "org_id", "conference", "record", *feature_cols]
         ]
+
+        # Fill winning_percentage from record where missing
+        if "record" in model_df.columns and "winning_percentage" in model_df.columns:
+            computed = _winning_percentage_from_record(model_df["record"])
+            before = model_df["winning_percentage"].notna().sum()
+            model_df["winning_percentage"] = model_df["winning_percentage"].fillna(computed)
+            filled = model_df["winning_percentage"].notna().sum() - before
+            if filled > 0:
+                logger.info("Filled winning_percentage from record for %d rows", filled)
 
         model_parquet = processed_dir / config["output"]["model_ready_file"]
         model_csv = processed_dir / config["output"]["model_ready_csv"]

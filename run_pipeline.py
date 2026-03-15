@@ -43,6 +43,11 @@ def main() -> None:
         action="store_true",
         help="Re-scrape all seasons even if raw data exists",
     )
+    parser.add_argument(
+        "--process-only",
+        action="store_true",
+        help="Skip scraping; only process existing raw files into CSV/Parquet",
+    )
     args = parser.parse_args()
 
     start_year = end_year = None
@@ -54,6 +59,7 @@ def main() -> None:
         start_year=start_year,
         end_year=end_year,
         incremental=not args.no_incremental,
+        process_only=args.process_only,
     )
 
     print(f"\nScraped {len(scraped)} new file(s)")

@@ -1,9 +1,15 @@
 # Data Processing & Math
 pandas
+matplotlib
+seaborn
 numpy
 scipy
 scikit-learn
 pyarrow
+
+# Visualization (Phase 2 EDA & Modeling)
+matplotlib
+seaborn
 
 # Web Scraping (Phase 1)
 requests

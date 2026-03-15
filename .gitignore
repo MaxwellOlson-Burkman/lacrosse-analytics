@@ -2,3 +2,6 @@
 
 # Raw scraped HTML (large; regenerate with run_pipeline.py)
 data/raw/
+
+# Model binaries (large; regenerate with run_training.py)
+models/*.joblib

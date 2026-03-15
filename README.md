@@ -70,6 +70,26 @@ The RAG component transforms this from a static model into an interactive tool.
    python scripts/data_completeness_report.py
    ```
 
+### Phase 2: Statistical Modeling
+
+1. Install visualization dependencies (if not already present):
+   ```bash
+   pip install matplotlib seaborn
+   ```
+
+2. Run EDA and modeling in Jupyter:
+   - `notebooks/01_eda.ipynb` – exploratory data analysis
+   - `notebooks/02_feature_engineering.ipynb` – derived features
+   - `notebooks/03_modeling.ipynb` – train, evaluate, export
+
+3. Or run training from the CLI:
+   ```bash
+   python run_training.py              # Full pipeline (train + export + team reports)
+   python run_training.py --no-reports # Skip team report generation
+   ```
+
+4. Outputs: `models/best_model.joblib`, `models/feature_importance.json`, `models/team_reports/*.txt`
+
 ---
 
 ## Development Roadmap
@@ -79,9 +99,9 @@ The RAG component transforms this from a static model into an interactive tool.
 * Clean and normalize data to handle seasonal variances and conference changes.
 
 ### Phase 2: Statistical Modeling
-* Conduct Exploratory Data Analysis (EDA) to find correlations.
-* Train, tune, and validate Scikit-learn regression models.
-* Export feature importance and prediction results for the RAG pipeline.
+* ~~Conduct Exploratory Data Analysis (EDA) to find correlations.~~
+* ~~Train, tune, and validate Scikit-learn regression models.~~
+* ~~Export feature importance and prediction results for the RAG pipeline.~~
 
 ### Phase 3: RAG Implementation
 * Construct the LangChain pipeline and Vector Store.
