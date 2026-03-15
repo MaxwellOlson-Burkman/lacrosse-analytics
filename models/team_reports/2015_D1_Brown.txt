@@ -1,0 +1,17 @@
+Team: Brown
+Season: 2015 D1
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.691
+
+Stat Comparison vs League Average:
+  points_per_game: 22.120 (4.479 above average)
+  scoring_defense: 10.410 (0.826 below average)
+  scoring_offense: 13.940 (2.626 above average)
+  scoring_margin: 3.530 (1.796 above average)
+  defensive_efficiency: 16.587 (0.884 above average)
+  saves_per_game: 11.940 (0.048 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 38.650 (7.754 above average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 47.577 (8.911 above average)

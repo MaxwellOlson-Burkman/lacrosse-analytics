@@ -1,0 +1,17 @@
+Team: Wilmington (DE)
+Season: 2023 D2
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.497
+
+Stat Comparison vs League Average:
+  points_per_game: 24.770 (7.129 above average)
+  scoring_defense: 13.920 (2.684 above average)
+  scoring_offense: 14.850 (3.536 above average)
+  scoring_margin: 0.920 (0.814 below average)
+  defensive_efficiency: 12.278 (3.425 below average)
+  saves_per_game: 11.460 (0.528 below average)
+  clearing_percentage: 0.817 (0.026 below average)
+  ground_balls_per_game: 34.150 (3.254 above average)
+  shot_percentage: 0.313 (0.022 above average)
+  offensive_efficiency: 47.444 (8.778 above average)

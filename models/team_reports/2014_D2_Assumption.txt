@@ -1,0 +1,17 @@
+Team: Assumption
+Season: 2014 D2
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.380
+
+Stat Comparison vs League Average:
+  points_per_game: 19.035 (1.394 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.619 (3.916 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.070 (0.174 above average)
+  shot_percentage: 0.306 (0.016 above average)
+  offensive_efficiency: 41.664 (2.998 above average)

@@ -1,0 +1,17 @@
+Team: Bucknell
+Season: 2018 D1
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.690
+
+Stat Comparison vs League Average:
+  points_per_game: 18.070 (0.429 above average)
+  scoring_defense: 9.000 (2.236 below average)
+  scoring_offense: 11.670 (0.356 above average)
+  scoring_margin: 2.670 (0.936 above average)
+  defensive_efficiency: 16.929 (1.226 above average)
+  saves_per_game: 8.930 (3.058 below average)
+  clearing_percentage: 0.874 (0.031 above average)
+  ground_balls_per_game: 26.070 (4.826 below average)
+  shot_percentage: 0.328 (0.037 above average)
+  offensive_efficiency: 35.579 (3.087 below average)

@@ -1,0 +1,17 @@
+Team: Mars Hill
+Season: 2016 D2
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.250
+
+Stat Comparison vs League Average:
+  points_per_game: 10.670 (6.971 below average)
+  scoring_defense: 10.530 (0.706 below average)
+  scoring_offense: 7.330 (3.984 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.824 (1.121 above average)
+  saves_per_game: 12.530 (0.542 above average)
+  clearing_percentage: 0.809 (0.034 below average)
+  ground_balls_per_game: 27.200 (3.696 below average)
+  shot_percentage: 0.296 (0.005 above average)
+  offensive_efficiency: 24.764 (13.903 below average)

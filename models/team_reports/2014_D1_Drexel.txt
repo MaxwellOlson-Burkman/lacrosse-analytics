@@ -1,0 +1,17 @@
+Team: Drexel
+Season: 2014 D1
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.579
+
+Stat Comparison vs League Average:
+  points_per_game: 18.060 (0.419 above average)
+  scoring_defense: 10.330 (0.906 below average)
+  scoring_offense: 11.610 (0.296 above average)
+  scoring_margin: 1.280 (0.454 below average)
+  defensive_efficiency: 15.944 (0.241 above average)
+  saves_per_game: 11.280 (0.708 below average)
+  clearing_percentage: 0.891 (0.048 above average)
+  ground_balls_per_game: 31.780 (0.884 above average)
+  shot_percentage: 0.286 (0.005 below average)
+  offensive_efficiency: 40.594 (1.928 above average)

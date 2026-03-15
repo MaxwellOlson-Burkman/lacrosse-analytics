@@ -1,0 +1,17 @@
+Team: Michigan
+Season: 2024 D1
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.617
+
+Stat Comparison vs League Average:
+  points_per_game: 20.530 (2.889 above average)
+  scoring_defense: 11.240 (0.004 above average)
+  scoring_offense: 12.880 (1.566 above average)
+  scoring_margin: 1.650 (0.084 below average)
+  defensive_efficiency: 14.938 (0.765 below average)
+  saves_per_game: 10.760 (1.228 below average)
+  clearing_percentage: 0.876 (0.033 above average)
+  ground_balls_per_game: 30.940 (0.044 above average)
+  shot_percentage: 0.300 (0.009 above average)
+  offensive_efficiency: 42.933 (4.267 above average)

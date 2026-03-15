@@ -1,0 +1,17 @@
+Team: Mercyhurst
+Season: 2022 D2
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.807
+
+Stat Comparison vs League Average:
+  points_per_game: 28.500 (10.859 above average)
+  scoring_defense: 9.190 (2.046 below average)
+  scoring_offense: 17.130 (5.816 above average)
+  scoring_margin: 7.940 (6.206 above average)
+  defensive_efficiency: 17.889 (2.186 above average)
+  saves_per_game: 10.630 (1.358 below average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 40.130 (9.234 above average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 50.382 (11.716 above average)

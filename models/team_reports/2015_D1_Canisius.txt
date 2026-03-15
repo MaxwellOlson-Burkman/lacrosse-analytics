@@ -1,0 +1,17 @@
+Team: Canisius
+Season: 2015 D1
+Record: 3-12
+Winning %: 0.200
+Predicted Winning %: 0.240
+
+Stat Comparison vs League Average:
+  points_per_game: 12.000 (5.641 below average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 7.870 (3.444 below average)
+  scoring_margin: -3.130 (4.864 below average)
+  defensive_efficiency: 14.609 (1.094 below average)
+  saves_per_game: 10.130 (1.858 below average)
+  clearing_percentage: 0.821 (0.022 below average)
+  ground_balls_per_game: 25.270 (5.626 below average)
+  shot_percentage: 0.241 (0.050 below average)
+  offensive_efficiency: 32.656 (6.011 below average)

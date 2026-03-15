@@ -1,0 +1,17 @@
+Team: NJIT
+Season: 2020 D1
+Record: 1-6
+Winning %: 0.143
+Predicted Winning %: 0.184
+
+Stat Comparison vs League Average:
+  points_per_game: 12.290 (5.351 below average)
+  scoring_defense: 12.430 (1.194 above average)
+  scoring_offense: 7.710 (3.604 below average)
+  scoring_margin: -4.710 (6.444 below average)
+  defensive_efficiency: 14.877 (0.826 below average)
+  saves_per_game: 12.140 (0.152 above average)
+  clearing_percentage: 0.858 (0.015 above average)
+  ground_balls_per_game: 26.860 (4.036 below average)
+  shot_percentage: 0.254 (0.037 below average)
+  offensive_efficiency: 30.354 (8.312 below average)

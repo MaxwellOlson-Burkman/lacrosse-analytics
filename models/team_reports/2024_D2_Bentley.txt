@@ -1,0 +1,17 @@
+Team: Bentley
+Season: 2024 D2
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.540
+
+Stat Comparison vs League Average:
+  points_per_game: 18.670 (1.029 above average)
+  scoring_defense: 11.070 (0.166 below average)
+  scoring_offense: 12.270 (0.956 above average)
+  scoring_margin: 1.200 (0.534 below average)
+  defensive_efficiency: 14.964 (0.739 below average)
+  saves_per_game: 9.130 (2.858 below average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 34.270 (3.374 above average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 43.053 (4.387 above average)

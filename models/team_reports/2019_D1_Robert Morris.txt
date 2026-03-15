@@ -1,0 +1,17 @@
+Team: Robert Morris
+Season: 2019 D1
+Record: 9-8
+Winning %: 0.529
+Predicted Winning %: 0.517
+
+Stat Comparison vs League Average:
+  points_per_game: 22.290 (4.649 above average)
+  scoring_defense: 13.650 (2.414 above average)
+  scoring_offense: 13.470 (2.156 above average)
+  scoring_margin: -0.180 (1.914 below average)
+  defensive_efficiency: 12.549 (3.154 below average)
+  saves_per_game: 12.880 (0.892 above average)
+  clearing_percentage: 0.836 (0.007 below average)
+  ground_balls_per_game: 32.590 (1.694 above average)
+  shot_percentage: 0.308 (0.017 above average)
+  offensive_efficiency: 43.734 (5.068 above average)

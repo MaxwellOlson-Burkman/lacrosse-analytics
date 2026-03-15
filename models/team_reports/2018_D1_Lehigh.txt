@@ -1,0 +1,17 @@
+Team: Lehigh
+Season: 2018 D1
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.641
+
+Stat Comparison vs League Average:
+  points_per_game: 17.240 (0.401 below average)
+  scoring_defense: 9.470 (1.766 below average)
+  scoring_offense: 10.590 (0.724 below average)
+  scoring_margin: 1.120 (0.614 below average)
+  defensive_efficiency: 16.443 (0.740 above average)
+  saves_per_game: 8.710 (3.278 below average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 30.820 (0.076 below average)
+  shot_percentage: 0.321 (0.030 above average)
+  offensive_efficiency: 32.991 (5.675 below average)

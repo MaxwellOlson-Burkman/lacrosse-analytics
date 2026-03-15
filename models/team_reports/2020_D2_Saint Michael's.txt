@@ -1,0 +1,17 @@
+Team: Saint Michael's
+Season: 2020 D2
+Record: 1-2
+Winning %: 0.333
+Predicted Winning %: 0.435
+
+Stat Comparison vs League Average:
+  points_per_game: 13.330 (4.311 below average)
+  scoring_defense: 8.000 (3.236 below average)
+  scoring_offense: 9.330 (1.984 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 18.815 (3.112 above average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.766 (0.077 below average)
+  ground_balls_per_game: 38.330 (7.434 above average)
+  shot_percentage: 0.183 (0.108 below average)
+  offensive_efficiency: 50.984 (12.317 above average)

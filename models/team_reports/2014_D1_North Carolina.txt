@@ -1,0 +1,17 @@
+Team: North Carolina
+Season: 2014 D1
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.725
+
+Stat Comparison vs League Average:
+  points_per_game: 19.200 (1.559 above average)
+  scoring_defense: 8.400 (2.836 below average)
+  scoring_offense: 13.000 (1.686 above average)
+  scoring_margin: 4.600 (2.866 above average)
+  defensive_efficiency: 18.414 (2.711 above average)
+  saves_per_game: 10.530 (1.458 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 32.600 (1.704 above average)
+  shot_percentage: 0.329 (0.038 above average)
+  offensive_efficiency: 39.514 (0.848 above average)

@@ -1,0 +1,17 @@
+Team: Newberry
+Season: 2022 D2
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.582
+
+Stat Comparison vs League Average:
+  points_per_game: 22.000 (4.359 above average)
+  scoring_defense: 12.410 (1.174 above average)
+  scoring_offense: 14.290 (2.976 above average)
+  scoring_margin: 1.880 (0.146 above average)
+  defensive_efficiency: 13.930 (1.773 below average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.850 (0.007 above average)
+  ground_balls_per_game: 33.820 (2.924 above average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 42.029 (3.363 above average)

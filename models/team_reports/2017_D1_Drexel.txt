@@ -1,0 +1,17 @@
+Team: Drexel
+Season: 2017 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.415
+
+Stat Comparison vs League Average:
+  points_per_game: 15.360 (2.281 below average)
+  scoring_defense: 11.070 (0.166 below average)
+  scoring_offense: 9.790 (1.524 below average)
+  scoring_margin: -1.290 (3.024 below average)
+  defensive_efficiency: 15.834 (0.131 above average)
+  saves_per_game: 12.930 (0.942 above average)
+  clearing_percentage: 0.832 (0.011 below average)
+  ground_balls_per_game: 25.210 (5.686 below average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 30.404 (8.262 below average)

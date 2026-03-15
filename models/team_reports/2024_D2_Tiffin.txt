@@ -1,0 +1,17 @@
+Team: Tiffin
+Season: 2024 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.137
+
+Stat Comparison vs League Average:
+  points_per_game: 13.290 (4.351 below average)
+  scoring_defense: 16.360 (5.124 above average)
+  scoring_offense: 8.790 (2.524 below average)
+  scoring_margin: -7.570 (9.304 below average)
+  defensive_efficiency: 10.052 (5.651 below average)
+  saves_per_game: 12.290 (0.302 above average)
+  clearing_percentage: 0.789 (0.054 below average)
+  ground_balls_per_game: 28.140 (2.756 below average)
+  shot_percentage: 0.265 (0.026 below average)
+  offensive_efficiency: 33.170 (5.496 below average)

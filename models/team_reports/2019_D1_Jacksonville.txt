@@ -1,0 +1,17 @@
+Team: Jacksonville
+Season: 2019 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.379
+
+Stat Comparison vs League Average:
+  points_per_game: 17.670 (0.029 above average)
+  scoring_defense: 12.930 (1.694 above average)
+  scoring_offense: 11.470 (0.156 above average)
+  scoring_margin: -1.470 (3.204 below average)
+  defensive_efficiency: 12.925 (2.778 below average)
+  saves_per_game: 9.400 (2.588 below average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 28.870 (2.026 below average)
+  shot_percentage: 0.312 (0.021 above average)
+  offensive_efficiency: 36.763 (1.903 below average)

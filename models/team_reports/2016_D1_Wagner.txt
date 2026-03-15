@@ -1,0 +1,17 @@
+Team: Wagner
+Season: 2016 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.373
+
+Stat Comparison vs League Average:
+  points_per_game: 13.470 (4.171 below average)
+  scoring_defense: 10.330 (0.906 below average)
+  scoring_offense: 8.800 (2.514 below average)
+  scoring_margin: -1.530 (3.264 below average)
+  defensive_efficiency: 16.164 (0.461 above average)
+  saves_per_game: 10.530 (1.458 below average)
+  clearing_percentage: 0.770 (0.073 below average)
+  ground_balls_per_game: 28.530 (2.366 below average)
+  shot_percentage: 0.259 (0.032 below average)
+  offensive_efficiency: 33.977 (4.689 below average)

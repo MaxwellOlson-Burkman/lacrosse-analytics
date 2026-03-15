@@ -1,0 +1,17 @@
+Team: Palm Beach Atl.
+Season: 2020 D2
+Record: 3-3
+Winning %: 0.500
+Predicted Winning %: 0.492
+
+Stat Comparison vs League Average:
+  points_per_game: 19.830 (2.189 above average)
+  scoring_defense: 12.670 (1.434 above average)
+  scoring_offense: 13.500 (2.186 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 14.761 (0.942 below average)
+  saves_per_game: 11.170 (0.818 below average)
+  clearing_percentage: 0.927 (0.084 above average)
+  ground_balls_per_game: 35.500 (4.604 above average)
+  shot_percentage: 0.284 (0.007 below average)
+  offensive_efficiency: 47.535 (8.869 above average)

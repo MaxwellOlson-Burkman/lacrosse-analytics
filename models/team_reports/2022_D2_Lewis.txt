@@ -1,0 +1,17 @@
+Team: Lewis
+Season: 2022 D2
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.546
+
+Stat Comparison vs League Average:
+  points_per_game: 18.200 (0.559 above average)
+  scoring_defense: 10.600 (0.636 below average)
+  scoring_offense: 11.530 (0.216 above average)
+  scoring_margin: 0.930 (0.804 below average)
+  defensive_efficiency: 16.506 (0.803 above average)
+  saves_per_game: 10.470 (1.518 below average)
+  clearing_percentage: 0.851 (0.008 above average)
+  ground_balls_per_game: 28.600 (2.296 below average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 36.487 (2.179 below average)

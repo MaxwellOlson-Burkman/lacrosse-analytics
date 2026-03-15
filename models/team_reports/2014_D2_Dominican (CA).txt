@@ -1,0 +1,17 @@
+Team: Dominican (CA)
+Season: 2014 D2
+Record: 9-3
+Winning %: 0.750
+Predicted Winning %: 0.757
+
+Stat Comparison vs League Average:
+  points_per_game: 22.670 (5.029 above average)
+  scoring_defense: 9.170 (2.066 below average)
+  scoring_offense: 15.080 (3.766 above average)
+  scoring_margin: 5.920 (4.186 above average)
+  defensive_efficiency: 18.061 (2.358 above average)
+  saves_per_game: 11.670 (0.318 below average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.366 (0.075 above average)
+  offensive_efficiency: 41.202 (2.536 above average)

@@ -1,0 +1,17 @@
+Team: Navy
+Season: 2024 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.517
+
+Stat Comparison vs League Average:
+  points_per_game: 17.250 (0.391 below average)
+  scoring_defense: 10.750 (0.486 below average)
+  scoring_offense: 10.880 (0.434 below average)
+  scoring_margin: 0.130 (1.604 below average)
+  defensive_efficiency: 16.199 (0.496 above average)
+  saves_per_game: 12.380 (0.392 above average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 33.130 (2.234 above average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 40.749 (2.083 above average)

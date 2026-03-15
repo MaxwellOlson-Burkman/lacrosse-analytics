@@ -1,0 +1,17 @@
+Team: Hofstra
+Season: 2024 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.476
+
+Stat Comparison vs League Average:
+  points_per_game: 19.730 (2.089 above average)
+  scoring_defense: 12.400 (1.164 above average)
+  scoring_offense: 12.200 (0.886 above average)
+  scoring_margin: -0.200 (1.934 below average)
+  defensive_efficiency: 13.075 (2.628 below average)
+  saves_per_game: 10.400 (1.588 below average)
+  clearing_percentage: 0.893 (0.050 above average)
+  ground_balls_per_game: 32.330 (1.434 above average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 43.885 (5.219 above average)

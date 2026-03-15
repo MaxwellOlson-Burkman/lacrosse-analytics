@@ -1,0 +1,17 @@
+Team: Wheeling
+Season: 2014 D2
+Record: 10-3
+Winning %: 0.769
+Predicted Winning %: 0.681
+
+Stat Comparison vs League Average:
+  points_per_game: 18.310 (0.669 above average)
+  scoring_defense: 7.920 (3.316 below average)
+  scoring_offense: 12.690 (1.376 above average)
+  scoring_margin: 4.770 (3.036 above average)
+  defensive_efficiency: 20.067 (4.364 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.916 (0.073 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.334 (0.043 above average)
+  offensive_efficiency: 37.994 (0.672 below average)

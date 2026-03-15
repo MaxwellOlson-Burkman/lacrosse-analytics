@@ -1,0 +1,17 @@
+Team: Barton
+Season: 2019 D2
+Record: 5-12
+Winning %: 0.294
+Predicted Winning %: 0.343
+
+Stat Comparison vs League Average:
+  points_per_game: 17.940 (0.299 above average)
+  scoring_defense: 16.000 (4.764 above average)
+  scoring_offense: 11.760 (0.446 above average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 11.279 (4.424 below average)
+  saves_per_game: 12.880 (0.892 above average)
+  clearing_percentage: 0.795 (0.048 below average)
+  ground_balls_per_game: 30.060 (0.836 below average)
+  shot_percentage: 0.325 (0.034 above average)
+  offensive_efficiency: 36.185 (2.481 below average)

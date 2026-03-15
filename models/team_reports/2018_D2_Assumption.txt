@@ -1,0 +1,17 @@
+Team: Assumption
+Season: 2018 D2
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.602
+
+Stat Comparison vs League Average:
+  points_per_game: 18.000 (0.359 above average)
+  scoring_defense: 9.690 (1.546 below average)
+  scoring_offense: 10.770 (0.544 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 17.841 (2.138 above average)
+  saves_per_game: 11.620 (0.368 below average)
+  clearing_percentage: 0.900 (0.057 above average)
+  ground_balls_per_game: 30.380 (0.516 below average)
+  shot_percentage: 0.334 (0.043 above average)
+  offensive_efficiency: 32.246 (6.421 below average)

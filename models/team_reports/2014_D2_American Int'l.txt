@@ -1,0 +1,17 @@
+Team: American Int'l
+Season: 2014 D2
+Record: 2-14
+Winning %: 0.125
+Predicted Winning %: 0.246
+
+Stat Comparison vs League Average:
+  points_per_game: 19.035 (1.394 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 20.223 (4.519 above average)
+  saves_per_game: 14.750 (2.762 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.282 (0.009 below average)
+  offensive_efficiency: 45.284 (6.618 above average)

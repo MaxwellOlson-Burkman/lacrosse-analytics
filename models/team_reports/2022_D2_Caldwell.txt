@@ -1,0 +1,17 @@
+Team: Caldwell
+Season: 2022 D2
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.201
+
+Stat Comparison vs League Average:
+  points_per_game: 13.460 (4.181 below average)
+  scoring_defense: 14.540 (3.304 above average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: -5.540 (7.274 below average)
+  defensive_efficiency: 12.756 (2.947 below average)
+  saves_per_game: 12.620 (0.632 above average)
+  clearing_percentage: 0.805 (0.038 below average)
+  ground_balls_per_game: 26.850 (4.046 below average)
+  shot_percentage: 0.218 (0.073 below average)
+  offensive_efficiency: 41.284 (2.618 above average)

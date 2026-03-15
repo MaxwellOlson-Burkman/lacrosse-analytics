@@ -1,0 +1,17 @@
+Team: Notre Dame
+Season: 2014 D1
+Record: 12-6
+Winning %: 0.667
+Predicted Winning %: 0.664
+
+Stat Comparison vs League Average:
+  points_per_game: 17.890 (0.249 above average)
+  scoring_defense: 9.560 (1.676 below average)
+  scoring_offense: 11.830 (0.516 above average)
+  scoring_margin: 2.280 (0.546 above average)
+  defensive_efficiency: 16.152 (0.449 above average)
+  saves_per_game: 9.440 (2.548 below average)
+  clearing_percentage: 0.868 (0.025 above average)
+  ground_balls_per_game: 30.720 (0.176 below average)
+  shot_percentage: 0.319 (0.028 above average)
+  offensive_efficiency: 37.085 (1.581 below average)

@@ -1,0 +1,17 @@
+Team: Wingate
+Season: 2024 D2
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.796
+
+Stat Comparison vs League Average:
+  points_per_game: 26.440 (8.799 above average)
+  scoring_defense: 7.940 (3.296 below average)
+  scoring_offense: 15.250 (3.936 above average)
+  scoring_margin: 7.310 (5.576 above average)
+  defensive_efficiency: 19.230 (3.527 above average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.918 (0.075 above average)
+  ground_balls_per_game: 40.750 (9.854 above average)
+  shot_percentage: 0.314 (0.023 above average)
+  offensive_efficiency: 48.567 (9.901 above average)

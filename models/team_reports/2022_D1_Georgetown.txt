@@ -1,0 +1,17 @@
+Team: Georgetown
+Season: 2022 D1
+Record: 15-2
+Winning %: 0.882
+Predicted Winning %: 0.832
+
+Stat Comparison vs League Average:
+  points_per_game: 23.710 (6.069 above average)
+  scoring_defense: 8.180 (3.056 below average)
+  scoring_offense: 15.060 (3.746 above average)
+  scoring_margin: 6.880 (5.146 above average)
+  defensive_efficiency: 19.043 (3.340 above average)
+  saves_per_game: 12.710 (0.722 above average)
+  clearing_percentage: 0.890 (0.047 above average)
+  ground_balls_per_game: 37.650 (6.754 above average)
+  shot_percentage: 0.308 (0.017 above average)
+  offensive_efficiency: 48.896 (10.230 above average)

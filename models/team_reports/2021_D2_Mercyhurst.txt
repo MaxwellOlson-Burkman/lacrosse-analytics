@@ -1,0 +1,17 @@
+Team: Mercyhurst
+Season: 2021 D2
+Record: 12-2
+Winning %: 0.857
+Predicted Winning %: 0.919
+
+Stat Comparison vs League Average:
+  points_per_game: 32.290 (14.649 above average)
+  scoring_defense: 7.210 (4.026 below average)
+  scoring_offense: 19.430 (8.116 above average)
+  scoring_margin: 12.210 (10.476 above average)
+  defensive_efficiency: 18.560 (2.857 above average)
+  saves_per_game: 8.000 (3.988 below average)
+  clearing_percentage: 0.896 (0.053 above average)
+  ground_balls_per_game: 43.640 (12.744 above average)
+  shot_percentage: 0.378 (0.087 above average)
+  offensive_efficiency: 51.402 (12.736 above average)

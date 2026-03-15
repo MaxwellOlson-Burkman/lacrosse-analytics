@@ -1,0 +1,17 @@
+Team: Michigan
+Season: 2017 D1
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.505
+
+Stat Comparison vs League Average:
+  points_per_game: 16.930 (0.711 below average)
+  scoring_defense: 11.290 (0.054 above average)
+  scoring_offense: 10.570 (0.744 below average)
+  scoring_margin: -0.710 (2.444 below average)
+  defensive_efficiency: 15.188 (0.515 below average)
+  saves_per_game: 11.210 (0.778 below average)
+  clearing_percentage: 0.879 (0.036 above average)
+  ground_balls_per_game: 27.210 (3.686 below average)
+  shot_percentage: 0.290 (0.001 below average)
+  offensive_efficiency: 36.448 (2.218 below average)

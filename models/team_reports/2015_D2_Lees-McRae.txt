@@ -1,0 +1,17 @@
+Team: Lees-McRae
+Season: 2015 D2
+Record: 2-14
+Winning %: 0.125
+Predicted Winning %: 0.104
+
+Stat Comparison vs League Average:
+  points_per_game: 11.880 (5.761 below average)
+  scoring_defense: 18.190 (6.954 above average)
+  scoring_offense: 7.440 (3.874 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 9.023 (6.680 below average)
+  saves_per_game: 12.810 (0.822 above average)
+  clearing_percentage: 0.735 (0.108 below average)
+  ground_balls_per_game: 26.440 (4.456 below average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 27.353 (11.313 below average)

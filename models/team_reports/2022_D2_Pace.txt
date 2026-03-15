@@ -1,0 +1,17 @@
+Team: Pace
+Season: 2022 D2
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.734
+
+Stat Comparison vs League Average:
+  points_per_game: 23.470 (5.829 above average)
+  scoring_defense: 8.130 (3.106 below average)
+  scoring_offense: 14.270 (2.956 above average)
+  scoring_margin: 6.130 (4.396 above average)
+  defensive_efficiency: 19.715 (4.012 above average)
+  saves_per_game: 13.400 (1.412 above average)
+  clearing_percentage: 0.851 (0.008 above average)
+  ground_balls_per_game: 34.930 (4.034 above average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 46.787 (8.121 above average)

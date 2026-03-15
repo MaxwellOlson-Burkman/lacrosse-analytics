@@ -1,0 +1,17 @@
+Team: Le Moyne
+Season: 2021 D2
+Record: 15-0
+Winning %: 1.000
+Predicted Winning %: 0.877
+
+Stat Comparison vs League Average:
+  points_per_game: 21.530 (3.889 above average)
+  scoring_defense: 6.870 (4.366 below average)
+  scoring_offense: 13.670 (2.356 above average)
+  scoring_margin: 6.800 (5.066 above average)
+  defensive_efficiency: 20.081 (4.378 above average)
+  saves_per_game: 10.070 (1.918 below average)
+  clearing_percentage: 0.883 (0.040 above average)
+  ground_balls_per_game: 33.470 (2.574 above average)
+  shot_percentage: 0.318 (0.027 above average)
+  offensive_efficiency: 42.987 (4.321 above average)

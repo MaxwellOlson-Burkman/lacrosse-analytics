@@ -1,0 +1,17 @@
+Team: UAlbany
+Season: 2017 D1
+Record: 15-3
+Winning %: 0.833
+Predicted Winning %: 0.797
+
+Stat Comparison vs League Average:
+  points_per_game: 24.890 (7.249 above average)
+  scoring_defense: 9.500 (1.736 below average)
+  scoring_offense: 15.390 (4.076 above average)
+  scoring_margin: 5.890 (4.156 above average)
+  defensive_efficiency: 17.846 (2.143 above average)
+  saves_per_game: 10.670 (1.318 below average)
+  clearing_percentage: 0.892 (0.049 above average)
+  ground_balls_per_game: 33.280 (2.384 above average)
+  shot_percentage: 0.344 (0.053 above average)
+  offensive_efficiency: 44.738 (6.072 above average)

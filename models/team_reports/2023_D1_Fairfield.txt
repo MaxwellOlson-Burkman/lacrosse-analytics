@@ -1,0 +1,17 @@
+Team: Fairfield
+Season: 2023 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.420
+
+Stat Comparison vs League Average:
+  points_per_game: 18.210 (0.569 above average)
+  scoring_defense: 12.710 (1.474 above average)
+  scoring_offense: 12.000 (0.686 above average)
+  scoring_margin: -0.710 (2.444 below average)
+  defensive_efficiency: 14.061 (1.642 below average)
+  saves_per_game: 11.570 (0.418 below average)
+  clearing_percentage: 0.864 (0.021 above average)
+  ground_balls_per_game: 32.930 (2.034 above average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 40.268 (1.602 above average)

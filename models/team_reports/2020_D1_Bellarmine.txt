@@ -1,0 +1,17 @@
+Team: Bellarmine
+Season: 2020 D1
+Record: 2-6
+Winning %: 0.250
+Predicted Winning %: 0.376
+
+Stat Comparison vs League Average:
+  points_per_game: 17.380 (0.261 below average)
+  scoring_defense: 12.000 (0.764 above average)
+  scoring_offense: 11.250 (0.064 below average)
+  scoring_margin: -0.750 (2.484 below average)
+  defensive_efficiency: 14.420 (1.283 below average)
+  saves_per_game: 11.750 (0.238 below average)
+  clearing_percentage: 0.838 (0.005 below average)
+  ground_balls_per_game: 28.630 (2.266 below average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 39.474 (0.808 above average)

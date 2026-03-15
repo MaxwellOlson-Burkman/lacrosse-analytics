@@ -1,0 +1,17 @@
+Team: William Jewell
+Season: 2024 D2
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.424
+
+Stat Comparison vs League Average:
+  points_per_game: 15.330 (2.311 below average)
+  scoring_defense: 11.130 (0.106 below average)
+  scoring_offense: 9.800 (1.514 below average)
+  scoring_margin: -1.330 (3.064 below average)
+  defensive_efficiency: 16.729 (1.026 above average)
+  saves_per_game: 14.530 (2.542 above average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 32.600 (1.704 above average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 34.146 (4.520 below average)

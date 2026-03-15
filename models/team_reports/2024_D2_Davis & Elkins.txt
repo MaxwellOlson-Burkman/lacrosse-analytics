@@ -1,0 +1,17 @@
+Team: Davis & Elkins
+Season: 2024 D2
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.095
+
+Stat Comparison vs League Average:
+  points_per_game: 11.530 (6.111 below average)
+  scoring_defense: 16.400 (5.164 above average)
+  scoring_offense: 7.470 (3.844 below average)
+  scoring_margin: -8.930 (10.664 below average)
+  defensive_efficiency: 12.009 (3.694 below average)
+  saves_per_game: 15.930 (3.942 above average)
+  clearing_percentage: 0.820 (0.023 below average)
+  ground_balls_per_game: 27.330 (3.566 below average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 26.871 (11.796 below average)

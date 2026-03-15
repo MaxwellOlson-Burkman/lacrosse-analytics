@@ -1,0 +1,17 @@
+Team: Le Moyne
+Season: 2022 D2
+Record: 16-4
+Winning %: 0.800
+Predicted Winning %: 0.723
+
+Stat Comparison vs League Average:
+  points_per_game: 19.950 (2.309 above average)
+  scoring_defense: 7.950 (3.286 below average)
+  scoring_offense: 12.750 (1.436 above average)
+  scoring_margin: 4.800 (3.066 above average)
+  defensive_efficiency: 18.875 (3.172 above average)
+  saves_per_game: 10.800 (1.188 below average)
+  clearing_percentage: 0.878 (0.035 above average)
+  ground_balls_per_game: 30.650 (0.246 below average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 42.929 (4.263 above average)

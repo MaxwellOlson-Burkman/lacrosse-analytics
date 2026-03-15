@@ -1,0 +1,17 @@
+Team: Alabama Huntsville
+Season: 2021 D2
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.530
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 10.500 (0.736 below average)
+  scoring_offense: 12.070 (0.756 above average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 17.299 (1.596 above average)
+  saves_per_game: 12.930 (0.942 above average)
+  clearing_percentage: 0.823 (0.020 below average)
+  ground_balls_per_game: 35.070 (4.174 above average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 45.206 (6.540 above average)

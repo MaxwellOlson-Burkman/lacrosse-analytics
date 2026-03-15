@@ -1,0 +1,17 @@
+Team: Michigan
+Season: 2021 D1
+Record: 3-9
+Winning %: 0.250
+Predicted Winning %: 0.224
+
+Stat Comparison vs League Average:
+  points_per_game: 16.330 (1.311 below average)
+  scoring_defense: 14.750 (3.514 above average)
+  scoring_offense: 10.920 (0.394 below average)
+  scoring_margin: -3.830 (5.564 below average)
+  defensive_efficiency: 10.814 (4.889 below average)
+  saves_per_game: 11.080 (0.908 below average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 29.420 (1.476 below average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 38.049 (0.617 below average)

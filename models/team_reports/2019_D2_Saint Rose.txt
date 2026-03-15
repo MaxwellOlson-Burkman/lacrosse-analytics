@@ -1,0 +1,17 @@
+Team: Saint Rose
+Season: 2019 D2
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.312
+
+Stat Comparison vs League Average:
+  points_per_game: 15.290 (2.351 below average)
+  scoring_defense: 13.640 (2.404 above average)
+  scoring_offense: 10.500 (0.814 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 13.680 (2.023 below average)
+  saves_per_game: 12.500 (0.512 above average)
+  clearing_percentage: 0.784 (0.059 below average)
+  ground_balls_per_game: 37.000 (6.104 above average)
+  shot_percentage: 0.256 (0.035 below average)
+  offensive_efficiency: 41.016 (2.350 above average)

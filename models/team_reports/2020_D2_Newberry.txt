@@ -1,0 +1,17 @@
+Team: Newberry
+Season: 2020 D2
+Record: 3-3
+Winning %: 0.500
+Predicted Winning %: 0.594
+
+Stat Comparison vs League Average:
+  points_per_game: 21.830 (4.189 above average)
+  scoring_defense: 11.500 (0.264 above average)
+  scoring_offense: 13.670 (2.356 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 16.299 (0.596 above average)
+  saves_per_game: 11.830 (0.158 below average)
+  clearing_percentage: 0.838 (0.005 below average)
+  ground_balls_per_game: 36.000 (5.104 above average)
+  shot_percentage: 0.408 (0.117 above average)
+  offensive_efficiency: 33.505 (5.161 below average)

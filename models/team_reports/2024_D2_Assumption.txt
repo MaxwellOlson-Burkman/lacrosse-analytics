@@ -1,0 +1,17 @@
+Team: Assumption
+Season: 2024 D2
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.424
+
+Stat Comparison vs League Average:
+  points_per_game: 17.710 (0.069 above average)
+  scoring_defense: 12.430 (1.194 above average)
+  scoring_offense: 11.710 (0.396 above average)
+  scoring_margin: -0.710 (2.444 below average)
+  defensive_efficiency: 14.577 (1.126 below average)
+  saves_per_game: 11.790 (0.198 below average)
+  clearing_percentage: 0.892 (0.049 above average)
+  ground_balls_per_game: 32.360 (1.464 above average)
+  shot_percentage: 0.243 (0.048 below average)
+  offensive_efficiency: 48.189 (9.523 above average)

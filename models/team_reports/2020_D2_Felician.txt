@@ -1,0 +1,17 @@
+Team: Felician
+Season: 2020 D2
+Record: 1-5
+Winning %: 0.167
+Predicted Winning %: 0.139
+
+Stat Comparison vs League Average:
+  points_per_game: 11.330 (6.311 below average)
+  scoring_defense: 16.670 (5.434 above average)
+  scoring_offense: 7.170 (4.144 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 12.215 (3.488 below average)
+  saves_per_game: 18.500 (6.512 above average)
+  clearing_percentage: 0.725 (0.118 below average)
+  ground_balls_per_game: 31.330 (0.434 above average)
+  shot_percentage: 0.232 (0.059 below average)
+  offensive_efficiency: 30.905 (7.761 below average)

@@ -1,0 +1,17 @@
+Team: Colorado Mesa
+Season: 2015 D2
+Record: 9-3
+Winning %: 0.750
+Predicted Winning %: 0.701
+
+Stat Comparison vs League Average:
+  points_per_game: 22.000 (4.359 above average)
+  scoring_defense: 9.670 (1.566 below average)
+  scoring_offense: 14.250 (2.936 above average)
+  scoring_margin: 4.580 (2.846 above average)
+  defensive_efficiency: 17.185 (1.482 above average)
+  saves_per_game: 10.500 (1.488 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 29.670 (1.226 below average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 45.238 (6.572 above average)

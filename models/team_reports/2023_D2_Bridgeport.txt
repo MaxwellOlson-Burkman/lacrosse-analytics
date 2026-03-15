@@ -1,0 +1,17 @@
+Team: Bridgeport
+Season: 2023 D2
+Record: 1-12
+Winning %: 0.077
+Predicted Winning %: 0.126
+
+Stat Comparison vs League Average:
+  points_per_game: 12.150 (5.491 below average)
+  scoring_defense: 15.690 (4.454 above average)
+  scoring_offense: 7.850 (3.464 below average)
+  scoring_margin: -7.850 (9.584 below average)
+  defensive_efficiency: 11.946 (3.757 below average)
+  saves_per_game: 14.770 (2.782 above average)
+  clearing_percentage: 0.668 (0.175 below average)
+  ground_balls_per_game: 28.380 (2.516 below average)
+  shot_percentage: 0.252 (0.039 below average)
+  offensive_efficiency: 31.151 (7.515 below average)

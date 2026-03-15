@@ -1,0 +1,17 @@
+Team: St. Anselm
+Season: 2019 D2
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.568
+
+Stat Comparison vs League Average:
+  points_per_game: 19.930 (2.289 above average)
+  scoring_defense: 11.500 (0.264 above average)
+  scoring_offense: 13.640 (2.326 above average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 15.315 (0.388 below average)
+  saves_per_game: 11.500 (0.488 below average)
+  clearing_percentage: 0.832 (0.011 below average)
+  ground_balls_per_game: 30.710 (0.186 below average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 42.360 (3.694 above average)

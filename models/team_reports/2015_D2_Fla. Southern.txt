@@ -1,0 +1,17 @@
+Team: Fla. Southern
+Season: 2015 D2
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.473
+
+Stat Comparison vs League Average:
+  points_per_game: 20.210 (2.569 above average)
+  scoring_defense: 12.570 (1.334 above average)
+  scoring_offense: 12.790 (1.476 above average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 13.471 (2.232 below average)
+  saves_per_game: 12.070 (0.082 above average)
+  clearing_percentage: 0.817 (0.026 below average)
+  ground_balls_per_game: 37.500 (6.604 above average)
+  shot_percentage: 0.270 (0.021 below average)
+  offensive_efficiency: 47.370 (8.704 above average)

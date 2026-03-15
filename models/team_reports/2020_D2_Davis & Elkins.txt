@@ -1,0 +1,17 @@
+Team: Davis & Elkins
+Season: 2020 D2
+Record: 0-7
+Winning %: 0.000
+Predicted Winning %: 0.101
+
+Stat Comparison vs League Average:
+  points_per_game: 12.430 (5.211 below average)
+  scoring_defense: 20.860 (9.624 above average)
+  scoring_offense: 8.000 (3.314 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 6.220 (9.483 below average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.779 (0.064 below average)
+  ground_balls_per_game: 27.710 (3.186 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 29.304 (9.362 below average)

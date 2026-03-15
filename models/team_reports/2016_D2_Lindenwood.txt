@@ -1,0 +1,17 @@
+Team: Lindenwood
+Season: 2016 D2
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.638
+
+Stat Comparison vs League Average:
+  points_per_game: 15.630 (2.011 below average)
+  scoring_defense: 7.750 (3.486 below average)
+  scoring_offense: 10.940 (0.374 below average)
+  scoring_margin: 3.190 (1.456 above average)
+  defensive_efficiency: 19.258 (3.555 above average)
+  saves_per_game: 9.310 (2.678 below average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 30.690 (0.206 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 40.073 (1.407 above average)

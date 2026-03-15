@@ -1,0 +1,17 @@
+Team: Franklin Pierce
+Season: 2015 D2
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.606
+
+Stat Comparison vs League Average:
+  points_per_game: 15.880 (1.761 below average)
+  scoring_defense: 8.500 (2.736 below average)
+  scoring_offense: 10.440 (0.874 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 19.143 (3.440 above average)
+  saves_per_game: 12.560 (0.572 above average)
+  clearing_percentage: 0.818 (0.025 below average)
+  ground_balls_per_game: 27.250 (3.646 below average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 36.632 (2.035 below average)

@@ -1,0 +1,17 @@
+Team: Rutgers
+Season: 2016 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.665
+
+Stat Comparison vs League Average:
+  points_per_game: 20.000 (2.359 above average)
+  scoring_defense: 9.880 (1.356 below average)
+  scoring_offense: 12.440 (1.126 above average)
+  scoring_margin: 2.560 (0.826 above average)
+  defensive_efficiency: 16.139 (0.436 above average)
+  saves_per_game: 10.380 (1.608 below average)
+  clearing_percentage: 0.911 (0.068 above average)
+  ground_balls_per_game: 31.750 (0.854 above average)
+  shot_percentage: 0.312 (0.021 above average)
+  offensive_efficiency: 39.872 (1.206 above average)

@@ -1,0 +1,17 @@
+Team: Georgetown
+Season: 2024 D1
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.687
+
+Stat Comparison vs League Average:
+  points_per_game: 20.880 (3.239 above average)
+  scoring_defense: 9.650 (1.586 below average)
+  scoring_offense: 12.710 (1.396 above average)
+  scoring_margin: 3.060 (1.326 above average)
+  defensive_efficiency: 16.618 (0.915 above average)
+  saves_per_game: 10.410 (1.578 below average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 32.240 (1.344 above average)
+  shot_percentage: 0.319 (0.028 above average)
+  offensive_efficiency: 39.843 (1.177 above average)

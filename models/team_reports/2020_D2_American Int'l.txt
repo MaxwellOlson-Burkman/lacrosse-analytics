@@ -1,0 +1,17 @@
+Team: American Int'l
+Season: 2020 D2
+Record: 2-4
+Winning %: 0.333
+Predicted Winning %: 0.202
+
+Stat Comparison vs League Average:
+  points_per_game: 11.330 (6.311 below average)
+  scoring_defense: 13.830 (2.594 above average)
+  scoring_offense: 7.330 (3.984 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 13.996 (1.707 below average)
+  saves_per_game: 16.670 (4.682 above average)
+  clearing_percentage: 0.741 (0.102 below average)
+  ground_balls_per_game: 27.170 (3.726 below average)
+  shot_percentage: 0.229 (0.062 below average)
+  offensive_efficiency: 32.009 (6.657 below average)

@@ -1,0 +1,17 @@
+Team: St. Bonaventure
+Season: 2021 D1
+Record: 5-5
+Winning %: 0.500
+Predicted Winning %: 0.487
+
+Stat Comparison vs League Average:
+  points_per_game: 15.000 (2.641 below average)
+  scoring_defense: 9.100 (2.136 below average)
+  scoring_offense: 9.300 (2.014 below average)
+  scoring_margin: 0.200 (1.534 below average)
+  defensive_efficiency: 18.700 (2.997 above average)
+  saves_per_game: 13.600 (1.612 above average)
+  clearing_percentage: 0.833 (0.010 below average)
+  ground_balls_per_game: 24.400 (6.496 below average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 31.849 (6.817 below average)

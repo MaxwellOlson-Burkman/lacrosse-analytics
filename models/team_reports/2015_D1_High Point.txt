@@ -1,0 +1,17 @@
+Team: High Point
+Season: 2015 D1
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.566
+
+Stat Comparison vs League Average:
+  points_per_game: 16.650 (0.991 below average)
+  scoring_defense: 9.760 (1.476 below average)
+  scoring_offense: 10.820 (0.494 below average)
+  scoring_margin: 1.060 (0.674 below average)
+  defensive_efficiency: 17.757 (2.054 above average)
+  saves_per_game: 12.940 (0.952 above average)
+  clearing_percentage: 0.913 (0.070 above average)
+  ground_balls_per_game: 29.710 (1.186 below average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 35.592 (3.074 below average)

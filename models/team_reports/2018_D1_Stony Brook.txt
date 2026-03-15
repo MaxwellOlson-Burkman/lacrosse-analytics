@@ -1,0 +1,17 @@
+Team: Stony Brook
+Season: 2018 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.376
+
+Stat Comparison vs League Average:
+  points_per_game: 14.470 (3.171 below average)
+  scoring_defense: 11.070 (0.166 below average)
+  scoring_offense: 8.930 (2.384 below average)
+  scoring_margin: -2.130 (3.864 below average)
+  defensive_efficiency: 14.135 (1.568 below average)
+  saves_per_game: 9.600 (2.388 below average)
+  clearing_percentage: 0.886 (0.043 above average)
+  ground_balls_per_game: 22.070 (8.826 below average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 31.555 (7.111 below average)

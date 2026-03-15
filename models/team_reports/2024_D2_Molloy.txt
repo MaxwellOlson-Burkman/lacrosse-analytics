@@ -1,0 +1,17 @@
+Team: Molloy
+Season: 2024 D2
+Record: 8-10
+Winning %: 0.444
+Predicted Winning %: 0.578
+
+Stat Comparison vs League Average:
+  points_per_game: 21.110 (3.469 above average)
+  scoring_defense: 11.610 (0.374 above average)
+  scoring_offense: 12.940 (1.626 above average)
+  scoring_margin: 1.330 (0.404 below average)
+  defensive_efficiency: 15.709 (0.006 above average)
+  saves_per_game: 13.280 (1.292 above average)
+  clearing_percentage: 0.835 (0.008 below average)
+  ground_balls_per_game: 30.610 (0.286 below average)
+  shot_percentage: 0.311 (0.020 above average)
+  offensive_efficiency: 41.608 (2.942 above average)

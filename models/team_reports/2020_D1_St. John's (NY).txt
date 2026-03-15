@@ -1,0 +1,17 @@
+Team: St. John's (NY)
+Season: 2020 D1
+Record: 3-4
+Winning %: 0.429
+Predicted Winning %: 0.418
+
+Stat Comparison vs League Average:
+  points_per_game: 19.290 (1.649 above average)
+  scoring_defense: 14.290 (3.054 above average)
+  scoring_offense: 12.570 (1.256 above average)
+  scoring_margin: -1.710 (3.444 below average)
+  defensive_efficiency: 12.174 (3.529 below average)
+  saves_per_game: 10.430 (1.558 below average)
+  clearing_percentage: 0.894 (0.051 above average)
+  ground_balls_per_game: 32.860 (1.964 above average)
+  shot_percentage: 0.289 (0.002 below average)
+  offensive_efficiency: 43.495 (4.829 above average)

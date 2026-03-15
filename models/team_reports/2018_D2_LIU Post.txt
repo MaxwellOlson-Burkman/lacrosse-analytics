@@ -1,0 +1,17 @@
+Team: LIU Post
+Season: 2018 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.685
+
+Stat Comparison vs League Average:
+  points_per_game: 17.930 (0.289 above average)
+  scoring_defense: 8.470 (2.766 below average)
+  scoring_offense: 11.600 (0.286 above average)
+  scoring_margin: 3.130 (1.396 above average)
+  defensive_efficiency: 18.151 (2.448 above average)
+  saves_per_game: 9.870 (2.118 below average)
+  clearing_percentage: 0.865 (0.022 above average)
+  ground_balls_per_game: 35.000 (4.104 above average)
+  shot_percentage: 0.290 (0.001 below average)
+  offensive_efficiency: 40.000 (1.334 above average)

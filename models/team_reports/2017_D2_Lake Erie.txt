@@ -1,0 +1,17 @@
+Team: Lake Erie
+Season: 2017 D2
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.487
+
+Stat Comparison vs League Average:
+  points_per_game: 14.470 (3.171 below average)
+  scoring_defense: 9.600 (1.636 below average)
+  scoring_offense: 9.270 (2.044 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 17.413 (1.709 above average)
+  saves_per_game: 11.825 (0.163 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 29.470 (1.426 below average)
+  shot_percentage: 0.264 (0.027 below average)
+  offensive_efficiency: 35.114 (3.552 below average)

@@ -1,0 +1,17 @@
+Team: North Carolina
+Season: 2015 D1
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.760
+
+Stat Comparison vs League Average:
+  points_per_game: 23.240 (5.599 above average)
+  scoring_defense: 10.180 (1.056 below average)
+  scoring_offense: 14.350 (3.036 above average)
+  scoring_margin: 4.180 (2.446 above average)
+  defensive_efficiency: 16.416 (0.713 above average)
+  saves_per_game: 11.120 (0.868 below average)
+  clearing_percentage: 0.891 (0.048 above average)
+  ground_balls_per_game: 37.590 (6.694 above average)
+  shot_percentage: 0.325 (0.034 above average)
+  offensive_efficiency: 44.154 (5.488 above average)

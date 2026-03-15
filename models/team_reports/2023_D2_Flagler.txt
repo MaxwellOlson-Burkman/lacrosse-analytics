@@ -1,0 +1,17 @@
+Team: Flagler
+Season: 2023 D2
+Record: 7-10
+Winning %: 0.412
+Predicted Winning %: 0.388
+
+Stat Comparison vs League Average:
+  points_per_game: 18.940 (1.299 above average)
+  scoring_defense: 13.180 (1.944 above average)
+  scoring_offense: 11.820 (0.506 above average)
+  scoring_margin: -1.350 (3.084 below average)
+  defensive_efficiency: 13.885 (1.818 below average)
+  saves_per_game: 12.650 (0.662 above average)
+  clearing_percentage: 0.844 (0.001 above average)
+  ground_balls_per_game: 31.120 (0.224 above average)
+  shot_percentage: 0.271 (0.020 below average)
+  offensive_efficiency: 43.616 (4.950 above average)

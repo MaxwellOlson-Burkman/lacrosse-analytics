@@ -1,0 +1,17 @@
+Team: Marist
+Season: 2016 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.621
+
+Stat Comparison vs League Average:
+  points_per_game: 15.380 (2.261 below average)
+  scoring_defense: 8.560 (2.676 below average)
+  scoring_offense: 9.630 (1.684 below average)
+  scoring_margin: 1.060 (0.674 below average)
+  defensive_efficiency: 18.459 (2.756 above average)
+  saves_per_game: 11.880 (0.108 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 21.060 (9.836 below average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 32.315 (6.351 below average)

@@ -1,0 +1,17 @@
+Team: Drexel
+Season: 2021 D1
+Record: 10-3
+Winning %: 0.769
+Predicted Winning %: 0.638
+
+Stat Comparison vs League Average:
+  points_per_game: 21.150 (3.509 above average)
+  scoring_defense: 10.620 (0.616 below average)
+  scoring_offense: 13.620 (2.306 above average)
+  scoring_margin: 3.000 (1.266 above average)
+  defensive_efficiency: 15.935 (0.232 above average)
+  saves_per_game: 10.850 (1.138 below average)
+  clearing_percentage: 0.872 (0.029 above average)
+  ground_balls_per_game: 33.080 (2.184 above average)
+  shot_percentage: 0.299 (0.008 above average)
+  offensive_efficiency: 45.552 (6.886 above average)

@@ -1,0 +1,17 @@
+Team: St. John's (NY)
+Season: 2014 D1
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.459
+
+Stat Comparison vs League Average:
+  points_per_game: 18.070 (0.429 above average)
+  scoring_defense: 11.930 (0.694 above average)
+  scoring_offense: 11.430 (0.116 above average)
+  scoring_margin: -0.500 (2.234 below average)
+  defensive_efficiency: 14.273 (1.430 below average)
+  saves_per_game: 11.710 (0.278 below average)
+  clearing_percentage: 0.900 (0.057 above average)
+  ground_balls_per_game: 27.570 (3.326 below average)
+  shot_percentage: 0.301 (0.010 above average)
+  offensive_efficiency: 37.973 (0.693 below average)

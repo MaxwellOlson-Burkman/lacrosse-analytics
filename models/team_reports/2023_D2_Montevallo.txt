@@ -1,0 +1,17 @@
+Team: Montevallo
+Season: 2023 D2
+Record: 11-7
+Winning %: 0.611
+Predicted Winning %: 0.648
+
+Stat Comparison vs League Average:
+  points_per_game: 20.500 (2.859 above average)
+  scoring_defense: 11.440 (0.204 above average)
+  scoring_offense: 13.060 (1.746 above average)
+  scoring_margin: 1.610 (0.124 below average)
+  defensive_efficiency: 16.555 (0.852 above average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.829 (0.014 below average)
+  ground_balls_per_game: 37.220 (6.324 above average)
+  shot_percentage: 0.289 (0.002 below average)
+  offensive_efficiency: 45.190 (6.524 above average)

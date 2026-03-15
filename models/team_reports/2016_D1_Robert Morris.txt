@@ -1,0 +1,17 @@
+Team: Robert Morris
+Season: 2016 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.504
+
+Stat Comparison vs League Average:
+  points_per_game: 17.530 (0.111 below average)
+  scoring_defense: 11.400 (0.164 above average)
+  scoring_offense: 11.330 (0.016 above average)
+  scoring_margin: -0.070 (1.804 below average)
+  defensive_efficiency: 15.169 (0.534 below average)
+  saves_per_game: 10.930 (1.058 below average)
+  clearing_percentage: 0.860 (0.017 above average)
+  ground_balls_per_game: 27.070 (3.826 below average)
+  shot_percentage: 0.300 (0.009 above average)
+  offensive_efficiency: 37.767 (0.899 below average)

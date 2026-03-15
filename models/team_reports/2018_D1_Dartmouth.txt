@@ -1,0 +1,17 @@
+Team: Dartmouth
+Season: 2018 D1
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.132
+
+Stat Comparison vs League Average:
+  points_per_game: 12.850 (4.791 below average)
+  scoring_defense: 14.080 (2.844 above average)
+  scoring_offense: 8.460 (2.854 below average)
+  scoring_margin: -5.620 (7.354 below average)
+  defensive_efficiency: 11.620 (4.083 below average)
+  saves_per_game: 10.850 (1.138 below average)
+  clearing_percentage: 0.802 (0.041 below average)
+  ground_balls_per_game: 28.850 (2.046 below average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 31.103 (7.563 below average)

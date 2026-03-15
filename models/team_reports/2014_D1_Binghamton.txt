@@ -1,0 +1,17 @@
+Team: Binghamton
+Season: 2014 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.422
+
+Stat Comparison vs League Average:
+  points_per_game: 15.600 (2.041 below average)
+  scoring_defense: 10.600 (0.636 below average)
+  scoring_offense: 9.530 (1.784 below average)
+  scoring_margin: -1.070 (2.804 below average)
+  defensive_efficiency: 15.176 (0.527 below average)
+  saves_per_game: 10.070 (1.918 below average)
+  clearing_percentage: 0.904 (0.061 above average)
+  ground_balls_per_game: 26.000 (4.896 below average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 33.439 (5.228 below average)

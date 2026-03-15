@@ -1,0 +1,17 @@
+Team: Newberry
+Season: 2021 D2
+Record: 7-5
+Winning %: 0.583
+Predicted Winning %: 0.674
+
+Stat Comparison vs League Average:
+  points_per_game: 23.170 (5.529 above average)
+  scoring_defense: 10.750 (0.486 below average)
+  scoring_offense: 14.330 (3.016 above average)
+  scoring_margin: 3.580 (1.846 above average)
+  defensive_efficiency: 16.631 (0.928 above average)
+  saves_per_game: 10.920 (1.068 below average)
+  clearing_percentage: 0.865 (0.022 above average)
+  ground_balls_per_game: 40.920 (10.024 above average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 42.776 (4.110 above average)

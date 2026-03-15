@@ -1,0 +1,17 @@
+Team: Robert Morris
+Season: 2022 D1
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.569
+
+Stat Comparison vs League Average:
+  points_per_game: 20.940 (3.299 above average)
+  scoring_defense: 12.630 (1.394 above average)
+  scoring_offense: 12.940 (1.626 above average)
+  scoring_margin: 0.310 (1.424 below average)
+  defensive_efficiency: 14.814 (0.889 below average)
+  saves_per_game: 12.880 (0.892 above average)
+  clearing_percentage: 0.881 (0.038 above average)
+  ground_balls_per_game: 29.190 (1.706 below average)
+  shot_percentage: 0.331 (0.040 above average)
+  offensive_efficiency: 39.094 (0.428 above average)

@@ -1,0 +1,17 @@
+Team: St. Thomas Aquinas
+Season: 2024 D2
+Record: 5-11
+Winning %: 0.313
+Predicted Winning %: 0.241
+
+Stat Comparison vs League Average:
+  points_per_game: 13.130 (4.511 below average)
+  scoring_defense: 13.130 (1.894 above average)
+  scoring_offense: 8.060 (3.254 below average)
+  scoring_margin: -5.060 (6.794 below average)
+  defensive_efficiency: 14.594 (1.109 below average)
+  saves_per_game: 14.630 (2.642 above average)
+  clearing_percentage: 0.785 (0.058 below average)
+  ground_balls_per_game: 31.880 (0.984 above average)
+  shot_percentage: 0.216 (0.075 below average)
+  offensive_efficiency: 37.315 (1.351 below average)

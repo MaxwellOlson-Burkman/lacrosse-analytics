@@ -1,0 +1,17 @@
+Team: Virginia St.
+Season: 2024 D2
+Record: 1-10
+Winning %: 0.091
+Predicted Winning %: 0.129
+
+Stat Comparison vs League Average:
+  points_per_game: 12.910 (4.731 below average)
+  scoring_defense: 17.640 (6.404 above average)
+  scoring_offense: 8.270 (3.044 below average)
+  scoring_margin: -9.360 (11.094 below average)
+  defensive_efficiency: 10.264 (5.439 below average)
+  saves_per_game: 16.180 (4.192 above average)
+  clearing_percentage: 0.803 (0.040 below average)
+  ground_balls_per_game: 30.090 (0.806 below average)
+  shot_percentage: 0.256 (0.035 below average)
+  offensive_efficiency: 32.305 (6.361 below average)

@@ -1,0 +1,17 @@
+Team: Lenoir-Rhyne
+Season: 2015 D2
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.611
+
+Stat Comparison vs League Average:
+  points_per_game: 19.500 (1.859 above average)
+  scoring_defense: 9.750 (1.486 below average)
+  scoring_offense: 12.810 (1.496 above average)
+  scoring_margin: 3.060 (1.326 above average)
+  defensive_efficiency: 15.742 (0.039 above average)
+  saves_per_game: 8.190 (3.798 below average)
+  clearing_percentage: 0.884 (0.041 above average)
+  ground_balls_per_game: 34.000 (3.104 above average)
+  shot_percentage: 0.312 (0.021 above average)
+  offensive_efficiency: 41.058 (2.392 above average)

@@ -1,0 +1,17 @@
+Team: Penn St.
+Season: 2020 D1
+Record: 5-2
+Winning %: 0.714
+Predicted Winning %: 0.752
+
+Stat Comparison vs League Average:
+  points_per_game: 27.000 (9.359 above average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 17.290 (5.976 above average)
+  scoring_margin: 6.290 (4.556 above average)
+  defensive_efficiency: 14.997 (0.706 below average)
+  saves_per_game: 12.140 (0.152 above average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 37.430 (6.534 above average)
+  shot_percentage: 0.401 (0.110 above average)
+  offensive_efficiency: 43.117 (4.451 above average)

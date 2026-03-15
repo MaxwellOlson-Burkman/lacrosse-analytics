@@ -1,0 +1,17 @@
+Team: Army West Point
+Season: 2014 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.675
+
+Stat Comparison vs League Average:
+  points_per_game: 15.710 (1.931 below average)
+  scoring_defense: 7.210 (4.026 below average)
+  scoring_offense: 10.140 (1.174 below average)
+  scoring_margin: 2.930 (1.196 above average)
+  defensive_efficiency: 18.595 (2.892 above average)
+  saves_per_game: 8.500 (3.488 below average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 27.140 (3.756 below average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 37.279 (1.387 below average)

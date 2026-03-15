@@ -1,0 +1,17 @@
+Team: Army West Point
+Season: 2019 D1
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.671
+
+Stat Comparison vs League Average:
+  points_per_game: 18.060 (0.419 above average)
+  scoring_defense: 8.610 (2.626 below average)
+  scoring_offense: 11.110 (0.204 below average)
+  scoring_margin: 2.500 (0.766 above average)
+  defensive_efficiency: 18.356 (2.653 above average)
+  saves_per_game: 11.720 (0.268 below average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 30.670 (0.226 below average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 40.108 (1.442 above average)

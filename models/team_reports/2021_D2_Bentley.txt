@@ -1,0 +1,17 @@
+Team: Bentley
+Season: 2021 D2
+Record: 6-4
+Winning %: 0.600
+Predicted Winning %: 0.691
+
+Stat Comparison vs League Average:
+  points_per_game: 20.300 (2.659 above average)
+  scoring_defense: 8.500 (2.736 below average)
+  scoring_offense: 13.000 (1.686 above average)
+  scoring_margin: 4.500 (2.766 above average)
+  defensive_efficiency: 18.485 (2.782 above average)
+  saves_per_game: 13.100 (1.112 above average)
+  clearing_percentage: 0.871 (0.028 above average)
+  ground_balls_per_game: 33.300 (2.404 above average)
+  shot_percentage: 0.313 (0.022 above average)
+  offensive_efficiency: 41.534 (2.867 above average)

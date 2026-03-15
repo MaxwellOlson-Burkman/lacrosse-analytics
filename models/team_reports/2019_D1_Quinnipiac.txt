@@ -1,0 +1,17 @@
+Team: Quinnipiac
+Season: 2019 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.406
+
+Stat Comparison vs League Average:
+  points_per_game: 18.190 (0.549 above average)
+  scoring_defense: 12.690 (1.454 above average)
+  scoring_offense: 11.560 (0.246 above average)
+  scoring_margin: -1.130 (2.864 below average)
+  defensive_efficiency: 14.587 (1.116 below average)
+  saves_per_game: 13.940 (1.952 above average)
+  clearing_percentage: 0.811 (0.032 below average)
+  ground_balls_per_game: 27.880 (3.016 below average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 40.279 (1.613 above average)

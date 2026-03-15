@@ -1,0 +1,17 @@
+Team: Lees-McRae
+Season: 2021 D2
+Record: 1-11
+Winning %: 0.083
+Predicted Winning %: 0.149
+
+Stat Comparison vs League Average:
+  points_per_game: 14.750 (2.891 below average)
+  scoring_defense: 16.580 (5.344 above average)
+  scoring_offense: 9.330 (1.984 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 9.719 (5.984 below average)
+  saves_per_game: 12.830 (0.842 above average)
+  clearing_percentage: 0.823 (0.020 below average)
+  ground_balls_per_game: 29.330 (1.566 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 34.176 (4.490 below average)

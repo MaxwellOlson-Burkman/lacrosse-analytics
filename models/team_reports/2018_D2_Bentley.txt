@@ -1,0 +1,17 @@
+Team: Bentley
+Season: 2018 D2
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.434
+
+Stat Comparison vs League Average:
+  points_per_game: 15.460 (2.181 below average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 10.230 (1.084 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 16.076 (0.373 above average)
+  saves_per_game: 12.620 (0.632 above average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 23.310 (7.586 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 37.473 (1.194 below average)

@@ -1,0 +1,17 @@
+Team: Saint Leo
+Season: 2020 D2
+Record: 3-2
+Winning %: 0.600
+Predicted Winning %: 0.549
+
+Stat Comparison vs League Average:
+  points_per_game: 21.400 (3.759 above average)
+  scoring_defense: 12.800 (1.564 above average)
+  scoring_offense: 13.400 (2.086 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 13.740 (1.963 below average)
+  saves_per_game: 11.800 (0.188 below average)
+  clearing_percentage: 0.840 (0.003 below average)
+  ground_balls_per_game: 26.200 (4.696 below average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 40.000 (1.334 above average)

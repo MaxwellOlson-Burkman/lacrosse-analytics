@@ -1,0 +1,17 @@
+Team: Montevallo
+Season: 2021 D2
+Record: 10-4
+Winning %: 0.714
+Predicted Winning %: 0.670
+
+Stat Comparison vs League Average:
+  points_per_game: 24.430 (6.789 above average)
+  scoring_defense: 10.570 (0.666 below average)
+  scoring_offense: 15.070 (3.756 above average)
+  scoring_margin: 4.500 (2.766 above average)
+  defensive_efficiency: 18.604 (2.901 above average)
+  saves_per_game: 17.930 (5.942 above average)
+  clearing_percentage: 0.838 (0.005 below average)
+  ground_balls_per_game: 37.360 (6.464 above average)
+  shot_percentage: 0.345 (0.054 above average)
+  offensive_efficiency: 43.681 (5.015 above average)

@@ -1,0 +1,17 @@
+Team: Seton Hill
+Season: 2020 D2
+Record: 6-0
+Winning %: 1.000
+Predicted Winning %: 0.946
+
+Stat Comparison vs League Average:
+  points_per_game: 23.000 (5.359 above average)
+  scoring_defense: 5.170 (6.066 below average)
+  scoring_offense: 15.330 (4.016 above average)
+  scoring_margin: 10.170 (8.436 above average)
+  defensive_efficiency: 21.995 (6.292 above average)
+  saves_per_game: 10.000 (1.988 below average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 36.500 (5.604 above average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 53.415 (14.749 above average)

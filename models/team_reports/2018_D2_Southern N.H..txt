@@ -1,0 +1,17 @@
+Team: Southern N.H.
+Season: 2018 D2
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.277
+
+Stat Comparison vs League Average:
+  points_per_game: 16.430 (1.211 below average)
+  scoring_defense: 13.360 (2.124 above average)
+  scoring_offense: 10.860 (0.454 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 13.881 (1.822 below average)
+  saves_per_game: 12.570 (0.582 above average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 28.140 (2.756 below average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 39.926 (1.260 above average)

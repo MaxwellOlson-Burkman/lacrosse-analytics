@@ -1,0 +1,17 @@
+Team: Ohio Valley
+Season: 2015 D2
+Record: 0-15
+Winning %: 0.000
+Predicted Winning %: 0.047
+
+Stat Comparison vs League Average:
+  points_per_game: 10.330 (7.311 below average)
+  scoring_defense: 15.730 (4.494 above average)
+  scoring_offense: 6.800 (4.514 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 11.385 (4.318 below average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.745 (0.098 below average)
+  ground_balls_per_game: 22.930 (7.966 below average)
+  shot_percentage: 0.268 (0.023 below average)
+  offensive_efficiency: 25.373 (13.293 below average)

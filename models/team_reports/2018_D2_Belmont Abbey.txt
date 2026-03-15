@@ -1,0 +1,17 @@
+Team: Belmont Abbey
+Season: 2018 D2
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.767
+
+Stat Comparison vs League Average:
+  points_per_game: 21.330 (3.689 above average)
+  scoring_defense: 7.940 (3.296 below average)
+  scoring_offense: 13.890 (2.576 above average)
+  scoring_margin: 5.940 (4.206 above average)
+  defensive_efficiency: 18.466 (2.763 above average)
+  saves_per_game: 7.720 (4.268 below average)
+  clearing_percentage: 0.909 (0.066 above average)
+  ground_balls_per_game: 34.060 (3.164 above average)
+  shot_percentage: 0.331 (0.040 above average)
+  offensive_efficiency: 41.964 (3.298 above average)

@@ -1,0 +1,17 @@
+Team: Lewis
+Season: 2024 D2
+Record: 14-5
+Winning %: 0.737
+Predicted Winning %: 0.722
+
+Stat Comparison vs League Average:
+  points_per_game: 23.890 (6.249 above average)
+  scoring_defense: 9.320 (1.916 below average)
+  scoring_offense: 14.260 (2.946 above average)
+  scoring_margin: 4.950 (3.216 above average)
+  defensive_efficiency: 18.825 (3.122 above average)
+  saves_per_game: 15.050 (3.062 above average)
+  clearing_percentage: 0.944 (0.101 above average)
+  ground_balls_per_game: 32.000 (1.104 above average)
+  shot_percentage: 0.326 (0.035 above average)
+  offensive_efficiency: 43.742 (5.076 above average)

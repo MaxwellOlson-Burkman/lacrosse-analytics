@@ -1,0 +1,17 @@
+Team: Lynn
+Season: 2022 D2
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.361
+
+Stat Comparison vs League Average:
+  points_per_game: 17.400 (0.241 below average)
+  scoring_defense: 13.130 (1.894 above average)
+  scoring_offense: 11.600 (0.286 above average)
+  scoring_margin: -1.530 (3.264 below average)
+  defensive_efficiency: 14.294 (1.409 below average)
+  saves_per_game: 13.130 (1.142 above average)
+  clearing_percentage: 0.833 (0.010 below average)
+  ground_balls_per_game: 26.800 (4.096 below average)
+  shot_percentage: 0.310 (0.019 above average)
+  offensive_efficiency: 37.419 (1.247 below average)

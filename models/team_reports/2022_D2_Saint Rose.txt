@@ -1,0 +1,17 @@
+Team: Saint Rose
+Season: 2022 D2
+Record: 8-9
+Winning %: 0.471
+Predicted Winning %: 0.406
+
+Stat Comparison vs League Average:
+  points_per_game: 16.530 (1.111 below average)
+  scoring_defense: 11.530 (0.294 above average)
+  scoring_offense: 10.710 (0.604 below average)
+  scoring_margin: -0.820 (2.554 below average)
+  defensive_efficiency: 16.673 (0.970 above average)
+  saves_per_game: 14.410 (2.422 above average)
+  clearing_percentage: 0.817 (0.026 below average)
+  ground_balls_per_game: 29.290 (1.606 below average)
+  shot_percentage: 0.268 (0.023 below average)
+  offensive_efficiency: 39.963 (1.297 above average)

@@ -1,0 +1,17 @@
+Team: Tampa
+Season: 2024 D2
+Record: 18-2
+Winning %: 0.900
+Predicted Winning %: 0.885
+
+Stat Comparison vs League Average:
+  points_per_game: 25.250 (7.609 above average)
+  scoring_defense: 8.900 (2.336 below average)
+  scoring_offense: 16.450 (5.136 above average)
+  scoring_margin: 7.550 (5.816 above average)
+  defensive_efficiency: 17.570 (1.867 above average)
+  saves_per_game: 9.900 (2.088 below average)
+  clearing_percentage: 0.903 (0.060 above average)
+  ground_balls_per_game: 37.150 (6.254 above average)
+  shot_percentage: 0.356 (0.065 above average)
+  offensive_efficiency: 46.208 (7.542 above average)

@@ -1,0 +1,17 @@
+Team: Sacred Heart
+Season: 2024 D1
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.696
+
+Stat Comparison vs League Average:
+  points_per_game: 20.780 (3.139 above average)
+  scoring_defense: 9.610 (1.626 below average)
+  scoring_offense: 13.330 (2.016 above average)
+  scoring_margin: 3.720 (1.986 above average)
+  defensive_efficiency: 17.632 (1.929 above average)
+  saves_per_game: 12.440 (0.452 above average)
+  clearing_percentage: 0.910 (0.067 above average)
+  ground_balls_per_game: 31.610 (0.714 above average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 44.732 (6.065 above average)

@@ -1,0 +1,17 @@
+Team: Richmond
+Season: 2018 D1
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.540
+
+Stat Comparison vs League Average:
+  points_per_game: 17.350 (0.291 below average)
+  scoring_defense: 10.470 (0.766 below average)
+  scoring_offense: 10.650 (0.664 below average)
+  scoring_margin: 0.180 (1.554 below average)
+  defensive_efficiency: 16.083 (0.380 above average)
+  saves_per_game: 9.760 (2.228 below average)
+  clearing_percentage: 0.920 (0.077 above average)
+  ground_balls_per_game: 26.940 (3.956 below average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 35.033 (3.633 below average)

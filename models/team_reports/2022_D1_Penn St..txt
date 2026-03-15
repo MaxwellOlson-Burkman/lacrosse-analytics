@@ -1,0 +1,17 @@
+Team: Penn St.
+Season: 2022 D1
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.309
+
+Stat Comparison vs League Average:
+  points_per_game: 17.640 (0.001 below average)
+  scoring_defense: 13.640 (2.404 above average)
+  scoring_offense: 11.210 (0.104 below average)
+  scoring_margin: -2.430 (4.164 below average)
+  defensive_efficiency: 13.690 (2.013 below average)
+  saves_per_game: 14.500 (2.512 above average)
+  clearing_percentage: 0.874 (0.031 above average)
+  ground_balls_per_game: 30.360 (0.536 below average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 38.259 (0.407 below average)

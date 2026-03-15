@@ -1,0 +1,17 @@
+Team: Belmont Abbey
+Season: 2022 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.668
+
+Stat Comparison vs League Average:
+  points_per_game: 22.200 (4.559 above average)
+  scoring_defense: 9.730 (1.506 below average)
+  scoring_offense: 13.000 (1.686 above average)
+  scoring_margin: 3.270 (1.536 above average)
+  defensive_efficiency: 18.664 (2.961 above average)
+  saves_per_game: 15.530 (3.542 above average)
+  clearing_percentage: 0.833 (0.010 below average)
+  ground_balls_per_game: 33.130 (2.234 above average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 42.763 (4.097 above average)

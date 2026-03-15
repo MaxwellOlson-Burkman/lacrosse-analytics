@@ -1,0 +1,17 @@
+Team: Mercyhurst
+Season: 2020 D2
+Record: 5-0
+Winning %: 1.000
+Predicted Winning %: 0.863
+
+Stat Comparison vs League Average:
+  points_per_game: 21.200 (3.559 above average)
+  scoring_defense: 7.200 (4.036 below average)
+  scoring_offense: 12.800 (1.486 above average)
+  scoring_margin: 5.600 (3.866 above average)
+  defensive_efficiency: 19.500 (3.797 above average)
+  saves_per_game: 9.000 (2.988 below average)
+  clearing_percentage: 0.909 (0.066 above average)
+  ground_balls_per_game: 35.000 (4.104 above average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 44.444 (5.778 above average)

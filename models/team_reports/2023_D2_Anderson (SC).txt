@@ -1,0 +1,17 @@
+Team: Anderson (SC)
+Season: 2023 D2
+Record: 12-6
+Winning %: 0.667
+Predicted Winning %: 0.655
+
+Stat Comparison vs League Average:
+  points_per_game: 24.000 (6.359 above average)
+  scoring_defense: 11.720 (0.484 above average)
+  scoring_offense: 15.000 (3.686 above average)
+  scoring_margin: 3.280 (1.546 above average)
+  defensive_efficiency: 15.919 (0.216 above average)
+  saves_per_game: 13.280 (1.292 above average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 36.780 (5.884 above average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 47.619 (8.953 above average)

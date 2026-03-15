@@ -1,0 +1,17 @@
+Team: Lafayette
+Season: 2018 D1
+Record: 3-12
+Winning %: 0.200
+Predicted Winning %: 0.162
+
+Stat Comparison vs League Average:
+  points_per_game: 12.000 (5.641 below average)
+  scoring_defense: 13.400 (2.164 above average)
+  scoring_offense: 7.800 (3.514 below average)
+  scoring_margin: -5.600 (7.334 below average)
+  defensive_efficiency: 12.551 (3.152 below average)
+  saves_per_game: 10.270 (1.718 below average)
+  clearing_percentage: 0.780 (0.063 below average)
+  ground_balls_per_game: 27.870 (3.026 below average)
+  shot_percentage: 0.235 (0.056 below average)
+  offensive_efficiency: 33.191 (5.475 below average)

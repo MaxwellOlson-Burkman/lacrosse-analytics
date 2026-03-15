@@ -1,0 +1,17 @@
+Team: Roberts Wesleyan
+Season: 2016 D2
+Record: 3-13
+Winning %: 0.188
+Predicted Winning %: 0.273
+
+Stat Comparison vs League Average:
+  points_per_game: 13.630 (4.011 below average)
+  scoring_defense: 12.560 (1.324 above average)
+  scoring_offense: 8.880 (2.434 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 14.452 (1.251 below average)
+  saves_per_game: 11.750 (0.238 below average)
+  clearing_percentage: 0.788 (0.055 below average)
+  ground_balls_per_game: 24.560 (6.336 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 31.601 (7.065 below average)

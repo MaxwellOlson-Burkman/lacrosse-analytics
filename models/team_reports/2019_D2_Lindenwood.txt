@@ -1,0 +1,17 @@
+Team: Lindenwood
+Season: 2019 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.594
+
+Stat Comparison vs League Average:
+  points_per_game: 17.670 (0.029 above average)
+  scoring_defense: 9.730 (1.506 below average)
+  scoring_offense: 11.530 (0.216 above average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 16.455 (0.752 above average)
+  saves_per_game: 9.600 (2.388 below average)
+  clearing_percentage: 0.857 (0.014 above average)
+  ground_balls_per_game: 33.730 (2.834 above average)
+  shot_percentage: 0.263 (0.028 below average)
+  offensive_efficiency: 43.840 (5.174 above average)

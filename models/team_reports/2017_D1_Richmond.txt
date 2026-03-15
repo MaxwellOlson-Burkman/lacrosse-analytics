@@ -1,0 +1,17 @@
+Team: Richmond
+Season: 2017 D1
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.729
+
+Stat Comparison vs League Average:
+  points_per_game: 17.250 (0.391 below average)
+  scoring_defense: 6.250 (4.986 below average)
+  scoring_offense: 10.440 (0.874 below average)
+  scoring_margin: 4.190 (2.456 above average)
+  defensive_efficiency: 21.494 (5.791 above average)
+  saves_per_game: 12.130 (0.142 above average)
+  clearing_percentage: 0.879 (0.036 above average)
+  ground_balls_per_game: 30.310 (0.586 below average)
+  shot_percentage: 0.302 (0.011 above average)
+  offensive_efficiency: 34.570 (4.097 below average)

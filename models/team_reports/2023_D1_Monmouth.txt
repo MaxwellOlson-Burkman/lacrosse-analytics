@@ -1,0 +1,17 @@
+Team: Monmouth
+Season: 2023 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.357
+
+Stat Comparison vs League Average:
+  points_per_game: 14.210 (3.431 below average)
+  scoring_defense: 12.000 (0.764 above average)
+  scoring_offense: 9.210 (2.104 below average)
+  scoring_margin: -2.790 (4.524 below average)
+  defensive_efficiency: 14.602 (1.101 below average)
+  saves_per_game: 10.640 (1.348 below average)
+  clearing_percentage: 0.853 (0.010 above average)
+  ground_balls_per_game: 31.290 (0.394 above average)
+  shot_percentage: 0.251 (0.040 below average)
+  offensive_efficiency: 36.693 (1.973 below average)

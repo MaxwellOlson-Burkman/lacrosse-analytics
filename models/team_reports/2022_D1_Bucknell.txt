@@ -1,0 +1,17 @@
+Team: Bucknell
+Season: 2022 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.645
+
+Stat Comparison vs League Average:
+  points_per_game: 21.930 (4.289 above average)
+  scoring_defense: 10.870 (0.366 below average)
+  scoring_offense: 13.530 (2.216 above average)
+  scoring_margin: 2.670 (0.936 above average)
+  defensive_efficiency: 15.741 (0.038 above average)
+  saves_per_game: 11.070 (0.918 below average)
+  clearing_percentage: 0.824 (0.019 below average)
+  ground_balls_per_game: 36.130 (5.234 above average)
+  shot_percentage: 0.299 (0.008 above average)
+  offensive_efficiency: 45.251 (6.585 above average)

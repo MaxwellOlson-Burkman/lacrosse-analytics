@@ -1,0 +1,17 @@
+Team: High Point
+Season: 2016 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.520
+
+Stat Comparison vs League Average:
+  points_per_game: 17.200 (0.441 below average)
+  scoring_defense: 10.800 (0.436 below average)
+  scoring_offense: 10.800 (0.514 below average)
+  scoring_margin: 0.000 (1.734 below average)
+  defensive_efficiency: 16.144 (0.441 above average)
+  saves_per_game: 11.930 (0.058 below average)
+  clearing_percentage: 0.850 (0.007 above average)
+  ground_balls_per_game: 29.470 (1.426 below average)
+  shot_percentage: 0.307 (0.016 above average)
+  offensive_efficiency: 35.179 (3.487 below average)

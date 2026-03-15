@@ -1,0 +1,17 @@
+Team: Maryland
+Season: 2020 D1
+Record: 5-1
+Winning %: 0.833
+Predicted Winning %: 0.694
+
+Stat Comparison vs League Average:
+  points_per_game: 25.670 (8.029 above average)
+  scoring_defense: 12.500 (1.264 above average)
+  scoring_offense: 15.670 (4.356 above average)
+  scoring_margin: 3.170 (1.436 above average)
+  defensive_efficiency: 15.559 (0.144 below average)
+  saves_per_game: 12.830 (0.842 above average)
+  clearing_percentage: 0.887 (0.044 above average)
+  ground_balls_per_game: 33.500 (2.604 above average)
+  shot_percentage: 0.311 (0.020 above average)
+  offensive_efficiency: 50.386 (11.720 above average)

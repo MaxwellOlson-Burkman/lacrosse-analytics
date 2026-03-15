@@ -1,0 +1,17 @@
+Team: Chestnut Hill
+Season: 2015 D2
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.425
+
+Stat Comparison vs League Average:
+  points_per_game: 14.380 (3.261 below average)
+  scoring_defense: 10.230 (1.006 below average)
+  scoring_offense: 9.620 (1.694 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 16.526 (0.823 above average)
+  saves_per_game: 11.770 (0.218 below average)
+  clearing_percentage: 0.798 (0.045 below average)
+  ground_balls_per_game: 26.000 (4.896 below average)
+  shot_percentage: 0.275 (0.016 below average)
+  offensive_efficiency: 34.982 (3.684 below average)

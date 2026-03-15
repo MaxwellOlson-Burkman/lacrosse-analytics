@@ -1,0 +1,17 @@
+Team: Colorado Mesa
+Season: 2016 D2
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.720
+
+Stat Comparison vs League Average:
+  points_per_game: 16.710 (0.931 below average)
+  scoring_defense: 7.410 (3.826 below average)
+  scoring_offense: 11.410 (0.096 above average)
+  scoring_margin: 4.000 (2.266 above average)
+  defensive_efficiency: 19.444 (3.741 above average)
+  saves_per_game: 11.880 (0.108 below average)
+  clearing_percentage: 0.881 (0.038 above average)
+  ground_balls_per_game: 24.590 (6.306 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 43.550 (4.884 above average)

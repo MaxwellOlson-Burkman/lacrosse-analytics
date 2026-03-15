@@ -1,0 +1,17 @@
+Team: Hobart
+Season: 2017 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.538
+
+Stat Comparison vs League Average:
+  points_per_game: 17.690 (0.049 above average)
+  scoring_defense: 11.130 (0.106 below average)
+  scoring_offense: 11.940 (0.626 above average)
+  scoring_margin: 0.810 (0.924 below average)
+  defensive_efficiency: 15.192 (0.511 below average)
+  saves_per_game: 11.690 (0.298 below average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 27.500 (3.396 below average)
+  shot_percentage: 0.279 (0.012 below average)
+  offensive_efficiency: 42.796 (4.130 above average)

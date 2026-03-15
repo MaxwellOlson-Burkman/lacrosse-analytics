@@ -1,0 +1,17 @@
+Team: Young Harris
+Season: 2022 D2
+Record: 1-14
+Winning %: 0.067
+Predicted Winning %: 0.093
+
+Stat Comparison vs League Average:
+  points_per_game: 11.800 (5.841 below average)
+  scoring_defense: 15.130 (3.894 above average)
+  scoring_offense: 8.000 (3.314 below average)
+  scoring_margin: -7.130 (8.864 below average)
+  defensive_efficiency: 12.255 (3.448 below average)
+  saves_per_game: 15.200 (3.212 above average)
+  clearing_percentage: 0.737 (0.106 below average)
+  ground_balls_per_game: 26.530 (4.366 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 29.304 (9.362 below average)

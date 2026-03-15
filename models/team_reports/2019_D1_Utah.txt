@@ -1,0 +1,17 @@
+Team: Utah
+Season: 2019 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.256
+
+Stat Comparison vs League Average:
+  points_per_game: 15.130 (2.511 below average)
+  scoring_defense: 13.130 (1.894 above average)
+  scoring_offense: 9.200 (2.114 below average)
+  scoring_margin: -3.930 (5.664 below average)
+  defensive_efficiency: 13.605 (2.098 below average)
+  saves_per_game: 12.600 (0.612 above average)
+  clearing_percentage: 0.814 (0.029 below average)
+  ground_balls_per_game: 25.870 (5.026 below average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 32.056 (6.610 below average)

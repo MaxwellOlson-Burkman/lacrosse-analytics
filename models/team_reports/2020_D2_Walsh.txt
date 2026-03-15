@@ -1,0 +1,17 @@
+Team: Walsh
+Season: 2020 D2
+Record: 1-3
+Winning %: 0.250
+Predicted Winning %: 0.234
+
+Stat Comparison vs League Average:
+  points_per_game: 12.500 (5.141 below average)
+  scoring_defense: 14.500 (3.264 above average)
+  scoring_offense: 8.250 (3.064 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 12.930 (2.773 below average)
+  saves_per_game: 15.250 (3.262 above average)
+  clearing_percentage: 0.767 (0.076 below average)
+  ground_balls_per_game: 25.000 (5.896 below average)
+  shot_percentage: 0.260 (0.031 below average)
+  offensive_efficiency: 31.731 (6.935 below average)

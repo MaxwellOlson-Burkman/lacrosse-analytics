@@ -1,0 +1,17 @@
+Team: Furman
+Season: 2019 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.376
+
+Stat Comparison vs League Average:
+  points_per_game: 18.210 (0.569 above average)
+  scoring_defense: 12.710 (1.474 above average)
+  scoring_offense: 11.640 (0.326 above average)
+  scoring_margin: -1.070 (2.804 below average)
+  defensive_efficiency: 14.246 (1.457 below average)
+  saves_per_game: 13.570 (1.582 above average)
+  clearing_percentage: 0.799 (0.044 below average)
+  ground_balls_per_game: 31.070 (0.174 above average)
+  shot_percentage: 0.318 (0.027 above average)
+  offensive_efficiency: 36.604 (2.062 below average)

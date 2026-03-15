@@ -1,0 +1,17 @@
+Team: Post
+Season: 2014 D2
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.333
+
+Stat Comparison vs League Average:
+  points_per_game: 19.035 (1.394 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.578 (3.874 above average)
+  saves_per_game: 12.600 (0.612 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 46.949 (8.282 above average)

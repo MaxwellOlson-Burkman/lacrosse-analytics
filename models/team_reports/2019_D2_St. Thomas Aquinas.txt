@@ -1,0 +1,17 @@
+Team: St. Thomas Aquinas
+Season: 2019 D2
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.397
+
+Stat Comparison vs League Average:
+  points_per_game: 11.710 (5.931 below average)
+  scoring_defense: 9.500 (1.736 below average)
+  scoring_offense: 8.430 (2.884 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 18.257 (2.554 above average)
+  saves_per_game: 16.640 (4.652 above average)
+  clearing_percentage: 0.844 (0.001 above average)
+  ground_balls_per_game: 24.860 (6.036 below average)
+  shot_percentage: 0.309 (0.018 above average)
+  offensive_efficiency: 27.282 (11.385 below average)

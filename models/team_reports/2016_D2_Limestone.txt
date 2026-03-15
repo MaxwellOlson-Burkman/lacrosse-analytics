@@ -1,0 +1,17 @@
+Team: Limestone
+Season: 2016 D2
+Record: 21-1
+Winning %: 0.955
+Predicted Winning %: 0.957
+
+Stat Comparison vs League Average:
+  points_per_game: 30.180 (12.539 above average)
+  scoring_defense: 7.360 (3.876 below average)
+  scoring_offense: 19.270 (7.956 above average)
+  scoring_margin: 11.910 (10.176 above average)
+  defensive_efficiency: 19.297 (3.594 above average)
+  saves_per_game: 9.090 (2.898 below average)
+  clearing_percentage: 0.921 (0.078 above average)
+  ground_balls_per_game: 38.860 (7.964 above average)
+  shot_percentage: 0.414 (0.123 above average)
+  offensive_efficiency: 46.546 (7.880 above average)

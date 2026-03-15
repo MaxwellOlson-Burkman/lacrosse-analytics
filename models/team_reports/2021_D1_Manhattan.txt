@@ -1,0 +1,17 @@
+Team: Manhattan
+Season: 2021 D1
+Record: 5-5
+Winning %: 0.500
+Predicted Winning %: 0.449
+
+Stat Comparison vs League Average:
+  points_per_game: 14.400 (3.241 below average)
+  scoring_defense: 9.700 (1.536 below average)
+  scoring_offense: 9.400 (1.914 below average)
+  scoring_margin: -0.300 (2.034 below average)
+  defensive_efficiency: 17.635 (1.932 above average)
+  saves_per_game: 12.600 (0.612 above average)
+  clearing_percentage: 0.822 (0.021 below average)
+  ground_balls_per_game: 23.800 (7.096 below average)
+  shot_percentage: 0.260 (0.031 below average)
+  offensive_efficiency: 36.154 (2.512 below average)

@@ -1,0 +1,17 @@
+Team: CSU Pueblo
+Season: 2017 D2
+Record: 6-6
+Winning %: 0.500
+Predicted Winning %: 0.455
+
+Stat Comparison vs League Average:
+  points_per_game: 20.420 (2.779 above average)
+  scoring_defense: 13.670 (2.434 above average)
+  scoring_offense: 12.580 (1.266 above average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 13.044 (2.659 below average)
+  saves_per_game: 11.580 (0.408 below average)
+  clearing_percentage: 0.783 (0.060 below average)
+  ground_balls_per_game: 27.000 (3.896 below average)
+  shot_percentage: 0.342 (0.051 above average)
+  offensive_efficiency: 36.784 (1.882 below average)

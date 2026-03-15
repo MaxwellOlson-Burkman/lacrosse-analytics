@@ -1,0 +1,17 @@
+Team: Colgate
+Season: 2016 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.265
+
+Stat Comparison vs League Average:
+  points_per_game: 11.790 (5.851 below average)
+  scoring_defense: 10.570 (0.666 below average)
+  scoring_offense: 7.640 (3.674 below average)
+  scoring_margin: -2.930 (4.664 below average)
+  defensive_efficiency: 15.579 (0.124 below average)
+  saves_per_game: 9.930 (2.058 below average)
+  clearing_percentage: 0.876 (0.033 above average)
+  ground_balls_per_game: 24.360 (6.536 below average)
+  shot_percentage: 0.231 (0.060 below average)
+  offensive_efficiency: 33.074 (5.593 below average)

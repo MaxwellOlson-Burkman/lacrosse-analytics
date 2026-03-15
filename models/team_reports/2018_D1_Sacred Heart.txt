@@ -1,0 +1,17 @@
+Team: Sacred Heart
+Season: 2018 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.441
+
+Stat Comparison vs League Average:
+  points_per_game: 16.870 (0.771 below average)
+  scoring_defense: 11.730 (0.494 above average)
+  scoring_offense: 11.000 (0.314 below average)
+  scoring_margin: -0.730 (2.464 below average)
+  defensive_efficiency: 14.655 (1.048 below average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.889 (0.046 above average)
+  ground_balls_per_game: 30.870 (0.026 below average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 38.328 (0.339 below average)

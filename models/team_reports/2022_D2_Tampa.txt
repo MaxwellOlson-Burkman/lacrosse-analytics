@@ -1,0 +1,17 @@
+Team: Tampa
+Season: 2022 D2
+Record: 21-0
+Winning %: 1.000
+Predicted Winning %: 0.912
+
+Stat Comparison vs League Average:
+  points_per_game: 23.330 (5.689 above average)
+  scoring_defense: 8.710 (2.526 below average)
+  scoring_offense: 15.520 (4.206 above average)
+  scoring_margin: 6.810 (5.076 above average)
+  defensive_efficiency: 20.075 (4.372 above average)
+  saves_per_game: 15.050 (3.062 above average)
+  clearing_percentage: 0.886 (0.043 above average)
+  ground_balls_per_game: 37.710 (6.814 above average)
+  shot_percentage: 0.342 (0.051 above average)
+  offensive_efficiency: 45.380 (6.714 above average)

@@ -1,0 +1,17 @@
+Team: Stony Brook
+Season: 2022 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.592
+
+Stat Comparison vs League Average:
+  points_per_game: 19.430 (1.789 above average)
+  scoring_defense: 11.570 (0.334 above average)
+  scoring_offense: 12.930 (1.616 above average)
+  scoring_margin: 1.360 (0.374 below average)
+  defensive_efficiency: 14.702 (1.001 below average)
+  saves_per_game: 11.790 (0.198 below average)
+  clearing_percentage: 0.868 (0.025 above average)
+  ground_balls_per_game: 34.430 (3.534 above average)
+  shot_percentage: 0.291 (0.000 above average)
+  offensive_efficiency: 44.433 (5.767 above average)

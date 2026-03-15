@@ -1,0 +1,17 @@
+Team: Loyola Maryland
+Season: 2015 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.527
+
+Stat Comparison vs League Average:
+  points_per_game: 18.130 (0.489 above average)
+  scoring_defense: 10.330 (0.906 below average)
+  scoring_offense: 11.200 (0.114 below average)
+  scoring_margin: 0.870 (0.864 below average)
+  defensive_efficiency: 15.386 (0.317 below average)
+  saves_per_game: 10.470 (1.518 below average)
+  clearing_percentage: 0.874 (0.031 above average)
+  ground_balls_per_game: 31.000 (0.104 above average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 41.026 (2.360 above average)

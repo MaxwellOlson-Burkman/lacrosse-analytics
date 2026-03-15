@@ -1,0 +1,17 @@
+Team: Lenoir-Rhyne
+Season: 2014 D2
+Record: 10-4
+Winning %: 0.714
+Predicted Winning %: 0.791
+
+Stat Comparison vs League Average:
+  points_per_game: 24.290 (6.649 above average)
+  scoring_defense: 8.070 (3.166 below average)
+  scoring_offense: 15.140 (3.826 above average)
+  scoring_margin: 7.070 (5.336 above average)
+  defensive_efficiency: 19.544 (3.841 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 30.860 (0.036 below average)
+  shot_percentage: 0.384 (0.093 above average)
+  offensive_efficiency: 39.427 (0.761 above average)

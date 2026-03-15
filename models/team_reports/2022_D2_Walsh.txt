@@ -1,0 +1,17 @@
+Team: Walsh
+Season: 2022 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.339
+
+Stat Comparison vs League Average:
+  points_per_game: 14.430 (3.211 below average)
+  scoring_defense: 12.000 (0.764 above average)
+  scoring_offense: 9.360 (1.954 below average)
+  scoring_margin: -2.640 (4.374 below average)
+  defensive_efficiency: 15.528 (0.175 below average)
+  saves_per_game: 13.710 (1.722 above average)
+  clearing_percentage: 0.788 (0.055 below average)
+  ground_balls_per_game: 24.360 (6.536 below average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 31.837 (6.829 below average)

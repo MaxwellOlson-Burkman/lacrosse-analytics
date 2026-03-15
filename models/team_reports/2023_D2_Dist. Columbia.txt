@@ -1,0 +1,17 @@
+Team: Dist. Columbia
+Season: 2023 D2
+Record: 0-10
+Winning %: 0.000
+Predicted Winning %: 0.021
+
+Stat Comparison vs League Average:
+  points_per_game: 6.800 (10.841 below average)
+  scoring_defense: 23.100 (11.864 above average)
+  scoring_offense: 4.800 (6.514 below average)
+  scoring_margin: -18.300 (20.034 below average)
+  defensive_efficiency: 5.640 (10.063 below average)
+  saves_per_game: 20.800 (8.812 above average)
+  clearing_percentage: 0.595 (0.248 below average)
+  ground_balls_per_game: 33.000 (2.104 above average)
+  shot_percentage: 0.175 (0.116 below average)
+  offensive_efficiency: 27.429 (11.238 below average)

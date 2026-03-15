@@ -1,0 +1,17 @@
+Team: NJIT
+Season: 2022 D1
+Record: 0-13
+Winning %: 0.000
+Predicted Winning %: 0.073
+
+Stat Comparison vs League Average:
+  points_per_game: 10.920 (6.721 below average)
+  scoring_defense: 14.850 (3.614 above average)
+  scoring_offense: 6.920 (4.394 below average)
+  scoring_margin: -7.920 (9.654 below average)
+  defensive_efficiency: 12.649 (3.054 below average)
+  saves_per_game: 14.230 (2.242 above average)
+  clearing_percentage: 0.786 (0.057 below average)
+  ground_balls_per_game: 26.230 (4.666 below average)
+  shot_percentage: 0.199 (0.092 below average)
+  offensive_efficiency: 34.774 (3.892 below average)

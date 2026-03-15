@@ -1,0 +1,17 @@
+Team: Lander
+Season: 2022 D2
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.754
+
+Stat Comparison vs League Average:
+  points_per_game: 24.180 (6.539 above average)
+  scoring_defense: 9.820 (1.416 below average)
+  scoring_offense: 15.470 (4.156 above average)
+  scoring_margin: 5.650 (3.916 above average)
+  defensive_efficiency: 17.333 (1.630 above average)
+  saves_per_game: 13.710 (1.722 above average)
+  clearing_percentage: 0.899 (0.056 above average)
+  ground_balls_per_game: 45.470 (14.574 above average)
+  shot_percentage: 0.336 (0.045 above average)
+  offensive_efficiency: 46.042 (7.376 above average)

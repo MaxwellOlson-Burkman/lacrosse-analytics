@@ -1,0 +1,17 @@
+Team: Mercer
+Season: 2021 D1
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.376
+
+Stat Comparison vs League Average:
+  points_per_game: 17.150 (0.491 below average)
+  scoring_defense: 12.540 (1.304 above average)
+  scoring_offense: 10.770 (0.544 below average)
+  scoring_margin: -1.770 (3.504 below average)
+  defensive_efficiency: 14.631 (1.072 below average)
+  saves_per_game: 12.620 (0.632 above average)
+  clearing_percentage: 0.878 (0.035 above average)
+  ground_balls_per_game: 30.770 (0.126 below average)
+  shot_percentage: 0.284 (0.007 below average)
+  offensive_efficiency: 37.923 (0.744 below average)

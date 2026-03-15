@@ -1,0 +1,17 @@
+Team: Chestnut Hill
+Season: 2014 D2
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.520
+
+Stat Comparison vs League Average:
+  points_per_game: 18.460 (0.819 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 11.770 (0.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.511 (3.808 above average)
+  saves_per_game: 12.380 (0.392 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 30.000 (0.896 below average)
+  shot_percentage: 0.317 (0.026 above average)
+  offensive_efficiency: 37.129 (1.537 below average)

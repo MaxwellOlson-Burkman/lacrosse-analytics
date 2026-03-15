@@ -1,0 +1,17 @@
+Team: Cleveland St.
+Season: 2023 D1
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.423
+
+Stat Comparison vs League Average:
+  points_per_game: 18.080 (0.439 above average)
+  scoring_defense: 12.920 (1.684 above average)
+  scoring_offense: 11.540 (0.226 above average)
+  scoring_margin: -1.380 (3.114 below average)
+  defensive_efficiency: 14.437 (1.266 below average)
+  saves_per_game: 12.690 (0.702 above average)
+  clearing_percentage: 0.867 (0.024 above average)
+  ground_balls_per_game: 28.460 (2.436 below average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 35.839 (2.828 below average)

@@ -1,0 +1,17 @@
+Team: Virginia
+Season: 2021 D1
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.709
+
+Stat Comparison vs League Average:
+  points_per_game: 23.000 (5.359 above average)
+  scoring_defense: 11.670 (0.434 above average)
+  scoring_offense: 14.610 (3.296 above average)
+  scoring_margin: 2.940 (1.206 above average)
+  defensive_efficiency: 15.765 (0.062 above average)
+  saves_per_game: 13.500 (1.512 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 41.940 (11.044 above average)
+  shot_percentage: 0.338 (0.047 above average)
+  offensive_efficiency: 43.225 (4.559 above average)

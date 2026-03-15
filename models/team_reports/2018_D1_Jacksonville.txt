@@ -1,0 +1,17 @@
+Team: Jacksonville
+Season: 2018 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.577
+
+Stat Comparison vs League Average:
+  points_per_game: 18.000 (0.359 above average)
+  scoring_defense: 10.400 (0.836 below average)
+  scoring_offense: 11.530 (0.216 above average)
+  scoring_margin: 1.130 (0.604 below average)
+  defensive_efficiency: 15.855 (0.152 above average)
+  saves_per_game: 8.600 (3.388 below average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 33.200 (2.304 above average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 35.807 (2.859 below average)

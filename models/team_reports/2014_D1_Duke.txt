@@ -1,0 +1,17 @@
+Team: Duke
+Season: 2014 D1
+Record: 17-3
+Winning %: 0.850
+Predicted Winning %: 0.798
+
+Stat Comparison vs League Average:
+  points_per_game: 23.850 (6.209 above average)
+  scoring_defense: 9.650 (1.586 below average)
+  scoring_offense: 14.850 (3.536 above average)
+  scoring_margin: 5.200 (3.466 above average)
+  defensive_efficiency: 16.545 (0.842 above average)
+  saves_per_game: 9.600 (2.388 below average)
+  clearing_percentage: 0.894 (0.051 above average)
+  ground_balls_per_game: 35.050 (4.154 above average)
+  shot_percentage: 0.358 (0.067 above average)
+  offensive_efficiency: 41.480 (2.814 above average)

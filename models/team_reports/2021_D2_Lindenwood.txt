@@ -1,0 +1,17 @@
+Team: Lindenwood
+Season: 2021 D2
+Record: 10-3
+Winning %: 0.769
+Predicted Winning %: 0.707
+
+Stat Comparison vs League Average:
+  points_per_game: 20.000 (2.359 above average)
+  scoring_defense: 7.080 (4.156 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 5.690 (3.956 above average)
+  defensive_efficiency: 19.652 (3.949 above average)
+  saves_per_game: 8.690 (3.298 below average)
+  clearing_percentage: 0.892 (0.049 above average)
+  ground_balls_per_game: 33.310 (2.414 above average)
+  shot_percentage: 0.229 (0.062 below average)
+  offensive_efficiency: 55.764 (17.098 above average)

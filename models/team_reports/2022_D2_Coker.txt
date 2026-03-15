@@ -1,0 +1,17 @@
+Team: Coker
+Season: 2022 D2
+Record: 2-14
+Winning %: 0.125
+Predicted Winning %: 0.127
+
+Stat Comparison vs League Average:
+  points_per_game: 12.500 (5.141 below average)
+  scoring_defense: 15.560 (4.324 above average)
+  scoring_offense: 8.000 (3.314 below average)
+  scoring_margin: -7.560 (9.294 below average)
+  defensive_efficiency: 11.769 (3.934 below average)
+  saves_per_game: 13.630 (1.642 above average)
+  clearing_percentage: 0.721 (0.122 below average)
+  ground_balls_per_game: 30.690 (0.206 below average)
+  shot_percentage: 0.241 (0.050 below average)
+  offensive_efficiency: 33.195 (5.471 below average)

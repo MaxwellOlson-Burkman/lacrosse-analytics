@@ -1,0 +1,17 @@
+Team: Adelphi
+Season: 2023 D2
+Record: 16-4
+Winning %: 0.800
+Predicted Winning %: 0.808
+
+Stat Comparison vs League Average:
+  points_per_game: 21.950 (4.309 above average)
+  scoring_defense: 7.500 (3.736 below average)
+  scoring_offense: 14.150 (2.836 above average)
+  scoring_margin: 6.650 (4.916 above average)
+  defensive_efficiency: 19.655 (3.952 above average)
+  saves_per_game: 11.350 (0.638 below average)
+  clearing_percentage: 0.906 (0.063 above average)
+  ground_balls_per_game: 33.250 (2.354 above average)
+  shot_percentage: 0.320 (0.029 above average)
+  offensive_efficiency: 44.219 (5.553 above average)

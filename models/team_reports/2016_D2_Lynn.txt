@@ -1,0 +1,17 @@
+Team: Lynn
+Season: 2016 D2
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.675
+
+Stat Comparison vs League Average:
+  points_per_game: 19.710 (2.069 above average)
+  scoring_defense: 8.640 (2.596 below average)
+  scoring_offense: 12.000 (0.686 above average)
+  scoring_margin: 3.360 (1.626 above average)
+  defensive_efficiency: 18.827 (3.124 above average)
+  saves_per_game: 12.140 (0.152 above average)
+  clearing_percentage: 0.899 (0.056 above average)
+  ground_balls_per_game: 34.360 (3.464 above average)
+  shot_percentage: 0.284 (0.007 below average)
+  offensive_efficiency: 42.254 (3.587 above average)

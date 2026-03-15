@@ -1,0 +1,17 @@
+Team: Quinnipiac
+Season: 2018 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.608
+
+Stat Comparison vs League Average:
+  points_per_game: 17.670 (0.029 above average)
+  scoring_defense: 10.200 (1.036 below average)
+  scoring_offense: 11.730 (0.416 above average)
+  scoring_margin: 1.530 (0.204 below average)
+  defensive_efficiency: 15.739 (0.036 above average)
+  saves_per_game: 10.130 (1.858 below average)
+  clearing_percentage: 0.846 (0.003 above average)
+  ground_balls_per_game: 32.330 (1.434 above average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 40.871 (2.205 above average)

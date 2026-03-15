@@ -1,0 +1,17 @@
+Team: Tampa
+Season: 2017 D2
+Record: 15-5
+Winning %: 0.750
+Predicted Winning %: 0.770
+
+Stat Comparison vs League Average:
+  points_per_game: 21.900 (4.259 above average)
+  scoring_defense: 8.400 (2.836 below average)
+  scoring_offense: 14.050 (2.736 above average)
+  scoring_margin: 5.650 (3.916 above average)
+  defensive_efficiency: 17.970 (2.267 above average)
+  saves_per_game: 9.250 (2.738 below average)
+  clearing_percentage: 0.904 (0.061 above average)
+  ground_balls_per_game: 31.850 (0.954 above average)
+  shot_percentage: 0.365 (0.074 above average)
+  offensive_efficiency: 38.493 (0.173 below average)

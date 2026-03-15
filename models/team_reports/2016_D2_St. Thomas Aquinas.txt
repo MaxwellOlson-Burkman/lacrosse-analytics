@@ -1,0 +1,17 @@
+Team: St. Thomas Aquinas
+Season: 2016 D2
+Record: 0-12
+Winning %: 0.000
+Predicted Winning %: 0.128
+
+Stat Comparison vs League Average:
+  points_per_game: 16.595 (1.046 below average)
+  scoring_defense: 13.830 (2.594 above average)
+  scoring_offense: 11.005 (0.309 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 13.546 (2.157 below average)
+  saves_per_game: 14.170 (2.182 above average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 29.765 (1.131 below average)
+  shot_percentage: 0.249 (0.042 below average)
+  offensive_efficiency: 44.197 (5.531 above average)

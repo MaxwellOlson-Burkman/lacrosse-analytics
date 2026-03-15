@@ -1,0 +1,17 @@
+Team: Dartmouth
+Season: 2019 D1
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.187
+
+Stat Comparison vs League Average:
+  points_per_game: 12.000 (5.641 below average)
+  scoring_defense: 12.690 (1.454 above average)
+  scoring_offense: 7.770 (3.544 below average)
+  scoring_margin: -4.920 (6.654 below average)
+  defensive_efficiency: 14.528 (1.175 below average)
+  saves_per_game: 14.310 (2.322 above average)
+  clearing_percentage: 0.768 (0.075 below average)
+  ground_balls_per_game: 29.080 (1.816 below average)
+  shot_percentage: 0.238 (0.053 below average)
+  offensive_efficiency: 32.647 (6.019 below average)

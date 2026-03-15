@@ -1,0 +1,17 @@
+Team: Providence
+Season: 2014 D1
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.306
+
+Stat Comparison vs League Average:
+  points_per_game: 12.530 (5.111 below average)
+  scoring_defense: 10.730 (0.506 below average)
+  scoring_offense: 8.530 (2.784 below average)
+  scoring_margin: -2.200 (3.934 below average)
+  defensive_efficiency: 15.789 (0.086 above average)
+  saves_per_game: 10.930 (1.058 below average)
+  clearing_percentage: 0.844 (0.001 above average)
+  ground_balls_per_game: 27.930 (2.966 below average)
+  shot_percentage: 0.246 (0.045 below average)
+  offensive_efficiency: 34.675 (3.991 below average)

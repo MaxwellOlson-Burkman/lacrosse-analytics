@@ -1,0 +1,17 @@
+Team: Catawba
+Season: 2023 D2
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.218
+
+Stat Comparison vs League Average:
+  points_per_game: 12.310 (5.331 below average)
+  scoring_defense: 12.920 (1.684 above average)
+  scoring_offense: 8.080 (3.234 below average)
+  scoring_margin: -4.850 (6.584 below average)
+  defensive_efficiency: 13.901 (1.802 below average)
+  saves_per_game: 11.620 (0.368 below average)
+  clearing_percentage: 0.799 (0.044 below average)
+  ground_balls_per_game: 28.230 (2.666 below average)
+  shot_percentage: 0.221 (0.070 below average)
+  offensive_efficiency: 36.561 (2.105 below average)

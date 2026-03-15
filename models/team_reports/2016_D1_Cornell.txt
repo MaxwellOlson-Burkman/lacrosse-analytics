@@ -1,0 +1,17 @@
+Team: Cornell
+Season: 2016 D1
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.451
+
+Stat Comparison vs League Average:
+  points_per_game: 14.620 (3.021 below average)
+  scoring_defense: 10.230 (1.006 below average)
+  scoring_offense: 9.310 (2.004 below average)
+  scoring_margin: -0.920 (2.654 below average)
+  defensive_efficiency: 16.542 (0.839 above average)
+  saves_per_game: 10.540 (1.448 below average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 31.920 (1.024 above average)
+  shot_percentage: 0.251 (0.040 below average)
+  offensive_efficiency: 37.092 (1.574 below average)

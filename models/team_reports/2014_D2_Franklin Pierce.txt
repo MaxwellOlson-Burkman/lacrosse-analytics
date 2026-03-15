@@ -1,0 +1,17 @@
+Team: Franklin Pierce
+Season: 2014 D2
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.445
+
+Stat Comparison vs League Average:
+  points_per_game: 19.035 (1.394 above average)
+  scoring_defense: 8.920 (2.316 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 18.748 (3.045 above average)
+  saves_per_game: 13.460 (1.472 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.540 (0.644 above average)
+  shot_percentage: 0.306 (0.016 above average)
+  offensive_efficiency: 41.664 (2.998 above average)

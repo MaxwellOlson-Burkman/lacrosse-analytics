@@ -1,0 +1,17 @@
+Team: Post
+Season: 2018 D2
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.114
+
+Stat Comparison vs League Average:
+  points_per_game: 7.790 (9.851 below average)
+  scoring_defense: 13.070 (1.834 above average)
+  scoring_offense: 5.070 (6.244 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 14.413 (1.290 below average)
+  saves_per_game: 14.360 (2.372 above average)
+  clearing_percentage: 0.698 (0.145 below average)
+  ground_balls_per_game: 25.790 (5.106 below average)
+  shot_percentage: 0.213 (0.078 below average)
+  offensive_efficiency: 23.803 (14.863 below average)

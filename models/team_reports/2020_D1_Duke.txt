@@ -1,0 +1,17 @@
+Team: Duke
+Season: 2020 D1
+Record: 6-2
+Winning %: 0.750
+Predicted Winning %: 0.694
+
+Stat Comparison vs League Average:
+  points_per_game: 24.130 (6.489 above average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 15.250 (3.936 above average)
+  scoring_margin: 4.250 (2.516 above average)
+  defensive_efficiency: 15.195 (0.508 below average)
+  saves_per_game: 9.750 (2.238 below average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 34.880 (3.984 above average)
+  shot_percentage: 0.375 (0.084 above average)
+  offensive_efficiency: 40.667 (2.001 above average)

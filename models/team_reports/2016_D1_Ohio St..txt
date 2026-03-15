@@ -1,0 +1,17 @@
+Team: Ohio St.
+Season: 2016 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.514
+
+Stat Comparison vs League Average:
+  points_per_game: 14.000 (3.641 below average)
+  scoring_defense: 9.070 (2.166 below average)
+  scoring_offense: 9.400 (1.914 below average)
+  scoring_margin: 0.330 (1.404 below average)
+  defensive_efficiency: 16.985 (1.282 above average)
+  saves_per_game: 9.400 (2.588 below average)
+  clearing_percentage: 0.917 (0.074 above average)
+  ground_balls_per_game: 26.070 (4.826 below average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 33.935 (4.731 below average)

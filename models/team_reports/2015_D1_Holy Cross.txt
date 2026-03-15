@@ -1,0 +1,17 @@
+Team: Holy Cross
+Season: 2015 D1
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.330
+
+Stat Comparison vs League Average:
+  points_per_game: 14.080 (3.561 below average)
+  scoring_defense: 11.850 (0.614 above average)
+  scoring_offense: 9.230 (2.084 below average)
+  scoring_margin: -2.620 (4.354 below average)
+  defensive_efficiency: 14.098 (1.605 below average)
+  saves_per_game: 9.460 (2.528 below average)
+  clearing_percentage: 0.806 (0.037 below average)
+  ground_balls_per_game: 25.690 (5.206 below average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 30.262 (8.404 below average)

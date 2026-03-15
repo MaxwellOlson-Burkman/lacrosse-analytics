@@ -1,0 +1,17 @@
+Team: Wheeling
+Season: 2017 D2
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.547
+
+Stat Comparison vs League Average:
+  points_per_game: 17.640 (0.001 below average)
+  scoring_defense: 10.430 (0.806 below average)
+  scoring_offense: 11.360 (0.046 above average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 16.653 (0.950 above average)
+  saves_per_game: 12.210 (0.222 above average)
+  clearing_percentage: 0.883 (0.040 above average)
+  ground_balls_per_game: 29.430 (1.466 below average)
+  shot_percentage: 0.329 (0.038 above average)
+  offensive_efficiency: 34.529 (4.137 below average)

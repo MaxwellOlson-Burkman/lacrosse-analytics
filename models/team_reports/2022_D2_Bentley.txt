@@ -1,0 +1,17 @@
+Team: Bentley
+Season: 2022 D2
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.590
+
+Stat Comparison vs League Average:
+  points_per_game: 20.000 (2.359 above average)
+  scoring_defense: 10.070 (1.166 below average)
+  scoring_offense: 12.790 (1.476 above average)
+  scoring_margin: 2.710 (0.976 above average)
+  defensive_efficiency: 17.088 (1.385 above average)
+  saves_per_game: 10.860 (1.128 below average)
+  clearing_percentage: 0.899 (0.056 above average)
+  ground_balls_per_game: 34.430 (3.534 above average)
+  shot_percentage: 0.265 (0.026 below average)
+  offensive_efficiency: 48.264 (9.598 above average)

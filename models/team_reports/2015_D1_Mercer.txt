@@ -1,0 +1,17 @@
+Team: Mercer
+Season: 2015 D1
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.341
+
+Stat Comparison vs League Average:
+  points_per_game: 12.920 (4.721 below average)
+  scoring_defense: 10.850 (0.386 below average)
+  scoring_offense: 8.310 (3.004 below average)
+  scoring_margin: -2.540 (4.274 below average)
+  defensive_efficiency: 16.161 (0.458 above average)
+  saves_per_game: 12.770 (0.782 above average)
+  clearing_percentage: 0.873 (0.030 above average)
+  ground_balls_per_game: 27.080 (3.816 below average)
+  shot_percentage: 0.205 (0.086 below average)
+  offensive_efficiency: 40.537 (1.870 above average)

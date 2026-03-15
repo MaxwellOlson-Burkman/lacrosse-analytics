@@ -1,0 +1,17 @@
+Team: Mars Hill
+Season: 2023 D2
+Record: 4-12
+Winning %: 0.250
+Predicted Winning %: 0.315
+
+Stat Comparison vs League Average:
+  points_per_game: 14.880 (2.761 below average)
+  scoring_defense: 13.000 (1.764 above average)
+  scoring_offense: 9.750 (1.564 below average)
+  scoring_margin: -3.250 (4.984 below average)
+  defensive_efficiency: 14.352 (1.351 below average)
+  saves_per_game: 15.940 (3.952 above average)
+  clearing_percentage: 0.833 (0.010 below average)
+  ground_balls_per_game: 33.310 (2.414 above average)
+  shot_percentage: 0.264 (0.027 below average)
+  offensive_efficiency: 36.932 (1.734 below average)

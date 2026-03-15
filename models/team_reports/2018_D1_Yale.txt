@@ -1,0 +1,17 @@
+Team: Yale
+Season: 2018 D1
+Record: 17-3
+Winning %: 0.850
+Predicted Winning %: 0.763
+
+Stat Comparison vs League Average:
+  points_per_game: 21.850 (4.209 above average)
+  scoring_defense: 8.800 (2.436 below average)
+  scoring_offense: 13.900 (2.586 above average)
+  scoring_margin: 5.100 (3.366 above average)
+  defensive_efficiency: 16.795 (1.092 above average)
+  saves_per_game: 8.050 (3.938 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 32.750 (1.854 above average)
+  shot_percentage: 0.330 (0.039 above average)
+  offensive_efficiency: 42.121 (3.455 above average)

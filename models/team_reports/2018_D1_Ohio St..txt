@@ -1,0 +1,17 @@
+Team: Ohio St.
+Season: 2018 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.525
+
+Stat Comparison vs League Average:
+  points_per_game: 13.530 (4.111 below average)
+  scoring_defense: 8.600 (2.636 below average)
+  scoring_offense: 8.930 (2.384 below average)
+  scoring_margin: 0.330 (1.404 below average)
+  defensive_efficiency: 16.626 (0.923 above average)
+  saves_per_game: 8.670 (3.318 below average)
+  clearing_percentage: 0.934 (0.091 above average)
+  ground_balls_per_game: 28.600 (2.296 below average)
+  shot_percentage: 0.269 (0.022 below average)
+  offensive_efficiency: 33.197 (5.469 below average)

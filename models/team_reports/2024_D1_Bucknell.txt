@@ -1,0 +1,17 @@
+Team: Bucknell
+Season: 2024 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.325
+
+Stat Comparison vs League Average:
+  points_per_game: 15.930 (1.711 below average)
+  scoring_defense: 13.000 (1.764 above average)
+  scoring_offense: 10.430 (0.884 below average)
+  scoring_margin: -2.570 (4.304 below average)
+  defensive_efficiency: 13.137 (2.566 below average)
+  saves_per_game: 9.790 (2.198 below average)
+  clearing_percentage: 0.791 (0.052 below average)
+  ground_balls_per_game: 32.000 (1.104 above average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 37.518 (1.148 below average)

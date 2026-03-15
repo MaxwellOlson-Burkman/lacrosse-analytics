@@ -1,0 +1,17 @@
+Team: Roberts Wesleyan
+Season: 2022 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.638
+
+Stat Comparison vs League Average:
+  points_per_game: 25.330 (7.689 above average)
+  scoring_defense: 12.600 (1.364 above average)
+  scoring_offense: 15.870 (4.556 above average)
+  scoring_margin: 3.270 (1.536 above average)
+  defensive_efficiency: 13.810 (1.893 below average)
+  saves_per_game: 9.600 (2.388 below average)
+  clearing_percentage: 0.782 (0.061 below average)
+  ground_balls_per_game: 36.800 (5.904 above average)
+  shot_percentage: 0.355 (0.064 above average)
+  offensive_efficiency: 44.704 (6.038 above average)

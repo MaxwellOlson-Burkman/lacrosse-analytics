@@ -1,0 +1,17 @@
+Team: American Int'l
+Season: 2016 D2
+Record: 1-14
+Winning %: 0.067
+Predicted Winning %: 0.290
+
+Stat Comparison vs League Average:
+  points_per_game: 16.595 (1.046 below average)
+  scoring_defense: 10.440 (0.796 below average)
+  scoring_offense: 11.005 (0.309 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 17.008 (1.304 above average)
+  saves_per_game: 13.200 (1.212 above average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 27.800 (3.096 below average)
+  shot_percentage: 0.258 (0.033 below average)
+  offensive_efficiency: 42.655 (3.989 above average)

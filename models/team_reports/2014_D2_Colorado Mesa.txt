@@ -1,0 +1,17 @@
+Team: Colorado Mesa
+Season: 2014 D2
+Record: 9-3
+Winning %: 0.750
+Predicted Winning %: 0.667
+
+Stat Comparison vs League Average:
+  points_per_game: 18.250 (0.609 above average)
+  scoring_defense: 7.830 (3.406 below average)
+  scoring_offense: 11.670 (0.356 above average)
+  scoring_margin: 3.830 (2.096 above average)
+  defensive_efficiency: 19.706 (4.003 above average)
+  saves_per_game: 11.920 (0.068 below average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.250 (0.354 above average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 40.662 (1.996 above average)

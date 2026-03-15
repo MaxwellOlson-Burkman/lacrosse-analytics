@@ -1,0 +1,17 @@
+Team: Providence
+Season: 2019 D1
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.472
+
+Stat Comparison vs League Average:
+  points_per_game: 16.810 (0.831 below average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 10.810 (0.504 below average)
+  scoring_margin: 0.810 (0.924 below average)
+  defensive_efficiency: 17.199 (1.496 above average)
+  saves_per_game: 12.630 (0.642 above average)
+  clearing_percentage: 0.837 (0.006 below average)
+  ground_balls_per_game: 27.750 (3.146 below average)
+  shot_percentage: 0.265 (0.026 below average)
+  offensive_efficiency: 40.792 (2.126 above average)

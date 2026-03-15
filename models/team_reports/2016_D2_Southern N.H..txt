@@ -1,0 +1,17 @@
+Team: Southern N.H.
+Season: 2016 D2
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.540
+
+Stat Comparison vs League Average:
+  points_per_game: 21.060 (3.419 above average)
+  scoring_defense: 13.310 (2.074 above average)
+  scoring_offense: 13.000 (1.686 above average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 13.744 (1.959 below average)
+  saves_per_game: 11.880 (0.108 below average)
+  clearing_percentage: 0.876 (0.033 above average)
+  ground_balls_per_game: 32.060 (1.164 above average)
+  shot_percentage: 0.318 (0.027 above average)
+  offensive_efficiency: 40.881 (2.214 above average)

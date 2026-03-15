@@ -1,0 +1,17 @@
+Team: St. John's (NY)
+Season: 2018 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.469
+
+Stat Comparison vs League Average:
+  points_per_game: 16.000 (1.641 below average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 9.790 (1.524 below average)
+  scoring_margin: -0.210 (1.944 below average)
+  defensive_efficiency: 16.576 (0.873 above average)
+  saves_per_game: 11.070 (0.918 below average)
+  clearing_percentage: 0.871 (0.028 above average)
+  ground_balls_per_game: 25.360 (5.536 below average)
+  shot_percentage: 0.302 (0.011 above average)
+  offensive_efficiency: 32.417 (6.249 below average)

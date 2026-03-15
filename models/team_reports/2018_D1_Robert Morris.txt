@@ -1,0 +1,17 @@
+Team: Robert Morris
+Season: 2018 D1
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.702
+
+Stat Comparison vs League Average:
+  points_per_game: 18.440 (0.799 above average)
+  scoring_defense: 8.000 (3.236 below average)
+  scoring_offense: 11.560 (0.246 above average)
+  scoring_margin: 3.560 (1.826 above average)
+  defensive_efficiency: 19.155 (3.452 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.910 (0.067 above average)
+  ground_balls_per_game: 28.110 (2.786 below average)
+  shot_percentage: 0.339 (0.048 above average)
+  offensive_efficiency: 34.100 (4.566 below average)

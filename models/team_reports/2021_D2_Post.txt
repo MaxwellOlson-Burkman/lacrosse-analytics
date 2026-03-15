@@ -1,0 +1,17 @@
+Team: Post
+Season: 2021 D2
+Record: 0-8
+Winning %: 0.000
+Predicted Winning %: 0.157
+
+Stat Comparison vs League Average:
+  points_per_game: 14.750 (2.891 below average)
+  scoring_defense: 16.000 (4.764 above average)
+  scoring_offense: 9.500 (1.814 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 11.430 (4.273 below average)
+  saves_per_game: 13.500 (1.512 above average)
+  clearing_percentage: 0.800 (0.043 below average)
+  ground_balls_per_game: 32.000 (1.104 above average)
+  shot_percentage: 0.256 (0.035 below average)
+  offensive_efficiency: 37.109 (1.557 below average)

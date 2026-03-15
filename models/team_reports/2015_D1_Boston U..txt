@@ -1,0 +1,17 @@
+Team: Boston U.
+Season: 2015 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.562
+
+Stat Comparison vs League Average:
+  points_per_game: 17.360 (0.281 below average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 10.710 (0.604 below average)
+  scoring_margin: 0.710 (1.024 below average)
+  defensive_efficiency: 16.902 (1.199 above average)
+  saves_per_game: 11.640 (0.348 below average)
+  clearing_percentage: 0.784 (0.059 below average)
+  ground_balls_per_game: 30.860 (0.036 below average)
+  shot_percentage: 0.263 (0.028 below average)
+  offensive_efficiency: 40.722 (2.056 above average)

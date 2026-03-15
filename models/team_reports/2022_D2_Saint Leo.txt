@@ -1,0 +1,17 @@
+Team: Saint Leo
+Season: 2022 D2
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.483
+
+Stat Comparison vs League Average:
+  points_per_game: 23.430 (5.789 above average)
+  scoring_defense: 14.570 (3.334 above average)
+  scoring_offense: 14.710 (3.396 above average)
+  scoring_margin: 0.140 (1.594 below average)
+  defensive_efficiency: 13.523 (2.180 below average)
+  saves_per_game: 14.860 (2.872 above average)
+  clearing_percentage: 0.793 (0.050 below average)
+  ground_balls_per_game: 35.640 (4.744 above average)
+  shot_percentage: 0.355 (0.064 above average)
+  offensive_efficiency: 41.437 (2.771 above average)

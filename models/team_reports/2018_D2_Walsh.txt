@@ -1,0 +1,17 @@
+Team: Walsh
+Season: 2018 D2
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.138
+
+Stat Comparison vs League Average:
+  points_per_game: 11.310 (6.331 below average)
+  scoring_defense: 13.850 (2.614 above average)
+  scoring_offense: 7.380 (3.934 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 12.419 (3.284 below average)
+  saves_per_game: 10.380 (1.608 below average)
+  clearing_percentage: 0.758 (0.085 below average)
+  ground_balls_per_game: 27.230 (3.666 below average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 26.643 (12.024 below average)

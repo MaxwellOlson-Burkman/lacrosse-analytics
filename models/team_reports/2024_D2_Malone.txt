@@ -1,0 +1,17 @@
+Team: Malone
+Season: 2024 D2
+Record: 8-9
+Winning %: 0.471
+Predicted Winning %: 0.542
+
+Stat Comparison vs League Average:
+  points_per_game: 24.760 (7.119 above average)
+  scoring_defense: 15.590 (4.354 above average)
+  scoring_offense: 15.290 (3.976 above average)
+  scoring_margin: -0.290 (2.024 below average)
+  defensive_efficiency: 12.303 (3.400 below average)
+  saves_per_game: 14.710 (2.722 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 36.820 (5.924 above average)
+  shot_percentage: 0.334 (0.043 above average)
+  offensive_efficiency: 45.778 (7.112 above average)

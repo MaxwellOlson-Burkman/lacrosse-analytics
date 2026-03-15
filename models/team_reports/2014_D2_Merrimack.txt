@@ -1,0 +1,17 @@
+Team: Merrimack
+Season: 2014 D2
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.616
+
+Stat Comparison vs League Average:
+  points_per_game: 16.180 (1.461 below average)
+  scoring_defense: 8.120 (3.116 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 2.820 (1.086 above average)
+  defensive_efficiency: 19.472 (3.769 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 34.120 (3.224 above average)
+  shot_percentage: 0.306 (0.016 above average)
+  offensive_efficiency: 41.664 (2.998 above average)

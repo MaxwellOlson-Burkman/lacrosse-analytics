@@ -1,0 +1,17 @@
+Team: Hartford
+Season: 2018 D1
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.300
+
+Stat Comparison vs League Average:
+  points_per_game: 15.770 (1.871 below average)
+  scoring_defense: 12.310 (1.074 above average)
+  scoring_offense: 9.850 (1.464 below average)
+  scoring_margin: -2.460 (4.194 below average)
+  defensive_efficiency: 13.516 (2.187 below average)
+  saves_per_game: 10.770 (1.218 below average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 27.310 (3.586 below average)
+  shot_percentage: 0.309 (0.018 above average)
+  offensive_efficiency: 31.877 (6.789 below average)

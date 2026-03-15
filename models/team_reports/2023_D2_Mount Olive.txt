@@ -1,0 +1,17 @@
+Team: Mount Olive
+Season: 2023 D2
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.507
+
+Stat Comparison vs League Average:
+  points_per_game: 17.470 (0.171 below average)
+  scoring_defense: 10.600 (0.636 below average)
+  scoring_offense: 11.000 (0.314 below average)
+  scoring_margin: 0.400 (1.334 below average)
+  defensive_efficiency: 15.945 (0.242 above average)
+  saves_per_game: 12.200 (0.212 above average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 30.870 (0.026 below average)
+  shot_percentage: 0.271 (0.020 below average)
+  offensive_efficiency: 40.590 (1.924 above average)

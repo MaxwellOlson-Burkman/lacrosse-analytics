@@ -1,0 +1,17 @@
+Team: Caldwell
+Season: 2024 D2
+Record: 4-8
+Winning %: 0.333
+Predicted Winning %: 0.126
+
+Stat Comparison vs League Average:
+  points_per_game: 15.580 (2.061 below average)
+  scoring_defense: 17.250 (6.014 above average)
+  scoring_offense: 9.330 (1.984 below average)
+  scoring_margin: -7.920 (9.654 below average)
+  defensive_efficiency: 9.460 (6.243 below average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.760 (0.083 below average)
+  ground_balls_per_game: 27.000 (3.896 below average)
+  shot_percentage: 0.317 (0.026 above average)
+  offensive_efficiency: 29.432 (9.234 below average)

@@ -1,0 +1,17 @@
+Team: Saint Leo
+Season: 2016 D2
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.696
+
+Stat Comparison vs League Average:
+  points_per_game: 20.640 (2.999 above average)
+  scoring_defense: 8.430 (2.806 below average)
+  scoring_offense: 12.360 (1.046 above average)
+  scoring_margin: 3.930 (2.196 above average)
+  defensive_efficiency: 17.928 (2.225 above average)
+  saves_per_game: 9.710 (2.278 below average)
+  clearing_percentage: 0.895 (0.052 above average)
+  ground_balls_per_game: 31.290 (0.394 above average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 40.658 (1.992 above average)

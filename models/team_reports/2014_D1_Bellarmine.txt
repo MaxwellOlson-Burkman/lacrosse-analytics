@@ -1,0 +1,17 @@
+Team: Bellarmine
+Season: 2014 D1
+Record: 7-5
+Winning %: 0.583
+Predicted Winning %: 0.556
+
+Stat Comparison vs League Average:
+  points_per_game: 15.170 (2.471 below average)
+  scoring_defense: 8.580 (2.656 below average)
+  scoring_offense: 9.420 (1.894 below average)
+  scoring_margin: 0.830 (0.904 below average)
+  defensive_efficiency: 17.656 (1.953 above average)
+  saves_per_game: 9.920 (2.068 below average)
+  clearing_percentage: 0.921 (0.078 above average)
+  ground_balls_per_game: 24.420 (6.476 below average)
+  shot_percentage: 0.246 (0.045 below average)
+  offensive_efficiency: 38.293 (0.373 below average)

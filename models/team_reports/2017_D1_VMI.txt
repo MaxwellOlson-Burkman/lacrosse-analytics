@@ -1,0 +1,17 @@
+Team: VMI
+Season: 2017 D1
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.174
+
+Stat Comparison vs League Average:
+  points_per_game: 12.500 (5.141 below average)
+  scoring_defense: 12.860 (1.624 above average)
+  scoring_offense: 7.640 (3.674 below average)
+  scoring_margin: -5.210 (6.944 below average)
+  defensive_efficiency: 14.787 (0.916 below average)
+  saves_per_game: 12.640 (0.652 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 25.570 (5.326 below average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 26.620 (12.046 below average)

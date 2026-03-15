@@ -1,0 +1,17 @@
+Team: Maryland
+Season: 2014 D1
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.750
+
+Stat Comparison vs League Average:
+  points_per_game: 16.650 (0.991 below average)
+  scoring_defense: 7.240 (3.996 below average)
+  scoring_offense: 11.350 (0.036 above average)
+  scoring_margin: 4.120 (2.386 above average)
+  defensive_efficiency: 18.590 (2.887 above average)
+  saves_per_game: 9.650 (2.338 below average)
+  clearing_percentage: 0.904 (0.061 above average)
+  ground_balls_per_game: 35.060 (4.164 above average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 40.106 (1.440 above average)

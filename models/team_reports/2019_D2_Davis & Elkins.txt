@@ -1,0 +1,17 @@
+Team: Davis & Elkins
+Season: 2019 D2
+Record: 2-9
+Winning %: 0.182
+Predicted Winning %: 0.225
+
+Stat Comparison vs League Average:
+  points_per_game: 16.730 (0.911 below average)
+  scoring_defense: 16.910 (5.674 above average)
+  scoring_offense: 10.640 (0.674 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 11.748 (3.955 below average)
+  saves_per_game: 16.360 (4.372 above average)
+  clearing_percentage: 0.745 (0.098 below average)
+  ground_balls_per_game: 31.820 (0.924 above average)
+  shot_percentage: 0.329 (0.038 above average)
+  offensive_efficiency: 32.340 (6.326 below average)

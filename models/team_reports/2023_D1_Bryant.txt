@@ -1,0 +1,17 @@
+Team: Bryant
+Season: 2023 D1
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.652
+
+Stat Comparison vs League Average:
+  points_per_game: 21.530 (3.889 above average)
+  scoring_defense: 12.290 (1.054 above average)
+  scoring_offense: 14.180 (2.866 above average)
+  scoring_margin: 1.880 (0.146 above average)
+  defensive_efficiency: 14.093 (1.610 below average)
+  saves_per_game: 11.710 (0.278 below average)
+  clearing_percentage: 0.888 (0.045 above average)
+  ground_balls_per_game: 37.240 (6.344 above average)
+  shot_percentage: 0.329 (0.038 above average)
+  offensive_efficiency: 43.100 (4.434 above average)

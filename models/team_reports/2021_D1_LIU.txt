@@ -1,0 +1,17 @@
+Team: LIU
+Season: 2021 D1
+Record: 6-5
+Winning %: 0.545
+Predicted Winning %: 0.562
+
+Stat Comparison vs League Average:
+  points_per_game: 22.550 (4.909 above average)
+  scoring_defense: 13.180 (1.944 above average)
+  scoring_offense: 14.090 (2.776 above average)
+  scoring_margin: 0.910 (0.824 below average)
+  defensive_efficiency: 15.455 (0.248 below average)
+  saves_per_game: 17.550 (5.562 above average)
+  clearing_percentage: 0.871 (0.028 above average)
+  ground_balls_per_game: 31.090 (0.194 above average)
+  shot_percentage: 0.366 (0.075 above average)
+  offensive_efficiency: 38.497 (0.169 below average)

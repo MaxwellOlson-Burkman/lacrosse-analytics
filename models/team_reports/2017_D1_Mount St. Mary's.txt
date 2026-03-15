@@ -1,0 +1,17 @@
+Team: Mount St. Mary's
+Season: 2017 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.310
+
+Stat Comparison vs League Average:
+  points_per_game: 14.000 (3.641 below average)
+  scoring_defense: 11.360 (0.124 above average)
+  scoring_offense: 8.790 (2.524 below average)
+  scoring_margin: -2.570 (4.304 below average)
+  defensive_efficiency: 15.367 (0.336 below average)
+  saves_per_game: 10.790 (1.198 below average)
+  clearing_percentage: 0.836 (0.007 below average)
+  ground_balls_per_game: 24.570 (6.326 below average)
+  shot_percentage: 0.258 (0.033 below average)
+  offensive_efficiency: 34.070 (4.596 below average)

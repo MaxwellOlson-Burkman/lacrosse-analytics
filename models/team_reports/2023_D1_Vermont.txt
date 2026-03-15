@@ -1,0 +1,17 @@
+Team: Vermont
+Season: 2023 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.590
+
+Stat Comparison vs League Average:
+  points_per_game: 18.210 (0.569 above average)
+  scoring_defense: 10.290 (0.946 below average)
+  scoring_offense: 11.210 (0.104 below average)
+  scoring_margin: 0.930 (0.804 below average)
+  defensive_efficiency: 16.612 (0.909 above average)
+  saves_per_game: 11.790 (0.198 below average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 31.500 (0.604 above average)
+  shot_percentage: 0.268 (0.023 below average)
+  offensive_efficiency: 41.828 (3.162 above average)

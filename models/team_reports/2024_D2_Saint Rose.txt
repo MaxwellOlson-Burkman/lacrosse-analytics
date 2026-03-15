@@ -1,0 +1,17 @@
+Team: Saint Rose
+Season: 2024 D2
+Record: 7-10
+Winning %: 0.412
+Predicted Winning %: 0.447
+
+Stat Comparison vs League Average:
+  points_per_game: 19.290 (1.649 above average)
+  scoring_defense: 12.940 (1.704 above average)
+  scoring_offense: 12.060 (0.746 above average)
+  scoring_margin: -0.880 (2.614 below average)
+  defensive_efficiency: 12.932 (2.771 below average)
+  saves_per_game: 11.240 (0.748 below average)
+  clearing_percentage: 0.784 (0.059 below average)
+  ground_balls_per_game: 35.410 (4.514 above average)
+  shot_percentage: 0.321 (0.030 above average)
+  offensive_efficiency: 37.570 (1.096 below average)

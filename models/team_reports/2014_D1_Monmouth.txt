@@ -1,0 +1,17 @@
+Team: Monmouth
+Season: 2014 D1
+Record: 0-13
+Winning %: 0.000
+Predicted Winning %: 0.132
+
+Stat Comparison vs League Average:
+  points_per_game: 8.920 (8.721 below average)
+  scoring_defense: 11.230 (0.006 below average)
+  scoring_offense: 6.150 (5.164 below average)
+  scoring_margin: -5.080 (6.814 below average)
+  defensive_efficiency: 15.836 (0.133 above average)
+  saves_per_game: 12.620 (0.632 above average)
+  clearing_percentage: 0.837 (0.006 below average)
+  ground_balls_per_game: 26.150 (4.746 below average)
+  shot_percentage: 0.182 (0.109 below average)
+  offensive_efficiency: 33.791 (4.875 below average)

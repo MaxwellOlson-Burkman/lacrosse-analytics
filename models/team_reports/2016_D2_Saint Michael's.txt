@@ -1,0 +1,17 @@
+Team: Saint Michael's
+Season: 2016 D2
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.390
+
+Stat Comparison vs League Average:
+  points_per_game: 15.500 (2.141 below average)
+  scoring_defense: 11.430 (0.194 above average)
+  scoring_offense: 9.930 (1.384 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.128 (0.425 above average)
+  saves_per_game: 13.210 (1.222 above average)
+  clearing_percentage: 0.836 (0.007 below average)
+  ground_balls_per_game: 30.570 (0.326 below average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 37.191 (1.475 below average)

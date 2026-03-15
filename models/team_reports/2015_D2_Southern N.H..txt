@@ -1,0 +1,17 @@
+Team: Southern N.H.
+Season: 2015 D2
+Record: 2-13
+Winning %: 0.133
+Predicted Winning %: 0.298
+
+Stat Comparison vs League Average:
+  points_per_game: 13.870 (3.771 below average)
+  scoring_defense: 11.800 (0.564 above average)
+  scoring_offense: 8.730 (2.584 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 15.119 (0.584 below average)
+  saves_per_game: 10.930 (1.058 below average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 30.400 (0.496 below average)
+  shot_percentage: 0.242 (0.049 below average)
+  offensive_efficiency: 36.074 (2.592 below average)

@@ -1,0 +1,17 @@
+Team: Young Harris
+Season: 2020 D2
+Record: 3-3
+Winning %: 0.500
+Predicted Winning %: 0.445
+
+Stat Comparison vs League Average:
+  points_per_game: 20.830 (3.189 above average)
+  scoring_defense: 16.670 (5.434 above average)
+  scoring_offense: 12.170 (0.856 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 10.996 (4.707 below average)
+  saves_per_game: 15.670 (3.682 above average)
+  clearing_percentage: 0.800 (0.043 below average)
+  ground_balls_per_game: 27.830 (3.066 below average)
+  shot_percentage: 0.344 (0.053 above average)
+  offensive_efficiency: 35.378 (3.288 below average)

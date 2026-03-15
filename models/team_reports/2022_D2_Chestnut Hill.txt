@@ -1,0 +1,17 @@
+Team: Chestnut Hill
+Season: 2022 D2
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.704
+
+Stat Comparison vs League Average:
+  points_per_game: 23.180 (5.539 above average)
+  scoring_defense: 10.120 (1.116 below average)
+  scoring_offense: 14.590 (3.276 above average)
+  scoring_margin: 4.470 (2.736 above average)
+  defensive_efficiency: 17.663 (1.960 above average)
+  saves_per_game: 13.710 (1.722 above average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 34.590 (3.694 above average)
+  shot_percentage: 0.336 (0.045 above average)
+  offensive_efficiency: 43.423 (4.757 above average)

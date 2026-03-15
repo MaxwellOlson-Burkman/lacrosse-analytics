@@ -1,0 +1,17 @@
+Team: Hofstra
+Season: 2017 D1
+Record: 11-3
+Winning %: 0.786
+Predicted Winning %: 0.730
+
+Stat Comparison vs League Average:
+  points_per_game: 17.930 (0.289 above average)
+  scoring_defense: 8.790 (2.446 below average)
+  scoring_offense: 11.570 (0.256 above average)
+  scoring_margin: 2.790 (1.056 above average)
+  defensive_efficiency: 17.931 (2.228 above average)
+  saves_per_game: 11.570 (0.418 below average)
+  clearing_percentage: 0.899 (0.056 above average)
+  ground_balls_per_game: 26.710 (4.186 below average)
+  shot_percentage: 0.353 (0.062 above average)
+  offensive_efficiency: 32.776 (5.890 below average)

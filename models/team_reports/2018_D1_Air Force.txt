@@ -1,0 +1,17 @@
+Team: Air Force
+Season: 2018 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.271
+
+Stat Comparison vs League Average:
+  points_per_game: 11.400 (6.241 below average)
+  scoring_defense: 10.670 (0.566 below average)
+  scoring_offense: 7.870 (3.444 below average)
+  scoring_margin: -2.800 (4.534 below average)
+  defensive_efficiency: 14.405 (1.298 below average)
+  saves_per_game: 8.400 (3.588 below average)
+  clearing_percentage: 0.826 (0.017 below average)
+  ground_balls_per_game: 20.730 (10.166 below average)
+  shot_percentage: 0.253 (0.038 below average)
+  offensive_efficiency: 31.107 (7.559 below average)

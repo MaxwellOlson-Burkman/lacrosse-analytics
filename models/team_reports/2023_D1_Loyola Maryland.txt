@@ -1,0 +1,17 @@
+Team: Loyola Maryland
+Season: 2023 D1
+Record: 9-8
+Winning %: 0.529
+Predicted Winning %: 0.485
+
+Stat Comparison vs League Average:
+  points_per_game: 17.710 (0.069 above average)
+  scoring_defense: 11.710 (0.474 above average)
+  scoring_offense: 10.880 (0.434 below average)
+  scoring_margin: -0.820 (2.554 below average)
+  defensive_efficiency: 14.947 (0.756 below average)
+  saves_per_game: 13.240 (1.252 above average)
+  clearing_percentage: 0.872 (0.029 above average)
+  ground_balls_per_game: 31.530 (0.634 above average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 38.445 (0.221 below average)

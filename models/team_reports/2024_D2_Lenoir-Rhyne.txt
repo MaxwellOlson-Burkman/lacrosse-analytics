@@ -1,0 +1,17 @@
+Team: Lenoir-Rhyne
+Season: 2024 D2
+Record: 17-2
+Winning %: 0.895
+Predicted Winning %: 0.776
+
+Stat Comparison vs League Average:
+  points_per_game: 22.840 (5.199 above average)
+  scoring_defense: 7.790 (3.446 below average)
+  scoring_offense: 14.470 (3.156 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 18.914 (3.211 above average)
+  saves_per_game: 10.580 (1.408 below average)
+  clearing_percentage: 0.884 (0.041 above average)
+  ground_balls_per_game: 34.160 (3.264 above average)
+  shot_percentage: 0.313 (0.022 above average)
+  offensive_efficiency: 46.230 (7.564 above average)

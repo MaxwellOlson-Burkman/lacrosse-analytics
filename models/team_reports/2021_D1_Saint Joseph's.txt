@@ -1,0 +1,17 @@
+Team: Saint Joseph's
+Season: 2021 D1
+Record: 9-4
+Winning %: 0.692
+Predicted Winning %: 0.649
+
+Stat Comparison vs League Average:
+  points_per_game: 20.310 (2.669 above average)
+  scoring_defense: 10.380 (0.856 below average)
+  scoring_offense: 12.380 (1.066 above average)
+  scoring_margin: 2.000 (0.266 above average)
+  defensive_efficiency: 16.502 (0.799 above average)
+  saves_per_game: 9.690 (2.298 below average)
+  clearing_percentage: 0.826 (0.017 below average)
+  ground_balls_per_game: 36.460 (5.564 above average)
+  shot_percentage: 0.268 (0.023 below average)
+  offensive_efficiency: 46.194 (7.528 above average)

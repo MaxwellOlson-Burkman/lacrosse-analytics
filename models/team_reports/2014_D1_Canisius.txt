@@ -1,0 +1,17 @@
+Team: Canisius
+Season: 2014 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.456
+
+Stat Comparison vs League Average:
+  points_per_game: 13.670 (3.971 below average)
+  scoring_defense: 9.470 (1.766 below average)
+  scoring_offense: 8.600 (2.714 below average)
+  scoring_margin: -0.870 (2.604 below average)
+  defensive_efficiency: 16.104 (0.401 above average)
+  saves_per_game: 10.530 (1.458 below average)
+  clearing_percentage: 0.879 (0.036 above average)
+  ground_balls_per_game: 26.070 (4.826 below average)
+  shot_percentage: 0.257 (0.034 below average)
+  offensive_efficiency: 33.463 (5.203 below average)

@@ -1,0 +1,17 @@
+Team: Holy Family
+Season: 2024 D2
+Record: 2-13
+Winning %: 0.133
+Predicted Winning %: 0.061
+
+Stat Comparison vs League Average:
+  points_per_game: 10.470 (7.171 below average)
+  scoring_defense: 17.470 (6.234 above average)
+  scoring_offense: 6.600 (4.714 below average)
+  scoring_margin: -10.870 (12.604 below average)
+  defensive_efficiency: 11.206 (4.497 below average)
+  saves_per_game: 16.270 (4.282 above average)
+  clearing_percentage: 0.620 (0.223 below average)
+  ground_balls_per_game: 34.470 (3.574 above average)
+  shot_percentage: 0.230 (0.061 below average)
+  offensive_efficiency: 28.696 (9.970 below average)

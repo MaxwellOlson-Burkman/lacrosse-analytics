@@ -1,0 +1,17 @@
+Team: Providence
+Season: 2023 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.289
+
+Stat Comparison vs League Average:
+  points_per_game: 17.200 (0.441 below average)
+  scoring_defense: 14.270 (3.034 above average)
+  scoring_offense: 10.930 (0.384 below average)
+  scoring_margin: -3.330 (5.064 below average)
+  defensive_efficiency: 12.845 (2.858 below average)
+  saves_per_game: 13.800 (1.812 above average)
+  clearing_percentage: 0.820 (0.023 below average)
+  ground_balls_per_game: 25.530 (5.366 below average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 35.954 (2.712 below average)

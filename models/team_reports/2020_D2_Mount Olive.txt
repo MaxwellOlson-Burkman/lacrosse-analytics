@@ -1,0 +1,17 @@
+Team: Mount Olive
+Season: 2020 D2
+Record: 4-3
+Winning %: 0.571
+Predicted Winning %: 0.583
+
+Stat Comparison vs League Average:
+  points_per_game: 17.140 (0.501 below average)
+  scoring_defense: 9.570 (1.666 below average)
+  scoring_offense: 10.290 (1.024 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 17.236 (1.533 above average)
+  saves_per_game: 11.570 (0.418 below average)
+  clearing_percentage: 0.877 (0.034 above average)
+  ground_balls_per_game: 25.570 (5.326 below average)
+  shot_percentage: 0.260 (0.031 below average)
+  offensive_efficiency: 39.577 (0.911 above average)

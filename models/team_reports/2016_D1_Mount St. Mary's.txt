@@ -1,0 +1,17 @@
+Team: Mount St. Mary's
+Season: 2016 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.439
+
+Stat Comparison vs League Average:
+  points_per_game: 14.640 (3.001 below average)
+  scoring_defense: 10.140 (1.096 below average)
+  scoring_offense: 9.570 (1.744 below average)
+  scoring_margin: -0.570 (2.304 below average)
+  defensive_efficiency: 15.622 (0.081 below average)
+  saves_per_game: 8.290 (3.698 below average)
+  clearing_percentage: 0.867 (0.024 above average)
+  ground_balls_per_game: 28.430 (2.466 below average)
+  shot_percentage: 0.274 (0.017 below average)
+  offensive_efficiency: 34.927 (3.739 below average)

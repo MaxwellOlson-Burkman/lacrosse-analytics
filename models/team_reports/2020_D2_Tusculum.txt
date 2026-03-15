@@ -1,0 +1,17 @@
+Team: Tusculum
+Season: 2020 D2
+Record: 4-3
+Winning %: 0.571
+Predicted Winning %: 0.702
+
+Stat Comparison vs League Average:
+  points_per_game: 20.290 (2.649 above average)
+  scoring_defense: 8.430 (2.806 below average)
+  scoring_offense: 12.430 (1.116 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 17.370 (1.667 above average)
+  saves_per_game: 8.000 (3.988 below average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 34.140 (3.244 above average)
+  shot_percentage: 0.295 (0.004 above average)
+  offensive_efficiency: 42.136 (3.469 above average)

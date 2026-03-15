@@ -1,0 +1,17 @@
+Team: Denver
+Season: 2016 D1
+Record: 13-3
+Winning %: 0.813
+Predicted Winning %: 0.767
+
+Stat Comparison vs League Average:
+  points_per_game: 22.440 (4.799 above average)
+  scoring_defense: 9.130 (2.106 below average)
+  scoring_offense: 13.560 (2.246 above average)
+  scoring_margin: 4.440 (2.706 above average)
+  defensive_efficiency: 17.307 (1.604 above average)
+  saves_per_game: 9.690 (2.298 below average)
+  clearing_percentage: 0.871 (0.028 above average)
+  ground_balls_per_game: 32.440 (1.544 above average)
+  shot_percentage: 0.377 (0.086 above average)
+  offensive_efficiency: 35.968 (2.698 below average)

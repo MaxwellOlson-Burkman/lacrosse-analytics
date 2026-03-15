@@ -1,0 +1,17 @@
+Team: Maryville (MO)
+Season: 2022 D2
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.636
+
+Stat Comparison vs League Average:
+  points_per_game: 19.860 (2.219 above average)
+  scoring_defense: 10.140 (1.096 below average)
+  scoring_offense: 12.570 (1.256 above average)
+  scoring_margin: 2.430 (0.696 above average)
+  defensive_efficiency: 15.922 (0.219 above average)
+  saves_per_game: 8.640 (3.348 below average)
+  clearing_percentage: 0.891 (0.048 above average)
+  ground_balls_per_game: 32.710 (1.814 above average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 45.216 (6.550 above average)

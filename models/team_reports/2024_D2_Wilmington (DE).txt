@@ -1,0 +1,17 @@
+Team: Wilmington (DE)
+Season: 2024 D2
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.697
+
+Stat Comparison vs League Average:
+  points_per_game: 27.330 (9.689 above average)
+  scoring_defense: 12.000 (0.764 above average)
+  scoring_offense: 17.270 (5.956 above average)
+  scoring_margin: 5.270 (3.536 above average)
+  defensive_efficiency: 14.730 (0.973 below average)
+  saves_per_game: 10.600 (1.388 below average)
+  clearing_percentage: 0.808 (0.035 below average)
+  ground_balls_per_game: 37.270 (6.374 above average)
+  shot_percentage: 0.370 (0.079 above average)
+  offensive_efficiency: 46.676 (8.010 above average)

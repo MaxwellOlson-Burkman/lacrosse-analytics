@@ -1,0 +1,17 @@
+Team: Cleveland St.
+Season: 2020 D1
+Record: 2-5
+Winning %: 0.286
+Predicted Winning %: 0.279
+
+Stat Comparison vs League Average:
+  points_per_game: 15.000 (2.641 below average)
+  scoring_defense: 12.710 (1.474 above average)
+  scoring_offense: 9.430 (1.884 below average)
+  scoring_margin: -3.290 (5.024 below average)
+  defensive_efficiency: 12.927 (2.776 below average)
+  saves_per_game: 9.140 (2.848 below average)
+  clearing_percentage: 0.804 (0.039 below average)
+  ground_balls_per_game: 30.570 (0.326 below average)
+  shot_percentage: 0.245 (0.046 below average)
+  offensive_efficiency: 38.490 (0.176 below average)

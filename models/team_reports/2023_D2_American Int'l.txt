@@ -1,0 +1,17 @@
+Team: American Int'l
+Season: 2023 D2
+Record: 2-13
+Winning %: 0.133
+Predicted Winning %: 0.158
+
+Stat Comparison vs League Average:
+  points_per_game: 11.530 (6.111 below average)
+  scoring_defense: 13.270 (2.034 above average)
+  scoring_offense: 6.930 (4.384 below average)
+  scoring_margin: -6.330 (8.064 below average)
+  defensive_efficiency: 13.665 (2.038 below average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.784 (0.059 below average)
+  ground_balls_per_game: 26.330 (4.566 below average)
+  shot_percentage: 0.209 (0.082 below average)
+  offensive_efficiency: 33.158 (5.508 below average)

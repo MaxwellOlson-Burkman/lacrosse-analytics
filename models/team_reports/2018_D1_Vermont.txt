@@ -1,0 +1,17 @@
+Team: Vermont
+Season: 2018 D1
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.693
+
+Stat Comparison vs League Average:
+  points_per_game: 16.130 (1.511 below average)
+  scoring_defense: 8.060 (3.176 below average)
+  scoring_offense: 10.310 (1.004 below average)
+  scoring_margin: 2.250 (0.516 above average)
+  defensive_efficiency: 18.893 (3.190 above average)
+  saves_per_game: 12.060 (0.072 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 27.190 (3.706 below average)
+  shot_percentage: 0.324 (0.033 above average)
+  offensive_efficiency: 31.821 (6.845 below average)

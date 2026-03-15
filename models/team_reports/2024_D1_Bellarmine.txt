@@ -1,0 +1,17 @@
+Team: Bellarmine
+Season: 2024 D1
+Record: 9-8
+Winning %: 0.529
+Predicted Winning %: 0.530
+
+Stat Comparison vs League Average:
+  points_per_game: 19.470 (1.829 above average)
+  scoring_defense: 11.410 (0.174 above average)
+  scoring_offense: 12.180 (0.866 above average)
+  scoring_margin: 0.760 (0.974 below average)
+  defensive_efficiency: 16.104 (0.401 above average)
+  saves_per_game: 12.880 (0.892 above average)
+  clearing_percentage: 0.926 (0.083 above average)
+  ground_balls_per_game: 27.650 (3.246 below average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 41.570 (2.904 above average)

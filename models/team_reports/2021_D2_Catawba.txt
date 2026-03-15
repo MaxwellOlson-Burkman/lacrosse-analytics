@@ -1,0 +1,17 @@
+Team: Catawba
+Season: 2021 D2
+Record: 5-6
+Winning %: 0.455
+Predicted Winning %: 0.359
+
+Stat Comparison vs League Average:
+  points_per_game: 16.450 (1.191 below average)
+  scoring_defense: 13.270 (2.034 above average)
+  scoring_offense: 11.730 (0.416 above average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 14.578 (1.125 below average)
+  saves_per_game: 12.910 (0.922 above average)
+  clearing_percentage: 0.856 (0.013 above average)
+  ground_balls_per_game: 32.730 (1.834 above average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 43.933 (5.266 above average)

@@ -1,0 +1,17 @@
+Team: Syracuse
+Season: 2019 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.680
+
+Stat Comparison vs League Average:
+  points_per_game: 19.790 (2.149 above average)
+  scoring_defense: 10.140 (1.096 below average)
+  scoring_offense: 12.860 (1.546 above average)
+  scoring_margin: 2.710 (0.976 above average)
+  defensive_efficiency: 17.268 (1.565 above average)
+  saves_per_game: 13.360 (1.372 above average)
+  clearing_percentage: 0.853 (0.010 above average)
+  ground_balls_per_game: 36.710 (5.814 above average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 43.741 (5.075 above average)

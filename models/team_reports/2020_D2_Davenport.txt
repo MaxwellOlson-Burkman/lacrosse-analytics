@@ -1,0 +1,17 @@
+Team: Davenport
+Season: 2020 D2
+Record: 1-5
+Winning %: 0.167
+Predicted Winning %: 0.149
+
+Stat Comparison vs League Average:
+  points_per_game: 13.330 (4.311 below average)
+  scoring_defense: 15.670 (4.434 above average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 11.710 (3.993 below average)
+  saves_per_game: 15.000 (3.012 above average)
+  clearing_percentage: 0.752 (0.091 below average)
+  ground_balls_per_game: 24.830 (6.066 below average)
+  shot_percentage: 0.271 (0.020 below average)
+  offensive_efficiency: 33.210 (5.456 below average)

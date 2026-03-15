@@ -1,0 +1,17 @@
+Team: Princeton
+Season: 2022 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.701
+
+Stat Comparison vs League Average:
+  points_per_game: 22.380 (4.739 above average)
+  scoring_defense: 11.310 (0.074 above average)
+  scoring_offense: 14.810 (3.496 above average)
+  scoring_margin: 3.500 (1.766 above average)
+  defensive_efficiency: 16.068 (0.365 above average)
+  saves_per_game: 14.060 (2.072 above average)
+  clearing_percentage: 0.864 (0.021 above average)
+  ground_balls_per_game: 38.250 (7.354 above average)
+  shot_percentage: 0.317 (0.026 above average)
+  offensive_efficiency: 46.719 (8.053 above average)

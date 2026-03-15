@@ -1,0 +1,17 @@
+Team: Chowan
+Season: 2019 D2
+Record: 2-13
+Winning %: 0.133
+Predicted Winning %: 0.210
+
+Stat Comparison vs League Average:
+  points_per_game: 16.870 (0.771 below average)
+  scoring_defense: 19.470 (8.234 above average)
+  scoring_offense: 11.130 (0.184 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 7.816 (7.887 below average)
+  saves_per_game: 16.070 (4.082 above average)
+  clearing_percentage: 0.761 (0.082 below average)
+  ground_balls_per_game: 27.330 (3.566 below average)
+  shot_percentage: 0.321 (0.030 above average)
+  offensive_efficiency: 34.673 (3.993 below average)

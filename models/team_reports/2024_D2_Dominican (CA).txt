@@ -1,0 +1,17 @@
+Team: Dominican (CA)
+Season: 2024 D2
+Record: 2-10
+Winning %: 0.167
+Predicted Winning %: 0.150
+
+Stat Comparison vs League Average:
+  points_per_game: 14.000 (3.641 below average)
+  scoring_defense: 17.250 (6.014 above average)
+  scoring_offense: 9.580 (1.734 below average)
+  scoring_margin: -7.670 (9.404 below average)
+  defensive_efficiency: 10.111 (5.592 below average)
+  saves_per_game: 13.420 (1.432 above average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 27.170 (3.726 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 34.093 (4.574 below average)

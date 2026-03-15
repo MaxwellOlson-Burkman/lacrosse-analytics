@@ -1,0 +1,17 @@
+Team: Rutgers
+Season: 2015 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.445
+
+Stat Comparison vs League Average:
+  points_per_game: 15.930 (1.711 below average)
+  scoring_defense: 10.270 (0.966 below average)
+  scoring_offense: 10.330 (0.984 below average)
+  scoring_margin: 0.070 (1.664 below average)
+  defensive_efficiency: 15.355 (0.348 below average)
+  saves_per_game: 9.000 (2.988 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 32.470 (1.574 above average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 37.158 (1.508 below average)

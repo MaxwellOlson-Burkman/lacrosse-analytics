@@ -1,0 +1,17 @@
+Team: Alderson Broaddus
+Season: 2015 D2
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.246
+
+Stat Comparison vs League Average:
+  points_per_game: 13.000 (4.641 below average)
+  scoring_defense: 13.690 (2.454 above average)
+  scoring_offense: 8.150 (3.164 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 13.106 (2.597 below average)
+  saves_per_game: 11.620 (0.368 below average)
+  clearing_percentage: 0.752 (0.091 below average)
+  ground_balls_per_game: 26.920 (3.976 below average)
+  shot_percentage: 0.260 (0.031 below average)
+  offensive_efficiency: 31.346 (7.320 below average)

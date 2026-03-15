@@ -1,0 +1,17 @@
+Team: Adams St.
+Season: 2016 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.306
+
+Stat Comparison vs League Average:
+  points_per_game: 11.140 (6.501 below average)
+  scoring_defense: 10.860 (0.376 below average)
+  scoring_offense: 11.005 (0.309 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 17.022 (1.319 above average)
+  saves_per_game: 14.790 (2.802 above average)
+  clearing_percentage: 0.842 (0.001 below average)
+  ground_balls_per_game: 29.765 (1.131 below average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 36.930 (1.737 below average)

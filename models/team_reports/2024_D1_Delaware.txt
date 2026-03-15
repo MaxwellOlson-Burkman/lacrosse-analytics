@@ -1,0 +1,17 @@
+Team: Delaware
+Season: 2024 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.676
+
+Stat Comparison vs League Average:
+  points_per_game: 19.860 (2.219 above average)
+  scoring_defense: 9.430 (1.806 below average)
+  scoring_offense: 12.640 (1.326 above average)
+  scoring_margin: 3.210 (1.476 above average)
+  defensive_efficiency: 18.098 (2.395 above average)
+  saves_per_game: 13.710 (1.722 above average)
+  clearing_percentage: 0.854 (0.011 above average)
+  ground_balls_per_game: 31.430 (0.534 above average)
+  shot_percentage: 0.279 (0.012 below average)
+  offensive_efficiency: 45.305 (6.639 above average)

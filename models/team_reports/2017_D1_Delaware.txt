@@ -1,0 +1,17 @@
+Team: Delaware
+Season: 2017 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.458
+
+Stat Comparison vs League Average:
+  points_per_game: 15.800 (1.841 below average)
+  scoring_defense: 10.130 (1.106 below average)
+  scoring_offense: 10.530 (0.784 below average)
+  scoring_margin: 0.400 (1.334 below average)
+  defensive_efficiency: 16.496 (0.793 above average)
+  saves_per_game: 10.870 (1.118 below average)
+  clearing_percentage: 0.842 (0.001 below average)
+  ground_balls_per_game: 27.470 (3.426 below average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 38.014 (0.652 below average)

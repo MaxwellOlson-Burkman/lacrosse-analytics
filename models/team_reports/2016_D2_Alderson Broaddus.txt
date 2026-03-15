@@ -1,0 +1,17 @@
+Team: Alderson Broaddus
+Season: 2016 D2
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.503
+
+Stat Comparison vs League Average:
+  points_per_game: 19.800 (2.159 above average)
+  scoring_defense: 11.670 (0.434 above average)
+  scoring_offense: 12.200 (0.886 above average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 15.124 (0.579 below average)
+  saves_per_game: 11.530 (0.458 below average)
+  clearing_percentage: 0.818 (0.025 below average)
+  ground_balls_per_game: 32.930 (2.034 above average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 41.077 (2.411 above average)

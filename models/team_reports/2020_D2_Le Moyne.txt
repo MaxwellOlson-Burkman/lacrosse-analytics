@@ -1,0 +1,17 @@
+Team: Le Moyne
+Season: 2020 D2
+Record: 4-0
+Winning %: 1.000
+Predicted Winning %: 0.871
+
+Stat Comparison vs League Average:
+  points_per_game: 25.000 (7.359 above average)
+  scoring_defense: 9.500 (1.736 below average)
+  scoring_offense: 16.000 (4.686 above average)
+  scoring_margin: 6.500 (4.766 above average)
+  defensive_efficiency: 16.950 (1.247 above average)
+  saves_per_game: 9.000 (2.988 below average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 36.500 (5.604 above average)
+  shot_percentage: 0.290 (0.001 below average)
+  offensive_efficiency: 55.172 (16.506 above average)

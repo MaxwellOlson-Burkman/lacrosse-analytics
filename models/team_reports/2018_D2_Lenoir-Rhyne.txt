@@ -1,0 +1,17 @@
+Team: Lenoir-Rhyne
+Season: 2018 D2
+Record: 17-3
+Winning %: 0.850
+Predicted Winning %: 0.726
+
+Stat Comparison vs League Average:
+  points_per_game: 22.750 (5.109 above average)
+  scoring_defense: 9.400 (1.836 below average)
+  scoring_offense: 14.350 (3.036 above average)
+  scoring_margin: 4.950 (3.216 above average)
+  defensive_efficiency: 17.990 (2.287 above average)
+  saves_per_game: 12.550 (0.562 above average)
+  clearing_percentage: 0.876 (0.033 above average)
+  ground_balls_per_game: 31.200 (0.304 above average)
+  shot_percentage: 0.317 (0.026 above average)
+  offensive_efficiency: 45.268 (6.602 above average)

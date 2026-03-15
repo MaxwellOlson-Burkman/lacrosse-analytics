@@ -1,0 +1,17 @@
+Team: Belmont Abbey
+Season: 2016 D2
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.768
+
+Stat Comparison vs League Average:
+  points_per_game: 22.940 (5.299 above average)
+  scoring_defense: 8.630 (2.606 below average)
+  scoring_offense: 14.500 (3.186 above average)
+  scoring_margin: 5.880 (4.146 above average)
+  defensive_efficiency: 18.215 (2.512 above average)
+  saves_per_game: 11.835 (0.153 below average)
+  clearing_percentage: 0.887 (0.044 above average)
+  ground_balls_per_game: 29.190 (1.706 below average)
+  shot_percentage: 0.333 (0.042 above average)
+  offensive_efficiency: 43.544 (4.877 above average)

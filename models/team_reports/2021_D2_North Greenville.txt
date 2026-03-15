@@ -1,0 +1,17 @@
+Team: North Greenville
+Season: 2021 D2
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.561
+
+Stat Comparison vs League Average:
+  points_per_game: 20.430 (2.789 above average)
+  scoring_defense: 10.930 (0.306 below average)
+  scoring_offense: 12.710 (1.396 above average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 15.097 (0.606 below average)
+  saves_per_game: 9.640 (2.348 below average)
+  clearing_percentage: 0.833 (0.010 below average)
+  ground_balls_per_game: 34.710 (3.814 above average)
+  shot_percentage: 0.260 (0.031 below average)
+  offensive_efficiency: 48.885 (10.219 above average)

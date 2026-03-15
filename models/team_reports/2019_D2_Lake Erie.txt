@@ -1,0 +1,17 @@
+Team: Lake Erie
+Season: 2019 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.444
+
+Stat Comparison vs League Average:
+  points_per_game: 20.710 (3.069 above average)
+  scoring_defense: 12.790 (1.554 above average)
+  scoring_offense: 13.000 (1.686 above average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 14.302 (1.401 below average)
+  saves_per_game: 13.290 (1.302 above average)
+  clearing_percentage: 0.803 (0.040 below average)
+  ground_balls_per_game: 33.070 (2.174 above average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 38.806 (0.140 above average)

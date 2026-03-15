@@ -1,0 +1,17 @@
+Team: Towson
+Season: 2019 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.618
+
+Stat Comparison vs League Average:
+  points_per_game: 19.190 (1.549 above average)
+  scoring_defense: 10.810 (0.426 below average)
+  scoring_offense: 12.690 (1.376 above average)
+  scoring_margin: 1.880 (0.146 above average)
+  defensive_efficiency: 15.909 (0.206 above average)
+  saves_per_game: 11.630 (0.358 below average)
+  clearing_percentage: 0.820 (0.023 below average)
+  ground_balls_per_game: 34.250 (3.354 above average)
+  shot_percentage: 0.299 (0.008 above average)
+  offensive_efficiency: 42.441 (3.775 above average)

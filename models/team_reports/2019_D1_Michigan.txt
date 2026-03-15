@@ -1,0 +1,17 @@
+Team: Michigan
+Season: 2019 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.325
+
+Stat Comparison vs League Average:
+  points_per_game: 18.000 (0.359 above average)
+  scoring_defense: 13.460 (2.224 above average)
+  scoring_offense: 11.380 (0.066 above average)
+  scoring_margin: -2.080 (3.814 below average)
+  defensive_efficiency: 13.585 (2.118 below average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.825 (0.018 below average)
+  ground_balls_per_game: 27.920 (2.976 below average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 35.342 (3.324 below average)

@@ -1,0 +1,17 @@
+Team: Franklin Pierce
+Season: 2023 D2
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.296
+
+Stat Comparison vs League Average:
+  points_per_game: 17.000 (0.641 below average)
+  scoring_defense: 14.360 (3.124 above average)
+  scoring_offense: 11.000 (0.314 below average)
+  scoring_margin: -3.360 (5.094 below average)
+  defensive_efficiency: 12.526 (3.177 below average)
+  saves_per_game: 15.070 (3.082 above average)
+  clearing_percentage: 0.866 (0.023 above average)
+  ground_balls_per_game: 27.430 (3.466 below average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 36.913 (1.753 below average)

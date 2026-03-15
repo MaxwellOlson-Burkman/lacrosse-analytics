@@ -1,0 +1,17 @@
+Team: Lehigh
+Season: 2023 D1
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.673
+
+Stat Comparison vs League Average:
+  points_per_game: 22.530 (4.889 above average)
+  scoring_defense: 11.530 (0.294 above average)
+  scoring_offense: 13.730 (2.416 above average)
+  scoring_margin: 2.200 (0.466 above average)
+  defensive_efficiency: 14.741 (0.962 below average)
+  saves_per_game: 11.870 (0.118 below average)
+  clearing_percentage: 0.824 (0.019 below average)
+  ground_balls_per_game: 37.330 (6.434 above average)
+  shot_percentage: 0.342 (0.051 above average)
+  offensive_efficiency: 40.146 (1.480 above average)

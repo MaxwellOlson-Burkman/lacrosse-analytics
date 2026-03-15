@@ -1,0 +1,17 @@
+Team: Florida Tech
+Season: 2017 D2
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.591
+
+Stat Comparison vs League Average:
+  points_per_game: 17.730 (0.089 above average)
+  scoring_defense: 9.600 (1.636 below average)
+  scoring_offense: 11.870 (0.556 above average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 16.969 (1.266 above average)
+  saves_per_game: 11.130 (0.858 below average)
+  clearing_percentage: 0.855 (0.012 above average)
+  ground_balls_per_game: 34.330 (3.434 above average)
+  shot_percentage: 0.279 (0.012 below average)
+  offensive_efficiency: 42.545 (3.879 above average)

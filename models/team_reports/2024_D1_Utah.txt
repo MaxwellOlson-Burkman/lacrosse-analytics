@@ -1,0 +1,17 @@
+Team: Utah
+Season: 2024 D1
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.659
+
+Stat Comparison vs League Average:
+  points_per_game: 23.350 (5.709 above average)
+  scoring_defense: 10.880 (0.356 below average)
+  scoring_offense: 14.820 (3.506 above average)
+  scoring_margin: 3.940 (2.206 above average)
+  defensive_efficiency: 16.343 (0.640 above average)
+  saves_per_game: 12.060 (0.072 above average)
+  clearing_percentage: 0.879 (0.036 above average)
+  ground_balls_per_game: 33.760 (2.864 above average)
+  shot_percentage: 0.307 (0.016 above average)
+  offensive_efficiency: 48.274 (9.608 above average)

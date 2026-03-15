@@ -1,0 +1,17 @@
+Team: Rollins
+Season: 2024 D2
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.686
+
+Stat Comparison vs League Average:
+  points_per_game: 21.310 (3.669 above average)
+  scoring_defense: 9.810 (1.426 below average)
+  scoring_offense: 13.560 (2.246 above average)
+  scoring_margin: 3.750 (2.016 above average)
+  defensive_efficiency: 17.497 (1.794 above average)
+  saves_per_game: 11.690 (0.298 below average)
+  clearing_percentage: 0.868 (0.025 above average)
+  ground_balls_per_game: 31.690 (0.794 above average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 44.459 (5.793 above average)

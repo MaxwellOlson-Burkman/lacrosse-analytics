@@ -1,0 +1,17 @@
+Team: Richmond
+Season: 2019 D1
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.640
+
+Stat Comparison vs League Average:
+  points_per_game: 19.240 (1.599 above average)
+  scoring_defense: 10.120 (1.116 below average)
+  scoring_offense: 11.880 (0.566 above average)
+  scoring_margin: 1.760 (0.026 above average)
+  defensive_efficiency: 17.566 (1.863 above average)
+  saves_per_game: 12.820 (0.832 above average)
+  clearing_percentage: 0.866 (0.023 above average)
+  ground_balls_per_game: 27.350 (3.546 below average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 36.894 (1.772 below average)

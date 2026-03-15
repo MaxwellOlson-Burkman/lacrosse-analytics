@@ -1,0 +1,17 @@
+Team: Vermont
+Season: 2022 D1
+Record: 12-7
+Winning %: 0.632
+Predicted Winning %: 0.704
+
+Stat Comparison vs League Average:
+  points_per_game: 21.580 (3.939 above average)
+  scoring_defense: 9.210 (2.026 below average)
+  scoring_offense: 13.210 (1.896 above average)
+  scoring_margin: 4.000 (2.266 above average)
+  defensive_efficiency: 17.920 (2.217 above average)
+  saves_per_game: 11.050 (0.938 below average)
+  clearing_percentage: 0.867 (0.024 above average)
+  ground_balls_per_game: 32.790 (1.894 above average)
+  shot_percentage: 0.308 (0.017 above average)
+  offensive_efficiency: 42.890 (4.223 above average)

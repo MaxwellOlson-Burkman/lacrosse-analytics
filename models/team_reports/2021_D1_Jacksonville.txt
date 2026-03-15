@@ -1,0 +1,17 @@
+Team: Jacksonville
+Season: 2021 D1
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.517
+
+Stat Comparison vs League Average:
+  points_per_game: 17.860 (0.219 above average)
+  scoring_defense: 11.210 (0.026 below average)
+  scoring_offense: 10.930 (0.384 below average)
+  scoring_margin: -0.290 (2.024 below average)
+  defensive_efficiency: 15.116 (0.587 below average)
+  saves_per_game: 10.070 (1.918 below average)
+  clearing_percentage: 0.860 (0.017 above average)
+  ground_balls_per_game: 29.360 (1.536 below average)
+  shot_percentage: 0.302 (0.011 above average)
+  offensive_efficiency: 36.192 (2.474 below average)

@@ -1,0 +1,17 @@
+Team: Dowling
+Season: 2014 D2
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.718
+
+Stat Comparison vs League Average:
+  points_per_game: 20.000 (2.359 above average)
+  scoring_defense: 8.290 (2.946 below average)
+  scoring_offense: 13.290 (1.976 above average)
+  scoring_margin: 5.000 (3.266 above average)
+  defensive_efficiency: 19.325 (3.621 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 33.530 (2.634 above average)
+  shot_percentage: 0.333 (0.042 above average)
+  offensive_efficiency: 39.910 (1.244 above average)

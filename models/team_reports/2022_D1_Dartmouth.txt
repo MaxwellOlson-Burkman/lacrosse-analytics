@@ -1,0 +1,17 @@
+Team: Dartmouth
+Season: 2022 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.312
+
+Stat Comparison vs League Average:
+  points_per_game: 14.850 (2.791 below average)
+  scoring_defense: 12.460 (1.224 above average)
+  scoring_offense: 9.460 (1.854 below average)
+  scoring_margin: -3.000 (4.734 below average)
+  defensive_efficiency: 14.451 (1.252 below average)
+  saves_per_game: 13.620 (1.632 above average)
+  clearing_percentage: 0.805 (0.038 below average)
+  ground_balls_per_game: 32.230 (1.334 above average)
+  shot_percentage: 0.230 (0.061 below average)
+  offensive_efficiency: 41.130 (2.464 above average)

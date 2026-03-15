@@ -1,0 +1,17 @@
+Team: Fairfield
+Season: 2021 D1
+Record: 2-9
+Winning %: 0.182
+Predicted Winning %: 0.294
+
+Stat Comparison vs League Average:
+  points_per_game: 18.640 (0.999 above average)
+  scoring_defense: 15.270 (4.034 above average)
+  scoring_offense: 11.450 (0.136 above average)
+  scoring_margin: -3.820 (5.554 below average)
+  defensive_efficiency: 12.222 (3.481 below average)
+  saves_per_game: 13.640 (1.652 above average)
+  clearing_percentage: 0.814 (0.029 below average)
+  ground_balls_per_game: 30.180 (0.716 below average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 40.459 (1.793 above average)

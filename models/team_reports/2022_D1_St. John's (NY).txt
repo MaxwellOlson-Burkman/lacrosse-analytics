@@ -1,0 +1,17 @@
+Team: St. John's (NY)
+Season: 2022 D1
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.112
+
+Stat Comparison vs League Average:
+  points_per_game: 15.290 (2.351 below average)
+  scoring_defense: 18.360 (7.124 above average)
+  scoring_offense: 8.930 (2.384 below average)
+  scoring_margin: -9.430 (11.164 below average)
+  defensive_efficiency: 7.686 (8.017 below average)
+  saves_per_game: 12.570 (0.582 above average)
+  clearing_percentage: 0.838 (0.005 below average)
+  ground_balls_per_game: 22.790 (8.106 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 34.084 (4.582 below average)

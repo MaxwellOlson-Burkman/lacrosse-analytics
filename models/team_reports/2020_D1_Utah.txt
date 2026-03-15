@@ -1,0 +1,17 @@
+Team: Utah
+Season: 2020 D1
+Record: 3-3
+Winning %: 0.500
+Predicted Winning %: 0.606
+
+Stat Comparison vs League Average:
+  points_per_game: 20.500 (2.859 above average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 12.830 (1.516 above average)
+  scoring_margin: 1.830 (0.096 above average)
+  defensive_efficiency: 15.840 (0.137 above average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.868 (0.025 above average)
+  ground_balls_per_game: 32.830 (1.934 above average)
+  shot_percentage: 0.309 (0.018 above average)
+  offensive_efficiency: 41.521 (2.855 above average)

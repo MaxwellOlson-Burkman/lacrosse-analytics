@@ -1,0 +1,17 @@
+Team: Adams St.
+Season: 2024 D2
+Record: 1-13
+Winning %: 0.071
+Predicted Winning %: 0.064
+
+Stat Comparison vs League Average:
+  points_per_game: 10.360 (7.281 below average)
+  scoring_defense: 18.710 (7.474 above average)
+  scoring_offense: 6.790 (4.524 below average)
+  scoring_margin: -11.930 (13.664 below average)
+  defensive_efficiency: 9.373 (6.330 below average)
+  saves_per_game: 13.360 (1.372 above average)
+  clearing_percentage: 0.760 (0.083 below average)
+  ground_balls_per_game: 25.570 (5.326 below average)
+  shot_percentage: 0.252 (0.039 below average)
+  offensive_efficiency: 26.944 (11.722 below average)

@@ -1,0 +1,17 @@
+Team: Adams St.
+Season: 2020 D2
+Record: 0-4
+Winning %: 0.000
+Predicted Winning %: 0.057
+
+Stat Comparison vs League Average:
+  points_per_game: 10.500 (7.141 below average)
+  scoring_defense: 18.250 (7.014 above average)
+  scoring_offense: 7.250 (4.064 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 9.130 (6.573 below average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.793 (0.050 below average)
+  ground_balls_per_game: 20.750 (10.146 below average)
+  shot_percentage: 0.238 (0.053 below average)
+  offensive_efficiency: 30.462 (8.204 below average)

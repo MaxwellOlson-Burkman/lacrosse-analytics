@@ -1,0 +1,17 @@
+Team: Harvard
+Season: 2017 D1
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.456
+
+Stat Comparison vs League Average:
+  points_per_game: 16.460 (1.181 below average)
+  scoring_defense: 11.080 (0.156 below average)
+  scoring_offense: 10.920 (0.394 below average)
+  scoring_margin: -0.150 (1.884 below average)
+  defensive_efficiency: 16.174 (0.471 above average)
+  saves_per_game: 12.230 (0.242 above average)
+  clearing_percentage: 0.893 (0.050 above average)
+  ground_balls_per_game: 26.690 (4.206 below average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 34.667 (3.999 below average)

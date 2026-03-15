@@ -1,0 +1,17 @@
+Team: Fla. Southern
+Season: 2024 D2
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.608
+
+Stat Comparison vs League Average:
+  points_per_game: 21.410 (3.769 above average)
+  scoring_defense: 12.290 (1.054 above average)
+  scoring_offense: 13.760 (2.446 above average)
+  scoring_margin: 1.470 (0.264 below average)
+  defensive_efficiency: 14.475 (1.228 below average)
+  saves_per_game: 12.350 (0.362 above average)
+  clearing_percentage: 0.895 (0.052 above average)
+  ground_balls_per_game: 39.590 (8.694 above average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 46.174 (7.508 above average)

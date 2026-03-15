@@ -1,0 +1,17 @@
+Team: Bellarmine
+Season: 2023 D1
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.644
+
+Stat Comparison vs League Average:
+  points_per_game: 21.240 (3.599 above average)
+  scoring_defense: 11.350 (0.114 above average)
+  scoring_offense: 13.710 (2.396 above average)
+  scoring_margin: 2.350 (0.616 above average)
+  defensive_efficiency: 15.902 (0.199 above average)
+  saves_per_game: 11.940 (0.048 below average)
+  clearing_percentage: 0.900 (0.057 above average)
+  ground_balls_per_game: 29.760 (1.136 below average)
+  shot_percentage: 0.332 (0.041 above average)
+  offensive_efficiency: 41.295 (2.629 above average)

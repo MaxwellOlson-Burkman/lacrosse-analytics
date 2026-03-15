@@ -1,0 +1,17 @@
+Team: Saint Leo
+Season: 2021 D2
+Record: 3-7
+Winning %: 0.300
+Predicted Winning %: 0.261
+
+Stat Comparison vs League Average:
+  points_per_game: 16.600 (1.041 below average)
+  scoring_defense: 14.600 (3.364 above average)
+  scoring_offense: 10.600 (0.714 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 13.025 (2.678 below average)
+  saves_per_game: 15.200 (3.212 above average)
+  clearing_percentage: 0.808 (0.035 below average)
+  ground_balls_per_game: 30.800 (0.096 below average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 36.054 (2.612 below average)

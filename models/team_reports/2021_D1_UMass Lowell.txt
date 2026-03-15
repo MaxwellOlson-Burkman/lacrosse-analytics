@@ -1,0 +1,17 @@
+Team: UMass Lowell
+Season: 2021 D1
+Record: 1-8
+Winning %: 0.111
+Predicted Winning %: 0.125
+
+Stat Comparison vs League Average:
+  points_per_game: 12.780 (4.861 below average)
+  scoring_defense: 14.780 (3.544 above average)
+  scoring_offense: 8.110 (3.204 below average)
+  scoring_margin: -6.670 (8.404 below average)
+  defensive_efficiency: 11.924 (3.779 below average)
+  saves_per_game: 13.780 (1.792 above average)
+  clearing_percentage: 0.799 (0.044 below average)
+  ground_balls_per_game: 30.440 (0.456 below average)
+  shot_percentage: 0.239 (0.052 below average)
+  offensive_efficiency: 33.933 (4.733 below average)

@@ -1,0 +1,17 @@
+Team: Johns Hopkins
+Season: 2014 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.681
+
+Stat Comparison vs League Average:
+  points_per_game: 19.500 (1.859 above average)
+  scoring_defense: 8.940 (2.296 below average)
+  scoring_offense: 12.060 (0.746 above average)
+  scoring_margin: 3.130 (1.396 above average)
+  defensive_efficiency: 17.619 (1.916 above average)
+  saves_per_game: 10.880 (1.108 below average)
+  clearing_percentage: 0.826 (0.017 below average)
+  ground_balls_per_game: 30.630 (0.266 below average)
+  shot_percentage: 0.303 (0.012 above average)
+  offensive_efficiency: 39.802 (1.136 above average)

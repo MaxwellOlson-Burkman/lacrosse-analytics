@@ -1,0 +1,17 @@
+Team: North Greenville
+Season: 2019 D2
+Record: 8-9
+Winning %: 0.471
+Predicted Winning %: 0.602
+
+Stat Comparison vs League Average:
+  points_per_game: 22.350 (4.709 above average)
+  scoring_defense: 10.410 (0.826 below average)
+  scoring_offense: 14.410 (3.096 above average)
+  scoring_margin: 4.000 (2.266 above average)
+  defensive_efficiency: 16.928 (1.225 above average)
+  saves_per_game: 10.060 (1.928 below average)
+  clearing_percentage: 0.853 (0.010 above average)
+  ground_balls_per_game: 30.410 (0.486 below average)
+  shot_percentage: 0.311 (0.020 above average)
+  offensive_efficiency: 46.334 (7.668 above average)

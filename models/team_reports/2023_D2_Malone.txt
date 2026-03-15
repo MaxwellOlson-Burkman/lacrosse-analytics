@@ -1,0 +1,17 @@
+Team: Malone
+Season: 2023 D2
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.358
+
+Stat Comparison vs League Average:
+  points_per_game: 18.800 (1.159 above average)
+  scoring_defense: 16.600 (5.364 above average)
+  scoring_offense: 12.670 (1.356 above average)
+  scoring_margin: -3.930 (5.664 below average)
+  defensive_efficiency: 11.995 (3.708 below average)
+  saves_per_game: 17.800 (5.812 above average)
+  clearing_percentage: 0.813 (0.030 below average)
+  ground_balls_per_game: 29.730 (1.166 below average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 41.678 (3.012 above average)

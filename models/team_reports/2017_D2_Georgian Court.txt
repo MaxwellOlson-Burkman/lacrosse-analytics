@@ -1,0 +1,17 @@
+Team: Georgian Court
+Season: 2017 D2
+Record: 5-11
+Winning %: 0.313
+Predicted Winning %: 0.238
+
+Stat Comparison vs League Average:
+  points_per_game: 12.440 (5.201 below average)
+  scoring_defense: 13.190 (1.954 above average)
+  scoring_offense: 8.000 (3.314 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 14.455 (1.248 below average)
+  saves_per_game: 15.000 (3.012 above average)
+  clearing_percentage: 0.795 (0.048 below average)
+  ground_balls_per_game: 29.130 (1.766 below average)
+  shot_percentage: 0.250 (0.041 below average)
+  offensive_efficiency: 32.000 (6.666 below average)

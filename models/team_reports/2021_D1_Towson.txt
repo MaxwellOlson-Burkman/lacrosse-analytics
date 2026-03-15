@@ -1,0 +1,17 @@
+Team: Towson
+Season: 2021 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.394
+
+Stat Comparison vs League Average:
+  points_per_game: 14.930 (2.711 below average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 9.500 (1.814 below average)
+  scoring_margin: -1.500 (3.234 below average)
+  defensive_efficiency: 16.058 (0.355 above average)
+  saves_per_game: 11.360 (0.628 below average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 27.070 (3.826 below average)
+  shot_percentage: 0.268 (0.023 below average)
+  offensive_efficiency: 35.448 (3.218 below average)

@@ -1,0 +1,17 @@
+Team: Mercyhurst
+Season: 2024 D2
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.781
+
+Stat Comparison vs League Average:
+  points_per_game: 25.170 (7.529 above average)
+  scoring_defense: 9.830 (1.406 below average)
+  scoring_offense: 16.110 (4.796 above average)
+  scoring_margin: 6.280 (4.546 above average)
+  defensive_efficiency: 16.794 (1.091 above average)
+  saves_per_game: 10.280 (1.708 below average)
+  clearing_percentage: 0.915 (0.072 above average)
+  ground_balls_per_game: 32.780 (1.884 above average)
+  shot_percentage: 0.346 (0.055 above average)
+  offensive_efficiency: 46.561 (7.895 above average)

@@ -1,0 +1,17 @@
+Team: Palm Beach Atl.
+Season: 2019 D2
+Record: 6-10
+Winning %: 0.375
+Predicted Winning %: 0.360
+
+Stat Comparison vs League Average:
+  points_per_game: 17.060 (0.581 below average)
+  scoring_defense: 13.690 (2.454 above average)
+  scoring_offense: 11.250 (0.064 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 13.770 (1.933 below average)
+  saves_per_game: 13.750 (1.762 above average)
+  clearing_percentage: 0.791 (0.052 below average)
+  ground_balls_per_game: 39.630 (8.734 above average)
+  shot_percentage: 0.265 (0.026 below average)
+  offensive_efficiency: 42.453 (3.787 above average)

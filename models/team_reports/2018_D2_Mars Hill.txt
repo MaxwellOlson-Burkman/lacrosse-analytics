@@ -1,0 +1,17 @@
+Team: Mars Hill
+Season: 2018 D2
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.182
+
+Stat Comparison vs League Average:
+  points_per_game: 12.360 (5.281 below average)
+  scoring_defense: 13.640 (2.404 above average)
+  scoring_offense: 7.790 (3.524 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 14.366 (1.337 below average)
+  saves_per_game: 16.570 (4.582 above average)
+  clearing_percentage: 0.801 (0.042 below average)
+  ground_balls_per_game: 21.570 (9.326 below average)
+  shot_percentage: 0.284 (0.007 below average)
+  offensive_efficiency: 27.430 (11.237 below average)

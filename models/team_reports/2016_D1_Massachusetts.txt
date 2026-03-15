@@ -1,0 +1,17 @@
+Team: Massachusetts
+Season: 2016 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.409
+
+Stat Comparison vs League Average:
+  points_per_game: 13.380 (4.261 below average)
+  scoring_defense: 9.850 (1.386 below average)
+  scoring_offense: 8.620 (2.694 below average)
+  scoring_margin: -1.230 (2.964 below average)
+  defensive_efficiency: 16.977 (1.274 above average)
+  saves_per_game: 10.690 (1.298 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 27.310 (3.586 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 32.901 (5.765 below average)

@@ -1,0 +1,17 @@
+Team: Florida Tech
+Season: 2023 D2
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.531
+
+Stat Comparison vs League Average:
+  points_per_game: 20.640 (2.999 above average)
+  scoring_defense: 12.070 (0.834 above average)
+  scoring_offense: 13.290 (1.976 above average)
+  scoring_margin: 1.210 (0.524 below average)
+  defensive_efficiency: 14.805 (0.898 below average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.851 (0.008 above average)
+  ground_balls_per_game: 34.790 (3.894 above average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 41.273 (2.607 above average)

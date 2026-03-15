@@ -1,0 +1,17 @@
+Team: Richmond
+Season: 2016 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.641
+
+Stat Comparison vs League Average:
+  points_per_game: 14.380 (3.261 below average)
+  scoring_defense: 7.440 (3.796 below average)
+  scoring_offense: 8.630 (2.684 below average)
+  scoring_margin: 1.190 (0.544 below average)
+  defensive_efficiency: 18.223 (2.520 above average)
+  saves_per_game: 9.560 (2.428 below average)
+  clearing_percentage: 0.917 (0.074 above average)
+  ground_balls_per_game: 27.810 (3.086 below average)
+  shot_percentage: 0.254 (0.037 below average)
+  offensive_efficiency: 33.976 (4.690 below average)

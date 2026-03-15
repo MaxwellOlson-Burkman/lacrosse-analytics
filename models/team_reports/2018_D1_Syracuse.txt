@@ -1,0 +1,17 @@
+Team: Syracuse
+Season: 2018 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.548
+
+Stat Comparison vs League Average:
+  points_per_game: 17.730 (0.089 above average)
+  scoring_defense: 10.670 (0.566 below average)
+  scoring_offense: 11.270 (0.044 below average)
+  scoring_margin: 0.600 (1.134 below average)
+  defensive_efficiency: 15.360 (0.343 below average)
+  saves_per_game: 9.400 (2.588 below average)
+  clearing_percentage: 0.857 (0.014 above average)
+  ground_balls_per_game: 30.470 (0.426 below average)
+  shot_percentage: 0.328 (0.037 above average)
+  offensive_efficiency: 34.360 (4.306 below average)

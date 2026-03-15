@@ -1,0 +1,17 @@
+Team: Palm Beach Atl.
+Season: 2023 D2
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.183
+
+Stat Comparison vs League Average:
+  points_per_game: 15.360 (2.281 below average)
+  scoring_defense: 17.070 (5.834 above average)
+  scoring_offense: 10.710 (0.604 below average)
+  scoring_margin: -6.360 (8.094 below average)
+  defensive_efficiency: 9.719 (5.984 below average)
+  saves_per_game: 11.430 (0.558 below average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 31.430 (0.534 above average)
+  shot_percentage: 0.280 (0.011 below average)
+  offensive_efficiency: 38.250 (0.416 below average)

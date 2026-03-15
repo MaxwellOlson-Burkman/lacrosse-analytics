@@ -1,0 +1,17 @@
+Team: American Int'l
+Season: 2022 D2
+Record: 1-14
+Winning %: 0.067
+Predicted Winning %: 0.072
+
+Stat Comparison vs League Average:
+  points_per_game: 9.070 (8.571 below average)
+  scoring_defense: 15.070 (3.834 above average)
+  scoring_offense: 6.200 (5.114 below average)
+  scoring_margin: -8.870 (10.604 below average)
+  defensive_efficiency: 12.515 (3.188 below average)
+  saves_per_game: 15.400 (3.412 above average)
+  clearing_percentage: 0.739 (0.104 below average)
+  ground_balls_per_game: 26.870 (4.026 below average)
+  shot_percentage: 0.200 (0.091 below average)
+  offensive_efficiency: 31.000 (7.666 below average)

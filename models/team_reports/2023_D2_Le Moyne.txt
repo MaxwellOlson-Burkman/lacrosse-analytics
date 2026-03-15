@@ -1,0 +1,17 @@
+Team: Le Moyne
+Season: 2023 D2
+Record: 17-1
+Winning %: 0.944
+Predicted Winning %: 0.824
+
+Stat Comparison vs League Average:
+  points_per_game: 20.280 (2.639 above average)
+  scoring_defense: 7.330 (3.906 below average)
+  scoring_offense: 12.560 (1.246 above average)
+  scoring_margin: 5.220 (3.486 above average)
+  defensive_efficiency: 20.280 (4.577 above average)
+  saves_per_game: 10.500 (1.488 below average)
+  clearing_percentage: 0.858 (0.015 above average)
+  ground_balls_per_game: 27.890 (3.006 below average)
+  shot_percentage: 0.312 (0.021 above average)
+  offensive_efficiency: 40.256 (1.590 above average)

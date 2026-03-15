@@ -1,0 +1,17 @@
+Team: Syracuse
+Season: 2021 D1
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.504
+
+Stat Comparison vs League Average:
+  points_per_game: 21.230 (3.589 above average)
+  scoring_defense: 14.080 (2.844 above average)
+  scoring_offense: 13.620 (2.306 above average)
+  scoring_margin: -0.460 (2.194 below average)
+  defensive_efficiency: 12.227 (3.476 below average)
+  saves_per_game: 12.540 (0.552 above average)
+  clearing_percentage: 0.837 (0.006 below average)
+  ground_balls_per_game: 32.540 (1.644 above average)
+  shot_percentage: 0.306 (0.015 above average)
+  offensive_efficiency: 44.510 (5.844 above average)

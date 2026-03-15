@@ -1,0 +1,17 @@
+Team: American Int'l
+Season: 2024 D2
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.460
+
+Stat Comparison vs League Average:
+  points_per_game: 19.400 (1.759 above average)
+  scoring_defense: 11.730 (0.494 above average)
+  scoring_offense: 11.330 (0.016 above average)
+  scoring_margin: -0.400 (2.134 below average)
+  defensive_efficiency: 16.590 (0.887 above average)
+  saves_per_game: 14.600 (2.612 above average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 30.070 (0.826 below average)
+  shot_percentage: 0.314 (0.023 above average)
+  offensive_efficiency: 36.083 (2.583 below average)

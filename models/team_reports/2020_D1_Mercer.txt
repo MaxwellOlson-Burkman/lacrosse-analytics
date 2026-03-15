@@ -1,0 +1,17 @@
+Team: Mercer
+Season: 2020 D1
+Record: 6-1
+Winning %: 0.857
+Predicted Winning %: 0.848
+
+Stat Comparison vs League Average:
+  points_per_game: 26.430 (8.789 above average)
+  scoring_defense: 8.860 (2.376 below average)
+  scoring_offense: 16.430 (5.116 above average)
+  scoring_margin: 7.570 (5.836 above average)
+  defensive_efficiency: 17.711 (2.008 above average)
+  saves_per_game: 8.570 (3.418 below average)
+  clearing_percentage: 0.883 (0.040 above average)
+  ground_balls_per_game: 32.000 (1.104 above average)
+  shot_percentage: 0.369 (0.078 above average)
+  offensive_efficiency: 44.526 (5.860 above average)

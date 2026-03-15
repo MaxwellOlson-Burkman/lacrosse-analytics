@@ -1,0 +1,17 @@
+Team: Towson
+Season: 2024 D1
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.777
+
+Stat Comparison vs League Average:
+  points_per_game: 23.940 (6.299 above average)
+  scoring_defense: 9.120 (2.116 below average)
+  scoring_offense: 14.530 (3.216 above average)
+  scoring_margin: 5.410 (3.676 above average)
+  defensive_efficiency: 17.473 (1.770 above average)
+  saves_per_game: 10.410 (1.578 below average)
+  clearing_percentage: 0.914 (0.071 above average)
+  ground_balls_per_game: 34.880 (3.984 above average)
+  shot_percentage: 0.338 (0.047 above average)
+  offensive_efficiency: 42.988 (4.322 above average)

@@ -1,0 +1,17 @@
+Team: Villanova
+Season: 2021 D1
+Record: 7-5
+Winning %: 0.583
+Predicted Winning %: 0.634
+
+Stat Comparison vs League Average:
+  points_per_game: 20.330 (2.689 above average)
+  scoring_defense: 10.500 (0.736 below average)
+  scoring_offense: 13.170 (1.856 above average)
+  scoring_margin: 2.670 (0.936 above average)
+  defensive_efficiency: 16.169 (0.466 above average)
+  saves_per_game: 10.330 (1.658 below average)
+  clearing_percentage: 0.860 (0.017 above average)
+  ground_balls_per_game: 24.830 (6.066 below average)
+  shot_percentage: 0.302 (0.011 above average)
+  offensive_efficiency: 43.609 (4.943 above average)

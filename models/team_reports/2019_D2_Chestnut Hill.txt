@@ -1,0 +1,17 @@
+Team: Chestnut Hill
+Season: 2019 D2
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.711
+
+Stat Comparison vs League Average:
+  points_per_game: 25.310 (7.669 above average)
+  scoring_defense: 10.130 (1.106 below average)
+  scoring_offense: 15.440 (4.126 above average)
+  scoring_margin: 5.310 (3.576 above average)
+  defensive_efficiency: 17.437 (1.734 above average)
+  saves_per_game: 14.190 (2.202 above average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 32.560 (1.664 above average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 45.412 (6.746 above average)

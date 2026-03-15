@@ -1,0 +1,17 @@
+Team: Brown
+Season: 2014 D1
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.444
+
+Stat Comparison vs League Average:
+  points_per_game: 16.070 (1.571 below average)
+  scoring_defense: 10.640 (0.596 below average)
+  scoring_offense: 10.140 (1.174 below average)
+  scoring_margin: -0.500 (2.234 below average)
+  defensive_efficiency: 16.225 (0.522 above average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.860 (0.017 above average)
+  ground_balls_per_game: 30.500 (0.396 below average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 35.331 (3.335 below average)

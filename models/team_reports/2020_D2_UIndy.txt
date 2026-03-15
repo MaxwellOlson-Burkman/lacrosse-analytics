@@ -1,0 +1,17 @@
+Team: UIndy
+Season: 2020 D2
+Record: 2-3
+Winning %: 0.400
+Predicted Winning %: 0.322
+
+Stat Comparison vs League Average:
+  points_per_game: 15.400 (2.241 below average)
+  scoring_defense: 13.000 (1.764 above average)
+  scoring_offense: 10.400 (0.914 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 13.255 (2.448 below average)
+  saves_per_game: 10.600 (1.388 below average)
+  clearing_percentage: 0.873 (0.030 above average)
+  ground_balls_per_game: 27.600 (3.296 below average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 38.951 (0.285 above average)

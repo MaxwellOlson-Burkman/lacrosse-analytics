@@ -1,0 +1,17 @@
+Team: Hampton
+Season: 2022 D1
+Record: 0-10
+Winning %: 0.000
+Predicted Winning %: 0.023
+
+Stat Comparison vs League Average:
+  points_per_game: 6.400 (11.241 below average)
+  scoring_defense: 20.900 (9.664 above average)
+  scoring_offense: 4.700 (6.614 below average)
+  scoring_margin: -16.200 (17.934 below average)
+  defensive_efficiency: 8.160 (7.543 below average)
+  saves_per_game: 18.700 (6.712 above average)
+  clearing_percentage: 0.678 (0.165 below average)
+  ground_balls_per_game: 22.000 (8.896 below average)
+  shot_percentage: 0.215 (0.076 below average)
+  offensive_efficiency: 21.860 (16.806 below average)

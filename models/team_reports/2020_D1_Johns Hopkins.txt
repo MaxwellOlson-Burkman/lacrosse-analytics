@@ -1,0 +1,17 @@
+Team: Johns Hopkins
+Season: 2020 D1
+Record: 2-4
+Winning %: 0.333
+Predicted Winning %: 0.294
+
+Stat Comparison vs League Average:
+  points_per_game: 16.830 (0.811 below average)
+  scoring_defense: 13.170 (1.934 above average)
+  scoring_offense: 10.830 (0.484 below average)
+  scoring_margin: -2.330 (4.064 below average)
+  defensive_efficiency: 12.996 (2.707 below average)
+  saves_per_game: 11.670 (0.318 below average)
+  clearing_percentage: 0.789 (0.054 below average)
+  ground_balls_per_game: 29.170 (1.726 below average)
+  shot_percentage: 0.255 (0.036 below average)
+  offensive_efficiency: 42.471 (3.804 above average)

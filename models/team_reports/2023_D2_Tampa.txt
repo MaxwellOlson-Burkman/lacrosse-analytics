@@ -1,0 +1,17 @@
+Team: Tampa
+Season: 2023 D2
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.801
+
+Stat Comparison vs League Average:
+  points_per_game: 23.650 (6.009 above average)
+  scoring_defense: 8.880 (2.356 below average)
+  scoring_offense: 15.350 (4.036 above average)
+  scoring_margin: 6.470 (4.736 above average)
+  defensive_efficiency: 19.254 (3.551 above average)
+  saves_per_game: 13.180 (1.192 above average)
+  clearing_percentage: 0.929 (0.086 above average)
+  ground_balls_per_game: 36.530 (5.634 above average)
+  shot_percentage: 0.332 (0.041 above average)
+  offensive_efficiency: 46.235 (7.569 above average)

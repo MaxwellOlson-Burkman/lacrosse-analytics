@@ -1,0 +1,17 @@
+Team: Shorter
+Season: 2023 D2
+Record: 3-12
+Winning %: 0.200
+Predicted Winning %: 0.193
+
+Stat Comparison vs League Average:
+  points_per_game: 14.930 (2.711 below average)
+  scoring_defense: 17.870 (6.634 above average)
+  scoring_offense: 10.070 (1.244 below average)
+  scoring_margin: -7.800 (9.534 below average)
+  defensive_efficiency: 10.384 (5.319 below average)
+  saves_per_game: 14.930 (2.942 above average)
+  clearing_percentage: 0.730 (0.113 below average)
+  ground_balls_per_game: 22.670 (8.226 below average)
+  shot_percentage: 0.266 (0.025 below average)
+  offensive_efficiency: 37.857 (0.809 below average)

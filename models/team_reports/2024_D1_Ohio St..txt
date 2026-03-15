@@ -1,0 +1,17 @@
+Team: Ohio St.
+Season: 2024 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.485
+
+Stat Comparison vs League Average:
+  points_per_game: 15.530 (2.111 below average)
+  scoring_defense: 10.130 (1.106 below average)
+  scoring_offense: 10.530 (0.784 below average)
+  scoring_margin: 0.400 (1.334 below average)
+  defensive_efficiency: 16.255 (0.552 above average)
+  saves_per_game: 10.800 (1.188 below average)
+  clearing_percentage: 0.888 (0.045 above average)
+  ground_balls_per_game: 34.000 (3.104 above average)
+  shot_percentage: 0.266 (0.025 below average)
+  offensive_efficiency: 39.586 (0.920 above average)

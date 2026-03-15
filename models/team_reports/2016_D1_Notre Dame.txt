@@ -1,0 +1,17 @@
+Team: Notre Dame
+Season: 2016 D1
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.680
+
+Stat Comparison vs League Average:
+  points_per_game: 16.800 (0.841 below average)
+  scoring_defense: 8.000 (3.236 below average)
+  scoring_offense: 11.000 (0.314 below average)
+  scoring_margin: 3.000 (1.266 above average)
+  defensive_efficiency: 17.819 (2.116 above average)
+  saves_per_game: 10.130 (1.858 below average)
+  clearing_percentage: 0.891 (0.048 above average)
+  ground_balls_per_game: 29.670 (1.226 below average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 37.543 (1.123 below average)

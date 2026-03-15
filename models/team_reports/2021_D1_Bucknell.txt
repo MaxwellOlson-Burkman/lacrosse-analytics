@@ -1,0 +1,17 @@
+Team: Bucknell
+Season: 2021 D1
+Record: 2-6
+Winning %: 0.250
+Predicted Winning %: 0.333
+
+Stat Comparison vs League Average:
+  points_per_game: 16.880 (0.761 below average)
+  scoring_defense: 13.250 (2.014 above average)
+  scoring_offense: 10.380 (0.934 below average)
+  scoring_margin: -2.880 (4.614 below average)
+  defensive_efficiency: 13.640 (2.063 below average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.834 (0.009 below average)
+  ground_balls_per_game: 33.500 (2.604 above average)
+  shot_percentage: 0.245 (0.046 below average)
+  offensive_efficiency: 42.367 (3.701 above average)

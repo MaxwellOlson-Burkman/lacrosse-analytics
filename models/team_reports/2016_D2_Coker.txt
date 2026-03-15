@@ -1,0 +1,17 @@
+Team: Coker
+Season: 2016 D2
+Record: 5-11
+Winning %: 0.313
+Predicted Winning %: 0.296
+
+Stat Comparison vs League Average:
+  points_per_game: 14.380 (3.261 below average)
+  scoring_defense: 13.250 (2.014 above average)
+  scoring_offense: 9.380 (1.934 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 12.763 (2.940 below average)
+  saves_per_game: 9.560 (2.428 below average)
+  clearing_percentage: 0.882 (0.039 above average)
+  ground_balls_per_game: 25.880 (5.016 below average)
+  shot_percentage: 0.295 (0.004 above average)
+  offensive_efficiency: 31.797 (6.870 below average)

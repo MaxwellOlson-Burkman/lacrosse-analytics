@@ -1,0 +1,17 @@
+Team: Furman
+Season: 2015 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.383
+
+Stat Comparison vs League Average:
+  points_per_game: 10.920 (6.721 below average)
+  scoring_defense: 9.230 (2.006 below average)
+  scoring_offense: 7.230 (4.084 below average)
+  scoring_margin: -2.000 (3.734 below average)
+  defensive_efficiency: 18.219 (2.516 above average)
+  saves_per_game: 12.230 (0.242 above average)
+  clearing_percentage: 0.879 (0.036 above average)
+  ground_balls_per_game: 21.690 (9.206 below average)
+  shot_percentage: 0.211 (0.080 below average)
+  offensive_efficiency: 34.265 (4.401 below average)

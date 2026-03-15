@@ -1,0 +1,17 @@
+Team: Bryant
+Season: 2014 D1
+Record: 16-5
+Winning %: 0.762
+Predicted Winning %: 0.683
+
+Stat Comparison vs League Average:
+  points_per_game: 16.330 (1.311 below average)
+  scoring_defense: 7.900 (3.336 below average)
+  scoring_offense: 10.290 (1.024 below average)
+  scoring_margin: 2.380 (0.646 above average)
+  defensive_efficiency: 19.379 (3.676 above average)
+  saves_per_game: 11.430 (0.558 below average)
+  clearing_percentage: 0.860 (0.017 above average)
+  ground_balls_per_game: 34.100 (3.204 above average)
+  shot_percentage: 0.289 (0.002 below average)
+  offensive_efficiency: 35.606 (3.061 below average)

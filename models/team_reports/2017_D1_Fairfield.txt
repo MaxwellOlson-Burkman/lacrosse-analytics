@@ -1,0 +1,17 @@
+Team: Fairfield
+Season: 2017 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.364
+
+Stat Comparison vs League Average:
+  points_per_game: 12.570 (5.071 below average)
+  scoring_defense: 10.360 (0.876 below average)
+  scoring_offense: 8.500 (2.814 below average)
+  scoring_margin: -1.860 (3.594 below average)
+  defensive_efficiency: 16.222 (0.519 above average)
+  saves_per_game: 11.640 (0.348 below average)
+  clearing_percentage: 0.891 (0.048 above average)
+  ground_balls_per_game: 27.210 (3.686 below average)
+  shot_percentage: 0.232 (0.059 below average)
+  offensive_efficiency: 36.638 (2.028 below average)

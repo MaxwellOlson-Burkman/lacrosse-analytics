@@ -1,0 +1,17 @@
+Team: Dartmouth
+Season: 2017 D1
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.169
+
+Stat Comparison vs League Average:
+  points_per_game: 10.850 (6.791 below average)
+  scoring_defense: 12.770 (1.534 above average)
+  scoring_offense: 7.080 (4.234 below average)
+  scoring_margin: -5.690 (7.424 below average)
+  defensive_efficiency: 14.810 (0.893 below average)
+  saves_per_game: 12.850 (0.862 above average)
+  clearing_percentage: 0.872 (0.029 above average)
+  ground_balls_per_game: 29.540 (1.356 below average)
+  shot_percentage: 0.221 (0.070 below average)
+  offensive_efficiency: 32.036 (6.630 below average)

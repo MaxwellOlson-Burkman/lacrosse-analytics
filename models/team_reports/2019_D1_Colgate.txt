@@ -1,0 +1,17 @@
+Team: Colgate
+Season: 2019 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.331
+
+Stat Comparison vs League Average:
+  points_per_game: 14.460 (3.181 below average)
+  scoring_defense: 11.150 (0.086 below average)
+  scoring_offense: 9.080 (2.234 below average)
+  scoring_margin: -2.080 (3.814 below average)
+  defensive_efficiency: 15.179 (0.524 below average)
+  saves_per_game: 10.230 (1.758 below average)
+  clearing_percentage: 0.796 (0.047 below average)
+  ground_balls_per_game: 27.620 (3.276 below average)
+  shot_percentage: 0.249 (0.042 below average)
+  offensive_efficiency: 36.466 (2.200 below average)

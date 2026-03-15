@@ -1,0 +1,17 @@
+Team: Felician
+Season: 2021 D2
+Record: 2-6
+Winning %: 0.250
+Predicted Winning %: 0.260
+
+Stat Comparison vs League Average:
+  points_per_game: 10.500 (7.141 below average)
+  scoring_defense: 12.630 (1.394 above average)
+  scoring_offense: 8.000 (3.314 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 15.129 (0.574 below average)
+  saves_per_game: 15.380 (3.392 above average)
+  clearing_percentage: 0.739 (0.104 below average)
+  ground_balls_per_game: 35.880 (4.984 above average)
+  shot_percentage: 0.231 (0.060 below average)
+  offensive_efficiency: 34.632 (4.034 below average)

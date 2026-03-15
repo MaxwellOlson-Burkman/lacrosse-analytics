@@ -1,0 +1,17 @@
+Team: Limestone
+Season: 2014 D2
+Record: 19-1
+Winning %: 0.950
+Predicted Winning %: 0.928
+
+Stat Comparison vs League Average:
+  points_per_game: 22.600 (4.959 above average)
+  scoring_defense: 6.450 (4.786 below average)
+  scoring_offense: 14.800 (3.486 above average)
+  scoring_margin: 8.350 (6.616 above average)
+  defensive_efficiency: 21.197 (5.494 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.904 (0.061 above average)
+  ground_balls_per_game: 40.850 (9.954 above average)
+  shot_percentage: 0.370 (0.079 above average)
+  offensive_efficiency: 40.000 (1.334 above average)

@@ -1,0 +1,17 @@
+Team: Brown
+Season: 2016 D1
+Record: 16-3
+Winning %: 0.842
+Predicted Winning %: 0.864
+
+Stat Comparison vs League Average:
+  points_per_game: 26.890 (9.249 above average)
+  scoring_defense: 9.000 (2.236 below average)
+  scoring_offense: 16.320 (5.006 above average)
+  scoring_margin: 7.320 (5.586 above average)
+  defensive_efficiency: 18.037 (2.334 above average)
+  saves_per_game: 12.790 (0.802 above average)
+  clearing_percentage: 0.876 (0.033 above average)
+  ground_balls_per_game: 39.790 (8.894 above average)
+  shot_percentage: 0.361 (0.070 above average)
+  offensive_efficiency: 45.208 (6.542 above average)

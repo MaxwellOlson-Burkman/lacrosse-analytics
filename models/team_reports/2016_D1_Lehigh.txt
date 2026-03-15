@@ -1,0 +1,17 @@
+Team: Lehigh
+Season: 2016 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.456
+
+Stat Comparison vs League Average:
+  points_per_game: 16.330 (1.311 below average)
+  scoring_defense: 10.870 (0.366 below average)
+  scoring_offense: 10.270 (1.044 below average)
+  scoring_margin: -0.600 (2.334 below average)
+  defensive_efficiency: 15.589 (0.114 below average)
+  saves_per_game: 10.330 (1.658 below average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 27.800 (3.096 below average)
+  shot_percentage: 0.319 (0.028 above average)
+  offensive_efficiency: 32.194 (6.472 below average)

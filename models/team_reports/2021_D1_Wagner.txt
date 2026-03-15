@@ -1,0 +1,17 @@
+Team: Wagner
+Season: 2021 D1
+Record: 0-9
+Winning %: 0.000
+Predicted Winning %: 0.066
+
+Stat Comparison vs League Average:
+  points_per_game: 11.440 (6.201 below average)
+  scoring_defense: 16.000 (4.764 above average)
+  scoring_offense: 7.000 (4.314 below average)
+  scoring_margin: -9.000 (10.734 below average)
+  defensive_efficiency: 11.911 (3.792 below average)
+  saves_per_game: 16.220 (4.232 above average)
+  clearing_percentage: 0.796 (0.047 below average)
+  ground_balls_per_game: 26.890 (4.006 below average)
+  shot_percentage: 0.230 (0.061 below average)
+  offensive_efficiency: 30.435 (8.231 below average)

@@ -1,0 +1,17 @@
+Team: Rollins
+Season: 2018 D2
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.511
+
+Stat Comparison vs League Average:
+  points_per_game: 15.640 (2.001 below average)
+  scoring_defense: 9.790 (1.446 below average)
+  scoring_offense: 10.210 (1.104 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 15.898 (0.195 above average)
+  saves_per_game: 8.710 (3.278 below average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 33.210 (2.314 above average)
+  shot_percentage: 0.266 (0.025 below average)
+  offensive_efficiency: 38.383 (0.283 below average)

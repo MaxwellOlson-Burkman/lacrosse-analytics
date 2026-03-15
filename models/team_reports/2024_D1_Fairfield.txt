@@ -1,0 +1,17 @@
+Team: Fairfield
+Season: 2024 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.494
+
+Stat Comparison vs League Average:
+  points_per_game: 18.070 (0.429 above average)
+  scoring_defense: 11.600 (0.364 above average)
+  scoring_offense: 11.270 (0.044 below average)
+  scoring_margin: -0.330 (2.064 below average)
+  defensive_efficiency: 14.826 (0.877 below average)
+  saves_per_game: 10.070 (1.918 below average)
+  clearing_percentage: 0.924 (0.081 above average)
+  ground_balls_per_game: 30.730 (0.166 below average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 40.540 (1.873 above average)

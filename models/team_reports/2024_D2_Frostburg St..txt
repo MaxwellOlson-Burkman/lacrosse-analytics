@@ -1,0 +1,17 @@
+Team: Frostburg St.
+Season: 2024 D2
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.796
+
+Stat Comparison vs League Average:
+  points_per_game: 26.060 (8.419 above average)
+  scoring_defense: 9.410 (1.826 below average)
+  scoring_offense: 16.060 (4.746 above average)
+  scoring_margin: 6.650 (4.916 above average)
+  defensive_efficiency: 16.926 (1.223 above average)
+  saves_per_game: 8.820 (3.168 below average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 39.240 (8.344 above average)
+  shot_percentage: 0.317 (0.026 above average)
+  offensive_efficiency: 50.662 (11.996 above average)

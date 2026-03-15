@@ -1,0 +1,17 @@
+Team: Saint Michael's
+Season: 2022 D2
+Record: 3-12
+Winning %: 0.200
+Predicted Winning %: 0.268
+
+Stat Comparison vs League Average:
+  points_per_game: 14.800 (2.841 below average)
+  scoring_defense: 13.270 (2.034 above average)
+  scoring_offense: 9.400 (1.914 below average)
+  scoring_margin: -3.870 (5.604 below average)
+  defensive_efficiency: 15.019 (0.684 below average)
+  saves_per_game: 16.930 (4.942 above average)
+  clearing_percentage: 0.777 (0.066 below average)
+  ground_balls_per_game: 28.670 (2.226 below average)
+  shot_percentage: 0.244 (0.047 below average)
+  offensive_efficiency: 38.525 (0.142 below average)

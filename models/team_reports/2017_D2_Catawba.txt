@@ -1,0 +1,17 @@
+Team: Catawba
+Season: 2017 D2
+Record: 8-8
+Winning %: 0.500
+Predicted Winning %: 0.446
+
+Stat Comparison vs League Average:
+  points_per_game: 15.000 (2.641 below average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 10.250 (1.064 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 16.627 (0.924 above average)
+  saves_per_game: 13.190 (1.202 above average)
+  clearing_percentage: 0.887 (0.044 above average)
+  ground_balls_per_game: 28.060 (2.836 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 36.477 (2.189 below average)

@@ -1,0 +1,17 @@
+Team: Rollins
+Season: 2015 D2
+Record: 6-10
+Winning %: 0.375
+Predicted Winning %: 0.387
+
+Stat Comparison vs League Average:
+  points_per_game: 13.440 (4.201 below average)
+  scoring_defense: 10.250 (0.986 below average)
+  scoring_offense: 8.810 (2.504 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 16.535 (0.832 above average)
+  saves_per_game: 11.750 (0.238 below average)
+  clearing_percentage: 0.857 (0.014 above average)
+  ground_balls_per_game: 29.060 (1.836 below average)
+  shot_percentage: 0.255 (0.036 below average)
+  offensive_efficiency: 34.549 (4.117 below average)

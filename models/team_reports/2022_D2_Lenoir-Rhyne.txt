@@ -1,0 +1,17 @@
+Team: Lenoir-Rhyne
+Season: 2022 D2
+Record: 15-4
+Winning %: 0.789
+Predicted Winning %: 0.747
+
+Stat Comparison vs League Average:
+  points_per_game: 22.890 (5.249 above average)
+  scoring_defense: 8.790 (2.446 below average)
+  scoring_offense: 14.420 (3.106 above average)
+  scoring_margin: 5.630 (3.896 above average)
+  defensive_efficiency: 17.973 (2.270 above average)
+  saves_per_game: 11.160 (0.828 below average)
+  clearing_percentage: 0.890 (0.047 above average)
+  ground_balls_per_game: 33.320 (2.424 above average)
+  shot_percentage: 0.312 (0.021 above average)
+  offensive_efficiency: 46.218 (7.552 above average)

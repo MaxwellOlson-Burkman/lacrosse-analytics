@@ -1,0 +1,17 @@
+Team: Lenoir-Rhyne
+Season: 2021 D2
+Record: 15-2
+Winning %: 0.882
+Predicted Winning %: 0.836
+
+Stat Comparison vs League Average:
+  points_per_game: 28.120 (10.479 above average)
+  scoring_defense: 10.120 (1.116 below average)
+  scoring_offense: 17.820 (6.506 above average)
+  scoring_margin: 7.710 (5.976 above average)
+  defensive_efficiency: 16.963 (1.260 above average)
+  saves_per_game: 11.060 (0.928 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 38.290 (7.394 above average)
+  shot_percentage: 0.355 (0.064 above average)
+  offensive_efficiency: 50.197 (11.531 above average)

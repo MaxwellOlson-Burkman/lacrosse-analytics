@@ -1,0 +1,17 @@
+Team: Colorado Mesa
+Season: 2022 D2
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.791
+
+Stat Comparison vs League Average:
+  points_per_game: 24.830 (7.189 above average)
+  scoring_defense: 9.390 (1.846 below average)
+  scoring_offense: 15.440 (4.126 above average)
+  scoring_margin: 6.060 (4.326 above average)
+  defensive_efficiency: 16.526 (0.823 above average)
+  saves_per_game: 8.170 (3.818 below average)
+  clearing_percentage: 0.874 (0.031 above average)
+  ground_balls_per_game: 41.170 (10.274 above average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 54.558 (15.892 above average)

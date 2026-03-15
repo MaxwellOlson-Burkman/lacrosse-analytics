@@ -1,0 +1,17 @@
+Team: Richmond
+Season: 2024 D1
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.713
+
+Stat Comparison vs League Average:
+  points_per_game: 21.310 (3.669 above average)
+  scoring_defense: 9.380 (1.856 below average)
+  scoring_offense: 13.630 (2.316 above average)
+  scoring_margin: 4.250 (2.516 above average)
+  defensive_efficiency: 17.684 (1.981 above average)
+  saves_per_game: 11.130 (0.858 below average)
+  clearing_percentage: 0.877 (0.034 above average)
+  ground_balls_per_game: 33.190 (2.294 above average)
+  shot_percentage: 0.325 (0.034 above average)
+  offensive_efficiency: 41.938 (3.272 above average)

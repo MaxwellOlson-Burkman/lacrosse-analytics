@@ -1,0 +1,17 @@
+Team: NJIT
+Season: 2019 D1
+Record: 2-13
+Winning %: 0.133
+Predicted Winning %: 0.169
+
+Stat Comparison vs League Average:
+  points_per_game: 15.600 (2.041 below average)
+  scoring_defense: 15.000 (3.764 above average)
+  scoring_offense: 10.200 (1.114 below average)
+  scoring_margin: -4.800 (6.534 below average)
+  defensive_efficiency: 12.341 (3.362 below average)
+  saves_per_game: 14.670 (2.682 above average)
+  clearing_percentage: 0.818 (0.025 below average)
+  ground_balls_per_game: 29.330 (1.566 below average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 37.500 (1.166 below average)

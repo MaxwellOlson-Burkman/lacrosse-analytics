@@ -1,0 +1,17 @@
+Team: Mercyhurst
+Season: 2019 D2
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.756
+
+Stat Comparison vs League Average:
+  points_per_game: 24.410 (6.769 above average)
+  scoring_defense: 9.120 (2.116 below average)
+  scoring_offense: 15.240 (3.926 above average)
+  scoring_margin: 6.120 (4.386 above average)
+  defensive_efficiency: 17.192 (1.489 above average)
+  saves_per_game: 9.590 (2.398 below average)
+  clearing_percentage: 0.893 (0.050 above average)
+  ground_balls_per_game: 35.120 (4.224 above average)
+  shot_percentage: 0.333 (0.042 above average)
+  offensive_efficiency: 45.766 (7.100 above average)

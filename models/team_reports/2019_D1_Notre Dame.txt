@@ -1,0 +1,17 @@
+Team: Notre Dame
+Season: 2019 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.541
+
+Stat Comparison vs League Average:
+  points_per_game: 16.880 (0.761 below average)
+  scoring_defense: 10.130 (1.106 below average)
+  scoring_offense: 11.500 (0.186 above average)
+  scoring_margin: 1.380 (0.354 below average)
+  defensive_efficiency: 16.130 (0.427 above average)
+  saves_per_game: 10.000 (1.988 below average)
+  clearing_percentage: 0.871 (0.028 above average)
+  ground_balls_per_game: 29.880 (1.016 below average)
+  shot_percentage: 0.303 (0.012 above average)
+  offensive_efficiency: 37.954 (0.712 below average)

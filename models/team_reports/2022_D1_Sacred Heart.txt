@@ -1,0 +1,17 @@
+Team: Sacred Heart
+Season: 2022 D1
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.256
+
+Stat Comparison vs League Average:
+  points_per_game: 17.000 (0.641 below average)
+  scoring_defense: 14.620 (3.384 above average)
+  scoring_offense: 10.540 (0.774 below average)
+  scoring_margin: -4.080 (5.814 below average)
+  defensive_efficiency: 12.370 (3.333 below average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 27.000 (3.896 below average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 36.597 (2.069 below average)

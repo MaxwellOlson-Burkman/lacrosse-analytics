@@ -1,0 +1,17 @@
+Team: Fairfield
+Season: 2022 D1
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.525
+
+Stat Comparison vs League Average:
+  points_per_game: 21.140 (3.499 above average)
+  scoring_defense: 13.360 (2.124 above average)
+  scoring_offense: 13.790 (2.476 above average)
+  scoring_margin: 0.430 (1.304 below average)
+  defensive_efficiency: 13.732 (1.971 below average)
+  saves_per_game: 12.640 (0.652 above average)
+  clearing_percentage: 0.906 (0.063 above average)
+  ground_balls_per_game: 34.360 (3.464 above average)
+  shot_percentage: 0.311 (0.020 above average)
+  offensive_efficiency: 44.341 (5.675 above average)

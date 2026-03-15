@@ -1,0 +1,17 @@
+Team: Shorter
+Season: 2022 D2
+Record: 3-14
+Winning %: 0.176
+Predicted Winning %: 0.107
+
+Stat Comparison vs League Average:
+  points_per_game: 11.820 (5.821 below average)
+  scoring_defense: 18.180 (6.944 above average)
+  scoring_offense: 7.760 (3.554 below average)
+  scoring_margin: -10.410 (12.144 below average)
+  defensive_efficiency: 8.567 (7.136 below average)
+  saves_per_game: 16.240 (4.252 above average)
+  clearing_percentage: 0.767 (0.076 below average)
+  ground_balls_per_game: 22.710 (8.186 below average)
+  shot_percentage: 0.238 (0.053 below average)
+  offensive_efficiency: 32.605 (6.061 below average)

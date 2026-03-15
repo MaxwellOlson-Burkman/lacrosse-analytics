@@ -1,0 +1,17 @@
+Team: Tusculum
+Season: 2016 D2
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.396
+
+Stat Comparison vs League Average:
+  points_per_game: 14.800 (2.841 below average)
+  scoring_defense: 10.870 (0.366 below average)
+  scoring_offense: 9.870 (1.444 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.484 (0.781 above average)
+  saves_per_game: 12.530 (0.542 above average)
+  clearing_percentage: 0.810 (0.033 below average)
+  ground_balls_per_game: 24.130 (6.766 below average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 31.234 (7.432 below average)

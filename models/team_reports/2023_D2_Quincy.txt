@@ -1,0 +1,17 @@
+Team: Quincy
+Season: 2023 D2
+Record: 8-9
+Winning %: 0.471
+Predicted Winning %: 0.481
+
+Stat Comparison vs League Average:
+  points_per_game: 19.470 (1.829 above average)
+  scoring_defense: 12.290 (1.054 above average)
+  scoring_offense: 12.240 (0.926 above average)
+  scoring_margin: -0.060 (1.794 below average)
+  defensive_efficiency: 16.367 (0.664 above average)
+  saves_per_game: 14.940 (2.952 above average)
+  clearing_percentage: 0.880 (0.037 above average)
+  ground_balls_per_game: 34.000 (3.104 above average)
+  shot_percentage: 0.291 (0.000 above average)
+  offensive_efficiency: 42.062 (3.396 above average)

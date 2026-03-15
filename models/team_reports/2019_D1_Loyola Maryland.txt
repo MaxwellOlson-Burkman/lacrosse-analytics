@@ -1,0 +1,17 @@
+Team: Loyola Maryland
+Season: 2019 D1
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.660
+
+Stat Comparison vs League Average:
+  points_per_game: 22.650 (5.009 above average)
+  scoring_defense: 10.650 (0.586 below average)
+  scoring_offense: 14.060 (2.746 above average)
+  scoring_margin: 3.410 (1.676 above average)
+  defensive_efficiency: 17.706 (2.003 above average)
+  saves_per_game: 15.120 (3.132 above average)
+  clearing_percentage: 0.833 (0.010 below average)
+  ground_balls_per_game: 34.120 (3.224 above average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 41.970 (3.304 above average)

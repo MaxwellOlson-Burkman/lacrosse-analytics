@@ -1,0 +1,17 @@
+Team: Emmanuel (GA)
+Season: 2017 D2
+Record: 1-12
+Winning %: 0.077
+Predicted Winning %: 0.310
+
+Stat Comparison vs League Average:
+  points_per_game: 16.700 (0.941 below average)
+  scoring_defense: 9.875 (1.361 below average)
+  scoring_offense: 10.905 (0.409 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 17.434 (1.731 above average)
+  saves_per_game: 12.380 (0.392 above average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 29.810 (1.086 below average)
+  shot_percentage: 0.288 (0.002 below average)
+  offensive_efficiency: 37.799 (0.867 below average)

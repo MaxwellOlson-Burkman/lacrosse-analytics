@@ -1,0 +1,17 @@
+Team: Dist. Columbia
+Season: 2016 D2
+Record: 4-8
+Winning %: 0.333
+Predicted Winning %: 0.322
+
+Stat Comparison vs League Average:
+  points_per_game: 13.830 (3.811 below average)
+  scoring_defense: 13.250 (2.014 above average)
+  scoring_offense: 10.250 (1.064 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 13.796 (1.907 below average)
+  saves_per_game: 12.670 (0.682 above average)
+  clearing_percentage: 0.815 (0.028 below average)
+  ground_balls_per_game: 35.250 (4.354 above average)
+  shot_percentage: 0.239 (0.052 below average)
+  offensive_efficiency: 42.887 (4.221 above average)

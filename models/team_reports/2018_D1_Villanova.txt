@@ -1,0 +1,17 @@
+Team: Villanova
+Season: 2018 D1
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.497
+
+Stat Comparison vs League Average:
+  points_per_game: 16.500 (1.141 below average)
+  scoring_defense: 11.380 (0.144 above average)
+  scoring_offense: 10.750 (0.564 below average)
+  scoring_margin: -0.630 (2.364 below average)
+  defensive_efficiency: 14.333 (1.370 below average)
+  saves_per_game: 9.560 (2.428 below average)
+  clearing_percentage: 0.900 (0.057 above average)
+  ground_balls_per_game: 25.130 (5.766 below average)
+  shot_percentage: 0.269 (0.022 below average)
+  offensive_efficiency: 39.963 (1.297 above average)

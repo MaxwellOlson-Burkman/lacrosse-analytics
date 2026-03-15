@@ -1,0 +1,17 @@
+Team: Roberts Wesleyan
+Season: 2021 D2
+Record: 7-5
+Winning %: 0.583
+Predicted Winning %: 0.724
+
+Stat Comparison vs League Average:
+  points_per_game: 23.500 (5.859 above average)
+  scoring_defense: 8.250 (2.986 below average)
+  scoring_offense: 14.830 (3.516 above average)
+  scoring_margin: 6.580 (4.846 above average)
+  defensive_efficiency: 19.240 (3.537 above average)
+  saves_per_game: 11.500 (0.488 below average)
+  clearing_percentage: 0.823 (0.020 below average)
+  ground_balls_per_game: 32.670 (1.774 above average)
+  shot_percentage: 0.365 (0.074 above average)
+  offensive_efficiency: 40.630 (1.964 above average)

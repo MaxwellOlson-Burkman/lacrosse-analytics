@@ -1,0 +1,17 @@
+Team: Denver
+Season: 2019 D1
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.642
+
+Stat Comparison vs League Average:
+  points_per_game: 18.930 (1.289 above average)
+  scoring_defense: 9.330 (1.906 below average)
+  scoring_offense: 12.070 (0.756 above average)
+  scoring_margin: 2.730 (0.996 above average)
+  defensive_efficiency: 16.605 (0.902 above average)
+  saves_per_game: 8.400 (3.588 below average)
+  clearing_percentage: 0.825 (0.018 below average)
+  ground_balls_per_game: 33.130 (2.234 above average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 42.650 (3.984 above average)

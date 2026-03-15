@@ -1,0 +1,17 @@
+Team: Post
+Season: 2020 D2
+Record: 1-6
+Winning %: 0.143
+Predicted Winning %: 0.213
+
+Stat Comparison vs League Average:
+  points_per_game: 13.860 (3.781 below average)
+  scoring_defense: 14.860 (3.624 above average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 13.547 (2.156 below average)
+  saves_per_game: 14.140 (2.152 above average)
+  clearing_percentage: 0.794 (0.049 below average)
+  ground_balls_per_game: 29.860 (1.036 below average)
+  shot_percentage: 0.276 (0.015 below average)
+  offensive_efficiency: 32.609 (6.057 below average)

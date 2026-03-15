@@ -1,0 +1,17 @@
+Team: Hobart
+Season: 2015 D1
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.458
+
+Stat Comparison vs League Average:
+  points_per_game: 12.140 (5.501 below average)
+  scoring_defense: 9.360 (1.876 below average)
+  scoring_offense: 8.430 (2.884 below average)
+  scoring_margin: -0.930 (2.664 below average)
+  defensive_efficiency: 17.791 (2.088 above average)
+  saves_per_game: 12.070 (0.082 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 22.290 (8.606 below average)
+  shot_percentage: 0.268 (0.023 below average)
+  offensive_efficiency: 31.455 (7.211 below average)

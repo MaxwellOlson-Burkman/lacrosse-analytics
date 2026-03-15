@@ -1,0 +1,17 @@
+Team: Virginia
+Season: 2018 D1
+Record: 12-6
+Winning %: 0.667
+Predicted Winning %: 0.624
+
+Stat Comparison vs League Average:
+  points_per_game: 20.330 (2.689 above average)
+  scoring_defense: 11.440 (0.204 above average)
+  scoring_offense: 12.610 (1.296 above average)
+  scoring_margin: 1.170 (0.564 below average)
+  defensive_efficiency: 15.123 (0.580 below average)
+  saves_per_game: 10.610 (1.378 below average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 38.000 (7.104 above average)
+  shot_percentage: 0.321 (0.030 above average)
+  offensive_efficiency: 39.283 (0.617 above average)

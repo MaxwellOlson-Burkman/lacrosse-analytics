@@ -1,0 +1,17 @@
+Team: Lehigh
+Season: 2019 D1
+Record: 9-8
+Winning %: 0.529
+Predicted Winning %: 0.627
+
+Stat Comparison vs League Average:
+  points_per_game: 17.240 (0.401 below average)
+  scoring_defense: 9.470 (1.766 below average)
+  scoring_offense: 10.650 (0.664 below average)
+  scoring_margin: 1.180 (0.554 below average)
+  defensive_efficiency: 17.707 (2.004 above average)
+  saves_per_game: 11.290 (0.698 below average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 40.410 (9.514 above average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 39.888 (1.222 above average)

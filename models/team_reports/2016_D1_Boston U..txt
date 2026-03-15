@@ -1,0 +1,17 @@
+Team: Boston U.
+Season: 2016 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.446
+
+Stat Comparison vs League Average:
+  points_per_game: 14.870 (2.771 below average)
+  scoring_defense: 9.870 (1.366 below average)
+  scoring_offense: 9.330 (1.984 below average)
+  scoring_margin: -0.530 (2.264 below average)
+  defensive_efficiency: 16.851 (1.148 above average)
+  saves_per_game: 10.870 (1.118 below average)
+  clearing_percentage: 0.802 (0.041 below average)
+  ground_balls_per_game: 32.330 (1.434 above average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 33.203 (5.463 below average)

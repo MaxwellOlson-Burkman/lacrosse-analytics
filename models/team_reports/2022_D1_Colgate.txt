@@ -1,0 +1,17 @@
+Team: Colgate
+Season: 2022 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.344
+
+Stat Comparison vs League Average:
+  points_per_game: 14.230 (3.411 below average)
+  scoring_defense: 11.620 (0.384 above average)
+  scoring_offense: 9.620 (1.694 below average)
+  scoring_margin: -2.000 (3.734 below average)
+  defensive_efficiency: 15.765 (0.062 above average)
+  saves_per_game: 13.150 (1.162 above average)
+  clearing_percentage: 0.816 (0.027 below average)
+  ground_balls_per_game: 25.850 (5.046 below average)
+  shot_percentage: 0.254 (0.037 below average)
+  offensive_efficiency: 37.874 (0.792 below average)

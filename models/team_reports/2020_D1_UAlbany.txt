@@ -1,0 +1,17 @@
+Team: UAlbany
+Season: 2020 D1
+Record: 2-3
+Winning %: 0.400
+Predicted Winning %: 0.408
+
+Stat Comparison vs League Average:
+  points_per_game: 22.800 (5.159 above average)
+  scoring_defense: 15.400 (4.164 above average)
+  scoring_offense: 12.800 (1.486 above average)
+  scoring_margin: -2.600 (4.334 below average)
+  defensive_efficiency: 11.215 (4.488 below average)
+  saves_per_game: 11.800 (0.188 below average)
+  clearing_percentage: 0.847 (0.004 above average)
+  ground_balls_per_game: 31.600 (0.704 above average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 37.647 (1.019 below average)

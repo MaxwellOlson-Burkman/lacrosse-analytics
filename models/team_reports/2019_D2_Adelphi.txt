@@ -1,0 +1,17 @@
+Team: Adelphi
+Season: 2019 D2
+Record: 16-3
+Winning %: 0.842
+Predicted Winning %: 0.788
+
+Stat Comparison vs League Average:
+  points_per_game: 22.840 (5.199 above average)
+  scoring_defense: 8.580 (2.656 below average)
+  scoring_offense: 15.050 (3.736 above average)
+  scoring_margin: 6.470 (4.736 above average)
+  defensive_efficiency: 18.683 (2.980 above average)
+  saves_per_game: 12.210 (0.222 above average)
+  clearing_percentage: 0.823 (0.020 below average)
+  ground_balls_per_game: 36.000 (5.104 above average)
+  shot_percentage: 0.345 (0.054 above average)
+  offensive_efficiency: 43.623 (4.957 above average)

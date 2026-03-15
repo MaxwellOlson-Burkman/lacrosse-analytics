@@ -1,0 +1,17 @@
+Team: Boston U.
+Season: 2024 D1
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.610
+
+Stat Comparison vs League Average:
+  points_per_game: 21.880 (4.239 above average)
+  scoring_defense: 11.410 (0.174 above average)
+  scoring_offense: 13.180 (1.866 above average)
+  scoring_margin: 1.760 (0.026 above average)
+  defensive_efficiency: 15.567 (0.136 below average)
+  saves_per_game: 13.590 (1.602 above average)
+  clearing_percentage: 0.809 (0.034 below average)
+  ground_balls_per_game: 34.650 (3.754 above average)
+  shot_percentage: 0.306 (0.015 above average)
+  offensive_efficiency: 43.072 (4.406 above average)

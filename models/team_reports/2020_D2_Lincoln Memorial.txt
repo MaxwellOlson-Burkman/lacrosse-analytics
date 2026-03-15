@@ -1,0 +1,17 @@
+Team: Lincoln Memorial
+Season: 2020 D2
+Record: 2-4
+Winning %: 0.333
+Predicted Winning %: 0.288
+
+Stat Comparison vs League Average:
+  points_per_game: 16.500 (1.141 below average)
+  scoring_defense: 13.830 (2.594 above average)
+  scoring_offense: 10.330 (0.984 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 13.705 (1.998 below average)
+  saves_per_game: 15.000 (3.012 above average)
+  clearing_percentage: 0.788 (0.055 below average)
+  ground_balls_per_game: 31.170 (0.274 above average)
+  shot_percentage: 0.337 (0.046 above average)
+  offensive_efficiency: 30.653 (8.013 below average)

@@ -1,0 +1,17 @@
+Team: Jacksonville
+Season: 2015 D1
+Record: 4-8
+Winning %: 0.333
+Predicted Winning %: 0.308
+
+Stat Comparison vs League Average:
+  points_per_game: 14.920 (2.721 below average)
+  scoring_defense: 12.330 (1.094 above average)
+  scoring_offense: 9.080 (2.234 below average)
+  scoring_margin: -3.250 (4.984 below average)
+  defensive_efficiency: 14.710 (0.993 below average)
+  saves_per_game: 13.250 (1.262 above average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 26.580 (4.316 below average)
+  shot_percentage: 0.274 (0.017 below average)
+  offensive_efficiency: 33.139 (5.527 below average)

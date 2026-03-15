@@ -1,0 +1,17 @@
+Team: Adams St.
+Season: 2021 D2
+Record: 0-8
+Winning %: 0.000
+Predicted Winning %: 0.051
+
+Stat Comparison vs League Average:
+  points_per_game: 8.000 (9.641 below average)
+  scoring_defense: 16.880 (5.644 above average)
+  scoring_offense: 5.380 (5.934 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 11.464 (4.239 below average)
+  saves_per_game: 16.880 (4.892 above average)
+  clearing_percentage: 0.733 (0.110 below average)
+  ground_balls_per_game: 27.880 (3.016 below average)
+  shot_percentage: 0.222 (0.069 below average)
+  offensive_efficiency: 24.234 (14.432 below average)

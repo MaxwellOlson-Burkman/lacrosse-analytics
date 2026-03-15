@@ -1,0 +1,17 @@
+Team: Mount Olive
+Season: 2021 D2
+Record: 11-3
+Winning %: 0.786
+Predicted Winning %: 0.659
+
+Stat Comparison vs League Average:
+  points_per_game: 18.640 (0.999 above average)
+  scoring_defense: 8.790 (2.446 below average)
+  scoring_offense: 12.000 (0.686 above average)
+  scoring_margin: 3.210 (1.476 above average)
+  defensive_efficiency: 18.057 (2.354 above average)
+  saves_per_game: 9.790 (2.198 below average)
+  clearing_percentage: 0.880 (0.037 above average)
+  ground_balls_per_game: 28.860 (2.036 below average)
+  shot_percentage: 0.309 (0.018 above average)
+  offensive_efficiency: 38.835 (0.169 above average)

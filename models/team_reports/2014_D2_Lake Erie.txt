@@ -1,0 +1,17 @@
+Team: Lake Erie
+Season: 2014 D2
+Record: 10-4
+Winning %: 0.714
+Predicted Winning %: 0.725
+
+Stat Comparison vs League Average:
+  points_per_game: 19.710 (2.069 above average)
+  scoring_defense: 7.570 (3.666 below average)
+  scoring_offense: 12.570 (1.256 above average)
+  scoring_margin: 5.000 (3.266 above average)
+  defensive_efficiency: 19.802 (4.099 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.902 (0.059 above average)
+  ground_balls_per_game: 30.140 (0.756 below average)
+  shot_percentage: 0.280 (0.011 below average)
+  offensive_efficiency: 44.893 (6.227 above average)

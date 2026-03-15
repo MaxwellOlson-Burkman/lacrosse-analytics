@@ -1,0 +1,17 @@
+Team: Notre Dame
+Season: 2017 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.548
+
+Stat Comparison vs League Average:
+  points_per_game: 15.800 (1.841 below average)
+  scoring_defense: 9.800 (1.436 below average)
+  scoring_offense: 10.530 (0.784 below average)
+  scoring_margin: 0.730 (1.004 below average)
+  defensive_efficiency: 16.031 (0.328 above average)
+  saves_per_game: 10.270 (1.718 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 26.330 (4.566 below average)
+  shot_percentage: 0.319 (0.028 above average)
+  offensive_efficiency: 33.009 (5.657 below average)

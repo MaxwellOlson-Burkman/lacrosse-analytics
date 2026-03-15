@@ -1,0 +1,17 @@
+Team: Saint Joseph's
+Season: 2014 D1
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.670
+
+Stat Comparison vs League Average:
+  points_per_game: 16.130 (1.511 below average)
+  scoring_defense: 8.200 (3.036 below average)
+  scoring_offense: 11.130 (0.184 below average)
+  scoring_margin: 2.930 (1.196 above average)
+  defensive_efficiency: 18.786 (3.083 above average)
+  saves_per_game: 10.070 (1.918 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 28.470 (2.426 below average)
+  shot_percentage: 0.295 (0.004 above average)
+  offensive_efficiency: 37.729 (0.937 below average)

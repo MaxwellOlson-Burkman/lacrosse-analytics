@@ -1,0 +1,17 @@
+Team: Harvard
+Season: 2015 D1
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.436
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 12.290 (1.054 above average)
+  scoring_offense: 12.290 (0.976 above average)
+  scoring_margin: 0.000 (1.734 below average)
+  defensive_efficiency: 14.818 (0.885 below average)
+  saves_per_game: 13.210 (1.222 above average)
+  clearing_percentage: 0.836 (0.007 below average)
+  ground_balls_per_game: 30.930 (0.034 above average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 38.892 (0.226 above average)

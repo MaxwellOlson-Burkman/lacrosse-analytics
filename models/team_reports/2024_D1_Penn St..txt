@@ -1,0 +1,17 @@
+Team: Penn St.
+Season: 2024 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.675
+
+Stat Comparison vs League Average:
+  points_per_game: 20.630 (2.989 above average)
+  scoring_defense: 9.940 (1.296 below average)
+  scoring_offense: 13.190 (1.876 above average)
+  scoring_margin: 3.250 (1.516 above average)
+  defensive_efficiency: 17.397 (1.694 above average)
+  saves_per_game: 13.190 (1.202 above average)
+  clearing_percentage: 0.885 (0.042 above average)
+  ground_balls_per_game: 31.310 (0.414 above average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 41.873 (3.207 above average)

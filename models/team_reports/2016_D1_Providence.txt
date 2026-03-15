@@ -1,0 +1,17 @@
+Team: Providence
+Season: 2016 D1
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.407
+
+Stat Comparison vs League Average:
+  points_per_game: 14.940 (2.701 below average)
+  scoring_defense: 10.810 (0.426 below average)
+  scoring_offense: 9.750 (1.564 below average)
+  scoring_margin: -1.060 (2.794 below average)
+  defensive_efficiency: 15.850 (0.147 above average)
+  saves_per_game: 11.750 (0.238 below average)
+  clearing_percentage: 0.840 (0.003 below average)
+  ground_balls_per_game: 26.130 (4.766 below average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 32.828 (5.838 below average)

@@ -1,0 +1,17 @@
+Team: Molloy
+Season: 2016 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.641
+
+Stat Comparison vs League Average:
+  points_per_game: 19.200 (1.559 above average)
+  scoring_defense: 9.330 (1.906 below average)
+  scoring_offense: 12.070 (0.756 above average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 17.250 (1.547 above average)
+  saves_per_game: 10.400 (1.588 below average)
+  clearing_percentage: 0.830 (0.013 below average)
+  ground_balls_per_game: 28.670 (2.226 below average)
+  shot_percentage: 0.307 (0.016 above average)
+  offensive_efficiency: 39.316 (0.650 above average)

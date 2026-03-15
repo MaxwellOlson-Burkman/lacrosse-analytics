@@ -1,0 +1,17 @@
+Team: Mount Olive
+Season: 2014 D2
+Record: 13-3
+Winning %: 0.813
+Predicted Winning %: 0.817
+
+Stat Comparison vs League Average:
+  points_per_game: 23.190 (5.549 above average)
+  scoring_defense: 7.630 (3.606 below average)
+  scoring_offense: 14.000 (2.686 above average)
+  scoring_margin: 6.380 (4.646 above average)
+  defensive_efficiency: 20.340 (4.637 above average)
+  saves_per_game: 12.750 (0.762 above average)
+  clearing_percentage: 0.892 (0.049 above average)
+  ground_balls_per_game: 30.130 (0.766 below average)
+  shot_percentage: 0.363 (0.072 above average)
+  offensive_efficiency: 38.567 (0.099 below average)

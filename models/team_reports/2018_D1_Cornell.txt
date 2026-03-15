@@ -1,0 +1,17 @@
+Team: Cornell
+Season: 2018 D1
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.758
+
+Stat Comparison vs League Average:
+  points_per_game: 23.110 (5.469 above average)
+  scoring_defense: 9.220 (2.016 below average)
+  scoring_offense: 13.560 (2.246 above average)
+  scoring_margin: 4.330 (2.596 above average)
+  defensive_efficiency: 17.553 (1.850 above average)
+  saves_per_game: 11.560 (0.428 below average)
+  clearing_percentage: 0.860 (0.017 above average)
+  ground_balls_per_game: 28.830 (2.066 below average)
+  shot_percentage: 0.389 (0.098 above average)
+  offensive_efficiency: 34.859 (3.808 below average)

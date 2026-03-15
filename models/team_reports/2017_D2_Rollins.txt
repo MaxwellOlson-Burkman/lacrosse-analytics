@@ -1,0 +1,17 @@
+Team: Rollins
+Season: 2017 D2
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.416
+
+Stat Comparison vs League Average:
+  points_per_game: 14.500 (3.141 below average)
+  scoring_defense: 9.860 (1.376 below average)
+  scoring_offense: 9.640 (1.674 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 16.477 (0.774 above average)
+  saves_per_game: 9.140 (2.848 below average)
+  clearing_percentage: 0.835 (0.008 below average)
+  ground_balls_per_game: 27.360 (3.536 below average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 36.105 (2.561 below average)

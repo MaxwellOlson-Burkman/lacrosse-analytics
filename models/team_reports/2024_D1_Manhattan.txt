@@ -1,0 +1,17 @@
+Team: Manhattan
+Season: 2024 D1
+Record: 8-9
+Winning %: 0.471
+Predicted Winning %: 0.428
+
+Stat Comparison vs League Average:
+  points_per_game: 14.880 (2.761 below average)
+  scoring_defense: 10.650 (0.586 below average)
+  scoring_offense: 9.710 (1.604 below average)
+  scoring_margin: -0.940 (2.674 below average)
+  defensive_efficiency: 16.118 (0.415 above average)
+  saves_per_game: 12.760 (0.772 above average)
+  clearing_percentage: 0.877 (0.034 above average)
+  ground_balls_per_game: 25.940 (4.956 below average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 35.699 (2.968 below average)

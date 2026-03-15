@@ -1,0 +1,17 @@
+Team: Massachusetts
+Season: 2021 D1
+Record: 4-6
+Winning %: 0.400
+Predicted Winning %: 0.553
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 10.800 (0.436 below average)
+  scoring_offense: 11.700 (0.386 above average)
+  scoring_margin: 0.900 (0.834 below average)
+  defensive_efficiency: 16.380 (0.677 above average)
+  saves_per_game: 12.500 (0.512 above average)
+  clearing_percentage: 0.866 (0.023 above average)
+  ground_balls_per_game: 32.300 (1.404 above average)
+  shot_percentage: 0.324 (0.033 above average)
+  offensive_efficiency: 36.111 (2.555 below average)

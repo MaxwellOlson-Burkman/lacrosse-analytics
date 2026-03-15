@@ -1,0 +1,17 @@
+Team: Emmanuel (GA)
+Season: 2020 D2
+Record: 3-6
+Winning %: 0.333
+Predicted Winning %: 0.393
+
+Stat Comparison vs League Average:
+  points_per_game: 19.220 (1.579 above average)
+  scoring_defense: 14.670 (3.434 above average)
+  scoring_offense: 11.890 (0.576 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 12.736 (2.967 below average)
+  saves_per_game: 13.670 (1.682 above average)
+  clearing_percentage: 0.780 (0.063 below average)
+  ground_balls_per_game: 39.670 (8.774 above average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 42.313 (3.647 above average)

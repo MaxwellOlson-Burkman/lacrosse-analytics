@@ -1,0 +1,17 @@
+Team: Detroit Mercy
+Season: 2024 D1
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.150
+
+Stat Comparison vs League Average:
+  points_per_game: 13.850 (3.791 below average)
+  scoring_defense: 14.920 (3.684 above average)
+  scoring_offense: 9.770 (1.544 below average)
+  scoring_margin: -5.150 (6.884 below average)
+  defensive_efficiency: 12.304 (3.399 below average)
+  saves_per_game: 14.380 (2.392 above average)
+  clearing_percentage: 0.820 (0.023 below average)
+  ground_balls_per_game: 24.690 (6.206 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 34.769 (3.897 below average)

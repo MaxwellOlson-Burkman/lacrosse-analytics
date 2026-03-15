@@ -1,0 +1,17 @@
+Team: Queens (NC)
+Season: 2014 D2
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.567
+
+Stat Comparison vs League Average:
+  points_per_game: 16.760 (0.881 below average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.633 (3.930 above average)
+  saves_per_game: 12.710 (0.722 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 42.852 (4.186 above average)

@@ -1,0 +1,17 @@
+Team: Queens (NC)
+Season: 2019 D2
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.719
+
+Stat Comparison vs League Average:
+  points_per_game: 21.330 (3.689 above average)
+  scoring_defense: 9.060 (2.176 below average)
+  scoring_offense: 13.780 (2.466 above average)
+  scoring_margin: 4.720 (2.986 above average)
+  defensive_efficiency: 18.003 (2.300 above average)
+  saves_per_game: 11.110 (0.878 below average)
+  clearing_percentage: 0.872 (0.029 above average)
+  ground_balls_per_game: 30.220 (0.676 below average)
+  shot_percentage: 0.332 (0.041 above average)
+  offensive_efficiency: 41.506 (2.840 above average)

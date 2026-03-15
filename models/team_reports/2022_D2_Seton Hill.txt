@@ -1,0 +1,17 @@
+Team: Seton Hill
+Season: 2022 D2
+Record: 13-7
+Winning %: 0.650
+Predicted Winning %: 0.733
+
+Stat Comparison vs League Average:
+  points_per_game: 23.450 (5.809 above average)
+  scoring_defense: 9.300 (1.936 below average)
+  scoring_offense: 15.150 (3.836 above average)
+  scoring_margin: 5.850 (4.116 above average)
+  defensive_efficiency: 17.475 (1.772 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 33.800 (2.904 above average)
+  shot_percentage: 0.286 (0.005 below average)
+  offensive_efficiency: 52.972 (14.306 above average)

@@ -1,0 +1,17 @@
+Team: Westminster (UT)
+Season: 2024 D2
+Record: 11-3
+Winning %: 0.786
+Predicted Winning %: 0.713
+
+Stat Comparison vs League Average:
+  points_per_game: 29.000 (11.359 above average)
+  scoring_defense: 10.500 (0.736 below average)
+  scoring_offense: 17.500 (6.186 above average)
+  scoring_margin: 7.000 (5.266 above average)
+  defensive_efficiency: 17.213 (1.510 above average)
+  saves_per_game: 12.210 (0.222 above average)
+  clearing_percentage: 0.884 (0.041 above average)
+  ground_balls_per_game: 34.290 (3.394 above average)
+  shot_percentage: 0.348 (0.057 above average)
+  offensive_efficiency: 50.287 (11.621 above average)

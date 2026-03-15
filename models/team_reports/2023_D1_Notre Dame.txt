@@ -1,0 +1,17 @@
+Team: Notre Dame
+Season: 2023 D1
+Record: 14-2
+Winning %: 0.875
+Predicted Winning %: 0.827
+
+Stat Comparison vs League Average:
+  points_per_game: 23.810 (6.169 above average)
+  scoring_defense: 9.690 (1.546 below average)
+  scoring_offense: 15.500 (4.186 above average)
+  scoring_margin: 5.810 (4.076 above average)
+  defensive_efficiency: 17.409 (1.706 above average)
+  saves_per_game: 13.130 (1.142 above average)
+  clearing_percentage: 0.894 (0.051 above average)
+  ground_balls_per_game: 35.060 (4.164 above average)
+  shot_percentage: 0.342 (0.051 above average)
+  offensive_efficiency: 45.322 (6.656 above average)

@@ -1,0 +1,17 @@
+Team: Flagler
+Season: 2022 D2
+Record: 3-14
+Winning %: 0.176
+Predicted Winning %: 0.215
+
+Stat Comparison vs League Average:
+  points_per_game: 15.240 (2.401 below average)
+  scoring_defense: 15.530 (4.294 above average)
+  scoring_offense: 10.350 (0.964 below average)
+  scoring_margin: -5.180 (6.914 below average)
+  defensive_efficiency: 11.473 (4.230 below average)
+  saves_per_game: 12.710 (0.722 above average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 35.350 (4.454 above average)
+  shot_percentage: 0.258 (0.033 below average)
+  offensive_efficiency: 40.116 (1.450 above average)

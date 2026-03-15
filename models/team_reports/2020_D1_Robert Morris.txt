@@ -1,0 +1,17 @@
+Team: Robert Morris
+Season: 2020 D1
+Record: 4-2
+Winning %: 0.667
+Predicted Winning %: 0.561
+
+Stat Comparison vs League Average:
+  points_per_game: 21.170 (3.529 above average)
+  scoring_defense: 13.830 (2.594 above average)
+  scoring_offense: 14.000 (2.686 above average)
+  scoring_margin: 0.170 (1.564 below average)
+  defensive_efficiency: 12.604 (3.099 below average)
+  saves_per_game: 10.330 (1.658 below average)
+  clearing_percentage: 0.867 (0.024 above average)
+  ground_balls_per_game: 37.500 (6.604 above average)
+  shot_percentage: 0.301 (0.010 above average)
+  offensive_efficiency: 46.512 (7.846 above average)

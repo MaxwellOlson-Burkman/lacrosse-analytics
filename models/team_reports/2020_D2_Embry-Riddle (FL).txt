@@ -1,0 +1,17 @@
+Team: Embry-Riddle (FL)
+Season: 2020 D2
+Record: 2-5
+Winning %: 0.286
+Predicted Winning %: 0.382
+
+Stat Comparison vs League Average:
+  points_per_game: 17.290 (0.351 below average)
+  scoring_defense: 12.570 (1.334 above average)
+  scoring_offense: 11.140 (0.174 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 13.942 (1.761 below average)
+  saves_per_game: 11.290 (0.698 below average)
+  clearing_percentage: 0.830 (0.013 below average)
+  ground_balls_per_game: 34.860 (3.964 above average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 38.151 (0.515 below average)

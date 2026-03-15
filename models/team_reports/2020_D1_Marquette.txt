@@ -1,0 +1,17 @@
+Team: Marquette
+Season: 2020 D1
+Record: 3-4
+Winning %: 0.429
+Predicted Winning %: 0.516
+
+Stat Comparison vs League Average:
+  points_per_game: 17.140 (0.501 below average)
+  scoring_defense: 10.570 (0.666 below average)
+  scoring_offense: 11.710 (0.396 above average)
+  scoring_margin: 1.140 (0.594 below average)
+  defensive_efficiency: 16.334 (0.631 above average)
+  saves_per_game: 9.430 (2.558 below average)
+  clearing_percentage: 0.816 (0.027 below average)
+  ground_balls_per_game: 31.860 (0.964 above average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 36.366 (2.300 below average)

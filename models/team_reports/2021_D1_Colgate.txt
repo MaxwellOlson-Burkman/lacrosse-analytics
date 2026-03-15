@@ -1,0 +1,17 @@
+Team: Colgate
+Season: 2021 D1
+Record: 3-7
+Winning %: 0.300
+Predicted Winning %: 0.340
+
+Stat Comparison vs League Average:
+  points_per_game: 17.000 (0.641 below average)
+  scoring_defense: 13.100 (1.864 above average)
+  scoring_offense: 10.700 (0.614 below average)
+  scoring_margin: -2.400 (4.134 below average)
+  defensive_efficiency: 13.925 (1.778 below average)
+  saves_per_game: 12.300 (0.312 above average)
+  clearing_percentage: 0.747 (0.096 below average)
+  ground_balls_per_game: 32.400 (1.504 above average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 36.395 (2.272 below average)

@@ -1,0 +1,17 @@
+Team: Barton
+Season: 2022 D2
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.595
+
+Stat Comparison vs League Average:
+  points_per_game: 20.060 (2.419 above average)
+  scoring_defense: 11.310 (0.074 above average)
+  scoring_offense: 12.000 (0.686 above average)
+  scoring_margin: 0.690 (1.044 below average)
+  defensive_efficiency: 16.130 (0.427 above average)
+  saves_per_game: 12.500 (0.512 above average)
+  clearing_percentage: 0.821 (0.022 below average)
+  ground_balls_per_game: 36.380 (5.484 above average)
+  shot_percentage: 0.301 (0.010 above average)
+  offensive_efficiency: 39.867 (1.201 above average)

@@ -1,0 +1,17 @@
+Team: Virginia
+Season: 2020 D1
+Record: 4-2
+Winning %: 0.667
+Predicted Winning %: 0.666
+
+Stat Comparison vs League Average:
+  points_per_game: 23.000 (5.359 above average)
+  scoring_defense: 11.170 (0.066 below average)
+  scoring_offense: 13.670 (2.356 above average)
+  scoring_margin: 2.500 (0.766 above average)
+  defensive_efficiency: 16.029 (0.326 above average)
+  saves_per_game: 13.330 (1.342 above average)
+  clearing_percentage: 0.876 (0.033 above average)
+  ground_balls_per_game: 43.330 (12.434 above average)
+  shot_percentage: 0.282 (0.009 below average)
+  offensive_efficiency: 48.475 (9.809 above average)

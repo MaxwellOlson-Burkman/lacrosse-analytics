@@ -1,0 +1,17 @@
+Team: Emmanuel (GA)
+Season: 2019 D2
+Record: 4-12
+Winning %: 0.250
+Predicted Winning %: 0.228
+
+Stat Comparison vs League Average:
+  points_per_game: 16.500 (1.141 below average)
+  scoring_defense: 18.630 (7.394 above average)
+  scoring_offense: 10.440 (0.874 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 8.445 (7.258 below average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.736 (0.107 below average)
+  ground_balls_per_game: 28.130 (2.766 below average)
+  shot_percentage: 0.311 (0.020 above average)
+  offensive_efficiency: 33.569 (5.097 below average)

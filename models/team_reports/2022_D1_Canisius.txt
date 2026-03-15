@@ -1,0 +1,17 @@
+Team: Canisius
+Season: 2022 D1
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.145
+
+Stat Comparison vs League Average:
+  points_per_game: 13.930 (3.711 below average)
+  scoring_defense: 14.570 (3.334 above average)
+  scoring_offense: 9.140 (2.174 below average)
+  scoring_margin: -5.430 (7.164 below average)
+  defensive_efficiency: 12.227 (3.476 below average)
+  saves_per_game: 13.640 (1.652 above average)
+  clearing_percentage: 0.780 (0.063 below average)
+  ground_balls_per_game: 28.290 (2.606 below average)
+  shot_percentage: 0.242 (0.049 below average)
+  offensive_efficiency: 37.769 (0.898 below average)

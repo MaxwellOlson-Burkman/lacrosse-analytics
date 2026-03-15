@@ -1,0 +1,17 @@
+Team: Hobart
+Season: 2016 D1
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.460
+
+Stat Comparison vs League Average:
+  points_per_game: 13.410 (4.231 below average)
+  scoring_defense: 10.120 (1.116 below average)
+  scoring_offense: 9.240 (2.074 below average)
+  scoring_margin: -0.880 (2.614 below average)
+  defensive_efficiency: 17.024 (1.321 above average)
+  saves_per_game: 10.880 (1.108 below average)
+  clearing_percentage: 0.906 (0.063 above average)
+  ground_balls_per_game: 26.000 (4.896 below average)
+  shot_percentage: 0.257 (0.034 below average)
+  offensive_efficiency: 35.953 (2.713 below average)

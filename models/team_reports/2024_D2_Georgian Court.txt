@@ -1,0 +1,17 @@
+Team: Georgian Court
+Season: 2024 D2
+Record: 9-8
+Winning %: 0.529
+Predicted Winning %: 0.659
+
+Stat Comparison vs League Average:
+  points_per_game: 22.180 (4.539 above average)
+  scoring_defense: 11.120 (0.116 below average)
+  scoring_offense: 14.120 (2.806 above average)
+  scoring_margin: 3.000 (1.266 above average)
+  defensive_efficiency: 15.867 (0.164 above average)
+  saves_per_game: 12.290 (0.302 above average)
+  clearing_percentage: 0.807 (0.036 below average)
+  ground_balls_per_game: 38.410 (7.514 above average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 47.542 (8.876 above average)

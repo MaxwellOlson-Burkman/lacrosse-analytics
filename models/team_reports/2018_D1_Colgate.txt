@@ -1,0 +1,17 @@
+Team: Colgate
+Season: 2018 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.556
+
+Stat Comparison vs League Average:
+  points_per_game: 18.400 (0.759 above average)
+  scoring_defense: 10.470 (0.766 below average)
+  scoring_offense: 11.870 (0.556 above average)
+  scoring_margin: 1.400 (0.334 below average)
+  defensive_efficiency: 15.691 (0.012 below average)
+  saves_per_game: 9.070 (2.918 below average)
+  clearing_percentage: 0.866 (0.023 above average)
+  ground_balls_per_game: 29.070 (1.826 below average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 37.683 (0.984 below average)

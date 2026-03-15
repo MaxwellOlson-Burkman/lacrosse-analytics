@@ -1,0 +1,17 @@
+Team: UIndy
+Season: 2021 D2
+Record: 10-3
+Winning %: 0.769
+Predicted Winning %: 0.630
+
+Stat Comparison vs League Average:
+  points_per_game: 18.920 (1.279 above average)
+  scoring_defense: 8.620 (2.616 below average)
+  scoring_offense: 11.310 (0.004 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 18.130 (2.427 above average)
+  saves_per_game: 11.150 (0.838 below average)
+  clearing_percentage: 0.833 (0.010 below average)
+  ground_balls_per_game: 32.150 (1.254 above average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 41.581 (2.915 above average)

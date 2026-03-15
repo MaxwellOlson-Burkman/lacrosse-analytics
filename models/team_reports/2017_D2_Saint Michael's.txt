@@ -1,0 +1,17 @@
+Team: Saint Michael's
+Season: 2017 D2
+Record: 2-10
+Winning %: 0.167
+Predicted Winning %: 0.332
+
+Stat Comparison vs League Average:
+  points_per_game: 14.170 (3.471 below average)
+  scoring_defense: 10.830 (0.406 below average)
+  scoring_offense: 8.750 (2.564 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 16.194 (0.491 above average)
+  saves_per_game: 12.830 (0.842 above average)
+  clearing_percentage: 0.827 (0.016 below average)
+  ground_balls_per_game: 29.250 (1.646 below average)
+  shot_percentage: 0.288 (0.002 below average)
+  offensive_efficiency: 30.329 (8.337 below average)

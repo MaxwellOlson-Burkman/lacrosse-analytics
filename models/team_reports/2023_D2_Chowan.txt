@@ -1,0 +1,17 @@
+Team: Chowan
+Season: 2023 D2
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.382
+
+Stat Comparison vs League Average:
+  points_per_game: 22.800 (5.159 above average)
+  scoring_defense: 15.730 (4.494 above average)
+  scoring_offense: 13.730 (2.416 above average)
+  scoring_margin: -2.000 (3.734 below average)
+  defensive_efficiency: 12.549 (3.154 below average)
+  saves_per_game: 16.930 (4.942 above average)
+  clearing_percentage: 0.776 (0.067 below average)
+  ground_balls_per_game: 29.070 (1.826 below average)
+  shot_percentage: 0.399 (0.108 above average)
+  offensive_efficiency: 34.411 (4.255 below average)

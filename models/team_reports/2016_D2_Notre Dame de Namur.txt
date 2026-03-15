@@ -1,0 +1,17 @@
+Team: Notre Dame de Namur
+Season: 2016 D2
+Record: 0-8
+Winning %: 0.000
+Predicted Winning %: 0.157
+
+Stat Comparison vs League Average:
+  points_per_game: 11.380 (6.261 below average)
+  scoring_defense: 10.440 (0.796 below average)
+  scoring_offense: 7.750 (3.564 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.648 (0.944 above average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.744 (0.099 below average)
+  ground_balls_per_game: 25.630 (5.266 below average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 26.007 (12.659 below average)

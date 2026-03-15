@@ -1,0 +1,17 @@
+Team: Maryland
+Season: 2019 D1
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.655
+
+Stat Comparison vs League Average:
+  points_per_game: 20.760 (3.119 above average)
+  scoring_defense: 10.710 (0.526 below average)
+  scoring_offense: 12.650 (1.336 above average)
+  scoring_margin: 1.940 (0.206 above average)
+  defensive_efficiency: 15.763 (0.060 above average)
+  saves_per_game: 11.410 (0.578 below average)
+  clearing_percentage: 0.878 (0.035 above average)
+  ground_balls_per_game: 28.650 (2.246 below average)
+  shot_percentage: 0.351 (0.060 above average)
+  offensive_efficiency: 36.040 (2.626 below average)

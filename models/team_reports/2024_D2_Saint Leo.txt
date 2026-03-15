@@ -1,0 +1,17 @@
+Team: Saint Leo
+Season: 2024 D2
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.611
+
+Stat Comparison vs League Average:
+  points_per_game: 22.070 (4.429 above average)
+  scoring_defense: 12.000 (0.764 above average)
+  scoring_offense: 13.470 (2.156 above average)
+  scoring_margin: 1.470 (0.264 below average)
+  defensive_efficiency: 14.544 (1.159 below average)
+  saves_per_game: 11.730 (0.258 below average)
+  clearing_percentage: 0.892 (0.049 above average)
+  ground_balls_per_game: 36.400 (5.504 above average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 41.832 (3.166 above average)

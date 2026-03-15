@@ -1,0 +1,17 @@
+Team: UAlbany
+Season: 2021 D1
+Record: 8-5
+Winning %: 0.615
+Predicted Winning %: 0.661
+
+Stat Comparison vs League Average:
+  points_per_game: 24.080 (6.439 above average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 13.850 (2.536 above average)
+  scoring_margin: 2.850 (1.116 above average)
+  defensive_efficiency: 15.455 (0.248 below average)
+  saves_per_game: 11.150 (0.838 below average)
+  clearing_percentage: 0.894 (0.051 above average)
+  ground_balls_per_game: 35.690 (4.794 above average)
+  shot_percentage: 0.360 (0.069 above average)
+  offensive_efficiency: 38.472 (0.194 below average)

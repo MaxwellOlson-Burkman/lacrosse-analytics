@@ -1,0 +1,17 @@
+Team: Limestone
+Season: 2024 D2
+Record: 17-2
+Winning %: 0.895
+Predicted Winning %: 0.874
+
+Stat Comparison vs League Average:
+  points_per_game: 29.420 (11.779 above average)
+  scoring_defense: 9.950 (1.286 below average)
+  scoring_offense: 18.370 (7.056 above average)
+  scoring_margin: 8.420 (6.686 above average)
+  defensive_efficiency: 16.338 (0.635 above average)
+  saves_per_game: 10.160 (1.828 below average)
+  clearing_percentage: 0.897 (0.054 above average)
+  ground_balls_per_game: 46.890 (15.994 above average)
+  shot_percentage: 0.355 (0.064 above average)
+  offensive_efficiency: 51.746 (13.080 above average)

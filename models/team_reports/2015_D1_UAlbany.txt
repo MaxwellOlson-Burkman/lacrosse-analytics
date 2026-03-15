@@ -1,0 +1,17 @@
+Team: UAlbany
+Season: 2015 D1
+Record: 16-3
+Winning %: 0.842
+Predicted Winning %: 0.844
+
+Stat Comparison vs League Average:
+  points_per_game: 27.790 (10.149 above average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 17.110 (5.796 above average)
+  scoring_margin: 7.110 (5.376 above average)
+  defensive_efficiency: 16.723 (1.020 above average)
+  saves_per_game: 12.210 (0.222 above average)
+  clearing_percentage: 0.888 (0.045 above average)
+  ground_balls_per_game: 38.630 (7.734 above average)
+  shot_percentage: 0.366 (0.075 above average)
+  offensive_efficiency: 46.749 (8.083 above average)

@@ -1,0 +1,17 @@
+Team: Boston U.
+Season: 2018 D1
+Record: 8-9
+Winning %: 0.471
+Predicted Winning %: 0.449
+
+Stat Comparison vs League Average:
+  points_per_game: 16.880 (0.761 below average)
+  scoring_defense: 11.350 (0.114 above average)
+  scoring_offense: 10.060 (1.254 below average)
+  scoring_margin: -1.290 (3.024 below average)
+  defensive_efficiency: 15.372 (0.331 below average)
+  saves_per_game: 12.240 (0.252 above average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 29.410 (1.486 below average)
+  shot_percentage: 0.309 (0.018 above average)
+  offensive_efficiency: 32.557 (6.109 below average)

@@ -1,0 +1,17 @@
+Team: Rutgers
+Season: 2014 D1
+Record: 8-8
+Winning %: 0.500
+Predicted Winning %: 0.569
+
+Stat Comparison vs League Average:
+  points_per_game: 19.560 (1.919 above average)
+  scoring_defense: 11.190 (0.046 below average)
+  scoring_offense: 12.130 (0.816 above average)
+  scoring_margin: 0.940 (0.794 below average)
+  defensive_efficiency: 15.450 (0.253 below average)
+  saves_per_game: 11.500 (0.488 below average)
+  clearing_percentage: 0.878 (0.035 above average)
+  ground_balls_per_game: 32.560 (1.664 above average)
+  shot_percentage: 0.314 (0.023 above average)
+  offensive_efficiency: 38.631 (0.036 below average)

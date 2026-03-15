@@ -1,0 +1,17 @@
+Team: Fla. Southern
+Season: 2016 D2
+Record: 9-9
+Winning %: 0.500
+Predicted Winning %: 0.495
+
+Stat Comparison vs League Average:
+  points_per_game: 17.170 (0.471 below average)
+  scoring_defense: 11.060 (0.176 below average)
+  scoring_offense: 10.610 (0.704 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.088 (0.385 above average)
+  saves_per_game: 13.110 (1.122 above average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 31.780 (0.884 above average)
+  shot_percentage: 0.242 (0.049 below average)
+  offensive_efficiency: 43.843 (5.177 above average)

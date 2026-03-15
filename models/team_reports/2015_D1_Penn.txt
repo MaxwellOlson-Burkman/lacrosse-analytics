@@ -1,0 +1,17 @@
+Team: Penn
+Season: 2015 D1
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.386
+
+Stat Comparison vs League Average:
+  points_per_game: 16.310 (1.331 below average)
+  scoring_defense: 11.690 (0.454 above average)
+  scoring_offense: 10.080 (1.234 below average)
+  scoring_margin: -1.620 (3.354 below average)
+  defensive_efficiency: 14.825 (0.878 below average)
+  saves_per_game: 10.850 (1.138 below average)
+  clearing_percentage: 0.838 (0.005 below average)
+  ground_balls_per_game: 28.920 (1.976 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 35.872 (2.794 below average)

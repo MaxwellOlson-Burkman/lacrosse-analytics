@@ -1,0 +1,17 @@
+Team: Davis & Elkins
+Season: 2021 D2
+Record: 3-5
+Winning %: 0.375
+Predicted Winning %: 0.270
+
+Stat Comparison vs League Average:
+  points_per_game: 15.750 (1.891 below average)
+  scoring_defense: 20.000 (8.764 above average)
+  scoring_offense: 10.630 (0.684 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 6.544 (9.159 below average)
+  saves_per_game: 10.880 (1.108 below average)
+  clearing_percentage: 0.730 (0.113 below average)
+  ground_balls_per_game: 32.000 (1.104 above average)
+  shot_percentage: 0.337 (0.046 above average)
+  offensive_efficiency: 31.543 (7.123 below average)

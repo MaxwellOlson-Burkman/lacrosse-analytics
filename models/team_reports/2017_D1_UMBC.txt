@@ -1,0 +1,17 @@
+Team: UMBC
+Season: 2017 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.413
+
+Stat Comparison vs League Average:
+  points_per_game: 11.640 (6.001 below average)
+  scoring_defense: 9.140 (2.096 below average)
+  scoring_offense: 7.570 (3.744 below average)
+  scoring_margin: -1.570 (3.304 below average)
+  defensive_efficiency: 16.768 (1.065 above average)
+  saves_per_game: 8.860 (3.128 below average)
+  clearing_percentage: 0.874 (0.031 above average)
+  ground_balls_per_game: 21.500 (9.396 below average)
+  shot_percentage: 0.258 (0.033 below average)
+  offensive_efficiency: 29.341 (9.325 below average)

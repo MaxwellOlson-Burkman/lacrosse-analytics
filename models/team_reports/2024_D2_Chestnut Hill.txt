@@ -1,0 +1,17 @@
+Team: Chestnut Hill
+Season: 2024 D2
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.773
+
+Stat Comparison vs League Average:
+  points_per_game: 20.200 (2.559 above average)
+  scoring_defense: 6.870 (4.366 below average)
+  scoring_offense: 12.070 (0.756 above average)
+  scoring_margin: 5.200 (3.466 above average)
+  defensive_efficiency: 20.814 (5.111 above average)
+  saves_per_game: 12.130 (0.142 above average)
+  clearing_percentage: 0.850 (0.007 above average)
+  ground_balls_per_game: 31.330 (0.434 above average)
+  shot_percentage: 0.327 (0.036 above average)
+  offensive_efficiency: 36.911 (1.755 below average)

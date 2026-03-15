@@ -1,0 +1,17 @@
+Team: Adams St.
+Season: 2022 D2
+Record: 1-9
+Winning %: 0.100
+Predicted Winning %: 0.046
+
+Stat Comparison vs League Average:
+  points_per_game: 6.000 (11.641 below average)
+  scoring_defense: 16.300 (5.064 above average)
+  scoring_offense: 4.400 (6.914 below average)
+  scoring_margin: -11.900 (13.634 below average)
+  defensive_efficiency: 10.220 (5.483 below average)
+  saves_per_game: 11.600 (0.388 below average)
+  clearing_percentage: 0.747 (0.096 below average)
+  ground_balls_per_game: 21.700 (9.196 below average)
+  shot_percentage: 0.165 (0.126 below average)
+  offensive_efficiency: 26.667 (11.999 below average)

@@ -1,0 +1,17 @@
+Team: Cornell
+Season: 2015 D1
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.626
+
+Stat Comparison vs League Average:
+  points_per_game: 17.130 (0.511 below average)
+  scoring_defense: 9.940 (1.296 below average)
+  scoring_offense: 11.500 (0.186 above average)
+  scoring_margin: 1.560 (0.174 below average)
+  defensive_efficiency: 16.058 (0.355 above average)
+  saves_per_game: 9.060 (2.928 below average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 35.810 (4.914 above average)
+  shot_percentage: 0.263 (0.028 below average)
+  offensive_efficiency: 43.726 (5.060 above average)

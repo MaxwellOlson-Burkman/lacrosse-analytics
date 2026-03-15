@@ -1,0 +1,17 @@
+Team: Davenport
+Season: 2023 D2
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.386
+
+Stat Comparison vs League Average:
+  points_per_game: 18.690 (1.049 above average)
+  scoring_defense: 12.540 (1.304 above average)
+  scoring_offense: 11.150 (0.164 below average)
+  scoring_margin: -1.380 (3.114 below average)
+  defensive_efficiency: 14.833 (0.870 below average)
+  saves_per_game: 13.310 (1.322 above average)
+  clearing_percentage: 0.840 (0.003 below average)
+  ground_balls_per_game: 32.460 (1.564 above average)
+  shot_percentage: 0.328 (0.037 above average)
+  offensive_efficiency: 33.994 (4.672 below average)

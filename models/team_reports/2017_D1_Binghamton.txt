@@ -1,0 +1,17 @@
+Team: Binghamton
+Season: 2017 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.626
+
+Stat Comparison vs League Average:
+  points_per_game: 15.060 (2.581 below average)
+  scoring_defense: 8.190 (3.046 below average)
+  scoring_offense: 9.560 (1.754 below average)
+  scoring_margin: 1.380 (0.354 below average)
+  defensive_efficiency: 18.473 (2.770 above average)
+  saves_per_game: 9.060 (2.928 below average)
+  clearing_percentage: 0.903 (0.060 above average)
+  ground_balls_per_game: 22.690 (8.206 below average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 30.349 (8.317 below average)

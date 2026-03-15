@@ -1,0 +1,17 @@
+Team: Massachusetts
+Season: 2017 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.442
+
+Stat Comparison vs League Average:
+  points_per_game: 14.670 (2.971 below average)
+  scoring_defense: 10.070 (1.166 below average)
+  scoring_offense: 8.930 (2.384 below average)
+  scoring_margin: -1.130 (2.864 below average)
+  defensive_efficiency: 16.590 (0.887 above average)
+  saves_per_game: 11.200 (0.788 below average)
+  clearing_percentage: 0.891 (0.048 above average)
+  ground_balls_per_game: 27.730 (3.166 below average)
+  shot_percentage: 0.255 (0.036 below average)
+  offensive_efficiency: 35.020 (3.647 below average)

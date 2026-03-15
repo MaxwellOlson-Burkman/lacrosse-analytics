@@ -1,0 +1,17 @@
+Team: Saint Rose
+Season: 2017 D2
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.375
+
+Stat Comparison vs League Average:
+  points_per_game: 16.700 (0.941 below average)
+  scoring_defense: 11.670 (0.434 above average)
+  scoring_offense: 10.905 (0.409 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 16.190 (0.487 above average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.786 (0.057 below average)
+  ground_balls_per_game: 27.600 (3.296 below average)
+  shot_percentage: 0.288 (0.002 below average)
+  offensive_efficiency: 37.799 (0.867 below average)

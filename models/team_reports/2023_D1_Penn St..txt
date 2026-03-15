@@ -1,0 +1,17 @@
+Team: Penn St.
+Season: 2023 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.647
+
+Stat Comparison vs League Average:
+  points_per_game: 21.560 (3.919 above average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 13.500 (2.186 above average)
+  scoring_margin: 2.500 (0.766 above average)
+  defensive_efficiency: 16.952 (1.249 above average)
+  saves_per_game: 14.190 (2.202 above average)
+  clearing_percentage: 0.862 (0.019 above average)
+  ground_balls_per_game: 32.060 (1.164 above average)
+  shot_percentage: 0.343 (0.052 above average)
+  offensive_efficiency: 39.359 (0.692 above average)

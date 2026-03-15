@@ -1,0 +1,17 @@
+Team: Monmouth
+Season: 2019 D1
+Record: 4-8
+Winning %: 0.333
+Predicted Winning %: 0.352
+
+Stat Comparison vs League Average:
+  points_per_game: 10.500 (7.141 below average)
+  scoring_defense: 9.080 (2.156 below average)
+  scoring_offense: 6.920 (4.394 below average)
+  scoring_margin: -2.170 (3.904 below average)
+  defensive_efficiency: 17.881 (2.178 above average)
+  saves_per_game: 10.920 (1.068 below average)
+  clearing_percentage: 0.805 (0.038 below average)
+  ground_balls_per_game: 28.080 (2.816 below average)
+  shot_percentage: 0.196 (0.095 below average)
+  offensive_efficiency: 35.306 (3.360 below average)

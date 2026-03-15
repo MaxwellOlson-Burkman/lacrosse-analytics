@@ -1,0 +1,17 @@
+Team: Rockhurst
+Season: 2023 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.656
+
+Stat Comparison vs League Average:
+  points_per_game: 17.470 (0.171 below average)
+  scoring_defense: 8.800 (2.436 below average)
+  scoring_offense: 11.130 (0.184 below average)
+  scoring_margin: 2.330 (0.596 above average)
+  defensive_efficiency: 18.605 (2.902 above average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 32.800 (1.904 above average)
+  shot_percentage: 0.259 (0.032 below average)
+  offensive_efficiency: 42.973 (4.307 above average)

@@ -1,0 +1,17 @@
+Team: Colgate
+Season: 2023 D1
+Record: 2-9
+Winning %: 0.182
+Predicted Winning %: 0.328
+
+Stat Comparison vs League Average:
+  points_per_game: 16.730 (0.911 below average)
+  scoring_defense: 12.000 (0.764 above average)
+  scoring_offense: 11.090 (0.224 below average)
+  scoring_margin: -0.910 (2.644 below average)
+  defensive_efficiency: 14.266 (1.437 below average)
+  saves_per_game: 12.270 (0.282 above average)
+  clearing_percentage: 0.827 (0.016 below average)
+  ground_balls_per_game: 30.550 (0.346 below average)
+  shot_percentage: 0.289 (0.002 below average)
+  offensive_efficiency: 38.374 (0.292 below average)

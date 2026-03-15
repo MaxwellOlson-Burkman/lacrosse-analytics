@@ -1,0 +1,17 @@
+Team: Robert Morris
+Season: 2024 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.305
+
+Stat Comparison vs League Average:
+  points_per_game: 15.930 (1.711 below average)
+  scoring_defense: 13.400 (2.164 above average)
+  scoring_offense: 10.400 (0.914 below average)
+  scoring_margin: -3.000 (4.734 below average)
+  defensive_efficiency: 13.924 (1.779 below average)
+  saves_per_game: 12.330 (0.342 above average)
+  clearing_percentage: 0.885 (0.042 above average)
+  ground_balls_per_game: 30.870 (0.026 below average)
+  shot_percentage: 0.269 (0.022 below average)
+  offensive_efficiency: 38.662 (0.004 below average)

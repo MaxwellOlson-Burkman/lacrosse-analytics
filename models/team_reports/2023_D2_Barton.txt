@@ -1,0 +1,17 @@
+Team: Barton
+Season: 2023 D2
+Record: 11-7
+Winning %: 0.611
+Predicted Winning %: 0.605
+
+Stat Comparison vs League Average:
+  points_per_game: 21.940 (4.299 above average)
+  scoring_defense: 11.390 (0.154 above average)
+  scoring_offense: 13.670 (2.356 above average)
+  scoring_margin: 2.280 (0.546 above average)
+  defensive_efficiency: 16.100 (0.397 above average)
+  saves_per_game: 11.500 (0.488 below average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 32.830 (1.934 above average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 43.397 (4.731 above average)

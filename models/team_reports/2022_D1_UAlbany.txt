@@ -1,0 +1,17 @@
+Team: UAlbany
+Season: 2022 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.329
+
+Stat Comparison vs League Average:
+  points_per_game: 17.330 (0.311 below average)
+  scoring_defense: 14.270 (3.034 above average)
+  scoring_offense: 10.330 (0.984 below average)
+  scoring_margin: -3.930 (5.664 below average)
+  defensive_efficiency: 12.420 (3.283 below average)
+  saves_per_game: 10.600 (1.388 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 31.200 (0.304 above average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 35.377 (3.289 below average)

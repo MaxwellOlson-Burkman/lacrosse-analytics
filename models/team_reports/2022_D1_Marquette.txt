@@ -1,0 +1,17 @@
+Team: Marquette
+Season: 2022 D1
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.328
+
+Stat Comparison vs League Average:
+  points_per_game: 15.930 (1.711 below average)
+  scoring_defense: 12.870 (1.634 above average)
+  scoring_offense: 10.470 (0.844 below average)
+  scoring_margin: -2.400 (4.134 below average)
+  defensive_efficiency: 14.564 (1.139 below average)
+  saves_per_game: 12.930 (0.942 above average)
+  clearing_percentage: 0.867 (0.024 above average)
+  ground_balls_per_game: 29.670 (1.226 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 39.962 (1.296 above average)

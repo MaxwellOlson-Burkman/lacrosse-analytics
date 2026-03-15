@@ -1,0 +1,17 @@
+Team: Pace
+Season: 2020 D2
+Record: 1-1
+Winning %: 0.500
+Predicted Winning %: 0.604
+
+Stat Comparison vs League Average:
+  points_per_game: 19.500 (1.859 above average)
+  scoring_defense: 6.500 (4.736 below average)
+  scoring_offense: 12.500 (1.186 above average)
+  scoring_margin: 6.000 (4.266 above average)
+  defensive_efficiency: 21.035 (5.332 above average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.887 (0.044 above average)
+  ground_balls_per_game: 28.000 (2.896 below average)
+  shot_percentage: 0.291 (0.000 above average)
+  offensive_efficiency: 42.955 (4.289 above average)

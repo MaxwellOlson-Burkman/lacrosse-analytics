@@ -1,0 +1,17 @@
+Team: Colorado Mesa
+Season: 2023 D2
+Record: 16-2
+Winning %: 0.889
+Predicted Winning %: 0.913
+
+Stat Comparison vs League Average:
+  points_per_game: 30.830 (13.189 above average)
+  scoring_defense: 8.330 (2.906 below average)
+  scoring_offense: 19.000 (7.686 above average)
+  scoring_margin: 10.670 (8.936 above average)
+  defensive_efficiency: 17.769 (2.066 above average)
+  saves_per_game: 8.280 (3.708 below average)
+  clearing_percentage: 0.946 (0.103 above average)
+  ground_balls_per_game: 40.440 (9.544 above average)
+  shot_percentage: 0.345 (0.054 above average)
+  offensive_efficiency: 55.072 (16.406 above average)

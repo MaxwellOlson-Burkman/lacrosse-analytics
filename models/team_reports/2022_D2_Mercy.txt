@@ -1,0 +1,17 @@
+Team: Mercy
+Season: 2022 D2
+Record: 16-2
+Winning %: 0.889
+Predicted Winning %: 0.782
+
+Stat Comparison vs League Average:
+  points_per_game: 22.940 (5.299 above average)
+  scoring_defense: 8.500 (2.736 below average)
+  scoring_offense: 14.170 (2.856 above average)
+  scoring_margin: 5.670 (3.936 above average)
+  defensive_efficiency: 18.394 (2.691 above average)
+  saves_per_game: 11.780 (0.208 below average)
+  clearing_percentage: 0.865 (0.022 above average)
+  ground_balls_per_game: 35.220 (4.324 above average)
+  shot_percentage: 0.330 (0.039 above average)
+  offensive_efficiency: 42.939 (4.273 above average)

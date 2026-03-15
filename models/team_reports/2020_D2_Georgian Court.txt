@@ -1,0 +1,17 @@
+Team: Georgian Court
+Season: 2020 D2
+Record: 4-5
+Winning %: 0.444
+Predicted Winning %: 0.389
+
+Stat Comparison vs League Average:
+  points_per_game: 16.220 (1.421 below average)
+  scoring_defense: 11.220 (0.016 below average)
+  scoring_offense: 10.110 (1.204 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 17.729 (2.026 above average)
+  saves_per_game: 17.330 (5.342 above average)
+  clearing_percentage: 0.800 (0.043 below average)
+  ground_balls_per_game: 35.220 (4.324 above average)
+  shot_percentage: 0.266 (0.025 below average)
+  offensive_efficiency: 38.008 (0.659 below average)

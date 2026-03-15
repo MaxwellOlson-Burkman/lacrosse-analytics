@@ -1,0 +1,17 @@
+Team: Lake Erie
+Season: 2020 D2
+Record: 0-6
+Winning %: 0.000
+Predicted Winning %: 0.197
+
+Stat Comparison vs League Average:
+  points_per_game: 16.500 (1.141 below average)
+  scoring_defense: 14.830 (3.594 above average)
+  scoring_offense: 10.670 (0.644 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 12.300 (3.403 below average)
+  saves_per_game: 12.500 (0.512 above average)
+  clearing_percentage: 0.836 (0.007 below average)
+  ground_balls_per_game: 28.170 (2.726 below average)
+  shot_percentage: 0.302 (0.011 above average)
+  offensive_efficiency: 35.331 (3.335 below average)

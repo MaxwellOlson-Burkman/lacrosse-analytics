@@ -1,0 +1,17 @@
+Team: Michigan
+Season: 2023 D1
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.573
+
+Stat Comparison vs League Average:
+  points_per_game: 21.180 (3.539 above average)
+  scoring_defense: 12.650 (1.414 above average)
+  scoring_offense: 13.530 (2.216 above average)
+  scoring_margin: 0.880 (0.854 below average)
+  defensive_efficiency: 13.376 (2.327 below average)
+  saves_per_game: 11.120 (0.868 below average)
+  clearing_percentage: 0.871 (0.028 above average)
+  ground_balls_per_game: 31.410 (0.514 above average)
+  shot_percentage: 0.336 (0.045 above average)
+  offensive_efficiency: 40.268 (1.602 above average)

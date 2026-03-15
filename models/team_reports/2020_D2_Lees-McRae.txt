@@ -1,0 +1,17 @@
+Team: Lees-McRae
+Season: 2020 D2
+Record: 1-6
+Winning %: 0.143
+Predicted Winning %: 0.147
+
+Stat Comparison vs League Average:
+  points_per_game: 13.290 (4.351 below average)
+  scoring_defense: 18.430 (7.194 above average)
+  scoring_offense: 8.860 (2.454 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 7.597 (8.106 below average)
+  saves_per_game: 14.140 (2.152 above average)
+  clearing_percentage: 0.576 (0.267 below average)
+  ground_balls_per_game: 28.290 (2.606 below average)
+  shot_percentage: 0.356 (0.065 above average)
+  offensive_efficiency: 24.888 (13.778 below average)

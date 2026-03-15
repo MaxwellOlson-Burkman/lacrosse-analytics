@@ -1,0 +1,17 @@
+Team: Bellarmine
+Season: 2022 D1
+Record: 4-13
+Winning %: 0.235
+Predicted Winning %: 0.384
+
+Stat Comparison vs League Average:
+  points_per_game: 17.000 (0.641 below average)
+  scoring_defense: 11.940 (0.704 above average)
+  scoring_offense: 10.590 (0.724 below average)
+  scoring_margin: -1.350 (3.084 below average)
+  defensive_efficiency: 15.325 (0.378 below average)
+  saves_per_game: 11.650 (0.338 below average)
+  clearing_percentage: 0.824 (0.019 below average)
+  ground_balls_per_game: 24.940 (5.956 below average)
+  shot_percentage: 0.300 (0.009 above average)
+  offensive_efficiency: 35.300 (3.366 below average)

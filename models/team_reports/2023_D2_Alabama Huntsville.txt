@@ -1,0 +1,17 @@
+Team: Alabama Huntsville
+Season: 2023 D2
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.571
+
+Stat Comparison vs League Average:
+  points_per_game: 18.710 (1.069 above average)
+  scoring_defense: 10.880 (0.356 below average)
+  scoring_offense: 12.820 (1.506 above average)
+  scoring_margin: 1.940 (0.206 above average)
+  defensive_efficiency: 15.782 (0.079 above average)
+  saves_per_game: 10.940 (1.048 below average)
+  clearing_percentage: 0.819 (0.024 below average)
+  ground_balls_per_game: 42.060 (11.164 above average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 43.605 (4.939 above average)

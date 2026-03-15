@@ -1,0 +1,17 @@
+Team: Army West Point
+Season: 2021 D1
+Record: 7-4
+Winning %: 0.636
+Predicted Winning %: 0.629
+
+Stat Comparison vs League Average:
+  points_per_game: 18.180 (0.539 above average)
+  scoring_defense: 9.270 (1.966 below average)
+  scoring_offense: 11.820 (0.506 above average)
+  scoring_margin: 2.550 (0.816 above average)
+  defensive_efficiency: 17.818 (2.115 above average)
+  saves_per_game: 12.360 (0.372 above average)
+  clearing_percentage: 0.807 (0.036 below average)
+  ground_balls_per_game: 33.360 (2.464 above average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 42.518 (3.852 above average)

@@ -1,0 +1,17 @@
+Team: Montevallo
+Season: 2024 D2
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.705
+
+Stat Comparison vs League Average:
+  points_per_game: 25.530 (7.889 above average)
+  scoring_defense: 11.930 (0.694 above average)
+  scoring_offense: 15.600 (4.286 above average)
+  scoring_margin: 3.670 (1.936 above average)
+  defensive_efficiency: 15.881 (0.178 above average)
+  saves_per_game: 14.470 (2.482 above average)
+  clearing_percentage: 0.841 (0.002 below average)
+  ground_balls_per_game: 43.070 (12.174 above average)
+  shot_percentage: 0.346 (0.055 above average)
+  offensive_efficiency: 45.087 (6.421 above average)

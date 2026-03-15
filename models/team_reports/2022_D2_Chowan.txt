@@ -1,0 +1,17 @@
+Team: Chowan
+Season: 2022 D2
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.426
+
+Stat Comparison vs League Average:
+  points_per_game: 23.210 (5.569 above average)
+  scoring_defense: 16.570 (5.334 above average)
+  scoring_offense: 13.930 (2.616 above average)
+  scoring_margin: -2.640 (4.374 below average)
+  defensive_efficiency: 10.438 (5.265 below average)
+  saves_per_game: 13.710 (1.722 above average)
+  clearing_percentage: 0.801 (0.042 below average)
+  ground_balls_per_game: 38.360 (7.464 above average)
+  shot_percentage: 0.391 (0.100 above average)
+  offensive_efficiency: 35.627 (3.040 below average)

@@ -1,0 +1,17 @@
+Team: Dartmouth
+Season: 2023 D1
+Record: 6-6
+Winning %: 0.500
+Predicted Winning %: 0.373
+
+Stat Comparison vs League Average:
+  points_per_game: 18.080 (0.439 above average)
+  scoring_defense: 14.420 (3.184 above average)
+  scoring_offense: 11.670 (0.356 above average)
+  scoring_margin: -2.750 (4.484 below average)
+  defensive_efficiency: 11.745 (3.958 below average)
+  saves_per_game: 10.750 (1.238 below average)
+  clearing_percentage: 0.826 (0.017 below average)
+  ground_balls_per_game: 33.000 (2.104 above average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 39.829 (1.163 above average)

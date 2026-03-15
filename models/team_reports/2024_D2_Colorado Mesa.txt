@@ -1,0 +1,17 @@
+Team: Colorado Mesa
+Season: 2024 D2
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.844
+
+Stat Comparison vs League Average:
+  points_per_game: 26.470 (8.829 above average)
+  scoring_defense: 8.880 (2.356 below average)
+  scoring_offense: 16.350 (5.036 above average)
+  scoring_margin: 7.470 (5.736 above average)
+  defensive_efficiency: 16.847 (1.144 above average)
+  saves_per_game: 8.590 (3.398 below average)
+  clearing_percentage: 0.895 (0.052 above average)
+  ground_balls_per_game: 40.590 (9.694 above average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 48.806 (10.140 above average)

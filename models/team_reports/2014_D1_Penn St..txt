@@ -1,0 +1,17 @@
+Team: Penn St.
+Season: 2014 D1
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.616
+
+Stat Comparison vs League Average:
+  points_per_game: 15.310 (2.331 below average)
+  scoring_defense: 8.920 (2.316 below average)
+  scoring_offense: 10.310 (1.004 below average)
+  scoring_margin: 1.380 (0.354 below average)
+  defensive_efficiency: 17.601 (1.898 above average)
+  saves_per_game: 10.620 (1.368 below average)
+  clearing_percentage: 0.884 (0.041 above average)
+  ground_balls_per_game: 30.150 (0.746 below average)
+  shot_percentage: 0.289 (0.002 below average)
+  offensive_efficiency: 35.675 (2.991 below average)

@@ -1,0 +1,17 @@
+Team: Mercy
+Season: 2018 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.679
+
+Stat Comparison vs League Average:
+  points_per_game: 19.130 (1.489 above average)
+  scoring_defense: 8.470 (2.766 below average)
+  scoring_offense: 12.000 (0.686 above average)
+  scoring_margin: 3.530 (1.796 above average)
+  defensive_efficiency: 17.805 (2.102 above average)
+  saves_per_game: 10.200 (1.788 below average)
+  clearing_percentage: 0.840 (0.003 below average)
+  ground_balls_per_game: 32.330 (1.434 above average)
+  shot_percentage: 0.329 (0.038 above average)
+  offensive_efficiency: 36.474 (2.192 below average)

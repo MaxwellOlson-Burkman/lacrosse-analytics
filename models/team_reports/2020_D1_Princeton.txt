@@ -1,0 +1,17 @@
+Team: Princeton
+Season: 2020 D1
+Record: 5-0
+Winning %: 1.000
+Predicted Winning %: 0.893
+
+Stat Comparison vs League Average:
+  points_per_game: 27.800 (10.159 above average)
+  scoring_defense: 10.800 (0.436 below average)
+  scoring_offense: 18.000 (6.686 above average)
+  scoring_margin: 7.200 (5.466 above average)
+  defensive_efficiency: 14.565 (1.138 below average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.824 (0.019 below average)
+  ground_balls_per_game: 38.400 (7.504 above average)
+  shot_percentage: 0.395 (0.104 above average)
+  offensive_efficiency: 45.570 (6.904 above average)

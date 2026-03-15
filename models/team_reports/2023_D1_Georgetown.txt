@@ -1,0 +1,17 @@
+Team: Georgetown
+Season: 2023 D1
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.731
+
+Stat Comparison vs League Average:
+  points_per_game: 23.290 (5.649 above average)
+  scoring_defense: 11.120 (0.116 below average)
+  scoring_offense: 14.820 (3.506 above average)
+  scoring_margin: 3.710 (1.976 above average)
+  defensive_efficiency: 15.215 (0.488 below average)
+  saves_per_game: 10.350 (1.638 below average)
+  clearing_percentage: 0.916 (0.073 above average)
+  ground_balls_per_game: 38.650 (7.754 above average)
+  shot_percentage: 0.334 (0.043 above average)
+  offensive_efficiency: 44.371 (5.705 above average)

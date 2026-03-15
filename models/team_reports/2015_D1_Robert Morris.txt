@@ -1,0 +1,17 @@
+Team: Robert Morris
+Season: 2015 D1
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.357
+
+Stat Comparison vs League Average:
+  points_per_game: 14.570 (3.071 below average)
+  scoring_defense: 11.290 (0.054 above average)
+  scoring_offense: 9.500 (1.814 below average)
+  scoring_margin: -1.790 (3.524 below average)
+  defensive_efficiency: 14.947 (0.756 below average)
+  saves_per_game: 10.790 (1.198 below average)
+  clearing_percentage: 0.872 (0.029 above average)
+  ground_balls_per_game: 26.640 (4.256 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 36.260 (2.407 below average)

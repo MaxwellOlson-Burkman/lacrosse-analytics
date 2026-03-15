@@ -1,0 +1,17 @@
+Team: UMass Lowell
+Season: 2022 D1
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.162
+
+Stat Comparison vs League Average:
+  points_per_game: 15.150 (2.491 below average)
+  scoring_defense: 14.850 (3.614 above average)
+  scoring_offense: 9.920 (1.394 below average)
+  scoring_margin: -4.920 (6.654 below average)
+  defensive_efficiency: 11.547 (4.156 below average)
+  saves_per_game: 10.690 (1.298 below average)
+  clearing_percentage: 0.782 (0.061 below average)
+  ground_balls_per_game: 28.540 (2.356 below average)
+  shot_percentage: 0.230 (0.061 below average)
+  offensive_efficiency: 43.130 (4.464 above average)

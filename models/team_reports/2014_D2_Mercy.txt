@@ -1,0 +1,17 @@
+Team: Mercy
+Season: 2014 D2
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.589
+
+Stat Comparison vs League Average:
+  points_per_game: 16.500 (1.141 below average)
+  scoring_defense: 8.250 (2.986 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 2.690 (0.956 above average)
+  defensive_efficiency: 19.364 (3.661 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 36.250 (5.354 above average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 45.445 (6.779 above average)

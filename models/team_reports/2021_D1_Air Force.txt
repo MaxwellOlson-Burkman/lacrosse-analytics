@@ -1,0 +1,17 @@
+Team: Air Force
+Season: 2021 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.274
+
+Stat Comparison vs League Average:
+  points_per_game: 13.920 (3.721 below average)
+  scoring_defense: 12.150 (0.914 above average)
+  scoring_offense: 8.620 (2.694 below average)
+  scoring_margin: -3.540 (5.274 below average)
+  defensive_efficiency: 13.426 (2.277 below average)
+  saves_per_game: 11.770 (0.218 below average)
+  clearing_percentage: 0.793 (0.050 below average)
+  ground_balls_per_game: 27.920 (2.976 below average)
+  shot_percentage: 0.219 (0.072 below average)
+  offensive_efficiency: 39.361 (0.695 above average)

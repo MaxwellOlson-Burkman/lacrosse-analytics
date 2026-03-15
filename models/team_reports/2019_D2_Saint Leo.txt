@@ -1,0 +1,17 @@
+Team: Saint Leo
+Season: 2019 D2
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.627
+
+Stat Comparison vs League Average:
+  points_per_game: 23.240 (5.599 above average)
+  scoring_defense: 11.760 (0.524 above average)
+  scoring_offense: 15.000 (3.686 above average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 16.461 (0.758 above average)
+  saves_per_game: 14.120 (2.132 above average)
+  clearing_percentage: 0.862 (0.019 above average)
+  ground_balls_per_game: 35.410 (4.514 above average)
+  shot_percentage: 0.355 (0.064 above average)
+  offensive_efficiency: 42.254 (3.587 above average)

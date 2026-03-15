@@ -1,0 +1,17 @@
+Team: UMass Lowell
+Season: 2018 D1
+Record: 8-8
+Winning %: 0.500
+Predicted Winning %: 0.462
+
+Stat Comparison vs League Average:
+  points_per_game: 16.750 (0.891 below average)
+  scoring_defense: 10.630 (0.606 below average)
+  scoring_offense: 10.000 (1.314 below average)
+  scoring_margin: -0.630 (2.364 below average)
+  defensive_efficiency: 17.263 (1.560 above average)
+  saves_per_game: 13.810 (1.822 above average)
+  clearing_percentage: 0.862 (0.019 above average)
+  ground_balls_per_game: 32.440 (1.544 above average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 34.722 (3.944 below average)

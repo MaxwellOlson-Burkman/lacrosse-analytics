@@ -1,0 +1,17 @@
+Team: UAlbany
+Season: 2023 D1
+Record: 6-10
+Winning %: 0.375
+Predicted Winning %: 0.400
+
+Stat Comparison vs League Average:
+  points_per_game: 16.500 (1.141 below average)
+  scoring_defense: 11.750 (0.514 above average)
+  scoring_offense: 10.690 (0.624 below average)
+  scoring_margin: -1.060 (2.794 below average)
+  defensive_efficiency: 14.033 (1.670 below average)
+  saves_per_game: 9.560 (2.428 below average)
+  clearing_percentage: 0.901 (0.058 above average)
+  ground_balls_per_game: 31.130 (0.234 above average)
+  shot_percentage: 0.253 (0.038 below average)
+  offensive_efficiency: 42.253 (3.587 above average)

@@ -1,0 +1,17 @@
+Team: Ohio St.
+Season: 2023 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.336
+
+Stat Comparison vs League Average:
+  points_per_game: 16.790 (0.851 below average)
+  scoring_defense: 13.000 (1.764 above average)
+  scoring_offense: 11.290 (0.024 below average)
+  scoring_margin: -1.710 (3.444 below average)
+  defensive_efficiency: 12.958 (2.745 below average)
+  saves_per_game: 10.710 (1.278 below average)
+  clearing_percentage: 0.904 (0.061 above average)
+  ground_balls_per_game: 28.860 (2.036 below average)
+  shot_percentage: 0.310 (0.019 above average)
+  offensive_efficiency: 36.419 (2.247 below average)

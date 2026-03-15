@@ -1,0 +1,17 @@
+Team: Lynn
+Season: 2024 D2
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.335
+
+Stat Comparison vs League Average:
+  points_per_game: 16.130 (1.511 below average)
+  scoring_defense: 12.930 (1.694 above average)
+  scoring_offense: 10.000 (1.314 below average)
+  scoring_margin: -2.930 (4.664 below average)
+  defensive_efficiency: 13.716 (1.987 below average)
+  saves_per_game: 12.270 (0.282 above average)
+  clearing_percentage: 0.880 (0.037 above average)
+  ground_balls_per_game: 28.130 (2.766 below average)
+  shot_percentage: 0.256 (0.035 below average)
+  offensive_efficiency: 39.062 (0.396 above average)

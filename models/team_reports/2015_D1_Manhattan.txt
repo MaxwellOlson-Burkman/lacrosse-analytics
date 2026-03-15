@@ -1,0 +1,17 @@
+Team: Manhattan
+Season: 2015 D1
+Record: 1-14
+Winning %: 0.067
+Predicted Winning %: 0.055
+
+Stat Comparison vs League Average:
+  points_per_game: 7.800 (9.841 below average)
+  scoring_defense: 14.530 (3.294 above average)
+  scoring_offense: 4.930 (6.384 below average)
+  scoring_margin: -9.600 (11.334 below average)
+  defensive_efficiency: 12.406 (3.297 below average)
+  saves_per_game: 11.670 (0.318 below average)
+  clearing_percentage: 0.756 (0.087 below average)
+  ground_balls_per_game: 22.470 (8.426 below average)
+  shot_percentage: 0.176 (0.115 below average)
+  offensive_efficiency: 28.011 (10.655 below average)

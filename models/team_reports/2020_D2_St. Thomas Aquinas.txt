@@ -1,0 +1,17 @@
+Team: St. Thomas Aquinas
+Season: 2020 D2
+Record: 2-4
+Winning %: 0.333
+Predicted Winning %: 0.223
+
+Stat Comparison vs League Average:
+  points_per_game: 13.000 (4.641 below average)
+  scoring_defense: 14.500 (3.264 above average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 13.586 (2.117 below average)
+  saves_per_game: 14.670 (2.682 above average)
+  clearing_percentage: 0.796 (0.047 below average)
+  ground_balls_per_game: 28.330 (2.566 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 34.351 (4.315 below average)

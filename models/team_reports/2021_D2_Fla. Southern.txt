@@ -1,0 +1,17 @@
+Team: Fla. Southern
+Season: 2021 D2
+Record: 2-6
+Winning %: 0.250
+Predicted Winning %: 0.392
+
+Stat Comparison vs League Average:
+  points_per_game: 20.380 (2.739 above average)
+  scoring_defense: 14.380 (3.144 above average)
+  scoring_offense: 13.130 (1.816 above average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 13.599 (2.104 below average)
+  saves_per_game: 15.380 (3.392 above average)
+  clearing_percentage: 0.754 (0.089 below average)
+  ground_balls_per_game: 33.630 (2.734 above average)
+  shot_percentage: 0.327 (0.036 above average)
+  offensive_efficiency: 40.153 (1.487 above average)

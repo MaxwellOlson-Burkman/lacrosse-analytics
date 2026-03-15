@@ -1,0 +1,17 @@
+Team: Mount Olive
+Season: 2017 D2
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.716
+
+Stat Comparison vs League Average:
+  points_per_game: 19.250 (1.609 above average)
+  scoring_defense: 7.810 (3.426 below average)
+  scoring_offense: 12.690 (1.376 above average)
+  scoring_margin: 4.880 (3.146 above average)
+  defensive_efficiency: 19.750 (4.047 above average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.858 (0.015 above average)
+  ground_balls_per_game: 26.500 (4.396 below average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 39.410 (0.744 above average)

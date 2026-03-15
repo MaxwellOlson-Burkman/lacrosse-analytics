@@ -1,0 +1,17 @@
+Team: Army West Point
+Season: 2018 D1
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.468
+
+Stat Comparison vs League Average:
+  points_per_game: 14.540 (3.101 below average)
+  scoring_defense: 8.380 (2.856 below average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: 0.620 (1.114 below average)
+  defensive_efficiency: 17.444 (1.741 above average)
+  saves_per_game: 8.080 (3.908 below average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 28.920 (1.976 below average)
+  shot_percentage: 0.246 (0.045 below average)
+  offensive_efficiency: 36.585 (2.081 below average)

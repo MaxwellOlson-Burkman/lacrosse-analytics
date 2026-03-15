@@ -1,0 +1,17 @@
+Team: Alabama Huntsville
+Season: 2016 D2
+Record: 3-9
+Winning %: 0.250
+Predicted Winning %: 0.175
+
+Stat Comparison vs League Average:
+  points_per_game: 16.595 (1.046 below average)
+  scoring_defense: 15.000 (3.764 above average)
+  scoring_offense: 7.000 (4.314 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 12.686 (3.017 below average)
+  saves_per_game: 13.920 (1.932 above average)
+  clearing_percentage: 0.752 (0.091 below average)
+  ground_balls_per_game: 29.765 (1.131 below average)
+  shot_percentage: 0.270 (0.021 below average)
+  offensive_efficiency: 25.926 (12.740 below average)

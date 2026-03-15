@@ -1,0 +1,17 @@
+Team: Seton Hill
+Season: 2023 D2
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.766
+
+Stat Comparison vs League Average:
+  points_per_game: 25.350 (7.709 above average)
+  scoring_defense: 8.530 (2.706 below average)
+  scoring_offense: 16.000 (4.686 above average)
+  scoring_margin: 7.470 (5.736 above average)
+  defensive_efficiency: 18.090 (2.387 above average)
+  saves_per_game: 10.000 (1.988 below average)
+  clearing_percentage: 0.883 (0.040 above average)
+  ground_balls_per_game: 31.590 (0.694 above average)
+  shot_percentage: 0.300 (0.009 above average)
+  offensive_efficiency: 53.333 (14.667 above average)

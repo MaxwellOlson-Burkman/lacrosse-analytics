@@ -1,0 +1,17 @@
+Team: CSU Pueblo
+Season: 2015 D2
+Record: 0-10
+Winning %: 0.000
+Predicted Winning %: 0.158
+
+Stat Comparison vs League Average:
+  points_per_game: 11.600 (6.041 below average)
+  scoring_defense: 10.240 (0.996 below average)
+  scoring_offense: 7.600 (3.714 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 16.377 (0.674 above average)
+  saves_per_game: 10.800 (1.188 below average)
+  clearing_percentage: 0.672 (0.171 below average)
+  ground_balls_per_game: 28.600 (2.296 below average)
+  shot_percentage: 0.309 (0.018 above average)
+  offensive_efficiency: 24.595 (14.071 below average)

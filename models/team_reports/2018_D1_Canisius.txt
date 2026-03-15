@@ -1,0 +1,17 @@
+Team: Canisius
+Season: 2018 D1
+Record: 8-9
+Winning %: 0.471
+Predicted Winning %: 0.441
+
+Stat Comparison vs League Average:
+  points_per_game: 18.760 (1.119 above average)
+  scoring_defense: 12.760 (1.524 above average)
+  scoring_offense: 11.470 (0.156 above average)
+  scoring_margin: -1.290 (3.024 below average)
+  defensive_efficiency: 13.265 (2.438 below average)
+  saves_per_game: 10.000 (1.988 below average)
+  clearing_percentage: 0.894 (0.051 above average)
+  ground_balls_per_game: 26.000 (4.896 below average)
+  shot_percentage: 0.360 (0.069 above average)
+  offensive_efficiency: 31.861 (6.805 below average)

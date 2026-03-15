@@ -1,0 +1,17 @@
+Team: Mount St. Mary's
+Season: 2024 D1
+Record: 1-14
+Winning %: 0.067
+Predicted Winning %: 0.215
+
+Stat Comparison vs League Average:
+  points_per_game: 12.730 (4.911 below average)
+  scoring_defense: 13.330 (2.094 above average)
+  scoring_offense: 7.870 (3.444 below average)
+  scoring_margin: -5.470 (7.204 below average)
+  defensive_efficiency: 13.145 (2.558 below average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.880 (0.037 above average)
+  ground_balls_per_game: 32.270 (1.374 above average)
+  shot_percentage: 0.229 (0.062 below average)
+  offensive_efficiency: 34.367 (4.299 below average)

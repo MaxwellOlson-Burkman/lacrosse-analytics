@@ -1,0 +1,17 @@
+Team: CUI
+Season: 2024 D2
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.654
+
+Stat Comparison vs League Average:
+  points_per_game: 21.000 (3.359 above average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 13.470 (2.156 above average)
+  scoring_margin: 2.470 (0.736 above average)
+  defensive_efficiency: 16.390 (0.687 above average)
+  saves_per_game: 9.600 (2.388 below average)
+  clearing_percentage: 0.826 (0.017 below average)
+  ground_balls_per_game: 38.130 (7.234 above average)
+  shot_percentage: 0.295 (0.004 above average)
+  offensive_efficiency: 45.661 (6.995 above average)

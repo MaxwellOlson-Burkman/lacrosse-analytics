@@ -1,0 +1,17 @@
+Team: Lincoln Memorial
+Season: 2022 D2
+Record: 4-13
+Winning %: 0.235
+Predicted Winning %: 0.148
+
+Stat Comparison vs League Average:
+  points_per_game: 12.240 (5.401 below average)
+  scoring_defense: 15.180 (3.944 above average)
+  scoring_offense: 7.940 (3.374 below average)
+  scoring_margin: -7.240 (8.974 below average)
+  defensive_efficiency: 11.636 (4.067 below average)
+  saves_per_game: 12.470 (0.482 above average)
+  clearing_percentage: 0.745 (0.098 below average)
+  ground_balls_per_game: 27.650 (3.246 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 30.305 (8.361 below average)

@@ -1,0 +1,17 @@
+Team: North Carolina
+Season: 2021 D1
+Record: 13-3
+Winning %: 0.813
+Predicted Winning %: 0.767
+
+Stat Comparison vs League Average:
+  points_per_game: 24.940 (7.299 above average)
+  scoring_defense: 10.630 (0.606 below average)
+  scoring_offense: 16.310 (4.996 above average)
+  scoring_margin: 5.690 (3.956 above average)
+  defensive_efficiency: 16.463 (0.760 above average)
+  saves_per_game: 11.810 (0.178 below average)
+  clearing_percentage: 0.893 (0.050 above average)
+  ground_balls_per_game: 35.310 (4.414 above average)
+  shot_percentage: 0.326 (0.035 above average)
+  offensive_efficiency: 50.031 (11.365 above average)

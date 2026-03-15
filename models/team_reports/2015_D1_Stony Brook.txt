@@ -1,0 +1,17 @@
+Team: Stony Brook
+Season: 2015 D1
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.691
+
+Stat Comparison vs League Average:
+  points_per_game: 23.060 (5.419 above average)
+  scoring_defense: 10.890 (0.346 below average)
+  scoring_offense: 13.890 (2.576 above average)
+  scoring_margin: 3.000 (1.266 above average)
+  defensive_efficiency: 14.574 (1.129 below average)
+  saves_per_game: 8.330 (3.658 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 34.110 (3.214 above average)
+  shot_percentage: 0.402 (0.111 above average)
+  offensive_efficiency: 34.552 (4.114 below average)

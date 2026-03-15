@@ -1,0 +1,17 @@
+Team: Cornell
+Season: 2014 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.698
+
+Stat Comparison vs League Average:
+  points_per_game: 19.880 (2.239 above average)
+  scoring_defense: 9.560 (1.676 below average)
+  scoring_offense: 12.750 (1.436 above average)
+  scoring_margin: 3.190 (1.456 above average)
+  defensive_efficiency: 16.930 (1.227 above average)
+  saves_per_game: 10.750 (1.238 below average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 34.940 (4.044 above average)
+  shot_percentage: 0.320 (0.029 above average)
+  offensive_efficiency: 39.844 (1.178 above average)

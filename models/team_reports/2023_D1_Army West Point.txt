@@ -1,0 +1,17 @@
+Team: Army West Point
+Season: 2023 D1
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.713
+
+Stat Comparison vs League Average:
+  points_per_game: 19.410 (1.769 above average)
+  scoring_defense: 9.120 (2.116 below average)
+  scoring_offense: 12.820 (1.506 above average)
+  scoring_margin: 3.710 (1.976 above average)
+  defensive_efficiency: 17.527 (1.824 above average)
+  saves_per_game: 10.940 (1.048 below average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 36.060 (5.164 above average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 42.171 (3.505 above average)

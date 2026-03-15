@@ -1,0 +1,17 @@
+Team: Detroit Mercy
+Season: 2014 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.438
+
+Stat Comparison vs League Average:
+  points_per_game: 15.640 (2.001 below average)
+  scoring_defense: 9.640 (1.596 below average)
+  scoring_offense: 9.140 (2.174 below average)
+  scoring_margin: -0.500 (2.234 below average)
+  defensive_efficiency: 18.546 (2.843 above average)
+  saves_per_game: 16.070 (4.082 above average)
+  clearing_percentage: 0.794 (0.049 below average)
+  ground_balls_per_game: 27.210 (3.686 below average)
+  shot_percentage: 0.274 (0.017 below average)
+  offensive_efficiency: 33.358 (5.308 below average)

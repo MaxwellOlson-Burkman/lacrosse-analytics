@@ -1,0 +1,17 @@
+Team: Siena
+Season: 2017 D1
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.261
+
+Stat Comparison vs League Average:
+  points_per_game: 15.710 (1.931 below average)
+  scoring_defense: 13.360 (2.124 above average)
+  scoring_offense: 10.360 (0.954 below average)
+  scoring_margin: -3.000 (4.734 below average)
+  defensive_efficiency: 11.856 (3.847 below average)
+  saves_per_game: 8.570 (3.418 below average)
+  clearing_percentage: 0.819 (0.024 below average)
+  ground_balls_per_game: 26.570 (4.326 below average)
+  shot_percentage: 0.274 (0.017 below average)
+  offensive_efficiency: 37.810 (0.856 below average)

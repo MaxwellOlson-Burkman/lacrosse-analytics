@@ -1,0 +1,17 @@
+Team: Bellarmine
+Season: 2015 D1
+Record: 4-8
+Winning %: 0.333
+Predicted Winning %: 0.498
+
+Stat Comparison vs League Average:
+  points_per_game: 15.330 (2.311 below average)
+  scoring_defense: 9.670 (1.566 below average)
+  scoring_offense: 9.920 (1.394 below average)
+  scoring_margin: 0.250 (1.484 below average)
+  defensive_efficiency: 17.279 (1.576 above average)
+  saves_per_game: 10.830 (1.158 below average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 26.670 (4.226 below average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 33.857 (4.809 below average)

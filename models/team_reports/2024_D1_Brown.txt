@@ -1,0 +1,17 @@
+Team: Brown
+Season: 2024 D1
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.337
+
+Stat Comparison vs League Average:
+  points_per_game: 13.290 (4.351 below average)
+  scoring_defense: 12.140 (0.904 above average)
+  scoring_offense: 9.290 (2.024 below average)
+  scoring_margin: -2.860 (4.594 below average)
+  defensive_efficiency: 15.357 (0.346 below average)
+  saves_per_game: 12.640 (0.652 above average)
+  clearing_percentage: 0.864 (0.021 above average)
+  ground_balls_per_game: 31.000 (0.104 above average)
+  shot_percentage: 0.230 (0.061 below average)
+  offensive_efficiency: 40.391 (1.725 above average)

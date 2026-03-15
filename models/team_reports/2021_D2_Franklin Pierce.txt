@@ -1,0 +1,17 @@
+Team: Franklin Pierce
+Season: 2021 D2
+Record: 5-7
+Winning %: 0.417
+Predicted Winning %: 0.401
+
+Stat Comparison vs League Average:
+  points_per_game: 14.670 (2.971 below average)
+  scoring_defense: 10.250 (0.986 below average)
+  scoring_offense: 9.750 (1.564 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 17.355 (1.652 above average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.807 (0.036 below average)
+  ground_balls_per_game: 25.250 (5.646 below average)
+  shot_percentage: 0.258 (0.033 below average)
+  offensive_efficiency: 37.791 (0.875 below average)

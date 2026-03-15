@@ -1,0 +1,17 @@
+Team: Southern N.H.
+Season: 2022 D2
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.469
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 12.770 (1.534 above average)
+  scoring_offense: 12.000 (0.686 above average)
+  scoring_margin: -0.770 (2.504 below average)
+  defensive_efficiency: 14.701 (1.002 below average)
+  saves_per_game: 12.620 (0.632 above average)
+  clearing_percentage: 0.818 (0.025 below average)
+  ground_balls_per_game: 36.540 (5.644 above average)
+  shot_percentage: 0.264 (0.027 below average)
+  offensive_efficiency: 45.455 (6.788 above average)

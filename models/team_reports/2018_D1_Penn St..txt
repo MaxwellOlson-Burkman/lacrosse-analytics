@@ -1,0 +1,17 @@
+Team: Penn St.
+Season: 2018 D1
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.667
+
+Stat Comparison vs League Average:
+  points_per_game: 19.430 (1.789 above average)
+  scoring_defense: 9.570 (1.666 below average)
+  scoring_offense: 12.570 (1.256 above average)
+  scoring_margin: 3.000 (1.266 above average)
+  defensive_efficiency: 17.733 (2.030 above average)
+  saves_per_game: 11.210 (0.778 below average)
+  clearing_percentage: 0.888 (0.045 above average)
+  ground_balls_per_game: 31.070 (0.174 above average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 36.971 (1.696 below average)

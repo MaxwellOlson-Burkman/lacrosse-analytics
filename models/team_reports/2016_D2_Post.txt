@@ -1,0 +1,17 @@
+Team: Post
+Season: 2016 D2
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.387
+
+Stat Comparison vs League Average:
+  points_per_game: 16.570 (1.071 below average)
+  scoring_defense: 11.790 (0.554 above average)
+  scoring_offense: 11.210 (0.104 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.146 (0.443 above average)
+  saves_per_game: 15.070 (3.082 above average)
+  clearing_percentage: 0.841 (0.002 below average)
+  ground_balls_per_game: 29.140 (1.756 below average)
+  shot_percentage: 0.299 (0.008 above average)
+  offensive_efficiency: 37.492 (1.174 below average)

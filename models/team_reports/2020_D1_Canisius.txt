@@ -1,0 +1,17 @@
+Team: Canisius
+Season: 2020 D1
+Record: 0-5
+Winning %: 0.000
+Predicted Winning %: 0.078
+
+Stat Comparison vs League Average:
+  points_per_game: 12.400 (5.241 below average)
+  scoring_defense: 17.000 (5.764 above average)
+  scoring_offense: 8.200 (3.114 below average)
+  scoring_margin: -8.800 (10.534 below average)
+  defensive_efficiency: 10.805 (4.898 below average)
+  saves_per_game: 17.200 (5.212 above average)
+  clearing_percentage: 0.794 (0.049 below average)
+  ground_balls_per_game: 28.400 (2.496 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 29.181 (9.485 below average)

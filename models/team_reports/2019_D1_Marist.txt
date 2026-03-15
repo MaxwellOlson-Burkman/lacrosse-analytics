@@ -1,0 +1,17 @@
+Team: Marist
+Season: 2019 D1
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.431
+
+Stat Comparison vs League Average:
+  points_per_game: 14.470 (3.171 below average)
+  scoring_defense: 10.760 (0.476 below average)
+  scoring_offense: 9.350 (1.964 below average)
+  scoring_margin: -1.410 (3.144 below average)
+  defensive_efficiency: 16.094 (0.391 above average)
+  saves_per_game: 11.530 (0.458 below average)
+  clearing_percentage: 0.792 (0.051 below average)
+  ground_balls_per_game: 29.760 (1.136 below average)
+  shot_percentage: 0.269 (0.022 below average)
+  offensive_efficiency: 34.758 (3.908 below average)

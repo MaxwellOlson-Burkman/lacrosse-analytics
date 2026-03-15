@@ -1,0 +1,17 @@
+Team: D'Youville
+Season: 2024 D2
+Record: 2-14
+Winning %: 0.125
+Predicted Winning %: 0.135
+
+Stat Comparison vs League Average:
+  points_per_game: 11.060 (6.581 below average)
+  scoring_defense: 16.060 (4.824 above average)
+  scoring_offense: 7.440 (3.874 below average)
+  scoring_margin: -8.630 (10.364 below average)
+  defensive_efficiency: 11.694 (4.009 below average)
+  saves_per_game: 13.130 (1.142 above average)
+  clearing_percentage: 0.768 (0.075 below average)
+  ground_balls_per_game: 30.810 (0.086 below average)
+  shot_percentage: 0.234 (0.057 below average)
+  offensive_efficiency: 31.795 (6.871 below average)

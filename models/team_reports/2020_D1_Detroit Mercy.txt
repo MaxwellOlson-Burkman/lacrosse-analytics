@@ -1,0 +1,17 @@
+Team: Detroit Mercy
+Season: 2020 D1
+Record: 2-3
+Winning %: 0.400
+Predicted Winning %: 0.375
+
+Stat Comparison vs League Average:
+  points_per_game: 18.600 (0.959 above average)
+  scoring_defense: 16.800 (5.564 above average)
+  scoring_offense: 12.600 (1.286 above average)
+  scoring_margin: -4.200 (5.934 below average)
+  defensive_efficiency: 9.945 (5.758 below average)
+  saves_per_game: 10.200 (1.788 below average)
+  clearing_percentage: 0.747 (0.096 below average)
+  ground_balls_per_game: 34.800 (3.904 above average)
+  shot_percentage: 0.342 (0.051 above average)
+  offensive_efficiency: 36.842 (1.824 below average)

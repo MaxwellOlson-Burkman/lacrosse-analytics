@@ -1,0 +1,28 @@
+{
+  "metrics": {
+    "mae": 0.06969995928438999,
+    "r2": 0.8189239319319579
+  },
+  "feature_names": [
+    "assists_per_game",
+    "caused_turnovers_per_game",
+    "clearing_percentage",
+    "face_off_winning_percentage",
+    "ground_balls_per_game",
+    "man_down_defense",
+    "man_up_offense",
+    "points_per_game",
+    "saves_per_game",
+    "scoring_defense",
+    "scoring_margin",
+    "scoring_offense",
+    "shot_percentage",
+    "turnovers_per_game",
+    "possession_value_index",
+    "offensive_efficiency",
+    "defensive_efficiency",
+    "extra_man_impact",
+    "division"
+  ],
+  "model_type": "GradientBoostingRegressor"
+}

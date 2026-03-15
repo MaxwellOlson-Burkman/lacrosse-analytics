@@ -1,0 +1,17 @@
+Team: Bucknell
+Season: 2015 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.434
+
+Stat Comparison vs League Average:
+  points_per_game: 14.070 (3.571 below average)
+  scoring_defense: 9.930 (1.306 below average)
+  scoring_offense: 9.600 (1.714 below average)
+  scoring_margin: -0.330 (2.064 below average)
+  defensive_efficiency: 15.905 (0.202 above average)
+  saves_per_game: 9.800 (2.188 below average)
+  clearing_percentage: 0.832 (0.011 below average)
+  ground_balls_per_game: 26.600 (4.296 below average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 34.657 (4.009 below average)

@@ -1,0 +1,17 @@
+Team: Cleveland St.
+Season: 2022 D1
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.363
+
+Stat Comparison vs League Average:
+  points_per_game: 18.000 (0.359 above average)
+  scoring_defense: 12.620 (1.384 above average)
+  scoring_offense: 11.150 (0.164 below average)
+  scoring_margin: -1.460 (3.194 below average)
+  defensive_efficiency: 14.500 (1.203 below average)
+  saves_per_game: 14.150 (2.162 above average)
+  clearing_percentage: 0.856 (0.013 above average)
+  ground_balls_per_game: 29.460 (1.436 below average)
+  shot_percentage: 0.271 (0.020 below average)
+  offensive_efficiency: 41.144 (2.478 above average)

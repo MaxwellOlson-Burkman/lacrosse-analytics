@@ -1,0 +1,17 @@
+Team: Army West Point
+Season: 2024 D1
+Record: 11-3
+Winning %: 0.786
+Predicted Winning %: 0.696
+
+Stat Comparison vs League Average:
+  points_per_game: 22.290 (4.649 above average)
+  scoring_defense: 10.790 (0.446 below average)
+  scoring_offense: 14.140 (2.826 above average)
+  scoring_margin: 3.360 (1.626 above average)
+  defensive_efficiency: 15.707 (0.004 above average)
+  saves_per_game: 11.290 (0.698 below average)
+  clearing_percentage: 0.897 (0.054 above average)
+  ground_balls_per_game: 35.710 (4.814 above average)
+  shot_percentage: 0.310 (0.019 above average)
+  offensive_efficiency: 45.613 (6.947 above average)

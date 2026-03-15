@@ -1,0 +1,17 @@
+Team: St. Bonaventure
+Season: 2023 D1
+Record: 1-13
+Winning %: 0.071
+Predicted Winning %: 0.099
+
+Stat Comparison vs League Average:
+  points_per_game: 11.710 (5.931 below average)
+  scoring_defense: 15.640 (4.404 above average)
+  scoring_offense: 7.710 (3.604 below average)
+  scoring_margin: -7.930 (9.664 below average)
+  defensive_efficiency: 10.879 (4.824 below average)
+  saves_per_game: 12.430 (0.442 above average)
+  clearing_percentage: 0.748 (0.095 below average)
+  ground_balls_per_game: 26.500 (4.396 below average)
+  shot_percentage: 0.230 (0.061 below average)
+  offensive_efficiency: 33.522 (5.144 below average)

@@ -1,0 +1,17 @@
+Team: Duke
+Season: 2016 D1
+Record: 11-8
+Winning %: 0.579
+Predicted Winning %: 0.705
+
+Stat Comparison vs League Average:
+  points_per_game: 21.470 (3.829 above average)
+  scoring_defense: 9.950 (1.286 below average)
+  scoring_offense: 13.370 (2.056 above average)
+  scoring_margin: 3.420 (1.686 above average)
+  defensive_efficiency: 16.369 (0.666 above average)
+  saves_per_game: 10.680 (1.308 below average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 34.950 (4.054 above average)
+  shot_percentage: 0.346 (0.055 above average)
+  offensive_efficiency: 38.642 (0.024 below average)

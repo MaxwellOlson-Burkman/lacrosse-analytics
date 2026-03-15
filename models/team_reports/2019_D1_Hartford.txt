@@ -1,0 +1,17 @@
+Team: Hartford
+Season: 2019 D1
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.306
+
+Stat Comparison vs League Average:
+  points_per_game: 17.930 (0.289 above average)
+  scoring_defense: 13.870 (2.634 above average)
+  scoring_offense: 11.270 (0.044 below average)
+  scoring_margin: -2.600 (4.334 below average)
+  defensive_efficiency: 12.500 (3.203 below average)
+  saves_per_game: 11.400 (0.588 below average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 29.730 (1.166 below average)
+  shot_percentage: 0.307 (0.016 above average)
+  offensive_efficiency: 36.710 (1.956 below average)

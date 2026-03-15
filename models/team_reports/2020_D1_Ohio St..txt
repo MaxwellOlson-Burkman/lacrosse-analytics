@@ -1,0 +1,17 @@
+Team: Ohio St.
+Season: 2020 D1
+Record: 5-2
+Winning %: 0.714
+Predicted Winning %: 0.721
+
+Stat Comparison vs League Average:
+  points_per_game: 22.860 (5.219 above average)
+  scoring_defense: 10.140 (1.096 below average)
+  scoring_offense: 13.860 (2.546 above average)
+  scoring_margin: 3.710 (1.976 above average)
+  defensive_efficiency: 17.703 (2.000 above average)
+  saves_per_game: 13.860 (1.872 above average)
+  clearing_percentage: 0.889 (0.046 above average)
+  ground_balls_per_game: 32.140 (1.244 above average)
+  shot_percentage: 0.357 (0.066 above average)
+  offensive_efficiency: 38.824 (0.157 above average)

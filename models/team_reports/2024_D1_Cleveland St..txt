@@ -1,0 +1,17 @@
+Team: Cleveland St.
+Season: 2024 D1
+Record: 9-8
+Winning %: 0.529
+Predicted Winning %: 0.299
+
+Stat Comparison vs League Average:
+  points_per_game: 14.820 (2.821 below average)
+  scoring_defense: 12.590 (1.354 above average)
+  scoring_offense: 9.820 (1.494 below average)
+  scoring_margin: -2.760 (4.494 below average)
+  defensive_efficiency: 14.053 (1.650 below average)
+  saves_per_game: 12.060 (0.072 above average)
+  clearing_percentage: 0.854 (0.011 above average)
+  ground_balls_per_game: 28.710 (2.186 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 34.947 (3.719 below average)

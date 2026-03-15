@@ -1,0 +1,17 @@
+Team: Adams St.
+Season: 2023 D2
+Record: 2-8
+Winning %: 0.200
+Predicted Winning %: 0.094
+
+Stat Comparison vs League Average:
+  points_per_game: 7.000 (10.641 below average)
+  scoring_defense: 15.600 (4.364 above average)
+  scoring_offense: 4.800 (6.514 below average)
+  scoring_margin: -10.800 (12.534 below average)
+  defensive_efficiency: 10.350 (5.353 below average)
+  saves_per_game: 10.700 (1.288 below average)
+  clearing_percentage: 0.776 (0.067 below average)
+  ground_balls_per_game: 16.000 (14.896 below average)
+  shot_percentage: 0.223 (0.068 below average)
+  offensive_efficiency: 21.525 (17.141 below average)

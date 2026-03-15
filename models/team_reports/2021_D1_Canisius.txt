@@ -1,0 +1,17 @@
+Team: Canisius
+Season: 2021 D1
+Record: 5-5
+Winning %: 0.500
+Predicted Winning %: 0.400
+
+Stat Comparison vs League Average:
+  points_per_game: 14.700 (2.941 below average)
+  scoring_defense: 10.700 (0.536 below average)
+  scoring_offense: 9.300 (2.014 below average)
+  scoring_margin: -1.400 (3.134 below average)
+  defensive_efficiency: 16.485 (0.782 above average)
+  saves_per_game: 11.200 (0.788 below average)
+  clearing_percentage: 0.797 (0.046 below average)
+  ground_balls_per_game: 28.500 (2.396 below average)
+  shot_percentage: 0.252 (0.039 below average)
+  offensive_efficiency: 36.905 (1.761 below average)

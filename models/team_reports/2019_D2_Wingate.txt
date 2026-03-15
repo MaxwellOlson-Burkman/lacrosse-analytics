@@ -1,0 +1,17 @@
+Team: Wingate
+Season: 2019 D2
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.714
+
+Stat Comparison vs League Average:
+  points_per_game: 20.240 (2.599 above average)
+  scoring_defense: 8.710 (2.526 below average)
+  scoring_offense: 12.940 (1.626 above average)
+  scoring_margin: 4.240 (2.506 above average)
+  defensive_efficiency: 18.107 (2.404 above average)
+  saves_per_game: 9.940 (2.048 below average)
+  clearing_percentage: 0.884 (0.041 above average)
+  ground_balls_per_game: 34.650 (3.754 above average)
+  shot_percentage: 0.284 (0.007 below average)
+  offensive_efficiency: 45.563 (6.897 above average)

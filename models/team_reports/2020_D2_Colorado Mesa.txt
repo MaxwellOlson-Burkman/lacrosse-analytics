@@ -1,0 +1,17 @@
+Team: Colorado Mesa
+Season: 2020 D2
+Record: 7-0
+Winning %: 1.000
+Predicted Winning %: 0.959
+
+Stat Comparison vs League Average:
+  points_per_game: 28.430 (10.789 above average)
+  scoring_defense: 6.860 (4.376 below average)
+  scoring_offense: 17.710 (6.396 above average)
+  scoring_margin: 10.860 (9.126 above average)
+  defensive_efficiency: 20.238 (4.535 above average)
+  saves_per_game: 9.860 (2.128 below average)
+  clearing_percentage: 0.892 (0.049 above average)
+  ground_balls_per_game: 43.710 (12.814 above average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 59.630 (20.964 above average)

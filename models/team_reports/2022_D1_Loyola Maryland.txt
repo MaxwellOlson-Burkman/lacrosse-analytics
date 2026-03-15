@@ -1,0 +1,17 @@
+Team: Loyola Maryland
+Season: 2022 D1
+Record: 8-8
+Winning %: 0.500
+Predicted Winning %: 0.537
+
+Stat Comparison vs League Average:
+  points_per_game: 19.560 (1.919 above average)
+  scoring_defense: 11.630 (0.394 above average)
+  scoring_offense: 11.690 (0.376 above average)
+  scoring_margin: 0.060 (1.674 below average)
+  defensive_efficiency: 14.930 (0.773 below average)
+  saves_per_game: 10.750 (1.238 below average)
+  clearing_percentage: 0.904 (0.061 above average)
+  ground_balls_per_game: 33.630 (2.734 above average)
+  shot_percentage: 0.280 (0.011 below average)
+  offensive_efficiency: 41.750 (3.084 above average)

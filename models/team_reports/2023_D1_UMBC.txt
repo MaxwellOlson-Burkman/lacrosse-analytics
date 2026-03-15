@@ -1,0 +1,17 @@
+Team: UMBC
+Season: 2023 D1
+Record: 8-5
+Winning %: 0.615
+Predicted Winning %: 0.619
+
+Stat Comparison vs League Average:
+  points_per_game: 17.150 (0.491 below average)
+  scoring_defense: 9.620 (1.616 below average)
+  scoring_offense: 11.850 (0.536 above average)
+  scoring_margin: 2.230 (0.496 above average)
+  defensive_efficiency: 16.505 (0.802 above average)
+  saves_per_game: 10.000 (1.988 below average)
+  clearing_percentage: 0.868 (0.025 above average)
+  ground_balls_per_game: 27.850 (3.046 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 42.171 (3.505 above average)

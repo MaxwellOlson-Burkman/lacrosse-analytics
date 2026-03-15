@@ -1,0 +1,17 @@
+Team: Mars Hill
+Season: 2015 D2
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.699
+
+Stat Comparison vs League Average:
+  points_per_game: 21.940 (4.299 above average)
+  scoring_defense: 9.060 (2.176 below average)
+  scoring_offense: 14.060 (2.746 above average)
+  scoring_margin: 5.000 (3.266 above average)
+  defensive_efficiency: 18.955 (3.252 above average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 31.690 (0.794 above average)
+  shot_percentage: 0.414 (0.123 above average)
+  offensive_efficiency: 33.961 (4.705 below average)

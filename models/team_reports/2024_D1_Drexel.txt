@@ -1,0 +1,17 @@
+Team: Drexel
+Season: 2024 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.390
+
+Stat Comparison vs League Average:
+  points_per_game: 15.400 (2.241 below average)
+  scoring_defense: 11.800 (0.564 above average)
+  scoring_offense: 9.730 (1.584 below average)
+  scoring_margin: -2.070 (3.804 below average)
+  defensive_efficiency: 15.986 (0.283 above average)
+  saves_per_game: 13.270 (1.282 above average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 29.130 (1.766 below average)
+  shot_percentage: 0.257 (0.034 below average)
+  offensive_efficiency: 37.860 (0.806 below average)

@@ -1,0 +1,17 @@
+Team: Dominican (NY)
+Season: 2019 D2
+Record: 3-12
+Winning %: 0.200
+Predicted Winning %: 0.266
+
+Stat Comparison vs League Average:
+  points_per_game: 16.330 (1.311 below average)
+  scoring_defense: 14.200 (2.964 above average)
+  scoring_offense: 10.670 (0.644 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 12.875 (2.828 below average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.775 (0.068 below average)
+  ground_balls_per_game: 37.070 (6.174 above average)
+  shot_percentage: 0.251 (0.040 below average)
+  offensive_efficiency: 42.510 (3.844 above average)

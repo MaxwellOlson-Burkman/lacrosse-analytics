@@ -1,0 +1,17 @@
+Team: Seton Hill
+Season: 2024 D2
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.783
+
+Stat Comparison vs League Average:
+  points_per_game: 24.060 (6.419 above average)
+  scoring_defense: 8.410 (2.826 below average)
+  scoring_offense: 15.820 (4.506 above average)
+  scoring_margin: 7.410 (5.676 above average)
+  defensive_efficiency: 18.136 (2.433 above average)
+  saves_per_game: 10.120 (1.868 below average)
+  clearing_percentage: 0.907 (0.064 above average)
+  ground_balls_per_game: 33.060 (2.164 above average)
+  shot_percentage: 0.303 (0.012 above average)
+  offensive_efficiency: 52.211 (13.545 above average)

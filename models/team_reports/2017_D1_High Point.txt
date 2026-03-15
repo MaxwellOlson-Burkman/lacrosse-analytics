@@ -1,0 +1,17 @@
+Team: High Point
+Season: 2017 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.328
+
+Stat Comparison vs League Average:
+  points_per_game: 13.710 (3.931 below average)
+  scoring_defense: 11.210 (0.026 below average)
+  scoring_offense: 8.930 (2.384 below average)
+  scoring_margin: -2.290 (4.024 below average)
+  defensive_efficiency: 15.061 (0.642 below average)
+  saves_per_game: 12.570 (0.582 above average)
+  clearing_percentage: 0.868 (0.025 above average)
+  ground_balls_per_game: 23.290 (7.606 below average)
+  shot_percentage: 0.275 (0.016 below average)
+  offensive_efficiency: 32.473 (6.193 below average)

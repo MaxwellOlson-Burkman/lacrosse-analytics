@@ -1,0 +1,17 @@
+Team: Chowan
+Season: 2017 D2
+Record: 1-12
+Winning %: 0.077
+Predicted Winning %: 0.203
+
+Stat Comparison vs League Average:
+  points_per_game: 14.770 (2.871 below average)
+  scoring_defense: 9.875 (1.361 below average)
+  scoring_offense: 9.540 (1.774 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 18.938 (3.235 above average)
+  saves_per_game: 17.310 (5.322 above average)
+  clearing_percentage: 0.760 (0.083 below average)
+  ground_balls_per_game: 24.380 (6.516 below average)
+  shot_percentage: 0.329 (0.038 above average)
+  offensive_efficiency: 28.997 (9.669 below average)

@@ -1,0 +1,17 @@
+Team: Davenport
+Season: 2022 D2
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.365
+
+Stat Comparison vs League Average:
+  points_per_game: 15.150 (2.491 below average)
+  scoring_defense: 11.460 (0.224 above average)
+  scoring_offense: 9.620 (1.694 below average)
+  scoring_margin: -1.850 (3.584 below average)
+  defensive_efficiency: 15.706 (0.003 above average)
+  saves_per_game: 11.770 (0.218 below average)
+  clearing_percentage: 0.842 (0.001 below average)
+  ground_balls_per_game: 29.620 (1.276 below average)
+  shot_percentage: 0.291 (0.000 above average)
+  offensive_efficiency: 33.058 (5.608 below average)

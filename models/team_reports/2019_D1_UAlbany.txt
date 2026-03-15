@@ -1,0 +1,17 @@
+Team: UAlbany
+Season: 2019 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.455
+
+Stat Comparison vs League Average:
+  points_per_game: 17.140 (0.501 below average)
+  scoring_defense: 11.640 (0.404 above average)
+  scoring_offense: 10.570 (0.744 below average)
+  scoring_margin: -1.070 (2.804 below average)
+  defensive_efficiency: 14.922 (0.781 below average)
+  saves_per_game: 12.290 (0.302 above average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 28.070 (2.826 below average)
+  shot_percentage: 0.266 (0.025 below average)
+  offensive_efficiency: 39.737 (1.071 above average)

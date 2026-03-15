@@ -1,0 +1,17 @@
+Team: Alderson Broaddus
+Season: 2020 D2
+Record: 0-5
+Winning %: 0.000
+Predicted Winning %: 0.035
+
+Stat Comparison vs League Average:
+  points_per_game: 6.800 (10.841 below average)
+  scoring_defense: 25.000 (13.764 above average)
+  scoring_offense: 4.400 (6.914 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 0.885 (14.818 below average)
+  saves_per_game: 14.400 (2.412 above average)
+  clearing_percentage: 0.691 (0.152 below average)
+  ground_balls_per_game: 21.400 (9.496 below average)
+  shot_percentage: 0.227 (0.064 below average)
+  offensive_efficiency: 19.383 (19.283 below average)

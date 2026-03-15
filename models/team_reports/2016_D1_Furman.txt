@@ -1,0 +1,17 @@
+Team: Furman
+Season: 2016 D1
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.258
+
+Stat Comparison vs League Average:
+  points_per_game: 12.920 (4.721 below average)
+  scoring_defense: 11.310 (0.074 above average)
+  scoring_offense: 8.000 (3.314 below average)
+  scoring_margin: -3.310 (5.044 below average)
+  defensive_efficiency: 14.677 (1.026 below average)
+  saves_per_game: 9.540 (2.448 below average)
+  clearing_percentage: 0.877 (0.034 above average)
+  ground_balls_per_game: 23.230 (7.666 below average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 28.881 (9.785 below average)

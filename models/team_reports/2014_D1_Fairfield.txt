@@ -1,0 +1,17 @@
+Team: Fairfield
+Season: 2014 D1
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.710
+
+Stat Comparison vs League Average:
+  points_per_game: 17.000 (0.641 below average)
+  scoring_defense: 8.440 (2.796 below average)
+  scoring_offense: 11.310 (0.004 below average)
+  scoring_margin: 2.880 (1.146 above average)
+  defensive_efficiency: 18.077 (2.374 above average)
+  saves_per_game: 9.940 (2.048 below average)
+  clearing_percentage: 0.881 (0.038 above average)
+  ground_balls_per_game: 28.690 (2.206 below average)
+  shot_percentage: 0.369 (0.078 above average)
+  offensive_efficiency: 30.650 (8.016 below average)

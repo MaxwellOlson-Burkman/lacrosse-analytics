@@ -1,0 +1,17 @@
+Team: Tusculum
+Season: 2021 D2
+Record: 7-5
+Winning %: 0.583
+Predicted Winning %: 0.438
+
+Stat Comparison vs League Average:
+  points_per_game: 15.670 (1.971 below average)
+  scoring_defense: 10.830 (0.406 below average)
+  scoring_offense: 10.500 (0.814 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 15.835 (0.132 above average)
+  saves_per_game: 10.750 (1.238 below average)
+  clearing_percentage: 0.793 (0.050 below average)
+  ground_balls_per_game: 32.750 (1.854 above average)
+  shot_percentage: 0.280 (0.011 below average)
+  offensive_efficiency: 37.500 (1.166 below average)

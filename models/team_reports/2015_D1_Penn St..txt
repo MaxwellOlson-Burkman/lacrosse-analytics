@@ -1,0 +1,17 @@
+Team: Penn St.
+Season: 2015 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.437
+
+Stat Comparison vs League Average:
+  points_per_game: 13.860 (3.781 below average)
+  scoring_defense: 10.140 (1.096 below average)
+  scoring_offense: 9.210 (2.104 below average)
+  scoring_margin: -0.930 (2.664 below average)
+  defensive_efficiency: 17.001 (1.298 above average)
+  saves_per_game: 12.570 (0.582 above average)
+  clearing_percentage: 0.874 (0.031 above average)
+  ground_balls_per_game: 27.570 (3.326 below average)
+  shot_percentage: 0.279 (0.012 below average)
+  offensive_efficiency: 33.011 (5.655 below average)

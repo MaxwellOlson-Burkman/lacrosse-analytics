@@ -1,0 +1,17 @@
+Team: Chowan
+Season: 2021 D2
+Record: 1-11
+Winning %: 0.083
+Predicted Winning %: 0.136
+
+Stat Comparison vs League Average:
+  points_per_game: 12.830 (4.811 below average)
+  scoring_defense: 16.830 (5.594 above average)
+  scoring_offense: 8.000 (3.314 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 10.654 (5.049 below average)
+  saves_per_game: 13.830 (1.842 above average)
+  clearing_percentage: 0.766 (0.077 below average)
+  ground_balls_per_game: 38.170 (7.274 above average)
+  shot_percentage: 0.282 (0.009 below average)
+  offensive_efficiency: 28.369 (10.297 below average)

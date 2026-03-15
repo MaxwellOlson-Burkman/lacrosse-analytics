@@ -1,0 +1,17 @@
+Team: Vermont
+Season: 2015 D1
+Record: 6-10
+Winning %: 0.375
+Predicted Winning %: 0.375
+
+Stat Comparison vs League Average:
+  points_per_game: 19.500 (1.859 above average)
+  scoring_defense: 14.250 (3.014 above average)
+  scoring_offense: 12.130 (0.816 above average)
+  scoring_margin: -2.130 (3.864 below average)
+  defensive_efficiency: 12.927 (2.776 below average)
+  saves_per_game: 13.440 (1.452 above average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 35.130 (4.234 above average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 41.399 (2.733 above average)

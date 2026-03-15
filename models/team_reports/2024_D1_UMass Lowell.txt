@@ -1,0 +1,17 @@
+Team: UMass Lowell
+Season: 2024 D1
+Record: 0-12
+Winning %: 0.000
+Predicted Winning %: 0.060
+
+Stat Comparison vs League Average:
+  points_per_game: 9.580 (8.061 below average)
+  scoring_defense: 15.170 (3.934 above average)
+  scoring_offense: 6.580 (4.734 below average)
+  scoring_margin: -8.580 (10.314 below average)
+  defensive_efficiency: 11.609 (4.094 below average)
+  saves_per_game: 13.830 (1.842 above average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 28.080 (2.816 below average)
+  shot_percentage: 0.202 (0.089 below average)
+  offensive_efficiency: 32.574 (6.092 below average)

@@ -1,0 +1,17 @@
+Team: Yale
+Season: 2022 D1
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.643
+
+Stat Comparison vs League Average:
+  points_per_game: 24.120 (6.479 above average)
+  scoring_defense: 13.240 (2.004 above average)
+  scoring_offense: 14.880 (3.566 above average)
+  scoring_margin: 1.650 (0.084 below average)
+  defensive_efficiency: 14.379 (1.324 below average)
+  saves_per_game: 14.180 (2.192 above average)
+  clearing_percentage: 0.838 (0.005 below average)
+  ground_balls_per_game: 35.650 (4.754 above average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 47.089 (8.422 above average)

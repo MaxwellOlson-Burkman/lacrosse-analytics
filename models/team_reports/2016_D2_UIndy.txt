@@ -1,0 +1,17 @@
+Team: UIndy
+Season: 2016 D2
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.610
+
+Stat Comparison vs League Average:
+  points_per_game: 14.860 (2.781 below average)
+  scoring_defense: 8.500 (2.736 below average)
+  scoring_offense: 9.860 (1.454 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 18.079 (2.376 above average)
+  saves_per_game: 9.430 (2.558 below average)
+  clearing_percentage: 0.851 (0.008 above average)
+  ground_balls_per_game: 29.765 (1.131 below average)
+  shot_percentage: 0.271 (0.020 below average)
+  offensive_efficiency: 36.384 (2.282 below average)

@@ -1,0 +1,17 @@
+Team: Shorter
+Season: 2021 D2
+Record: 2-10
+Winning %: 0.167
+Predicted Winning %: 0.078
+
+Stat Comparison vs League Average:
+  points_per_game: 8.750 (8.891 below average)
+  scoring_defense: 16.080 (4.844 above average)
+  scoring_offense: 6.080 (5.234 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 11.980 (3.723 below average)
+  saves_per_game: 15.750 (3.762 above average)
+  clearing_percentage: 0.713 (0.130 below average)
+  ground_balls_per_game: 27.420 (3.476 below average)
+  shot_percentage: 0.194 (0.097 below average)
+  offensive_efficiency: 31.340 (7.326 below average)

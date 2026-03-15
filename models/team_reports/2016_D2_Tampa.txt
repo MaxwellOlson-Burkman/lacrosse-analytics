@@ -1,0 +1,17 @@
+Team: Tampa
+Season: 2016 D2
+Record: 15-3
+Winning %: 0.833
+Predicted Winning %: 0.749
+
+Stat Comparison vs League Average:
+  points_per_game: 20.000 (2.359 above average)
+  scoring_defense: 9.110 (2.126 below average)
+  scoring_offense: 13.280 (1.966 above average)
+  scoring_margin: 4.170 (2.436 above average)
+  defensive_efficiency: 17.710 (2.007 above average)
+  saves_per_game: 11.110 (0.878 below average)
+  clearing_percentage: 0.883 (0.040 above average)
+  ground_balls_per_game: 30.610 (0.286 below average)
+  shot_percentage: 0.367 (0.076 above average)
+  offensive_efficiency: 36.185 (2.481 below average)

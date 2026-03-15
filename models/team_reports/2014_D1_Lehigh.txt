@@ -1,0 +1,17 @@
+Team: Lehigh
+Season: 2014 D1
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.722
+
+Stat Comparison vs League Average:
+  points_per_game: 16.890 (0.751 below average)
+  scoring_defense: 7.220 (4.016 below average)
+  scoring_offense: 10.560 (0.754 below average)
+  scoring_margin: 3.330 (1.596 above average)
+  defensive_efficiency: 19.299 (3.596 above average)
+  saves_per_game: 9.830 (2.158 below average)
+  clearing_percentage: 0.877 (0.034 above average)
+  ground_balls_per_game: 31.280 (0.384 above average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 37.053 (1.613 below average)

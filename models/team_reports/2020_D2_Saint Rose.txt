@@ -1,0 +1,17 @@
+Team: Saint Rose
+Season: 2020 D2
+Record: 3-1
+Winning %: 0.750
+Predicted Winning %: 0.629
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 11.250 (0.064 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 16.860 (1.157 above average)
+  saves_per_game: 11.750 (0.238 below average)
+  clearing_percentage: 0.780 (0.063 below average)
+  ground_balls_per_game: 30.750 (0.146 below average)
+  shot_percentage: 0.346 (0.055 above average)
+  offensive_efficiency: 32.514 (6.152 below average)

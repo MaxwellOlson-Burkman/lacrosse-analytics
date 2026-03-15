@@ -1,0 +1,17 @@
+Team: Wilmington (DE)
+Season: 2019 D2
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.444
+
+Stat Comparison vs League Average:
+  points_per_game: 15.730 (1.911 below average)
+  scoring_defense: 11.930 (0.694 above average)
+  scoring_offense: 10.530 (0.784 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 14.616 (1.087 below average)
+  saves_per_game: 11.870 (0.118 below average)
+  clearing_percentage: 0.794 (0.049 below average)
+  ground_balls_per_game: 36.470 (5.574 above average)
+  shot_percentage: 0.249 (0.042 below average)
+  offensive_efficiency: 42.289 (3.623 above average)

@@ -1,0 +1,17 @@
+Team: Lafayette
+Season: 2024 D1
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.485
+
+Stat Comparison vs League Average:
+  points_per_game: 18.310 (0.669 above average)
+  scoring_defense: 11.690 (0.454 above average)
+  scoring_offense: 12.080 (0.766 above average)
+  scoring_margin: 0.380 (1.354 below average)
+  defensive_efficiency: 14.526 (1.177 below average)
+  saves_per_game: 11.920 (0.068 below average)
+  clearing_percentage: 0.844 (0.001 above average)
+  ground_balls_per_game: 30.000 (0.896 below average)
+  shot_percentage: 0.303 (0.012 above average)
+  offensive_efficiency: 39.868 (1.202 above average)

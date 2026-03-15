@@ -1,0 +1,17 @@
+Team: Davis & Elkins
+Season: 2018 D2
+Record: 0-12
+Winning %: 0.000
+Predicted Winning %: 0.038
+
+Stat Comparison vs League Average:
+  points_per_game: 9.500 (8.141 below average)
+  scoring_defense: 18.500 (7.264 above average)
+  scoring_offense: 5.830 (5.484 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 8.684 (7.019 below average)
+  saves_per_game: 13.580 (1.592 above average)
+  clearing_percentage: 0.683 (0.160 below average)
+  ground_balls_per_game: 28.250 (2.646 below average)
+  shot_percentage: 0.231 (0.060 below average)
+  offensive_efficiency: 25.238 (13.428 below average)

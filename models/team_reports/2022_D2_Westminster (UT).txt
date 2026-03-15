@@ -1,0 +1,17 @@
+Team: Westminster (UT)
+Season: 2022 D2
+Record: 10-4
+Winning %: 0.714
+Predicted Winning %: 0.672
+
+Stat Comparison vs League Average:
+  points_per_game: 18.070 (0.429 above average)
+  scoring_defense: 8.710 (2.526 below average)
+  scoring_offense: 12.140 (0.826 above average)
+  scoring_margin: 3.430 (1.696 above average)
+  defensive_efficiency: 18.898 (3.195 above average)
+  saves_per_game: 12.860 (0.872 above average)
+  clearing_percentage: 0.867 (0.024 above average)
+  ground_balls_per_game: 23.360 (7.536 below average)
+  shot_percentage: 0.321 (0.030 above average)
+  offensive_efficiency: 37.819 (0.847 below average)

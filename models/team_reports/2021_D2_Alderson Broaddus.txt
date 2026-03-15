@@ -1,0 +1,17 @@
+Team: Alderson Broaddus
+Season: 2021 D2
+Record: 2-8
+Winning %: 0.200
+Predicted Winning %: 0.080
+
+Stat Comparison vs League Average:
+  points_per_game: 10.800 (6.841 below average)
+  scoring_defense: 19.700 (8.464 above average)
+  scoring_offense: 7.200 (4.114 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 6.975 (8.728 below average)
+  saves_per_game: 14.200 (2.212 above average)
+  clearing_percentage: 0.773 (0.070 below average)
+  ground_balls_per_game: 27.300 (3.596 below average)
+  shot_percentage: 0.260 (0.031 below average)
+  offensive_efficiency: 27.692 (10.974 below average)

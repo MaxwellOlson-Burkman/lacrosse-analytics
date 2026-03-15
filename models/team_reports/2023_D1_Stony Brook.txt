@@ -1,0 +1,17 @@
+Team: Stony Brook
+Season: 2023 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.590
+
+Stat Comparison vs League Average:
+  points_per_game: 20.000 (2.359 above average)
+  scoring_defense: 11.500 (0.264 above average)
+  scoring_offense: 13.060 (1.746 above average)
+  scoring_margin: 1.560 (0.174 below average)
+  defensive_efficiency: 16.349 (0.646 above average)
+  saves_per_game: 12.380 (0.392 above average)
+  clearing_percentage: 0.853 (0.010 above average)
+  ground_balls_per_game: 31.690 (0.794 above average)
+  shot_percentage: 0.302 (0.011 above average)
+  offensive_efficiency: 43.245 (4.579 above average)

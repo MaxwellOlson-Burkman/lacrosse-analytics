@@ -1,0 +1,17 @@
+Team: St. Anselm
+Season: 2022 D2
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.674
+
+Stat Comparison vs League Average:
+  points_per_game: 22.690 (5.049 above average)
+  scoring_defense: 10.060 (1.176 below average)
+  scoring_offense: 14.690 (3.376 above average)
+  scoring_margin: 4.630 (2.896 above average)
+  defensive_efficiency: 16.488 (0.785 above average)
+  saves_per_game: 11.060 (0.928 below average)
+  clearing_percentage: 0.879 (0.036 above average)
+  ground_balls_per_game: 34.130 (3.234 above average)
+  shot_percentage: 0.275 (0.016 below average)
+  offensive_efficiency: 53.418 (14.752 above average)

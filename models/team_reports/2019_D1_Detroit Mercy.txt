@@ -1,0 +1,17 @@
+Team: Detroit Mercy
+Season: 2019 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.432
+
+Stat Comparison vs League Average:
+  points_per_game: 16.600 (1.041 below average)
+  scoring_defense: 11.930 (0.694 above average)
+  scoring_offense: 10.470 (0.844 below average)
+  scoring_margin: -1.470 (3.204 below average)
+  defensive_efficiency: 15.149 (0.554 below average)
+  saves_per_game: 12.730 (0.742 above average)
+  clearing_percentage: 0.806 (0.037 below average)
+  ground_balls_per_game: 32.130 (1.234 above average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 36.996 (1.670 below average)

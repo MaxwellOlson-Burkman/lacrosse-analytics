@@ -1,0 +1,17 @@
+Team: Duke
+Season: 2019 D1
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.642
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 9.610 (1.626 below average)
+  scoring_offense: 12.220 (0.906 above average)
+  scoring_margin: 2.610 (0.876 above average)
+  defensive_efficiency: 16.317 (0.614 above average)
+  saves_per_game: 9.940 (2.048 below average)
+  clearing_percentage: 0.833 (0.010 below average)
+  ground_balls_per_game: 32.830 (1.934 above average)
+  shot_percentage: 0.309 (0.018 above average)
+  offensive_efficiency: 39.547 (0.881 above average)

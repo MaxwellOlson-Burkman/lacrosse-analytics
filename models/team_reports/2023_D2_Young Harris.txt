@@ -1,0 +1,17 @@
+Team: Young Harris
+Season: 2023 D2
+Record: 3-13
+Winning %: 0.188
+Predicted Winning %: 0.196
+
+Stat Comparison vs League Average:
+  points_per_game: 14.630 (3.011 below average)
+  scoring_defense: 17.880 (6.644 above average)
+  scoring_offense: 9.810 (1.504 below average)
+  scoring_margin: -8.060 (9.794 below average)
+  defensive_efficiency: 8.592 (7.111 below average)
+  saves_per_game: 12.690 (0.702 above average)
+  clearing_percentage: 0.786 (0.057 below average)
+  ground_balls_per_game: 35.630 (4.734 above average)
+  shot_percentage: 0.266 (0.025 below average)
+  offensive_efficiency: 36.880 (1.786 below average)

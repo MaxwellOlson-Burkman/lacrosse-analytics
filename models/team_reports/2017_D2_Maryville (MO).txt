@@ -1,0 +1,17 @@
+Team: Maryville (MO)
+Season: 2017 D2
+Record: 1-14
+Winning %: 0.067
+Predicted Winning %: 0.212
+
+Stat Comparison vs League Average:
+  points_per_game: 16.700 (0.941 below average)
+  scoring_defense: 14.070 (2.834 above average)
+  scoring_offense: 10.905 (0.409 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 13.506 (2.197 below average)
+  saves_per_game: 13.270 (1.282 above average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 29.810 (1.086 below average)
+  shot_percentage: 0.288 (0.002 below average)
+  offensive_efficiency: 37.799 (0.867 below average)

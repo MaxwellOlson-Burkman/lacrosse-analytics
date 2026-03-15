@@ -1,0 +1,17 @@
+Team: Cleveland St.
+Season: 2021 D1
+Record: 3-7
+Winning %: 0.300
+Predicted Winning %: 0.350
+
+Stat Comparison vs League Average:
+  points_per_game: 13.800 (3.841 below average)
+  scoring_defense: 10.700 (0.536 below average)
+  scoring_offense: 8.600 (2.714 below average)
+  scoring_margin: -2.100 (3.834 below average)
+  defensive_efficiency: 16.880 (1.177 above average)
+  saves_per_game: 11.500 (0.488 below average)
+  clearing_percentage: 0.840 (0.003 below average)
+  ground_balls_per_game: 28.300 (2.596 below average)
+  shot_percentage: 0.263 (0.028 below average)
+  offensive_efficiency: 32.700 (5.966 below average)

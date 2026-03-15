@@ -1,0 +1,17 @@
+Team: Assumption
+Season: 2021 D2
+Record: 2-7
+Winning %: 0.222
+Predicted Winning %: 0.176
+
+Stat Comparison vs League Average:
+  points_per_game: 11.560 (6.081 below average)
+  scoring_defense: 15.110 (3.874 above average)
+  scoring_offense: 7.890 (3.424 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 12.878 (2.825 below average)
+  saves_per_game: 15.110 (3.122 above average)
+  clearing_percentage: 0.724 (0.119 below average)
+  ground_balls_per_game: 27.780 (3.116 below average)
+  shot_percentage: 0.240 (0.051 below average)
+  offensive_efficiency: 32.875 (5.791 below average)

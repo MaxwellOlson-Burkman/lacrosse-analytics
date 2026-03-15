@@ -1,0 +1,17 @@
+Team: Jacksonville
+Season: 2020 D1
+Record: 3-3
+Winning %: 0.500
+Predicted Winning %: 0.558
+
+Stat Comparison vs League Average:
+  points_per_game: 20.330 (2.689 above average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 12.830 (1.516 above average)
+  scoring_margin: 1.830 (0.096 above average)
+  defensive_efficiency: 15.501 (0.202 below average)
+  saves_per_game: 9.670 (2.318 below average)
+  clearing_percentage: 0.935 (0.092 above average)
+  ground_balls_per_game: 32.000 (1.104 above average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 42.204 (3.538 above average)

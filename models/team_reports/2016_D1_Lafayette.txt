@@ -1,0 +1,17 @@
+Team: Lafayette
+Season: 2016 D1
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.226
+
+Stat Comparison vs League Average:
+  points_per_game: 12.430 (5.211 below average)
+  scoring_defense: 11.500 (0.264 above average)
+  scoring_offense: 7.710 (3.604 below average)
+  scoring_margin: -3.790 (5.524 below average)
+  defensive_efficiency: 14.937 (0.766 below average)
+  saves_per_game: 9.790 (2.198 below average)
+  clearing_percentage: 0.746 (0.097 below average)
+  ground_balls_per_game: 28.360 (2.536 below average)
+  shot_percentage: 0.254 (0.037 below average)
+  offensive_efficiency: 30.354 (8.312 below average)

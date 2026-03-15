@@ -1,0 +1,17 @@
+Team: Chestnut Hill
+Season: 2023 D2
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.686
+
+Stat Comparison vs League Average:
+  points_per_game: 18.600 (0.959 above average)
+  scoring_defense: 7.070 (4.166 below average)
+  scoring_offense: 11.070 (0.244 below average)
+  scoring_margin: 4.000 (2.266 above average)
+  defensive_efficiency: 20.286 (4.583 above average)
+  saves_per_game: 12.470 (0.482 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 32.070 (1.174 above average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 39.117 (0.450 above average)

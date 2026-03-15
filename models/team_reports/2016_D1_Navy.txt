@@ -1,0 +1,17 @@
+Team: Navy
+Season: 2016 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.708
+
+Stat Comparison vs League Average:
+  points_per_game: 15.190 (2.451 below average)
+  scoring_defense: 7.380 (3.856 below average)
+  scoring_offense: 9.880 (1.434 below average)
+  scoring_margin: 2.500 (0.766 above average)
+  defensive_efficiency: 18.495 (2.792 above average)
+  saves_per_game: 9.750 (2.238 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 29.630 (1.266 below average)
+  shot_percentage: 0.279 (0.012 below average)
+  offensive_efficiency: 35.412 (3.254 below average)

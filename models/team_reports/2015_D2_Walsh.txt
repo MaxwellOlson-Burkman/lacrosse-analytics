@@ -1,0 +1,17 @@
+Team: Walsh
+Season: 2015 D2
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.256
+
+Stat Comparison vs League Average:
+  points_per_game: 13.230 (4.411 below average)
+  scoring_defense: 11.150 (0.086 below average)
+  scoring_offense: 7.690 (3.624 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 15.322 (0.381 below average)
+  saves_per_game: 10.690 (1.298 below average)
+  clearing_percentage: 0.798 (0.045 below average)
+  ground_balls_per_game: 26.620 (4.276 below average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 27.762 (10.904 below average)

@@ -1,0 +1,17 @@
+Team: Mercy
+Season: 2021 D2
+Record: 9-1
+Winning %: 0.900
+Predicted Winning %: 0.889
+
+Stat Comparison vs League Average:
+  points_per_game: 23.800 (6.159 above average)
+  scoring_defense: 6.800 (4.436 below average)
+  scoring_offense: 14.100 (2.786 above average)
+  scoring_margin: 7.300 (5.566 above average)
+  defensive_efficiency: 19.915 (4.212 above average)
+  saves_per_game: 10.400 (1.588 below average)
+  clearing_percentage: 0.823 (0.020 below average)
+  ground_balls_per_game: 42.100 (11.204 above average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 44.620 (5.954 above average)

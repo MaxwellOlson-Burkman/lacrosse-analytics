@@ -1,0 +1,17 @@
+Team: Boston U.
+Season: 2017 D1
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.673
+
+Stat Comparison vs League Average:
+  points_per_game: 17.350 (0.291 below average)
+  scoring_defense: 8.880 (2.356 below average)
+  scoring_offense: 10.760 (0.554 below average)
+  scoring_margin: 1.880 (0.146 above average)
+  defensive_efficiency: 18.003 (2.300 above average)
+  saves_per_game: 12.710 (0.722 above average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 30.350 (0.546 below average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 34.051 (4.615 below average)

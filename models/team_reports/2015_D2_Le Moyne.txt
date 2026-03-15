@@ -1,0 +1,17 @@
+Team: Le Moyne
+Season: 2015 D2
+Record: 16-3
+Winning %: 0.842
+Predicted Winning %: 0.859
+
+Stat Comparison vs League Average:
+  points_per_game: 21.370 (3.729 above average)
+  scoring_defense: 6.680 (4.556 below average)
+  scoring_offense: 14.210 (2.896 above average)
+  scoring_margin: 7.530 (5.796 above average)
+  defensive_efficiency: 21.303 (5.600 above average)
+  saves_per_game: 13.110 (1.122 above average)
+  clearing_percentage: 0.844 (0.001 above average)
+  ground_balls_per_game: 31.950 (1.054 above average)
+  shot_percentage: 0.334 (0.043 above average)
+  offensive_efficiency: 42.545 (3.879 above average)

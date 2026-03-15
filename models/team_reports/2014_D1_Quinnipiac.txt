@@ -1,0 +1,17 @@
+Team: Quinnipiac
+Season: 2014 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.506
+
+Stat Comparison vs League Average:
+  points_per_game: 17.500 (0.141 below average)
+  scoring_defense: 11.070 (0.166 below average)
+  scoring_offense: 10.570 (0.744 below average)
+  scoring_margin: -0.500 (2.234 below average)
+  defensive_efficiency: 15.798 (0.095 above average)
+  saves_per_game: 13.860 (1.872 above average)
+  clearing_percentage: 0.864 (0.021 above average)
+  ground_balls_per_game: 30.710 (0.186 below average)
+  shot_percentage: 0.295 (0.004 above average)
+  offensive_efficiency: 35.831 (2.836 below average)

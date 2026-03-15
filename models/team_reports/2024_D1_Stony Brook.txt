@@ -1,0 +1,17 @@
+Team: Stony Brook
+Season: 2024 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.540
+
+Stat Comparison vs League Average:
+  points_per_game: 19.360 (1.719 above average)
+  scoring_defense: 11.500 (0.264 above average)
+  scoring_offense: 11.860 (0.546 above average)
+  scoring_margin: 0.360 (1.374 below average)
+  defensive_efficiency: 15.333 (0.370 below average)
+  saves_per_game: 12.710 (0.722 above average)
+  clearing_percentage: 0.835 (0.008 below average)
+  ground_balls_per_game: 30.070 (0.826 below average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 40.616 (1.950 above average)

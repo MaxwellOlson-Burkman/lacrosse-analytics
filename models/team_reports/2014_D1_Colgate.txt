@@ -1,0 +1,17 @@
+Team: Colgate
+Season: 2014 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.500
+
+Stat Comparison vs League Average:
+  points_per_game: 12.380 (5.261 below average)
+  scoring_defense: 8.880 (2.356 below average)
+  scoring_offense: 8.440 (2.874 below average)
+  scoring_margin: -0.440 (2.174 below average)
+  defensive_efficiency: 17.349 (1.646 above average)
+  saves_per_game: 9.880 (2.108 below average)
+  clearing_percentage: 0.858 (0.015 above average)
+  ground_balls_per_game: 29.690 (1.206 below average)
+  shot_percentage: 0.258 (0.033 below average)
+  offensive_efficiency: 32.713 (5.953 below average)

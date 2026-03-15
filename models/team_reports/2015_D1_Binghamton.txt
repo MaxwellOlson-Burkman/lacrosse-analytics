@@ -1,0 +1,17 @@
+Team: Binghamton
+Season: 2015 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.430
+
+Stat Comparison vs League Average:
+  points_per_game: 16.770 (0.871 below average)
+  scoring_defense: 10.770 (0.466 below average)
+  scoring_offense: 10.770 (0.544 below average)
+  scoring_margin: 0.000 (1.734 below average)
+  defensive_efficiency: 14.786 (0.917 below average)
+  saves_per_game: 9.920 (2.068 below average)
+  clearing_percentage: 0.890 (0.047 above average)
+  ground_balls_per_game: 25.850 (5.046 below average)
+  shot_percentage: 0.308 (0.017 above average)
+  offensive_efficiency: 34.968 (3.699 below average)

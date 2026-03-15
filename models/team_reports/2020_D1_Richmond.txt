@@ -1,0 +1,17 @@
+Team: Richmond
+Season: 2020 D1
+Record: 4-3
+Winning %: 0.571
+Predicted Winning %: 0.620
+
+Stat Comparison vs League Average:
+  points_per_game: 20.140 (2.499 above average)
+  scoring_defense: 10.570 (0.666 below average)
+  scoring_offense: 12.710 (1.396 above average)
+  scoring_margin: 2.140 (0.406 above average)
+  defensive_efficiency: 16.857 (1.154 above average)
+  saves_per_game: 13.290 (1.302 above average)
+  clearing_percentage: 0.917 (0.074 above average)
+  ground_balls_per_game: 30.290 (0.606 below average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 37.940 (0.726 below average)

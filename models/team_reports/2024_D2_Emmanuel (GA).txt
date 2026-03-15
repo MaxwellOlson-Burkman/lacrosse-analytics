@@ -1,0 +1,17 @@
+Team: Emmanuel (GA)
+Season: 2024 D2
+Record: 1-15
+Winning %: 0.063
+Predicted Winning %: 0.132
+
+Stat Comparison vs League Average:
+  points_per_game: 13.560 (4.081 below average)
+  scoring_defense: 16.940 (5.704 above average)
+  scoring_offense: 8.250 (3.064 below average)
+  scoring_margin: -8.690 (10.424 below average)
+  defensive_efficiency: 10.970 (4.733 below average)
+  saves_per_game: 16.250 (4.262 above average)
+  clearing_percentage: 0.734 (0.109 below average)
+  ground_balls_per_game: 25.190 (5.706 below average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 27.138 (11.528 below average)

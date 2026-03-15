@@ -1,0 +1,17 @@
+Team: Merrimack
+Season: 2024 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.212
+
+Stat Comparison vs League Average:
+  points_per_game: 16.130 (1.511 below average)
+  scoring_defense: 14.330 (3.094 above average)
+  scoring_offense: 10.400 (0.914 below average)
+  scoring_margin: -3.930 (5.664 below average)
+  defensive_efficiency: 12.046 (3.657 below average)
+  saves_per_game: 13.270 (1.282 above average)
+  clearing_percentage: 0.818 (0.025 below average)
+  ground_balls_per_game: 27.270 (3.626 below average)
+  shot_percentage: 0.261 (0.030 below average)
+  offensive_efficiency: 39.847 (1.181 above average)

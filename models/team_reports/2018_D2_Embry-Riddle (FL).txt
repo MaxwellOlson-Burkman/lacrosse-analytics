@@ -1,0 +1,17 @@
+Team: Embry-Riddle (FL)
+Season: 2018 D2
+Record: 1-12
+Winning %: 0.077
+Predicted Winning %: 0.075
+
+Stat Comparison vs League Average:
+  points_per_game: 7.000 (10.641 below average)
+  scoring_defense: 14.460 (3.224 above average)
+  scoring_offense: 5.230 (6.084 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 11.828 (3.875 below average)
+  saves_per_game: 11.310 (0.678 below average)
+  clearing_percentage: 0.712 (0.131 below average)
+  ground_balls_per_game: 28.850 (2.046 below average)
+  shot_percentage: 0.195 (0.096 below average)
+  offensive_efficiency: 26.821 (11.846 below average)

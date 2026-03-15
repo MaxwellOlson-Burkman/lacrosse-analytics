@@ -1,0 +1,17 @@
+Team: Marquette
+Season: 2023 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.490
+
+Stat Comparison vs League Average:
+  points_per_game: 19.570 (1.929 above average)
+  scoring_defense: 12.500 (1.264 above average)
+  scoring_offense: 13.290 (1.976 above average)
+  scoring_margin: 0.790 (0.944 below average)
+  defensive_efficiency: 14.035 (1.668 below average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.809 (0.034 below average)
+  ground_balls_per_game: 29.930 (0.966 below average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 39.088 (0.422 above average)

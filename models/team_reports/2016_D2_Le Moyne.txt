@@ -1,0 +1,17 @@
+Team: Le Moyne
+Season: 2016 D2
+Record: 20-0
+Winning %: 1.000
+Predicted Winning %: 0.946
+
+Stat Comparison vs League Average:
+  points_per_game: 22.950 (5.309 above average)
+  scoring_defense: 4.900 (6.336 below average)
+  scoring_offense: 14.050 (2.736 above average)
+  scoring_margin: 9.150 (7.416 above average)
+  defensive_efficiency: 22.535 (6.832 above average)
+  saves_per_game: 10.550 (1.438 below average)
+  clearing_percentage: 0.856 (0.013 above average)
+  ground_balls_per_game: 30.050 (0.846 below average)
+  shot_percentage: 0.347 (0.056 above average)
+  offensive_efficiency: 40.490 (1.824 above average)

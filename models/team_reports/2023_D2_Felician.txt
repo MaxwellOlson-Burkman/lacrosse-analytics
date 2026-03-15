@@ -1,0 +1,17 @@
+Team: Felician
+Season: 2023 D2
+Record: 3-9
+Winning %: 0.250
+Predicted Winning %: 0.177
+
+Stat Comparison vs League Average:
+  points_per_game: 11.580 (6.061 below average)
+  scoring_defense: 14.500 (3.264 above average)
+  scoring_offense: 8.080 (3.234 below average)
+  scoring_margin: -6.420 (8.154 below average)
+  defensive_efficiency: 12.719 (2.984 below average)
+  saves_per_game: 12.830 (0.842 above average)
+  clearing_percentage: 0.809 (0.034 below average)
+  ground_balls_per_game: 32.170 (1.274 above average)
+  shot_percentage: 0.206 (0.085 below average)
+  offensive_efficiency: 39.223 (0.557 above average)

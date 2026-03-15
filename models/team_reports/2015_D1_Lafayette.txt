@@ -1,0 +1,17 @@
+Team: Lafayette
+Season: 2015 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.307
+
+Stat Comparison vs League Average:
+  points_per_game: 13.860 (3.781 below average)
+  scoring_defense: 12.210 (0.974 above average)
+  scoring_offense: 9.070 (2.244 below average)
+  scoring_margin: -3.140 (4.874 below average)
+  defensive_efficiency: 14.556 (1.147 below average)
+  saves_per_game: 11.070 (0.918 below average)
+  clearing_percentage: 0.815 (0.028 below average)
+  ground_balls_per_game: 26.790 (4.106 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 34.618 (4.048 below average)

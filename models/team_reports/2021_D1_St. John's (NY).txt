@@ -1,0 +1,17 @@
+Team: St. John's (NY)
+Season: 2021 D1
+Record: 1-10
+Winning %: 0.091
+Predicted Winning %: 0.118
+
+Stat Comparison vs League Average:
+  points_per_game: 14.450 (3.191 below average)
+  scoring_defense: 18.000 (6.764 above average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: -9.000 (10.734 below average)
+  defensive_efficiency: 8.687 (7.016 below average)
+  saves_per_game: 15.090 (3.102 above average)
+  clearing_percentage: 0.762 (0.081 below average)
+  ground_balls_per_game: 25.550 (5.346 below average)
+  shot_percentage: 0.265 (0.026 below average)
+  offensive_efficiency: 33.962 (4.704 below average)

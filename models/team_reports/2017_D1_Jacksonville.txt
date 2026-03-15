@@ -1,0 +1,17 @@
+Team: Jacksonville
+Season: 2017 D1
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.252
+
+Stat Comparison vs League Average:
+  points_per_game: 15.430 (2.211 below average)
+  scoring_defense: 12.570 (1.334 above average)
+  scoring_offense: 9.140 (2.174 below average)
+  scoring_margin: -3.430 (5.164 below average)
+  defensive_efficiency: 13.884 (1.819 below average)
+  saves_per_game: 12.430 (0.442 above average)
+  clearing_percentage: 0.853 (0.010 above average)
+  ground_balls_per_game: 28.070 (2.826 below average)
+  shot_percentage: 0.324 (0.033 above average)
+  offensive_efficiency: 28.210 (10.456 below average)

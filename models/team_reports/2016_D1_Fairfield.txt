@@ -1,0 +1,17 @@
+Team: Fairfield
+Season: 2016 D1
+Record: 9-8
+Winning %: 0.529
+Predicted Winning %: 0.466
+
+Stat Comparison vs League Average:
+  points_per_game: 14.000 (3.641 below average)
+  scoring_defense: 9.350 (1.886 below average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: -0.350 (2.084 below average)
+  defensive_efficiency: 17.585 (1.882 above average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.837 (0.006 below average)
+  ground_balls_per_game: 24.590 (6.306 below average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 33.088 (5.578 below average)

@@ -1,0 +1,17 @@
+Team: Massachusetts
+Season: 2024 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.543
+
+Stat Comparison vs League Average:
+  points_per_game: 17.790 (0.149 above average)
+  scoring_defense: 10.790 (0.446 below average)
+  scoring_offense: 11.860 (0.546 above average)
+  scoring_margin: 1.070 (0.664 below average)
+  defensive_efficiency: 17.118 (1.415 above average)
+  saves_per_game: 13.210 (1.222 above average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 30.860 (0.036 below average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 37.532 (1.134 below average)

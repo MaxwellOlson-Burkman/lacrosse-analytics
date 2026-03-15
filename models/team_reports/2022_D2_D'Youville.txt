@@ -1,0 +1,17 @@
+Team: D'Youville
+Season: 2022 D2
+Record: 0-11
+Winning %: 0.000
+Predicted Winning %: 0.024
+
+Stat Comparison vs League Average:
+  points_per_game: 7.180 (10.461 below average)
+  scoring_defense: 19.640 (8.404 above average)
+  scoring_offense: 4.910 (6.404 below average)
+  scoring_margin: -14.730 (16.464 below average)
+  defensive_efficiency: 6.980 (8.723 below average)
+  saves_per_game: 13.550 (1.562 above average)
+  clearing_percentage: 0.599 (0.244 below average)
+  ground_balls_per_game: 27.910 (2.986 below average)
+  shot_percentage: 0.195 (0.096 below average)
+  offensive_efficiency: 25.179 (13.487 below average)

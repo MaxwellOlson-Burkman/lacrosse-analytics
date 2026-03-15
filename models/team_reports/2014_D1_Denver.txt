@@ -1,0 +1,17 @@
+Team: Denver
+Season: 2014 D1
+Record: 16-3
+Winning %: 0.842
+Predicted Winning %: 0.796
+
+Stat Comparison vs League Average:
+  points_per_game: 20.580 (2.939 above average)
+  scoring_defense: 8.470 (2.766 below average)
+  scoring_offense: 13.210 (1.896 above average)
+  scoring_margin: 4.740 (3.006 above average)
+  defensive_efficiency: 17.879 (2.176 above average)
+  saves_per_game: 10.680 (1.308 below average)
+  clearing_percentage: 0.885 (0.042 above average)
+  ground_balls_per_game: 29.320 (1.576 below average)
+  shot_percentage: 0.371 (0.080 above average)
+  offensive_efficiency: 35.606 (3.060 below average)

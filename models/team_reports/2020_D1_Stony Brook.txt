@@ -1,0 +1,17 @@
+Team: Stony Brook
+Season: 2020 D1
+Record: 5-2
+Winning %: 0.714
+Predicted Winning %: 0.523
+
+Stat Comparison vs League Average:
+  points_per_game: 18.860 (1.219 above average)
+  scoring_defense: 13.000 (1.764 above average)
+  scoring_offense: 13.140 (1.826 above average)
+  scoring_margin: 0.140 (1.594 below average)
+  defensive_efficiency: 13.823 (1.880 below average)
+  saves_per_game: 13.710 (1.722 above average)
+  clearing_percentage: 0.847 (0.004 above average)
+  ground_balls_per_game: 37.000 (6.104 above average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 46.105 (7.439 above average)

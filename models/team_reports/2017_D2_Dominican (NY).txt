@@ -1,0 +1,17 @@
+Team: Dominican (NY)
+Season: 2017 D2
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.320
+
+Stat Comparison vs League Average:
+  points_per_game: 13.530 (4.111 below average)
+  scoring_defense: 12.130 (0.894 above average)
+  scoring_offense: 8.670 (2.644 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 15.499 (0.204 below average)
+  saves_per_game: 12.930 (0.942 above average)
+  clearing_percentage: 0.770 (0.073 below average)
+  ground_balls_per_game: 27.400 (3.496 below average)
+  shot_percentage: 0.251 (0.040 below average)
+  offensive_efficiency: 34.542 (4.124 below average)

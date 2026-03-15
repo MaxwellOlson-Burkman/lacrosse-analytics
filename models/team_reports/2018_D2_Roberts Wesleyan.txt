@@ -1,0 +1,17 @@
+Team: Roberts Wesleyan
+Season: 2018 D2
+Record: 6-10
+Winning %: 0.375
+Predicted Winning %: 0.375
+
+Stat Comparison vs League Average:
+  points_per_game: 15.310 (2.331 below average)
+  scoring_defense: 11.630 (0.394 above average)
+  scoring_offense: 9.880 (1.434 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 16.480 (0.777 above average)
+  saves_per_game: 13.750 (1.762 above average)
+  clearing_percentage: 0.811 (0.032 below average)
+  ground_balls_per_game: 29.380 (1.516 below average)
+  shot_percentage: 0.359 (0.068 above average)
+  offensive_efficiency: 27.521 (11.145 below average)

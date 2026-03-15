@@ -1,0 +1,17 @@
+Team: Wagner
+Season: 2022 D1
+Record: 3-9
+Winning %: 0.250
+Predicted Winning %: 0.276
+
+Stat Comparison vs League Average:
+  points_per_game: 10.000 (7.641 below average)
+  scoring_defense: 10.080 (1.156 below average)
+  scoring_offense: 7.330 (3.984 below average)
+  scoring_margin: -2.750 (4.484 below average)
+  defensive_efficiency: 18.014 (2.311 above average)
+  saves_per_game: 14.330 (2.342 above average)
+  clearing_percentage: 0.832 (0.011 below average)
+  ground_balls_per_game: 23.920 (6.976 below average)
+  shot_percentage: 0.196 (0.095 below average)
+  offensive_efficiency: 37.398 (1.268 below average)

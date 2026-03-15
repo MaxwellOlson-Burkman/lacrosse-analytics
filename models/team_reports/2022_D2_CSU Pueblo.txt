@@ -1,0 +1,17 @@
+Team: CSU Pueblo
+Season: 2022 D2
+Record: 3-9
+Winning %: 0.250
+Predicted Winning %: 0.308
+
+Stat Comparison vs League Average:
+  points_per_game: 15.580 (2.061 below average)
+  scoring_defense: 13.080 (1.844 above average)
+  scoring_offense: 10.080 (1.234 below average)
+  scoring_margin: -3.000 (4.734 below average)
+  defensive_efficiency: 16.125 (0.422 above average)
+  saves_per_game: 15.500 (3.512 above average)
+  clearing_percentage: 0.828 (0.015 below average)
+  ground_balls_per_game: 23.580 (7.316 below average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 33.939 (4.727 below average)

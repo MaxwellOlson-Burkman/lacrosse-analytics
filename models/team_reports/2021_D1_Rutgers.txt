@@ -1,0 +1,17 @@
+Team: Rutgers
+Season: 2021 D1
+Record: 9-4
+Winning %: 0.692
+Predicted Winning %: 0.656
+
+Stat Comparison vs League Average:
+  points_per_game: 22.230 (4.589 above average)
+  scoring_defense: 11.150 (0.086 below average)
+  scoring_offense: 14.310 (2.996 above average)
+  scoring_margin: 3.150 (1.416 above average)
+  defensive_efficiency: 16.285 (0.582 above average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.890 (0.047 above average)
+  ground_balls_per_game: 29.460 (1.436 below average)
+  shot_percentage: 0.323 (0.032 above average)
+  offensive_efficiency: 44.303 (5.637 above average)

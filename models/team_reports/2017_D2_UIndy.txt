@@ -1,0 +1,17 @@
+Team: UIndy
+Season: 2017 D2
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.695
+
+Stat Comparison vs League Average:
+  points_per_game: 17.770 (0.129 above average)
+  scoring_defense: 7.000 (4.236 below average)
+  scoring_offense: 10.770 (0.544 below average)
+  scoring_margin: 3.770 (2.036 above average)
+  defensive_efficiency: 19.811 (4.108 above average)
+  saves_per_game: 10.620 (1.368 below average)
+  clearing_percentage: 0.880 (0.037 above average)
+  ground_balls_per_game: 29.460 (1.436 below average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 37.789 (0.877 below average)

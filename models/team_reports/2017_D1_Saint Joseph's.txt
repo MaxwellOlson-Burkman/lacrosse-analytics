@@ -1,0 +1,17 @@
+Team: Saint Joseph's
+Season: 2017 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.366
+
+Stat Comparison vs League Average:
+  points_per_game: 13.070 (4.571 below average)
+  scoring_defense: 9.930 (1.306 below average)
+  scoring_offense: 8.860 (2.454 below average)
+  scoring_margin: -1.070 (2.804 below average)
+  defensive_efficiency: 16.490 (0.787 above average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.835 (0.008 below average)
+  ground_balls_per_game: 28.210 (2.686 below average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 33.184 (5.483 below average)

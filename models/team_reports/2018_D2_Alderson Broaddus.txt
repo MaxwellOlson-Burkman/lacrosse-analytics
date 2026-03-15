@@ -1,0 +1,17 @@
+Team: Alderson Broaddus
+Season: 2018 D2
+Record: 3-8
+Winning %: 0.273
+Predicted Winning %: 0.184
+
+Stat Comparison vs League Average:
+  points_per_game: 11.910 (5.731 below average)
+  scoring_defense: 15.550 (4.314 above average)
+  scoring_offense: 7.640 (3.674 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 12.771 (2.932 below average)
+  saves_per_game: 16.270 (4.282 above average)
+  clearing_percentage: 0.726 (0.117 below average)
+  ground_balls_per_game: 34.820 (3.924 above average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 24.254 (14.412 below average)

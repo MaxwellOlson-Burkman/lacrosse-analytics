@@ -1,0 +1,17 @@
+Team: Tusculum
+Season: 2014 D2
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.354
+
+Stat Comparison vs League Average:
+  points_per_game: 19.035 (1.394 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.625 (3.922 above average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.000 (0.104 above average)
+  shot_percentage: 0.306 (0.016 above average)
+  offensive_efficiency: 41.664 (2.998 above average)

@@ -1,0 +1,17 @@
+Team: Delaware
+Season: 2014 D1
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.515
+
+Stat Comparison vs League Average:
+  points_per_game: 14.310 (3.331 below average)
+  scoring_defense: 9.000 (2.236 below average)
+  scoring_offense: 9.130 (2.184 below average)
+  scoring_margin: 0.130 (1.604 below average)
+  defensive_efficiency: 17.473 (1.770 above average)
+  saves_per_game: 10.560 (1.428 below average)
+  clearing_percentage: 0.854 (0.011 above average)
+  ground_balls_per_game: 29.690 (1.206 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 33.443 (5.223 below average)

@@ -1,0 +1,17 @@
+Team: Barton
+Season: 2024 D2
+Record: 7-10
+Winning %: 0.412
+Predicted Winning %: 0.545
+
+Stat Comparison vs League Average:
+  points_per_game: 19.760 (2.119 above average)
+  scoring_defense: 11.240 (0.004 above average)
+  scoring_offense: 11.940 (0.626 above average)
+  scoring_margin: 0.710 (1.024 below average)
+  defensive_efficiency: 15.511 (0.192 below average)
+  saves_per_game: 11.120 (0.868 below average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 32.650 (1.754 above average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 43.105 (4.439 above average)

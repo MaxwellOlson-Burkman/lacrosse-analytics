@@ -1,0 +1,17 @@
+Team: Monmouth
+Season: 2015 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.435
+
+Stat Comparison vs League Average:
+  points_per_game: 9.500 (8.141 below average)
+  scoring_defense: 7.640 (3.596 below average)
+  scoring_offense: 6.640 (4.674 below average)
+  scoring_margin: -1.000 (2.734 below average)
+  defensive_efficiency: 19.503 (3.800 above average)
+  saves_per_game: 11.860 (0.128 below average)
+  clearing_percentage: 0.814 (0.029 below average)
+  ground_balls_per_game: 23.000 (7.896 below average)
+  shot_percentage: 0.213 (0.078 below average)
+  offensive_efficiency: 31.174 (7.492 below average)

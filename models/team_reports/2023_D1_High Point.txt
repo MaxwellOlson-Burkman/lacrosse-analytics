@@ -1,0 +1,17 @@
+Team: High Point
+Season: 2023 D1
+Record: 9-8
+Winning %: 0.529
+Predicted Winning %: 0.548
+
+Stat Comparison vs League Average:
+  points_per_game: 22.940 (5.299 above average)
+  scoring_defense: 13.060 (1.824 above average)
+  scoring_offense: 14.120 (2.806 above average)
+  scoring_margin: 1.060 (0.674 below average)
+  defensive_efficiency: 13.081 (2.622 below average)
+  saves_per_game: 10.470 (1.518 below average)
+  clearing_percentage: 0.850 (0.007 above average)
+  ground_balls_per_game: 35.000 (4.104 above average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 46.295 (7.629 above average)

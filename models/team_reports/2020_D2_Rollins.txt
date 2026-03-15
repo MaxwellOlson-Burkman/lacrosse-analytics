@@ -1,0 +1,17 @@
+Team: Rollins
+Season: 2020 D2
+Record: 2-2
+Winning %: 0.500
+Predicted Winning %: 0.527
+
+Stat Comparison vs League Average:
+  points_per_game: 15.000 (2.641 below average)
+  scoring_defense: 8.500 (2.736 below average)
+  scoring_offense: 10.250 (1.064 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 17.080 (1.377 above average)
+  saves_per_game: 8.000 (3.988 below average)
+  clearing_percentage: 0.938 (0.095 above average)
+  ground_balls_per_game: 26.250 (4.646 below average)
+  shot_percentage: 0.232 (0.059 below average)
+  offensive_efficiency: 44.181 (5.515 above average)

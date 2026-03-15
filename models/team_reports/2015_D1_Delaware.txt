@@ -1,0 +1,17 @@
+Team: Delaware
+Season: 2015 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.368
+
+Stat Comparison vs League Average:
+  points_per_game: 14.070 (3.571 below average)
+  scoring_defense: 10.670 (0.566 below average)
+  scoring_offense: 9.070 (2.244 below average)
+  scoring_margin: -1.600 (3.334 below average)
+  defensive_efficiency: 16.054 (0.351 above average)
+  saves_per_game: 11.530 (0.458 below average)
+  clearing_percentage: 0.827 (0.016 below average)
+  ground_balls_per_game: 26.270 (4.626 below average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 31.825 (6.842 below average)

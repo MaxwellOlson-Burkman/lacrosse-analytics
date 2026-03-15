@@ -1,0 +1,17 @@
+Team: Hobart
+Season: 2014 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.330
+
+Stat Comparison vs League Average:
+  points_per_game: 12.670 (4.971 below average)
+  scoring_defense: 10.400 (0.836 below average)
+  scoring_offense: 8.670 (2.644 below average)
+  scoring_margin: -1.730 (3.464 below average)
+  defensive_efficiency: 16.146 (0.443 above average)
+  saves_per_game: 11.270 (0.718 below average)
+  clearing_percentage: 0.823 (0.020 below average)
+  ground_balls_per_game: 24.870 (6.026 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 31.758 (6.908 below average)

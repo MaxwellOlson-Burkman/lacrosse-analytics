@@ -1,0 +1,17 @@
+Team: Binghamton
+Season: 2022 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.390
+
+Stat Comparison vs League Average:
+  points_per_game: 16.640 (1.001 below average)
+  scoring_defense: 11.570 (0.334 above average)
+  scoring_offense: 10.640 (0.674 below average)
+  scoring_margin: -0.930 (2.664 below average)
+  defensive_efficiency: 15.796 (0.093 above average)
+  saves_per_game: 13.570 (1.582 above average)
+  clearing_percentage: 0.821 (0.022 below average)
+  ground_balls_per_game: 27.360 (3.536 below average)
+  shot_percentage: 0.282 (0.009 below average)
+  offensive_efficiency: 37.730 (0.936 below average)

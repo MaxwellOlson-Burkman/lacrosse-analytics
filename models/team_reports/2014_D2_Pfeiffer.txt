@@ -1,0 +1,17 @@
+Team: Pfeiffer
+Season: 2014 D2
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.544
+
+Stat Comparison vs League Average:
+  points_per_game: 18.570 (0.929 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 11.860 (0.546 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.139 (3.436 above average)
+  saves_per_game: 11.140 (0.848 below average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 32.930 (2.034 above average)
+  shot_percentage: 0.303 (0.012 above average)
+  offensive_efficiency: 39.142 (0.476 above average)

@@ -1,0 +1,17 @@
+Team: Mount St. Mary's
+Season: 2020 D1
+Record: 3-5
+Winning %: 0.375
+Predicted Winning %: 0.324
+
+Stat Comparison vs League Average:
+  points_per_game: 13.380 (4.261 below average)
+  scoring_defense: 11.630 (0.394 above average)
+  scoring_offense: 8.750 (2.564 below average)
+  scoring_margin: -2.880 (4.614 below average)
+  defensive_efficiency: 14.759 (0.944 below average)
+  saves_per_game: 10.880 (1.108 below average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 30.380 (0.516 below average)
+  shot_percentage: 0.225 (0.066 below average)
+  offensive_efficiency: 38.889 (0.223 above average)

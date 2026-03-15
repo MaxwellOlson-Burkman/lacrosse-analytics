@@ -1,0 +1,17 @@
+Team: UIndy
+Season: 2022 D2
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.692
+
+Stat Comparison vs League Average:
+  points_per_game: 19.440 (1.799 above average)
+  scoring_defense: 8.110 (3.126 below average)
+  scoring_offense: 12.330 (1.016 above average)
+  scoring_margin: 4.220 (2.486 above average)
+  defensive_efficiency: 18.292 (2.589 above average)
+  saves_per_game: 9.440 (2.548 below average)
+  clearing_percentage: 0.897 (0.054 above average)
+  ground_balls_per_game: 31.440 (0.544 above average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 45.165 (6.499 above average)

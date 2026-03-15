@@ -1,0 +1,17 @@
+Team: Pace
+Season: 2021 D2
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.549
+
+Stat Comparison vs League Average:
+  points_per_game: 17.380 (0.261 below average)
+  scoring_defense: 9.310 (1.926 below average)
+  scoring_offense: 11.230 (0.084 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 17.271 (1.568 above average)
+  saves_per_game: 11.770 (0.218 below average)
+  clearing_percentage: 0.846 (0.003 above average)
+  ground_balls_per_game: 31.000 (0.104 above average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 39.404 (0.737 above average)

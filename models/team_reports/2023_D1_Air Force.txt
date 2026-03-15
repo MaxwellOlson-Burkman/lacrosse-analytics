@@ -1,0 +1,17 @@
+Team: Air Force
+Season: 2023 D1
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.612
+
+Stat Comparison vs League Average:
+  points_per_game: 18.240 (0.599 above average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 12.120 (0.806 above average)
+  scoring_margin: 2.120 (0.386 above average)
+  defensive_efficiency: 17.158 (1.455 above average)
+  saves_per_game: 11.710 (0.278 below average)
+  clearing_percentage: 0.902 (0.059 above average)
+  ground_balls_per_game: 27.120 (3.776 below average)
+  shot_percentage: 0.302 (0.011 above average)
+  offensive_efficiency: 40.132 (1.466 above average)

@@ -1,0 +1,17 @@
+Team: Shorter
+Season: 2024 D2
+Record: 8-8
+Winning %: 0.500
+Predicted Winning %: 0.256
+
+Stat Comparison vs League Average:
+  points_per_game: 15.750 (1.891 below average)
+  scoring_defense: 15.060 (3.824 above average)
+  scoring_offense: 10.810 (0.504 below average)
+  scoring_margin: -4.250 (5.984 below average)
+  defensive_efficiency: 13.639 (2.064 below average)
+  saves_per_game: 17.880 (5.892 above average)
+  clearing_percentage: 0.770 (0.073 below average)
+  ground_balls_per_game: 30.190 (0.706 below average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 36.397 (2.269 below average)

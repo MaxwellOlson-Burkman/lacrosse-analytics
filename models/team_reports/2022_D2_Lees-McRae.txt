@@ -1,0 +1,17 @@
+Team: Lees-McRae
+Season: 2022 D2
+Record: 3-12
+Winning %: 0.200
+Predicted Winning %: 0.184
+
+Stat Comparison vs League Average:
+  points_per_game: 14.670 (2.971 below average)
+  scoring_defense: 18.870 (7.634 above average)
+  scoring_offense: 9.930 (1.384 below average)
+  scoring_margin: -8.930 (10.664 below average)
+  defensive_efficiency: 7.865 (7.838 below average)
+  saves_per_game: 12.400 (0.412 above average)
+  clearing_percentage: 0.767 (0.076 below average)
+  ground_balls_per_game: 29.470 (1.426 below average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 34.479 (4.187 below average)

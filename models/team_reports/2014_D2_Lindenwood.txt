@@ -1,0 +1,17 @@
+Team: Lindenwood
+Season: 2014 D2
+Record: 5-7
+Winning %: 0.417
+Predicted Winning %: 0.496
+
+Stat Comparison vs League Average:
+  points_per_game: 16.830 (0.811 below average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.427 (3.724 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 40.580 (9.684 above average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 44.495 (5.829 above average)

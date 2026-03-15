@@ -1,0 +1,17 @@
+Team: Rutgers
+Season: 2024 D1
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.447
+
+Stat Comparison vs League Average:
+  points_per_game: 15.640 (2.001 below average)
+  scoring_defense: 11.070 (0.166 below average)
+  scoring_offense: 10.430 (0.884 below average)
+  scoring_margin: -0.640 (2.374 below average)
+  defensive_efficiency: 16.110 (0.407 above average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.879 (0.036 above average)
+  ground_balls_per_game: 27.860 (3.036 below average)
+  shot_percentage: 0.260 (0.031 below average)
+  offensive_efficiency: 40.115 (1.449 above average)

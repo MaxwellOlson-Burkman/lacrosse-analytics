@@ -1,0 +1,17 @@
+Team: Richmond
+Season: 2021 D1
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.650
+
+Stat Comparison vs League Average:
+  points_per_game: 20.770 (3.129 above average)
+  scoring_defense: 9.620 (1.616 below average)
+  scoring_offense: 12.460 (1.146 above average)
+  scoring_margin: 2.850 (1.116 above average)
+  defensive_efficiency: 17.314 (1.611 above average)
+  saves_per_game: 11.380 (0.608 below average)
+  clearing_percentage: 0.902 (0.059 above average)
+  ground_balls_per_game: 29.850 (1.046 below average)
+  shot_percentage: 0.312 (0.021 above average)
+  offensive_efficiency: 39.936 (1.270 above average)

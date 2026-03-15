@@ -1,0 +1,17 @@
+Team: Mount Olive
+Season: 2015 D2
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.658
+
+Stat Comparison vs League Average:
+  points_per_game: 17.250 (0.391 below average)
+  scoring_defense: 9.000 (2.236 below average)
+  scoring_offense: 11.560 (0.246 above average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 17.884 (2.181 above average)
+  saves_per_game: 11.130 (0.858 below average)
+  clearing_percentage: 0.854 (0.011 above average)
+  ground_balls_per_game: 32.130 (1.234 above average)
+  shot_percentage: 0.324 (0.033 above average)
+  offensive_efficiency: 35.679 (2.987 below average)

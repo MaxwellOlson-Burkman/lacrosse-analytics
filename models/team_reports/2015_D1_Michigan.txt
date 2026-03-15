@@ -1,0 +1,17 @@
+Team: Michigan
+Season: 2015 D1
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.371
+
+Stat Comparison vs League Average:
+  points_per_game: 14.150 (3.491 below average)
+  scoring_defense: 11.540 (0.304 above average)
+  scoring_offense: 9.850 (1.464 below average)
+  scoring_margin: -1.690 (3.424 below average)
+  defensive_efficiency: 15.921 (0.218 above average)
+  saves_per_game: 13.620 (1.632 above average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 27.620 (3.276 below average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 36.891 (1.775 below average)

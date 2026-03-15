@@ -1,0 +1,17 @@
+Team: Yale
+Season: 2014 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.671
+
+Stat Comparison vs League Average:
+  points_per_game: 17.070 (0.571 below average)
+  scoring_defense: 8.570 (2.666 below average)
+  scoring_offense: 10.500 (0.814 below average)
+  scoring_margin: 1.930 (0.196 above average)
+  defensive_efficiency: 17.620 (1.917 above average)
+  saves_per_game: 9.000 (2.988 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 29.500 (1.396 below average)
+  shot_percentage: 0.284 (0.007 below average)
+  offensive_efficiency: 36.972 (1.694 below average)

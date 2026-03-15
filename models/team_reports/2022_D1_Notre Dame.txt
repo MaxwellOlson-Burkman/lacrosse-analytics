@@ -1,0 +1,17 @@
+Team: Notre Dame
+Season: 2022 D1
+Record: 8-4
+Winning %: 0.667
+Predicted Winning %: 0.717
+
+Stat Comparison vs League Average:
+  points_per_game: 22.500 (4.859 above average)
+  scoring_defense: 10.080 (1.156 below average)
+  scoring_offense: 14.750 (3.436 above average)
+  scoring_margin: 4.670 (2.936 above average)
+  defensive_efficiency: 17.110 (1.407 above average)
+  saves_per_game: 14.250 (2.262 above average)
+  clearing_percentage: 0.907 (0.064 above average)
+  ground_balls_per_game: 32.250 (1.354 above average)
+  shot_percentage: 0.329 (0.038 above average)
+  offensive_efficiency: 44.833 (6.167 above average)

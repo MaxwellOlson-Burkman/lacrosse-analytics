@@ -1,0 +1,17 @@
+Team: Denver
+Season: 2021 D1
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.692
+
+Stat Comparison vs League Average:
+  points_per_game: 22.880 (5.239 above average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 14.180 (2.866 above average)
+  scoring_margin: 4.180 (2.446 above average)
+  defensive_efficiency: 16.470 (0.767 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.873 (0.030 above average)
+  ground_balls_per_game: 32.880 (1.984 above average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 47.584 (8.918 above average)

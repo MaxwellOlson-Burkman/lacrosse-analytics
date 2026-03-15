@@ -1,0 +1,17 @@
+Team: UMBC
+Season: 2022 D1
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.448
+
+Stat Comparison vs League Average:
+  points_per_game: 16.150 (1.491 below average)
+  scoring_defense: 10.080 (1.156 below average)
+  scoring_offense: 10.620 (0.694 below average)
+  scoring_margin: 0.540 (1.194 below average)
+  defensive_efficiency: 16.832 (1.129 above average)
+  saves_per_game: 10.540 (1.448 below average)
+  clearing_percentage: 0.844 (0.001 above average)
+  ground_balls_per_game: 30.230 (0.666 below average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 36.370 (2.296 below average)

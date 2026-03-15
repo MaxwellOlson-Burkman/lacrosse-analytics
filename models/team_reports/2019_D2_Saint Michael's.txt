@@ -1,0 +1,17 @@
+Team: Saint Michael's
+Season: 2019 D2
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.313
+
+Stat Comparison vs League Average:
+  points_per_game: 13.070 (4.571 below average)
+  scoring_defense: 10.600 (0.636 below average)
+  scoring_offense: 8.270 (3.044 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 16.394 (0.691 above average)
+  saves_per_game: 12.730 (0.742 above average)
+  clearing_percentage: 0.754 (0.089 below average)
+  ground_balls_per_game: 32.000 (1.104 above average)
+  shot_percentage: 0.240 (0.051 below average)
+  offensive_efficiency: 34.458 (4.208 below average)

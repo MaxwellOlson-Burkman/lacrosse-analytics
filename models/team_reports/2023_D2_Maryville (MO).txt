@@ -1,0 +1,17 @@
+Team: Maryville (MO)
+Season: 2023 D2
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.605
+
+Stat Comparison vs League Average:
+  points_per_game: 17.140 (0.501 below average)
+  scoring_defense: 9.710 (1.526 below average)
+  scoring_offense: 11.430 (0.116 above average)
+  scoring_margin: 1.710 (0.024 below average)
+  defensive_efficiency: 16.262 (0.559 above average)
+  saves_per_game: 8.790 (3.198 below average)
+  clearing_percentage: 0.847 (0.004 above average)
+  ground_balls_per_game: 33.070 (2.174 above average)
+  shot_percentage: 0.251 (0.040 below average)
+  offensive_efficiency: 45.538 (6.872 above average)

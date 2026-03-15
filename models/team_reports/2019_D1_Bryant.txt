@@ -1,0 +1,17 @@
+Team: Bryant
+Season: 2019 D1
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.354
+
+Stat Comparison vs League Average:
+  points_per_game: 13.790 (3.851 below average)
+  scoring_defense: 10.790 (0.446 below average)
+  scoring_offense: 9.070 (2.244 below average)
+  scoring_margin: -1.710 (3.444 below average)
+  defensive_efficiency: 16.113 (0.410 above average)
+  saves_per_game: 12.710 (0.722 above average)
+  clearing_percentage: 0.786 (0.057 below average)
+  ground_balls_per_game: 30.930 (0.034 above average)
+  shot_percentage: 0.259 (0.032 below average)
+  offensive_efficiency: 35.019 (3.647 below average)

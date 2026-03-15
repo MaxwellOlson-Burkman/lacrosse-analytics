@@ -1,0 +1,17 @@
+Team: Monmouth
+Season: 2024 D1
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.423
+
+Stat Comparison vs League Average:
+  points_per_game: 14.540 (3.101 below average)
+  scoring_defense: 10.540 (0.696 below average)
+  scoring_offense: 9.540 (1.774 below average)
+  scoring_margin: -1.000 (2.734 below average)
+  defensive_efficiency: 16.642 (0.939 above average)
+  saves_per_game: 12.690 (0.702 above average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 28.920 (1.976 below average)
+  shot_percentage: 0.267 (0.024 below average)
+  offensive_efficiency: 35.730 (2.936 below average)

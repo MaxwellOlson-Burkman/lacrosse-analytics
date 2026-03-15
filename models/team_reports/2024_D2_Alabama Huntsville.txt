@@ -1,0 +1,17 @@
+Team: Alabama Huntsville
+Season: 2024 D2
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.511
+
+Stat Comparison vs League Average:
+  points_per_game: 19.750 (2.109 above average)
+  scoring_defense: 12.190 (0.954 above average)
+  scoring_offense: 13.560 (2.246 above average)
+  scoring_margin: 1.380 (0.354 below average)
+  defensive_efficiency: 13.937 (1.766 below average)
+  saves_per_game: 9.440 (2.548 below average)
+  clearing_percentage: 0.824 (0.019 below average)
+  ground_balls_per_game: 32.130 (1.234 above average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 46.122 (7.456 above average)

@@ -1,0 +1,17 @@
+Team: Georgetown
+Season: 2016 D1
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.242
+
+Stat Comparison vs League Average:
+  points_per_game: 11.000 (6.641 below average)
+  scoring_defense: 11.070 (0.166 below average)
+  scoring_offense: 7.140 (4.174 below average)
+  scoring_margin: -3.930 (5.664 below average)
+  defensive_efficiency: 15.385 (0.318 below average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.857 (0.014 above average)
+  ground_balls_per_game: 23.430 (7.466 below average)
+  shot_percentage: 0.221 (0.070 below average)
+  offensive_efficiency: 32.308 (6.358 below average)

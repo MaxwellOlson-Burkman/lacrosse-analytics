@@ -1,0 +1,17 @@
+Team: Air Force
+Season: 2014 D1
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.636
+
+Stat Comparison vs League Average:
+  points_per_game: 18.120 (0.479 above average)
+  scoring_defense: 9.410 (1.826 below average)
+  scoring_offense: 11.710 (0.396 above average)
+  scoring_margin: 2.290 (0.556 above average)
+  defensive_efficiency: 16.558 (0.855 above average)
+  saves_per_game: 9.060 (2.928 below average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 29.120 (1.776 below average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 41.088 (2.422 above average)

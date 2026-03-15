@@ -1,0 +1,17 @@
+Team: Lindenwood
+Season: 2015 D2
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.735
+
+Stat Comparison vs League Average:
+  points_per_game: 19.890 (2.249 above average)
+  scoring_defense: 8.060 (3.176 below average)
+  scoring_offense: 13.220 (1.906 above average)
+  scoring_margin: 5.170 (3.436 above average)
+  defensive_efficiency: 18.792 (3.089 above average)
+  saves_per_game: 11.040 (0.948 below average)
+  clearing_percentage: 0.834 (0.009 below average)
+  ground_balls_per_game: 33.060 (2.164 above average)
+  shot_percentage: 0.339 (0.048 above average)
+  offensive_efficiency: 38.997 (0.331 above average)

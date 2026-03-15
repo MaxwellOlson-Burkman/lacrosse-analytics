@@ -1,0 +1,17 @@
+Team: UAH
+Season: 2022 D2
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.466
+
+Stat Comparison vs League Average:
+  points_per_game: 18.135 (0.494 above average)
+  scoring_defense: 12.100 (0.864 above average)
+  scoring_offense: 11.855 (0.541 above average)
+  scoring_margin: -0.125 (1.859 below average)
+  defensive_efficiency: 15.252 (0.451 below average)
+  saves_per_game: 12.865 (0.877 above average)
+  clearing_percentage: 0.894 (0.051 above average)
+  ground_balls_per_game: 32.170 (1.274 above average)
+  shot_percentage: 0.289 (0.001 below average)
+  offensive_efficiency: 40.950 (2.284 above average)

@@ -1,0 +1,17 @@
+Team: NJIT
+Season: 2015 D1
+Record: 0-12
+Winning %: 0.000
+Predicted Winning %: 0.068
+
+Stat Comparison vs League Average:
+  points_per_game: 6.920 (10.721 below average)
+  scoring_defense: 13.250 (2.014 above average)
+  scoring_offense: 4.500 (6.814 below average)
+  scoring_margin: -8.750 (10.484 below average)
+  defensive_efficiency: 13.284 (2.419 below average)
+  saves_per_game: 11.330 (0.658 below average)
+  clearing_percentage: 0.725 (0.118 below average)
+  ground_balls_per_game: 22.500 (8.396 below average)
+  shot_percentage: 0.172 (0.119 below average)
+  offensive_efficiency: 26.163 (12.503 below average)

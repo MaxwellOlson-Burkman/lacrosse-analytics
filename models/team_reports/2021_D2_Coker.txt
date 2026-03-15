@@ -1,0 +1,17 @@
+Team: Coker
+Season: 2021 D2
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.486
+
+Stat Comparison vs League Average:
+  points_per_game: 22.000 (4.359 above average)
+  scoring_defense: 13.860 (2.624 above average)
+  scoring_offense: 13.790 (2.476 above average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 13.137 (2.566 below average)
+  saves_per_game: 13.140 (1.152 above average)
+  clearing_percentage: 0.824 (0.019 below average)
+  ground_balls_per_game: 35.710 (4.814 above average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 46.905 (8.239 above average)

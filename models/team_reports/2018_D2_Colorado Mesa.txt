@@ -1,0 +1,17 @@
+Team: Colorado Mesa
+Season: 2018 D2
+Record: 17-3
+Winning %: 0.850
+Predicted Winning %: 0.831
+
+Stat Comparison vs League Average:
+  points_per_game: 24.000 (6.359 above average)
+  scoring_defense: 8.150 (3.086 below average)
+  scoring_offense: 15.700 (4.386 above average)
+  scoring_margin: 7.550 (5.816 above average)
+  defensive_efficiency: 18.725 (3.022 above average)
+  saves_per_game: 10.100 (1.888 below average)
+  clearing_percentage: 0.862 (0.019 above average)
+  ground_balls_per_game: 39.950 (9.054 above average)
+  shot_percentage: 0.301 (0.010 above average)
+  offensive_efficiency: 52.159 (13.493 above average)

@@ -1,0 +1,17 @@
+Team: Ohio Valley
+Season: 2017 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.323
+
+Stat Comparison vs League Average:
+  points_per_game: 14.140 (3.501 below average)
+  scoring_defense: 9.875 (1.361 below average)
+  scoring_offense: 9.070 (2.244 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 17.493 (1.790 above average)
+  saves_per_game: 13.360 (1.372 above average)
+  clearing_percentage: 0.735 (0.108 below average)
+  ground_balls_per_game: 29.810 (1.086 below average)
+  shot_percentage: 0.291 (0.000 above average)
+  offensive_efficiency: 31.168 (7.498 below average)

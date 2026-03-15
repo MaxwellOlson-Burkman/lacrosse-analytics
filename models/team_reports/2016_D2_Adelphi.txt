@@ -1,0 +1,17 @@
+Team: Adelphi
+Season: 2016 D2
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.710
+
+Stat Comparison vs League Average:
+  points_per_game: 22.820 (5.179 above average)
+  scoring_defense: 10.650 (0.586 below average)
+  scoring_offense: 14.710 (3.396 above average)
+  scoring_margin: 4.060 (2.326 above average)
+  defensive_efficiency: 15.807 (0.104 above average)
+  saves_per_game: 10.590 (1.398 below average)
+  clearing_percentage: 0.880 (0.037 above average)
+  ground_balls_per_game: 38.820 (7.924 above average)
+  shot_percentage: 0.326 (0.035 above average)
+  offensive_efficiency: 45.123 (6.457 above average)

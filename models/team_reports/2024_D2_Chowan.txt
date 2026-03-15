@@ -1,0 +1,17 @@
+Team: Chowan
+Season: 2024 D2
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.319
+
+Stat Comparison vs League Average:
+  points_per_game: 20.070 (2.429 above average)
+  scoring_defense: 15.860 (4.624 above average)
+  scoring_offense: 12.500 (1.186 above average)
+  scoring_margin: -3.360 (5.094 below average)
+  defensive_efficiency: 11.179 (4.524 below average)
+  saves_per_game: 15.930 (3.942 above average)
+  clearing_percentage: 0.792 (0.051 below average)
+  ground_balls_per_game: 31.360 (0.464 above average)
+  shot_percentage: 0.380 (0.089 above average)
+  offensive_efficiency: 32.895 (5.771 below average)

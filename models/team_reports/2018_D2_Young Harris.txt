@@ -1,0 +1,17 @@
+Team: Young Harris
+Season: 2018 D2
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.737
+
+Stat Comparison vs League Average:
+  points_per_game: 20.710 (3.069 above average)
+  scoring_defense: 7.880 (3.356 below average)
+  scoring_offense: 13.000 (1.686 above average)
+  scoring_margin: 5.120 (3.386 above average)
+  defensive_efficiency: 19.102 (3.399 above average)
+  saves_per_game: 9.940 (2.048 below average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 29.530 (1.366 below average)
+  shot_percentage: 0.351 (0.060 above average)
+  offensive_efficiency: 37.037 (1.629 below average)

@@ -1,0 +1,17 @@
+Team: Limestone
+Season: 2019 D2
+Record: 20-1
+Winning %: 0.952
+Predicted Winning %: 0.894
+
+Stat Comparison vs League Average:
+  points_per_game: 27.670 (10.029 above average)
+  scoring_defense: 8.570 (2.666 below average)
+  scoring_offense: 17.100 (5.786 above average)
+  scoring_margin: 8.520 (6.786 above average)
+  defensive_efficiency: 18.512 (2.809 above average)
+  saves_per_game: 11.240 (0.748 below average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 44.570 (13.674 above average)
+  shot_percentage: 0.368 (0.077 above average)
+  offensive_efficiency: 46.467 (7.801 above average)

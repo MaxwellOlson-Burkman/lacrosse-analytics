@@ -1,0 +1,17 @@
+Team: Wilmington (DE)
+Season: 2020 D2
+Record: 5-0
+Winning %: 1.000
+Predicted Winning %: 0.761
+
+Stat Comparison vs League Average:
+  points_per_game: 19.600 (1.959 above average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 13.000 (1.686 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 18.165 (2.462 above average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 31.200 (0.304 above average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 44.218 (5.552 above average)

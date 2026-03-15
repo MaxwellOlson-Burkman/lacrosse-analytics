@@ -1,0 +1,17 @@
+Team: Wheeling
+Season: 2022 D2
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.256
+
+Stat Comparison vs League Average:
+  points_per_game: 13.540 (4.101 below average)
+  scoring_defense: 12.460 (1.224 above average)
+  scoring_offense: 8.080 (3.234 below average)
+  scoring_margin: -4.380 (6.114 below average)
+  defensive_efficiency: 15.081 (0.622 below average)
+  saves_per_game: 12.920 (0.932 above average)
+  clearing_percentage: 0.739 (0.104 below average)
+  ground_balls_per_game: 25.540 (5.356 below average)
+  shot_percentage: 0.231 (0.060 below average)
+  offensive_efficiency: 34.978 (3.688 below average)

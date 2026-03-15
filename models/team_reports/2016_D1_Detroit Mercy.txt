@@ -1,0 +1,17 @@
+Team: Detroit Mercy
+Season: 2016 D1
+Record: 2-10
+Winning %: 0.167
+Predicted Winning %: 0.238
+
+Stat Comparison vs League Average:
+  points_per_game: 9.580 (8.061 below average)
+  scoring_defense: 9.830 (1.406 below average)
+  scoring_offense: 6.080 (5.234 below average)
+  scoring_margin: -3.750 (5.484 below average)
+  defensive_efficiency: 16.384 (0.681 above average)
+  saves_per_game: 11.830 (0.158 below average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 24.920 (5.976 below average)
+  shot_percentage: 0.201 (0.090 below average)
+  offensive_efficiency: 30.249 (8.417 below average)

@@ -1,0 +1,17 @@
+Team: Marist
+Season: 2024 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.530
+
+Stat Comparison vs League Average:
+  points_per_game: 17.800 (0.159 above average)
+  scoring_defense: 11.400 (0.164 above average)
+  scoring_offense: 11.800 (0.486 above average)
+  scoring_margin: 0.400 (1.334 below average)
+  defensive_efficiency: 16.081 (0.378 above average)
+  saves_per_game: 12.670 (0.682 above average)
+  clearing_percentage: 0.868 (0.025 above average)
+  ground_balls_per_game: 32.670 (1.774 above average)
+  shot_percentage: 0.269 (0.022 below average)
+  offensive_efficiency: 43.866 (5.200 above average)

@@ -1,0 +1,17 @@
+Team: North Carolina
+Season: 2016 D1
+Record: 12-6
+Winning %: 0.667
+Predicted Winning %: 0.649
+
+Stat Comparison vs League Average:
+  points_per_game: 19.610 (1.969 above average)
+  scoring_defense: 10.500 (0.736 below average)
+  scoring_offense: 13.060 (1.746 above average)
+  scoring_margin: 2.560 (0.826 above average)
+  defensive_efficiency: 15.856 (0.153 above average)
+  saves_per_game: 9.670 (2.318 below average)
+  clearing_percentage: 0.829 (0.014 below average)
+  ground_balls_per_game: 30.170 (0.726 below average)
+  shot_percentage: 0.326 (0.035 above average)
+  offensive_efficiency: 40.061 (1.395 above average)

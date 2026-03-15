@@ -1,0 +1,17 @@
+Team: Southern N.H.
+Season: 2020 D2
+Record: 1-2
+Winning %: 0.333
+Predicted Winning %: 0.480
+
+Stat Comparison vs League Average:
+  points_per_game: 17.330 (0.311 below average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 10.670 (0.644 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 16.440 (0.737 above average)
+  saves_per_game: 10.000 (1.988 below average)
+  clearing_percentage: 0.860 (0.017 above average)
+  ground_balls_per_game: 34.000 (3.104 above average)
+  shot_percentage: 0.222 (0.069 below average)
+  offensive_efficiency: 48.063 (9.397 above average)

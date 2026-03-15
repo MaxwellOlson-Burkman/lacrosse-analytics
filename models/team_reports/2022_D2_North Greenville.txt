@@ -1,0 +1,17 @@
+Team: North Greenville
+Season: 2022 D2
+Record: 9-9
+Winning %: 0.500
+Predicted Winning %: 0.532
+
+Stat Comparison vs League Average:
+  points_per_game: 20.940 (3.299 above average)
+  scoring_defense: 12.720 (1.484 above average)
+  scoring_offense: 13.830 (2.516 above average)
+  scoring_margin: 1.110 (0.624 below average)
+  defensive_efficiency: 13.813 (1.890 below average)
+  saves_per_game: 10.110 (1.878 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 34.060 (3.164 above average)
+  shot_percentage: 0.310 (0.019 above average)
+  offensive_efficiency: 44.613 (5.947 above average)

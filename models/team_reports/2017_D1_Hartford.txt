@@ -1,0 +1,17 @@
+Team: Hartford
+Season: 2017 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.548
+
+Stat Comparison vs League Average:
+  points_per_game: 18.000 (0.359 above average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 11.070 (0.244 below average)
+  scoring_margin: 0.070 (1.664 below average)
+  defensive_efficiency: 15.613 (0.090 below average)
+  saves_per_game: 10.710 (1.278 below average)
+  clearing_percentage: 0.874 (0.031 above average)
+  ground_balls_per_game: 28.790 (2.106 below average)
+  shot_percentage: 0.312 (0.021 above average)
+  offensive_efficiency: 35.481 (3.185 below average)

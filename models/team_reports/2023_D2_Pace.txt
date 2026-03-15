@@ -1,0 +1,17 @@
+Team: Pace
+Season: 2023 D2
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.681
+
+Stat Comparison vs League Average:
+  points_per_game: 19.870 (2.229 above average)
+  scoring_defense: 9.800 (1.436 below average)
+  scoring_offense: 12.930 (1.616 above average)
+  scoring_margin: 3.130 (1.396 above average)
+  defensive_efficiency: 16.899 (1.196 above average)
+  saves_per_game: 10.930 (1.058 below average)
+  clearing_percentage: 0.864 (0.021 above average)
+  ground_balls_per_game: 34.870 (3.974 above average)
+  shot_percentage: 0.299 (0.008 above average)
+  offensive_efficiency: 43.244 (4.578 above average)

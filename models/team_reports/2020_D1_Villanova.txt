@@ -1,0 +1,17 @@
+Team: Villanova
+Season: 2020 D1
+Record: 4-3
+Winning %: 0.571
+Predicted Winning %: 0.477
+
+Stat Comparison vs League Average:
+  points_per_game: 19.860 (2.219 above average)
+  scoring_defense: 13.140 (1.904 above average)
+  scoring_offense: 12.570 (1.256 above average)
+  scoring_margin: -0.570 (2.304 below average)
+  defensive_efficiency: 12.962 (2.741 below average)
+  saves_per_game: 12.290 (0.302 above average)
+  clearing_percentage: 0.851 (0.008 above average)
+  ground_balls_per_game: 29.430 (1.466 below average)
+  shot_percentage: 0.296 (0.005 above average)
+  offensive_efficiency: 42.466 (3.800 above average)

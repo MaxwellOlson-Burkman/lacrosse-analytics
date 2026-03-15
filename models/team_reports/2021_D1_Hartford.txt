@@ -1,0 +1,17 @@
+Team: Hartford
+Season: 2021 D1
+Record: 2-5
+Winning %: 0.286
+Predicted Winning %: 0.270
+
+Stat Comparison vs League Average:
+  points_per_game: 13.140 (4.501 below average)
+  scoring_defense: 12.570 (1.334 above average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: -3.570 (5.304 below average)
+  defensive_efficiency: 14.563 (1.140 below average)
+  saves_per_game: 11.710 (0.278 below average)
+  clearing_percentage: 0.862 (0.019 above average)
+  ground_balls_per_game: 29.860 (1.036 below average)
+  shot_percentage: 0.252 (0.039 below average)
+  offensive_efficiency: 35.714 (2.952 below average)

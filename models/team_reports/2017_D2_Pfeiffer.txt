@@ -1,0 +1,17 @@
+Team: Pfeiffer
+Season: 2017 D2
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.349
+
+Stat Comparison vs League Average:
+  points_per_game: 16.750 (0.891 below average)
+  scoring_defense: 12.810 (1.574 above average)
+  scoring_offense: 10.810 (0.504 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 14.949 (0.754 below average)
+  saves_per_game: 14.880 (2.892 above average)
+  clearing_percentage: 0.813 (0.030 below average)
+  ground_balls_per_game: 30.250 (0.646 below average)
+  shot_percentage: 0.341 (0.050 above average)
+  offensive_efficiency: 31.701 (6.965 below average)

@@ -1,0 +1,17 @@
+Team: Siena
+Season: 2020 D1
+Record: 2-4
+Winning %: 0.333
+Predicted Winning %: 0.323
+
+Stat Comparison vs League Average:
+  points_per_game: 18.330 (0.689 above average)
+  scoring_defense: 16.000 (4.764 above average)
+  scoring_offense: 11.830 (0.516 above average)
+  scoring_margin: -4.170 (5.904 below average)
+  defensive_efficiency: 11.414 (4.289 below average)
+  saves_per_game: 14.830 (2.842 above average)
+  clearing_percentage: 0.779 (0.064 below average)
+  ground_balls_per_game: 32.670 (1.774 above average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 43.333 (4.667 above average)

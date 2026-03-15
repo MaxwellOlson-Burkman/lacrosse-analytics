@@ -1,0 +1,17 @@
+Team: Limestone
+Season: 2023 D2
+Record: 16-5
+Winning %: 0.762
+Predicted Winning %: 0.736
+
+Stat Comparison vs League Average:
+  points_per_game: 27.000 (9.359 above average)
+  scoring_defense: 11.190 (0.046 below average)
+  scoring_offense: 17.050 (5.736 above average)
+  scoring_margin: 5.860 (4.126 above average)
+  defensive_efficiency: 15.900 (0.197 above average)
+  saves_per_game: 10.900 (1.088 below average)
+  clearing_percentage: 0.893 (0.050 above average)
+  ground_balls_per_game: 45.100 (14.204 above average)
+  shot_percentage: 0.325 (0.034 above average)
+  offensive_efficiency: 52.462 (13.795 above average)

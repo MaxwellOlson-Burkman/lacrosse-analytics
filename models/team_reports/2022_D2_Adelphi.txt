@@ -1,0 +1,17 @@
+Team: Adelphi
+Season: 2022 D2
+Record: 15-2
+Winning %: 0.882
+Predicted Winning %: 0.750
+
+Stat Comparison vs League Average:
+  points_per_game: 19.290 (1.649 above average)
+  scoring_defense: 7.590 (3.646 below average)
+  scoring_offense: 12.470 (1.156 above average)
+  scoring_margin: 4.880 (3.146 above average)
+  defensive_efficiency: 19.215 (3.512 above average)
+  saves_per_game: 10.650 (1.338 below average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 32.470 (1.574 above average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 41.846 (3.180 above average)

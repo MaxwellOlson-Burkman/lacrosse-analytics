@@ -1,0 +1,17 @@
+Team: Marquette
+Season: 2016 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.605
+
+Stat Comparison vs League Average:
+  points_per_game: 13.630 (4.011 below average)
+  scoring_defense: 8.130 (3.106 below average)
+  scoring_offense: 9.310 (2.004 below average)
+  scoring_margin: 1.190 (0.544 below average)
+  defensive_efficiency: 17.544 (1.841 above average)
+  saves_per_game: 8.380 (3.608 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 26.250 (4.646 below average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 31.347 (7.319 below average)

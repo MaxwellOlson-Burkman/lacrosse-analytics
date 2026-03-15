@@ -1,0 +1,17 @@
+Team: Maryland
+Season: 2015 D1
+Record: 15-4
+Winning %: 0.789
+Predicted Winning %: 0.755
+
+Stat Comparison vs League Average:
+  points_per_game: 14.890 (2.751 below average)
+  scoring_defense: 7.050 (4.186 below average)
+  scoring_offense: 10.210 (1.104 below average)
+  scoring_margin: 3.160 (1.426 above average)
+  defensive_efficiency: 19.364 (3.661 above average)
+  saves_per_game: 9.680 (2.308 below average)
+  clearing_percentage: 0.866 (0.023 above average)
+  ground_balls_per_game: 26.680 (4.216 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 38.969 (0.303 above average)

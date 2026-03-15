@@ -1,0 +1,17 @@
+Team: Montevallo
+Season: 2020 D2
+Record: 3-4
+Winning %: 0.429
+Predicted Winning %: 0.401
+
+Stat Comparison vs League Average:
+  points_per_game: 17.860 (0.219 above average)
+  scoring_defense: 13.290 (2.054 above average)
+  scoring_offense: 11.570 (0.256 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 14.436 (1.267 below average)
+  saves_per_game: 13.570 (1.582 above average)
+  clearing_percentage: 0.766 (0.077 below average)
+  ground_balls_per_game: 29.430 (1.466 below average)
+  shot_percentage: 0.275 (0.016 below average)
+  offensive_efficiency: 42.073 (3.407 above average)

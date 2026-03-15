@@ -1,0 +1,17 @@
+Team: Belmont Abbey
+Season: 2015 D2
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.665
+
+Stat Comparison vs League Average:
+  points_per_game: 18.810 (1.169 above average)
+  scoring_defense: 9.000 (2.236 below average)
+  scoring_offense: 12.630 (1.316 above average)
+  scoring_margin: 3.630 (1.896 above average)
+  defensive_efficiency: 17.778 (2.075 above average)
+  saves_per_game: 10.560 (1.428 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 29.810 (1.086 below average)
+  shot_percentage: 0.322 (0.031 above average)
+  offensive_efficiency: 39.224 (0.557 above average)

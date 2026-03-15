@@ -1,0 +1,17 @@
+Team: Drexel
+Season: 2022 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.411
+
+Stat Comparison vs League Average:
+  points_per_game: 19.640 (1.999 above average)
+  scoring_defense: 13.430 (2.194 above average)
+  scoring_offense: 11.930 (0.616 above average)
+  scoring_margin: -1.500 (3.234 below average)
+  defensive_efficiency: 13.911 (1.792 below average)
+  saves_per_game: 12.570 (0.582 above average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 29.360 (1.536 below average)
+  shot_percentage: 0.318 (0.027 above average)
+  offensive_efficiency: 37.516 (1.150 below average)

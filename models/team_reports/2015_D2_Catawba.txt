@@ -1,0 +1,17 @@
+Team: Catawba
+Season: 2015 D2
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.387
+
+Stat Comparison vs League Average:
+  points_per_game: 14.670 (2.971 below average)
+  scoring_defense: 11.330 (0.094 above average)
+  scoring_offense: 9.470 (1.844 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 14.739 (0.964 below average)
+  saves_per_game: 10.330 (1.658 below average)
+  clearing_percentage: 0.836 (0.007 below average)
+  ground_balls_per_game: 31.600 (0.704 above average)
+  shot_percentage: 0.263 (0.028 below average)
+  offensive_efficiency: 36.008 (2.659 below average)

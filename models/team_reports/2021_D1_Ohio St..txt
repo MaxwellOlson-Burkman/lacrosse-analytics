@@ -1,0 +1,17 @@
+Team: Ohio St.
+Season: 2021 D1
+Record: 4-7
+Winning %: 0.364
+Predicted Winning %: 0.347
+
+Stat Comparison vs League Average:
+  points_per_game: 17.000 (0.641 below average)
+  scoring_defense: 12.910 (1.674 above average)
+  scoring_offense: 11.360 (0.046 above average)
+  scoring_margin: -1.550 (3.284 below average)
+  defensive_efficiency: 13.365 (2.338 below average)
+  saves_per_game: 9.450 (2.538 below average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 29.730 (1.166 below average)
+  shot_percentage: 0.296 (0.005 above average)
+  offensive_efficiency: 38.378 (0.288 below average)

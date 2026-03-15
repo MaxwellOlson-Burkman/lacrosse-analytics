@@ -1,0 +1,17 @@
+Team: UMBC
+Season: 2024 D1
+Record: 5-7
+Winning %: 0.417
+Predicted Winning %: 0.537
+
+Stat Comparison vs League Average:
+  points_per_game: 19.830 (2.189 above average)
+  scoring_defense: 11.580 (0.344 above average)
+  scoring_offense: 12.080 (0.766 above average)
+  scoring_margin: 0.500 (1.234 below average)
+  defensive_efficiency: 14.684 (1.019 below average)
+  saves_per_game: 10.330 (1.658 below average)
+  clearing_percentage: 0.884 (0.041 above average)
+  ground_balls_per_game: 31.750 (0.854 above average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 41.944 (3.278 above average)

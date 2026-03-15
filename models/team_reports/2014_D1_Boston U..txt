@@ -1,0 +1,17 @@
+Team: Boston U.
+Season: 2014 D1
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.238
+
+Stat Comparison vs League Average:
+  points_per_game: 11.790 (5.851 below average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 7.210 (4.104 below average)
+  scoring_margin: -3.790 (5.524 below average)
+  defensive_efficiency: 15.783 (0.080 above average)
+  saves_per_game: 12.360 (0.372 above average)
+  clearing_percentage: 0.769 (0.074 below average)
+  ground_balls_per_game: 26.210 (4.686 below average)
+  shot_percentage: 0.219 (0.072 below average)
+  offensive_efficiency: 32.922 (5.744 below average)

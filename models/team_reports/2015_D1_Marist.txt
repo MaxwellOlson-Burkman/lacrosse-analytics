@@ -1,0 +1,17 @@
+Team: Marist
+Season: 2015 D1
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.704
+
+Stat Comparison vs League Average:
+  points_per_game: 18.830 (1.189 above average)
+  scoring_defense: 8.610 (2.626 below average)
+  scoring_offense: 11.780 (0.466 above average)
+  scoring_margin: 3.170 (1.436 above average)
+  defensive_efficiency: 18.329 (2.626 above average)
+  saves_per_game: 11.280 (0.708 below average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 29.110 (1.786 below average)
+  shot_percentage: 0.320 (0.029 above average)
+  offensive_efficiency: 36.812 (1.854 below average)

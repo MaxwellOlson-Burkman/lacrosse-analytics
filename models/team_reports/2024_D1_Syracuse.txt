@@ -1,0 +1,17 @@
+Team: Syracuse
+Season: 2024 D1
+Record: 12-6
+Winning %: 0.667
+Predicted Winning %: 0.700
+
+Stat Comparison vs League Average:
+  points_per_game: 24.000 (6.359 above average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 14.720 (3.406 above average)
+  scoring_margin: 3.720 (1.986 above average)
+  defensive_efficiency: 15.853 (0.150 above average)
+  saves_per_game: 12.110 (0.122 above average)
+  clearing_percentage: 0.871 (0.028 above average)
+  ground_balls_per_game: 35.890 (4.994 above average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 46.582 (7.916 above average)

@@ -1,0 +1,17 @@
+Team: Rutgers
+Season: 2022 D1
+Record: 15-4
+Winning %: 0.789
+Predicted Winning %: 0.666
+
+Stat Comparison vs League Average:
+  points_per_game: 22.370 (4.729 above average)
+  scoring_defense: 11.320 (0.084 above average)
+  scoring_offense: 14.470 (3.156 above average)
+  scoring_margin: 3.160 (1.426 above average)
+  defensive_efficiency: 15.640 (0.063 below average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.905 (0.062 above average)
+  ground_balls_per_game: 32.050 (1.154 above average)
+  shot_percentage: 0.307 (0.016 above average)
+  offensive_efficiency: 47.134 (8.467 above average)

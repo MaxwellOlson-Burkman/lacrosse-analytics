@@ -1,0 +1,17 @@
+Team: Lake Erie
+Season: 2023 D2
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.478
+
+Stat Comparison vs League Average:
+  points_per_game: 20.440 (2.799 above average)
+  scoring_defense: 12.750 (1.514 above average)
+  scoring_offense: 13.560 (2.246 above average)
+  scoring_margin: 0.810 (0.924 below average)
+  defensive_efficiency: 15.079 (0.624 below average)
+  saves_per_game: 12.130 (0.142 above average)
+  clearing_percentage: 0.806 (0.037 below average)
+  ground_balls_per_game: 33.250 (2.354 above average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 46.122 (7.456 above average)

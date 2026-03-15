@@ -1,0 +1,17 @@
+Team: Molloy
+Season: 2020 D2
+Record: 1-6
+Winning %: 0.143
+Predicted Winning %: 0.154
+
+Stat Comparison vs League Average:
+  points_per_game: 13.290 (4.351 below average)
+  scoring_defense: 15.290 (4.054 above average)
+  scoring_offense: 8.710 (2.604 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 10.868 (4.835 below average)
+  saves_per_game: 12.710 (0.722 above average)
+  clearing_percentage: 0.769 (0.074 below average)
+  ground_balls_per_game: 30.570 (0.326 below average)
+  shot_percentage: 0.248 (0.043 below average)
+  offensive_efficiency: 35.121 (3.545 below average)

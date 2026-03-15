@@ -1,0 +1,17 @@
+Team: Yale
+Season: 2020 D1
+Record: 3-1
+Winning %: 0.750
+Predicted Winning %: 0.652
+
+Stat Comparison vs League Average:
+  points_per_game: 22.000 (4.359 above average)
+  scoring_defense: 11.500 (0.264 above average)
+  scoring_offense: 14.250 (2.936 above average)
+  scoring_margin: 2.750 (1.016 above average)
+  defensive_efficiency: 14.115 (1.588 below average)
+  saves_per_game: 9.750 (2.238 below average)
+  clearing_percentage: 0.642 (0.201 below average)
+  ground_balls_per_game: 34.250 (3.354 above average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 42.537 (3.871 above average)

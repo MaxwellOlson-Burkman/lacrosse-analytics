@@ -1,0 +1,17 @@
+Team: Brown
+Season: 2019 D1
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.527
+
+Stat Comparison vs League Average:
+  points_per_game: 19.250 (1.609 above average)
+  scoring_defense: 11.560 (0.324 above average)
+  scoring_offense: 12.060 (0.746 above average)
+  scoring_margin: 0.500 (1.234 below average)
+  defensive_efficiency: 15.268 (0.435 below average)
+  saves_per_game: 11.560 (0.428 below average)
+  clearing_percentage: 0.818 (0.025 below average)
+  ground_balls_per_game: 34.190 (3.294 above average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 42.316 (3.650 above average)

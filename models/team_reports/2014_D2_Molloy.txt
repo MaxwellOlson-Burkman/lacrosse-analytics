@@ -1,0 +1,17 @@
+Team: Molloy
+Season: 2014 D2
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.634
+
+Stat Comparison vs League Average:
+  points_per_game: 17.790 (0.149 above average)
+  scoring_defense: 8.790 (2.446 below average)
+  scoring_offense: 11.860 (0.546 above average)
+  scoring_margin: 3.070 (1.336 above average)
+  defensive_efficiency: 18.867 (3.164 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.289 (0.002 below average)
+  offensive_efficiency: 41.038 (2.372 above average)

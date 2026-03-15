@@ -1,0 +1,17 @@
+Team: Belmont Abbey
+Season: 2024 D2
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.660
+
+Stat Comparison vs League Average:
+  points_per_game: 20.350 (2.709 above average)
+  scoring_defense: 11.290 (0.054 above average)
+  scoring_offense: 13.240 (1.926 above average)
+  scoring_margin: 1.940 (0.206 above average)
+  defensive_efficiency: 16.111 (0.408 above average)
+  saves_per_game: 12.820 (0.832 above average)
+  clearing_percentage: 0.855 (0.012 above average)
+  ground_balls_per_game: 38.410 (7.514 above average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 45.972 (7.306 above average)

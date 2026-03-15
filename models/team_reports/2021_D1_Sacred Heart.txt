@@ -1,0 +1,17 @@
+Team: Sacred Heart
+Season: 2021 D1
+Record: 1-11
+Winning %: 0.083
+Predicted Winning %: 0.204
+
+Stat Comparison vs League Average:
+  points_per_game: 14.920 (2.721 below average)
+  scoring_defense: 14.080 (2.844 above average)
+  scoring_offense: 9.750 (1.564 below average)
+  scoring_margin: -4.330 (6.064 below average)
+  defensive_efficiency: 13.956 (1.747 below average)
+  saves_per_game: 14.670 (2.682 above average)
+  clearing_percentage: 0.901 (0.058 above average)
+  ground_balls_per_game: 26.500 (4.396 below average)
+  shot_percentage: 0.234 (0.057 below average)
+  offensive_efficiency: 41.667 (3.001 above average)

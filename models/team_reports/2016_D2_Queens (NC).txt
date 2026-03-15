@@ -1,0 +1,17 @@
+Team: Queens (NC)
+Season: 2016 D2
+Record: 11-7
+Winning %: 0.611
+Predicted Winning %: 0.657
+
+Stat Comparison vs League Average:
+  points_per_game: 19.440 (1.799 above average)
+  scoring_defense: 9.560 (1.676 below average)
+  scoring_offense: 12.610 (1.296 above average)
+  scoring_margin: 3.060 (1.326 above average)
+  defensive_efficiency: 17.583 (1.880 above average)
+  saves_per_game: 12.110 (0.122 above average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 32.560 (1.664 above average)
+  shot_percentage: 0.312 (0.021 above average)
+  offensive_efficiency: 40.417 (1.751 above average)

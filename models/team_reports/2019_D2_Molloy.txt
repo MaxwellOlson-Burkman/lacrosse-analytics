@@ -1,0 +1,17 @@
+Team: Molloy
+Season: 2019 D2
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.425
+
+Stat Comparison vs League Average:
+  points_per_game: 15.870 (1.771 below average)
+  scoring_defense: 11.130 (0.106 below average)
+  scoring_offense: 9.870 (1.444 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 16.075 (0.372 above average)
+  saves_per_game: 11.800 (0.188 below average)
+  clearing_percentage: 0.828 (0.015 below average)
+  ground_balls_per_game: 30.470 (0.426 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 36.154 (2.512 below average)

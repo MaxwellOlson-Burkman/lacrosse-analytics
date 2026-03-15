@@ -1,0 +1,17 @@
+Team: Franklin Pierce
+Season: 2024 D2
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.216
+
+Stat Comparison vs League Average:
+  points_per_game: 11.380 (6.261 below average)
+  scoring_defense: 12.310 (1.074 above average)
+  scoring_offense: 7.690 (3.624 below average)
+  scoring_margin: -4.620 (6.354 below average)
+  defensive_efficiency: 15.219 (0.484 below average)
+  saves_per_game: 13.230 (1.242 above average)
+  clearing_percentage: 0.802 (0.041 below average)
+  ground_balls_per_game: 25.770 (5.126 below average)
+  shot_percentage: 0.249 (0.042 below average)
+  offensive_efficiency: 30.884 (7.783 below average)

@@ -1,0 +1,17 @@
+Team: Merrimack
+Season: 2019 D2
+Record: 17-3
+Winning %: 0.850
+Predicted Winning %: 0.767
+
+Stat Comparison vs League Average:
+  points_per_game: 26.100 (8.459 above average)
+  scoring_defense: 9.800 (1.436 below average)
+  scoring_offense: 15.950 (4.636 above average)
+  scoring_margin: 6.150 (4.416 above average)
+  defensive_efficiency: 16.885 (1.182 above average)
+  saves_per_game: 10.600 (1.388 below average)
+  clearing_percentage: 0.818 (0.025 below average)
+  ground_balls_per_game: 34.250 (3.354 above average)
+  shot_percentage: 0.379 (0.088 above average)
+  offensive_efficiency: 42.084 (3.418 above average)

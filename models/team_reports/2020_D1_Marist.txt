@@ -1,0 +1,17 @@
+Team: Marist
+Season: 2020 D1
+Record: 3-3
+Winning %: 0.500
+Predicted Winning %: 0.627
+
+Stat Comparison vs League Average:
+  points_per_game: 21.330 (3.689 above average)
+  scoring_defense: 11.170 (0.066 below average)
+  scoring_offense: 13.170 (1.856 above average)
+  scoring_margin: 2.000 (0.266 above average)
+  defensive_efficiency: 16.221 (0.518 above average)
+  saves_per_game: 11.170 (0.818 below average)
+  clearing_percentage: 0.810 (0.033 below average)
+  ground_balls_per_game: 32.830 (1.934 above average)
+  shot_percentage: 0.324 (0.033 above average)
+  offensive_efficiency: 40.648 (1.982 above average)

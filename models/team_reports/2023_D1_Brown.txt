@@ -1,0 +1,17 @@
+Team: Brown
+Season: 2023 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.445
+
+Stat Comparison vs League Average:
+  points_per_game: 19.430 (1.789 above average)
+  scoring_defense: 13.210 (1.974 above average)
+  scoring_offense: 12.360 (1.046 above average)
+  scoring_margin: -0.860 (2.594 below average)
+  defensive_efficiency: 13.780 (1.923 below average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.877 (0.034 above average)
+  ground_balls_per_game: 32.210 (1.314 above average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 43.368 (4.702 above average)

@@ -1,0 +1,17 @@
+Team: Quinnipiac
+Season: 2022 D1
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.217
+
+Stat Comparison vs League Average:
+  points_per_game: 15.770 (1.871 below average)
+  scoring_defense: 14.080 (2.844 above average)
+  scoring_offense: 10.380 (0.934 below average)
+  scoring_margin: -3.690 (5.424 below average)
+  defensive_efficiency: 12.148 (3.555 below average)
+  saves_per_game: 13.310 (1.322 above average)
+  clearing_percentage: 0.799 (0.044 below average)
+  ground_balls_per_game: 31.540 (0.644 above average)
+  shot_percentage: 0.248 (0.043 below average)
+  offensive_efficiency: 41.855 (3.189 above average)

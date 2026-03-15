@@ -1,0 +1,17 @@
+Team: Queens (NC)
+Season: 2021 D2
+Record: 7-4
+Winning %: 0.636
+Predicted Winning %: 0.570
+
+Stat Comparison vs League Average:
+  points_per_game: 19.450 (1.809 above average)
+  scoring_defense: 10.910 (0.326 below average)
+  scoring_offense: 12.820 (1.506 above average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 17.022 (1.319 above average)
+  saves_per_game: 14.090 (2.102 above average)
+  clearing_percentage: 0.807 (0.036 below average)
+  ground_balls_per_game: 31.360 (0.464 above average)
+  shot_percentage: 0.344 (0.053 above average)
+  offensive_efficiency: 37.267 (1.399 below average)

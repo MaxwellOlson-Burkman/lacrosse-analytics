@@ -1,0 +1,17 @@
+Team: Mount St. Mary's
+Season: 2023 D1
+Record: 8-8
+Winning %: 0.500
+Predicted Winning %: 0.453
+
+Stat Comparison vs League Average:
+  points_per_game: 17.060 (0.581 below average)
+  scoring_defense: 12.060 (0.824 above average)
+  scoring_offense: 10.750 (0.564 below average)
+  scoring_margin: -1.310 (3.044 below average)
+  defensive_efficiency: 14.087 (1.616 below average)
+  saves_per_game: 9.690 (2.298 below average)
+  clearing_percentage: 0.880 (0.037 above average)
+  ground_balls_per_game: 35.060 (4.164 above average)
+  shot_percentage: 0.257 (0.034 below average)
+  offensive_efficiency: 41.829 (3.163 above average)

@@ -1,0 +1,17 @@
+Team: Bryant
+Season: 2017 D1
+Record: 11-8
+Winning %: 0.579
+Predicted Winning %: 0.637
+
+Stat Comparison vs League Average:
+  points_per_game: 15.680 (1.961 below average)
+  scoring_defense: 8.160 (3.076 below average)
+  scoring_offense: 10.050 (1.264 below average)
+  scoring_margin: 1.890 (0.156 above average)
+  defensive_efficiency: 17.702 (1.999 above average)
+  saves_per_game: 9.790 (2.198 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 28.890 (2.006 below average)
+  shot_percentage: 0.286 (0.005 below average)
+  offensive_efficiency: 35.140 (3.526 below average)

@@ -1,0 +1,17 @@
+Team: High Point
+Season: 2021 D1
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.518
+
+Stat Comparison vs League Average:
+  points_per_game: 20.570 (2.929 above average)
+  scoring_defense: 13.860 (2.624 above average)
+  scoring_offense: 13.360 (2.046 above average)
+  scoring_margin: -0.500 (2.234 below average)
+  defensive_efficiency: 12.240 (3.463 below average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 28.500 (2.396 below average)
+  shot_percentage: 0.356 (0.065 above average)
+  offensive_efficiency: 37.528 (1.138 below average)

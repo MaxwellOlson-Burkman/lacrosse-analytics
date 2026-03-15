@@ -1,0 +1,17 @@
+Team: Frostburg St.
+Season: 2020 D2
+Record: 5-0
+Winning %: 1.000
+Predicted Winning %: 0.918
+
+Stat Comparison vs League Average:
+  points_per_game: 28.000 (10.359 above average)
+  scoring_defense: 8.000 (3.236 below average)
+  scoring_offense: 18.400 (7.086 above average)
+  scoring_margin: 10.400 (8.666 above average)
+  defensive_efficiency: 18.350 (2.647 above average)
+  saves_per_game: 9.400 (2.588 below average)
+  clearing_percentage: 0.887 (0.044 above average)
+  ground_balls_per_game: 42.000 (11.104 above average)
+  shot_percentage: 0.347 (0.056 above average)
+  offensive_efficiency: 53.026 (14.360 above average)

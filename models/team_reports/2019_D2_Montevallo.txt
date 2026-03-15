@@ -1,0 +1,17 @@
+Team: Montevallo
+Season: 2019 D2
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.491
+
+Stat Comparison vs League Average:
+  points_per_game: 19.670 (2.029 above average)
+  scoring_defense: 13.070 (1.834 above average)
+  scoring_offense: 13.270 (1.956 above average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 14.974 (0.729 below average)
+  saves_per_game: 14.730 (2.742 above average)
+  clearing_percentage: 0.739 (0.104 below average)
+  ground_balls_per_game: 41.000 (10.104 above average)
+  shot_percentage: 0.295 (0.004 above average)
+  offensive_efficiency: 44.983 (6.317 above average)

@@ -1,0 +1,17 @@
+Team: Manhattan
+Season: 2014 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.254
+
+Stat Comparison vs League Average:
+  points_per_game: 10.470 (7.171 below average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 7.130 (4.184 below average)
+  scoring_margin: -3.870 (5.604 below average)
+  defensive_efficiency: 15.871 (0.168 above average)
+  saves_per_game: 13.070 (1.082 above average)
+  clearing_percentage: 0.730 (0.113 below average)
+  ground_balls_per_game: 27.870 (3.026 below average)
+  shot_percentage: 0.253 (0.038 below average)
+  offensive_efficiency: 28.182 (10.484 below average)

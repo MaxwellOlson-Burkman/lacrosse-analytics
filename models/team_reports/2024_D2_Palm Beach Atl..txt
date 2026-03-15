@@ -1,0 +1,17 @@
+Team: Palm Beach Atl.
+Season: 2024 D2
+Record: 6-5
+Winning %: 0.545
+Predicted Winning %: 0.318
+
+Stat Comparison vs League Average:
+  points_per_game: 16.360 (1.281 below average)
+  scoring_defense: 12.820 (1.584 above average)
+  scoring_offense: 11.270 (0.044 below average)
+  scoring_margin: -1.550 (3.284 below average)
+  defensive_efficiency: 14.335 (1.368 below average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.818 (0.025 below average)
+  ground_balls_per_game: 26.000 (4.896 below average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 39.132 (0.466 above average)

@@ -1,0 +1,17 @@
+Team: Penn
+Season: 2017 D1
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.524
+
+Stat Comparison vs League Average:
+  points_per_game: 16.920 (0.721 below average)
+  scoring_defense: 10.770 (0.466 below average)
+  scoring_offense: 11.310 (0.004 below average)
+  scoring_margin: 0.540 (1.194 below average)
+  defensive_efficiency: 16.315 (0.612 above average)
+  saves_per_game: 10.150 (1.838 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 26.690 (4.206 below average)
+  shot_percentage: 0.308 (0.017 above average)
+  offensive_efficiency: 36.721 (1.945 below average)

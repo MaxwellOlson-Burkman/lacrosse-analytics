@@ -1,0 +1,17 @@
+Team: Fairfield
+Season: 2020 D1
+Record: 5-2
+Winning %: 0.714
+Predicted Winning %: 0.649
+
+Stat Comparison vs League Average:
+  points_per_game: 26.710 (9.069 above average)
+  scoring_defense: 15.570 (4.334 above average)
+  scoring_offense: 16.430 (5.116 above average)
+  scoring_margin: 0.860 (0.874 below average)
+  defensive_efficiency: 11.368 (4.335 below average)
+  saves_per_game: 13.860 (1.872 above average)
+  clearing_percentage: 0.787 (0.056 below average)
+  ground_balls_per_game: 35.860 (4.964 above average)
+  shot_percentage: 0.354 (0.063 above average)
+  offensive_efficiency: 46.412 (7.746 above average)

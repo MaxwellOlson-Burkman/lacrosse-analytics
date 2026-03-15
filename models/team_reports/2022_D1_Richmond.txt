@@ -1,0 +1,17 @@
+Team: Richmond
+Season: 2022 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.722
+
+Stat Comparison vs League Average:
+  points_per_game: 23.060 (5.419 above average)
+  scoring_defense: 10.060 (1.176 below average)
+  scoring_offense: 14.000 (2.686 above average)
+  scoring_margin: 3.940 (2.206 above average)
+  defensive_efficiency: 16.552 (0.849 above average)
+  saves_per_game: 13.190 (1.202 above average)
+  clearing_percentage: 0.857 (0.014 above average)
+  ground_balls_per_game: 32.560 (1.664 above average)
+  shot_percentage: 0.323 (0.032 above average)
+  offensive_efficiency: 43.344 (4.678 above average)

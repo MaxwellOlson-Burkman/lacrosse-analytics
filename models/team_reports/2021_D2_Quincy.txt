@@ -1,0 +1,17 @@
+Team: Quincy
+Season: 2021 D2
+Record: 0-10
+Winning %: 0.000
+Predicted Winning %: 0.040
+
+Stat Comparison vs League Average:
+  points_per_game: 6.000 (11.641 below average)
+  scoring_defense: 16.200 (4.964 above average)
+  scoring_offense: 4.200 (7.114 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 12.080 (3.623 below average)
+  saves_per_game: 15.100 (3.112 above average)
+  clearing_percentage: 0.755 (0.088 below average)
+  ground_balls_per_game: 19.100 (11.796 below average)
+  shot_percentage: 0.186 (0.105 below average)
+  offensive_efficiency: 22.581 (16.085 below average)

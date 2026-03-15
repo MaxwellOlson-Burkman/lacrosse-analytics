@@ -1,0 +1,17 @@
+Team: High Point
+Season: 2014 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.524
+
+Stat Comparison vs League Average:
+  points_per_game: 15.310 (2.331 below average)
+  scoring_defense: 9.440 (1.796 below average)
+  scoring_offense: 9.630 (1.684 below average)
+  scoring_margin: 0.190 (1.544 below average)
+  defensive_efficiency: 18.630 (2.927 above average)
+  saves_per_game: 14.000 (2.012 above average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 31.250 (0.354 above average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 34.640 (4.026 below average)

@@ -1,0 +1,17 @@
+Team: Lenoir-Rhyne
+Season: 2023 D2
+Record: 18-3
+Winning %: 0.857
+Predicted Winning %: 0.830
+
+Stat Comparison vs League Average:
+  points_per_game: 26.330 (8.689 above average)
+  scoring_defense: 8.100 (3.136 below average)
+  scoring_offense: 16.380 (5.066 above average)
+  scoring_margin: 8.290 (6.556 above average)
+  defensive_efficiency: 18.745 (3.042 above average)
+  saves_per_game: 11.100 (0.888 below average)
+  clearing_percentage: 0.876 (0.033 above average)
+  ground_balls_per_game: 31.480 (0.584 above average)
+  shot_percentage: 0.325 (0.034 above average)
+  offensive_efficiency: 50.400 (11.734 above average)

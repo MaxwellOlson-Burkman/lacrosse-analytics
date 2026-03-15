@@ -1,0 +1,17 @@
+Team: Navy
+Season: 2019 D1
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.429
+
+Stat Comparison vs League Average:
+  points_per_game: 17.690 (0.049 above average)
+  scoring_defense: 12.080 (0.844 above average)
+  scoring_offense: 10.620 (0.694 below average)
+  scoring_margin: -1.460 (3.194 below average)
+  defensive_efficiency: 14.483 (1.220 below average)
+  saves_per_game: 13.310 (1.322 above average)
+  clearing_percentage: 0.770 (0.073 below average)
+  ground_balls_per_game: 31.920 (1.024 above average)
+  shot_percentage: 0.266 (0.025 below average)
+  offensive_efficiency: 39.925 (1.259 above average)

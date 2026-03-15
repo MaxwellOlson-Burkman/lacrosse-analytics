@@ -1,0 +1,17 @@
+Team: Lindenwood
+Season: 2022 D2
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.710
+
+Stat Comparison vs League Average:
+  points_per_game: 19.750 (2.109 above average)
+  scoring_defense: 7.880 (3.356 below average)
+  scoring_offense: 12.440 (1.126 above average)
+  scoring_margin: 4.560 (2.826 above average)
+  defensive_efficiency: 18.848 (3.145 above average)
+  saves_per_game: 10.560 (1.428 below average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 34.560 (3.664 above average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 43.958 (5.291 above average)

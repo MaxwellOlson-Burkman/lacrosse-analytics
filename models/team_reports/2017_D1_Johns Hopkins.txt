@@ -1,0 +1,17 @@
+Team: Johns Hopkins
+Season: 2017 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.527
+
+Stat Comparison vs League Average:
+  points_per_game: 18.270 (0.629 above average)
+  scoring_defense: 11.470 (0.234 above average)
+  scoring_offense: 11.600 (0.286 above average)
+  scoring_margin: 0.130 (1.604 below average)
+  defensive_efficiency: 13.915 (1.788 below average)
+  saves_per_game: 9.200 (2.788 below average)
+  clearing_percentage: 0.896 (0.053 above average)
+  ground_balls_per_game: 26.670 (4.226 below average)
+  shot_percentage: 0.310 (0.019 above average)
+  offensive_efficiency: 37.419 (1.247 below average)

@@ -1,0 +1,17 @@
+Team: Rollins
+Season: 2023 D2
+Record: 15-2
+Winning %: 0.882
+Predicted Winning %: 0.756
+
+Stat Comparison vs League Average:
+  points_per_game: 23.120 (5.479 above average)
+  scoring_defense: 9.760 (1.476 below average)
+  scoring_offense: 15.180 (3.866 above average)
+  scoring_margin: 5.410 (3.676 above average)
+  defensive_efficiency: 17.428 (1.725 above average)
+  saves_per_game: 12.710 (0.722 above average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 31.940 (1.044 above average)
+  shot_percentage: 0.334 (0.043 above average)
+  offensive_efficiency: 45.449 (6.783 above average)

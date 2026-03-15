@@ -1,0 +1,17 @@
+Team: Syracuse
+Season: 2015 D1
+Record: 13-3
+Winning %: 0.813
+Predicted Winning %: 0.799
+
+Stat Comparison vs League Average:
+  points_per_game: 23.630 (5.989 above average)
+  scoring_defense: 9.630 (1.606 below average)
+  scoring_offense: 14.880 (3.566 above average)
+  scoring_margin: 5.250 (3.516 above average)
+  defensive_efficiency: 16.924 (1.221 above average)
+  saves_per_game: 10.380 (1.608 below average)
+  clearing_percentage: 0.905 (0.062 above average)
+  ground_balls_per_game: 34.560 (3.664 above average)
+  shot_percentage: 0.343 (0.052 above average)
+  offensive_efficiency: 43.382 (4.716 above average)

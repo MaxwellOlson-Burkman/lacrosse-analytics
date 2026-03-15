@@ -1,0 +1,17 @@
+Team: Young Harris
+Season: 2016 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.739
+
+Stat Comparison vs League Average:
+  points_per_game: 20.930 (3.289 above average)
+  scoring_defense: 8.870 (2.366 below average)
+  scoring_offense: 14.200 (2.886 above average)
+  scoring_margin: 5.330 (3.596 above average)
+  defensive_efficiency: 17.774 (2.071 above average)
+  saves_per_game: 10.530 (1.458 below average)
+  clearing_percentage: 0.862 (0.019 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 41.765 (3.099 above average)

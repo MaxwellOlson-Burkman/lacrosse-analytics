@@ -1,0 +1,17 @@
+Team: Marquette
+Season: 2014 D1
+Record: 6-10
+Winning %: 0.375
+Predicted Winning %: 0.337
+
+Stat Comparison vs League Average:
+  points_per_game: 13.810 (3.831 below average)
+  scoring_defense: 11.560 (0.324 above average)
+  scoring_offense: 9.250 (2.064 below average)
+  scoring_margin: -2.310 (4.044 below average)
+  defensive_efficiency: 13.232 (2.471 below average)
+  saves_per_game: 8.190 (3.798 below average)
+  clearing_percentage: 0.883 (0.040 above average)
+  ground_balls_per_game: 26.440 (4.456 below average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 32.230 (6.436 below average)

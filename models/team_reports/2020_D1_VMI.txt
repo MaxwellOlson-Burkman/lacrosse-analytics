@@ -1,0 +1,17 @@
+Team: VMI
+Season: 2020 D1
+Record: 0-4
+Winning %: 0.000
+Predicted Winning %: 0.110
+
+Stat Comparison vs League Average:
+  points_per_game: 11.250 (6.391 below average)
+  scoring_defense: 12.750 (1.514 above average)
+  scoring_offense: 8.000 (3.314 below average)
+  scoring_margin: -4.750 (6.484 below average)
+  defensive_efficiency: 13.630 (2.073 below average)
+  saves_per_game: 11.750 (0.238 below average)
+  clearing_percentage: 0.833 (0.010 below average)
+  ground_balls_per_game: 28.750 (2.146 below average)
+  shot_percentage: 0.276 (0.015 below average)
+  offensive_efficiency: 28.986 (9.681 below average)

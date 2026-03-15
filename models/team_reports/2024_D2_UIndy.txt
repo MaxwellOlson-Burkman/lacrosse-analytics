@@ -1,0 +1,17 @@
+Team: UIndy
+Season: 2024 D2
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.668
+
+Stat Comparison vs League Average:
+  points_per_game: 17.940 (0.299 above average)
+  scoring_defense: 8.710 (2.526 below average)
+  scoring_offense: 11.940 (0.626 above average)
+  scoring_margin: 3.240 (1.506 above average)
+  defensive_efficiency: 17.645 (1.942 above average)
+  saves_per_game: 9.350 (2.638 below average)
+  clearing_percentage: 0.887 (0.044 above average)
+  ground_balls_per_game: 37.650 (6.754 above average)
+  shot_percentage: 0.248 (0.043 below average)
+  offensive_efficiency: 48.145 (9.479 above average)

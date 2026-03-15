@@ -1,0 +1,17 @@
+Team: Fla. Southern
+Season: 2014 D2
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.728
+
+Stat Comparison vs League Average:
+  points_per_game: 22.470 (4.829 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 14.530 (3.216 above average)
+  scoring_margin: 5.270 (3.536 above average)
+  defensive_efficiency: 19.427 (3.724 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.896 (0.053 above average)
+  ground_balls_per_game: 36.600 (5.704 above average)
+  shot_percentage: 0.324 (0.033 above average)
+  offensive_efficiency: 44.846 (6.180 above average)

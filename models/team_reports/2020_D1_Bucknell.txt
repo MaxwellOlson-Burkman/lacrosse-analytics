@@ -1,0 +1,17 @@
+Team: Bucknell
+Season: 2020 D1
+Record: 5-1
+Winning %: 0.833
+Predicted Winning %: 0.764
+
+Stat Comparison vs League Average:
+  points_per_game: 23.330 (5.689 above average)
+  scoring_defense: 9.830 (1.406 below average)
+  scoring_offense: 14.670 (3.356 above average)
+  scoring_margin: 4.830 (3.096 above average)
+  defensive_efficiency: 16.314 (0.611 above average)
+  saves_per_game: 10.830 (1.158 below average)
+  clearing_percentage: 0.847 (0.004 above average)
+  ground_balls_per_game: 39.830 (8.934 above average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 50.068 (11.402 above average)

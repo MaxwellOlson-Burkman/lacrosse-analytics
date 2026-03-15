@@ -1,0 +1,17 @@
+Team: St. Bonaventure
+Season: 2022 D1
+Record: 11-4
+Winning %: 0.733
+Predicted Winning %: 0.595
+
+Stat Comparison vs League Average:
+  points_per_game: 17.400 (0.241 below average)
+  scoring_defense: 8.930 (2.306 below average)
+  scoring_offense: 10.730 (0.584 below average)
+  scoring_margin: 1.800 (0.066 above average)
+  defensive_efficiency: 19.706 (4.003 above average)
+  saves_per_game: 17.470 (5.482 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 27.330 (3.566 below average)
+  shot_percentage: 0.311 (0.020 above average)
+  offensive_efficiency: 34.502 (4.165 below average)

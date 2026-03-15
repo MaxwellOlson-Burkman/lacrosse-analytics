@@ -1,0 +1,17 @@
+Team: Shorter
+Season: 2016 D2
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.516
+
+Stat Comparison vs League Average:
+  points_per_game: 17.210 (0.431 below average)
+  scoring_defense: 11.070 (0.166 below average)
+  scoring_offense: 12.210 (0.896 above average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.057 (0.354 above average)
+  saves_per_game: 12.640 (0.652 above average)
+  clearing_percentage: 0.891 (0.048 above average)
+  ground_balls_per_game: 30.860 (0.036 below average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 40.973 (2.307 above average)

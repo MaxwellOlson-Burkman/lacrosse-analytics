@@ -1,0 +1,17 @@
+Team: Providence
+Season: 2017 D1
+Record: 10-7
+Winning %: 0.588
+Predicted Winning %: 0.603
+
+Stat Comparison vs League Average:
+  points_per_game: 14.940 (2.701 below average)
+  scoring_defense: 8.350 (2.886 below average)
+  scoring_offense: 9.650 (1.664 below average)
+  scoring_margin: 1.290 (0.444 below average)
+  defensive_efficiency: 18.573 (2.870 above average)
+  saves_per_game: 10.710 (1.278 below average)
+  clearing_percentage: 0.878 (0.035 above average)
+  ground_balls_per_game: 26.760 (4.136 below average)
+  shot_percentage: 0.252 (0.039 below average)
+  offensive_efficiency: 38.294 (0.372 below average)

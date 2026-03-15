@@ -1,0 +1,17 @@
+Team: Rockhurst
+Season: 2015 D2
+Record: 7-5
+Winning %: 0.583
+Predicted Winning %: 0.650
+
+Stat Comparison vs League Average:
+  points_per_game: 20.250 (2.609 above average)
+  scoring_defense: 9.750 (1.486 below average)
+  scoring_offense: 13.250 (1.936 above average)
+  scoring_margin: 3.500 (1.766 above average)
+  defensive_efficiency: 16.989 (1.286 above average)
+  saves_per_game: 9.080 (2.908 below average)
+  clearing_percentage: 0.895 (0.052 above average)
+  ground_balls_per_game: 30.830 (0.066 below average)
+  shot_percentage: 0.275 (0.016 below average)
+  offensive_efficiency: 48.182 (9.516 above average)

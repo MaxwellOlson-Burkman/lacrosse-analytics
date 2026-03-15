@@ -1,0 +1,17 @@
+Team: Felician
+Season: 2018 D2
+Record: 1-11
+Winning %: 0.083
+Predicted Winning %: 0.070
+
+Stat Comparison vs League Average:
+  points_per_game: 7.670 (9.971 below average)
+  scoring_defense: 15.420 (4.184 above average)
+  scoring_offense: 5.080 (6.234 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 12.430 (3.273 below average)
+  saves_per_game: 15.250 (3.262 above average)
+  clearing_percentage: 0.685 (0.158 below average)
+  ground_balls_per_game: 26.830 (4.066 below average)
+  shot_percentage: 0.228 (0.063 below average)
+  offensive_efficiency: 22.281 (16.385 below average)

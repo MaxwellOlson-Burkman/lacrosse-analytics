@@ -1,0 +1,17 @@
+Team: Lewis
+Season: 2020 D2
+Record: 5-2
+Winning %: 0.714
+Predicted Winning %: 0.774
+
+Stat Comparison vs League Average:
+  points_per_game: 22.570 (4.929 above average)
+  scoring_defense: 7.000 (4.236 below average)
+  scoring_offense: 14.000 (2.686 above average)
+  scoring_margin: 7.000 (5.266 above average)
+  defensive_efficiency: 21.600 (5.897 above average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.767 (0.076 below average)
+  ground_balls_per_game: 34.570 (3.674 above average)
+  shot_percentage: 0.327 (0.036 above average)
+  offensive_efficiency: 42.813 (4.147 above average)

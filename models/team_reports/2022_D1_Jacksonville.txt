@@ -1,0 +1,17 @@
+Team: Jacksonville
+Season: 2022 D1
+Record: 14-3
+Winning %: 0.824
+Predicted Winning %: 0.820
+
+Stat Comparison vs League Average:
+  points_per_game: 25.530 (7.889 above average)
+  scoring_defense: 8.590 (2.646 below average)
+  scoring_offense: 16.060 (4.746 above average)
+  scoring_margin: 7.470 (5.736 above average)
+  defensive_efficiency: 18.515 (2.812 above average)
+  saves_per_game: 11.650 (0.338 below average)
+  clearing_percentage: 0.886 (0.043 above average)
+  ground_balls_per_game: 32.710 (1.814 above average)
+  shot_percentage: 0.381 (0.090 above average)
+  offensive_efficiency: 42.152 (3.486 above average)

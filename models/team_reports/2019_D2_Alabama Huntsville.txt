@@ -1,0 +1,17 @@
+Team: Alabama Huntsville
+Season: 2019 D2
+Record: 4-8
+Winning %: 0.333
+Predicted Winning %: 0.308
+
+Stat Comparison vs League Average:
+  points_per_game: 12.580 (5.061 below average)
+  scoring_defense: 13.000 (1.764 above average)
+  scoring_offense: 9.420 (1.894 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 13.804 (1.899 below average)
+  saves_per_game: 10.830 (1.158 below average)
+  clearing_percentage: 0.800 (0.043 below average)
+  ground_balls_per_game: 30.750 (0.146 below average)
+  shot_percentage: 0.227 (0.064 below average)
+  offensive_efficiency: 41.498 (2.832 above average)

@@ -1,0 +1,17 @@
+Team: Manhattan
+Season: 2019 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.410
+
+Stat Comparison vs League Average:
+  points_per_game: 14.070 (3.571 below average)
+  scoring_defense: 10.140 (1.096 below average)
+  scoring_offense: 8.290 (3.024 below average)
+  scoring_margin: -1.860 (3.594 below average)
+  defensive_efficiency: 18.012 (2.309 above average)
+  saves_per_game: 13.290 (1.302 above average)
+  clearing_percentage: 0.888 (0.045 above average)
+  ground_balls_per_game: 27.570 (3.326 below average)
+  shot_percentage: 0.236 (0.055 below average)
+  offensive_efficiency: 35.127 (3.539 below average)

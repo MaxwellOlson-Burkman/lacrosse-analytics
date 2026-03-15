@@ -1,0 +1,17 @@
+Team: Dist. Columbia
+Season: 2015 D2
+Record: 2-9
+Winning %: 0.182
+Predicted Winning %: 0.188
+
+Stat Comparison vs League Average:
+  points_per_game: 12.450 (5.191 below average)
+  scoring_defense: 16.910 (5.674 above average)
+  scoring_offense: 8.910 (2.404 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 9.855 (5.848 below average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.727 (0.116 below average)
+  ground_balls_per_game: 39.550 (8.654 above average)
+  shot_percentage: 0.251 (0.040 below average)
+  offensive_efficiency: 35.498 (3.168 below average)

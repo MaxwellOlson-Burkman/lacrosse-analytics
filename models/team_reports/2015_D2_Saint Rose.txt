@@ -1,0 +1,17 @@
+Team: Saint Rose
+Season: 2015 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.261
+
+Stat Comparison vs League Average:
+  points_per_game: 12.430 (5.211 below average)
+  scoring_defense: 10.290 (0.946 below average)
+  scoring_offense: 8.000 (3.314 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 17.153 (1.450 above average)
+  saves_per_game: 14.360 (2.372 above average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 28.070 (2.826 below average)
+  shot_percentage: 0.251 (0.040 below average)
+  offensive_efficiency: 31.873 (6.794 below average)

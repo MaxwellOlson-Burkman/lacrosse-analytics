@@ -1,0 +1,17 @@
+Team: Saint Joseph's
+Season: 2016 D1
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.755
+
+Stat Comparison vs League Average:
+  points_per_game: 19.310 (1.669 above average)
+  scoring_defense: 7.880 (3.356 below average)
+  scoring_offense: 12.310 (0.996 above average)
+  scoring_margin: 4.440 (2.706 above average)
+  defensive_efficiency: 18.683 (2.980 above average)
+  saves_per_game: 10.310 (1.678 below average)
+  clearing_percentage: 0.894 (0.051 above average)
+  ground_balls_per_game: 28.560 (2.336 below average)
+  shot_percentage: 0.361 (0.070 above average)
+  offensive_efficiency: 34.100 (4.566 below average)

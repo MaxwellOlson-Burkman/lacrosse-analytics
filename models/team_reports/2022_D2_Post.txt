@@ -1,0 +1,17 @@
+Team: Post
+Season: 2022 D2
+Record: 4-8
+Winning %: 0.333
+Predicted Winning %: 0.307
+
+Stat Comparison vs League Average:
+  points_per_game: 16.420 (1.221 below average)
+  scoring_defense: 13.500 (2.264 above average)
+  scoring_offense: 10.330 (0.984 below average)
+  scoring_margin: -3.170 (4.904 below average)
+  defensive_efficiency: 14.994 (0.709 below average)
+  saves_per_game: 17.330 (5.342 above average)
+  clearing_percentage: 0.842 (0.001 below average)
+  ground_balls_per_game: 28.250 (2.646 below average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 34.781 (3.885 below average)

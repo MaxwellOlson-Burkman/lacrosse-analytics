@@ -1,0 +1,17 @@
+Team: Michigan
+Season: 2016 D1
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.264
+
+Stat Comparison vs League Average:
+  points_per_game: 14.150 (3.491 below average)
+  scoring_defense: 12.770 (1.534 above average)
+  scoring_offense: 9.380 (1.934 below average)
+  scoring_margin: -3.380 (5.114 below average)
+  defensive_efficiency: 14.062 (1.641 below average)
+  saves_per_game: 12.540 (0.552 above average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 28.310 (2.586 below average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 33.863 (4.803 below average)

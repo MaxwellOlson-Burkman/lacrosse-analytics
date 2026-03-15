@@ -1,0 +1,17 @@
+Team: Princeton
+Season: 2014 D1
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.584
+
+Stat Comparison vs League Average:
+  points_per_game: 19.460 (1.819 above average)
+  scoring_defense: 10.920 (0.316 below average)
+  scoring_offense: 12.000 (0.686 above average)
+  scoring_margin: 1.080 (0.654 below average)
+  defensive_efficiency: 16.335 (0.632 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.886 (0.043 above average)
+  ground_balls_per_game: 28.620 (2.276 below average)
+  shot_percentage: 0.301 (0.010 above average)
+  offensive_efficiency: 39.867 (1.201 above average)

@@ -1,0 +1,17 @@
+Team: Rockhurst
+Season: 2018 D2
+Record: 14-3
+Winning %: 0.824
+Predicted Winning %: 0.827
+
+Stat Comparison vs League Average:
+  points_per_game: 23.290 (5.649 above average)
+  scoring_defense: 8.290 (2.946 below average)
+  scoring_offense: 15.880 (4.566 above average)
+  scoring_margin: 7.590 (5.856 above average)
+  defensive_efficiency: 18.094 (2.391 above average)
+  saves_per_game: 8.530 (3.458 below average)
+  clearing_percentage: 0.810 (0.033 below average)
+  ground_balls_per_game: 37.530 (6.634 above average)
+  shot_percentage: 0.324 (0.033 above average)
+  offensive_efficiency: 49.012 (10.346 above average)

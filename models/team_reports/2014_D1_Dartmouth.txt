@@ -1,0 +1,17 @@
+Team: Dartmouth
+Season: 2014 D1
+Record: 2-10
+Winning %: 0.167
+Predicted Winning %: 0.167
+
+Stat Comparison vs League Average:
+  points_per_game: 12.250 (5.391 below average)
+  scoring_defense: 13.330 (2.094 above average)
+  scoring_offense: 8.250 (3.064 below average)
+  scoring_margin: -5.080 (6.814 below average)
+  defensive_efficiency: 12.154 (3.549 below average)
+  saves_per_game: 11.080 (0.908 below average)
+  clearing_percentage: 0.800 (0.043 below average)
+  ground_balls_per_game: 31.580 (0.684 above average)
+  shot_percentage: 0.220 (0.071 below average)
+  offensive_efficiency: 37.500 (1.166 below average)

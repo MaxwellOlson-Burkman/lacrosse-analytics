@@ -1,0 +1,17 @@
+Team: Drexel
+Season: 2016 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.438
+
+Stat Comparison vs League Average:
+  points_per_game: 12.800 (4.841 below average)
+  scoring_defense: 9.470 (1.766 below average)
+  scoring_offense: 8.930 (2.384 below average)
+  scoring_margin: -0.530 (2.264 below average)
+  defensive_efficiency: 17.461 (1.758 above average)
+  saves_per_game: 11.670 (0.318 below average)
+  clearing_percentage: 0.862 (0.019 above average)
+  ground_balls_per_game: 23.730 (7.166 below average)
+  shot_percentage: 0.270 (0.021 below average)
+  offensive_efficiency: 33.074 (5.592 below average)

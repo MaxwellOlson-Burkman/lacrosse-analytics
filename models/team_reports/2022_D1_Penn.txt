@@ -1,0 +1,17 @@
+Team: Penn
+Season: 2022 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.599
+
+Stat Comparison vs League Average:
+  points_per_game: 20.690 (3.049 above average)
+  scoring_defense: 11.060 (0.176 below average)
+  scoring_offense: 12.810 (1.496 above average)
+  scoring_margin: 1.750 (0.016 above average)
+  defensive_efficiency: 16.027 (0.324 above average)
+  saves_per_game: 14.190 (2.202 above average)
+  clearing_percentage: 0.832 (0.011 below average)
+  ground_balls_per_game: 33.440 (2.544 above average)
+  shot_percentage: 0.318 (0.027 above average)
+  offensive_efficiency: 40.283 (1.617 above average)

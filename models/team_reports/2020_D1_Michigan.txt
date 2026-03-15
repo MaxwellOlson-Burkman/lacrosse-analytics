@@ -1,0 +1,17 @@
+Team: Michigan
+Season: 2020 D1
+Record: 4-3
+Winning %: 0.571
+Predicted Winning %: 0.542
+
+Stat Comparison vs League Average:
+  points_per_game: 20.000 (2.359 above average)
+  scoring_defense: 11.860 (0.624 above average)
+  scoring_offense: 13.290 (1.976 above average)
+  scoring_margin: 1.430 (0.304 below average)
+  defensive_efficiency: 15.053 (0.650 below average)
+  saves_per_game: 11.710 (0.278 below average)
+  clearing_percentage: 0.848 (0.005 above average)
+  ground_balls_per_game: 32.860 (1.964 above average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 43.574 (4.908 above average)

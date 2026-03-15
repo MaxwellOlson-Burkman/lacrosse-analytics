@@ -1,0 +1,17 @@
+Team: Tusculum
+Season: 2018 D2
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.382
+
+Stat Comparison vs League Average:
+  points_per_game: 17.230 (0.411 below average)
+  scoring_defense: 12.230 (0.994 above average)
+  scoring_offense: 10.920 (0.394 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 14.722 (0.981 below average)
+  saves_per_game: 11.690 (0.298 below average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 28.230 (2.666 below average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 37.917 (0.749 below average)

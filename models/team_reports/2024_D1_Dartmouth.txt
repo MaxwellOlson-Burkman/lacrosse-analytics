@@ -1,0 +1,17 @@
+Team: Dartmouth
+Season: 2024 D1
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.260
+
+Stat Comparison vs League Average:
+  points_per_game: 16.310 (1.331 below average)
+  scoring_defense: 13.770 (2.534 above average)
+  scoring_offense: 10.080 (1.234 below average)
+  scoring_margin: -3.690 (5.424 below average)
+  defensive_efficiency: 13.200 (2.503 below average)
+  saves_per_game: 13.150 (1.162 above average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 35.150 (4.254 above average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 35.618 (3.048 below average)

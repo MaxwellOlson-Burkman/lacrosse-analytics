@@ -1,0 +1,17 @@
+Team: Lincoln Memorial
+Season: 2016 D2
+Record: 6-6
+Winning %: 0.500
+Predicted Winning %: 0.437
+
+Stat Comparison vs League Average:
+  points_per_game: 15.830 (1.811 below average)
+  scoring_defense: 10.830 (0.406 below average)
+  scoring_offense: 10.830 (0.484 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.095 (0.392 above average)
+  saves_per_game: 11.750 (0.238 below average)
+  clearing_percentage: 0.834 (0.009 below average)
+  ground_balls_per_game: 33.170 (2.274 above average)
+  shot_percentage: 0.264 (0.027 below average)
+  offensive_efficiency: 41.023 (2.357 above average)

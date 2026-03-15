@@ -1,0 +1,17 @@
+Team: Dist. Columbia
+Season: 2020 D2
+Record: 3-6
+Winning %: 0.333
+Predicted Winning %: 0.356
+
+Stat Comparison vs League Average:
+  points_per_game: 18.670 (1.029 above average)
+  scoring_defense: 17.110 (5.874 above average)
+  scoring_offense: 12.330 (1.016 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 8.874 (6.829 below average)
+  saves_per_game: 11.780 (0.208 below average)
+  clearing_percentage: 0.821 (0.022 below average)
+  ground_balls_per_game: 30.890 (0.006 below average)
+  shot_percentage: 0.302 (0.011 above average)
+  offensive_efficiency: 40.828 (2.162 above average)

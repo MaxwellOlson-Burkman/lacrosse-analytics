@@ -1,0 +1,17 @@
+Team: Mercer
+Season: 2014 D1
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.439
+
+Stat Comparison vs League Average:
+  points_per_game: 14.930 (2.711 below average)
+  scoring_defense: 10.860 (0.376 below average)
+  scoring_offense: 9.500 (1.814 below average)
+  scoring_margin: -1.360 (3.094 below average)
+  defensive_efficiency: 16.015 (0.312 above average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.872 (0.029 above average)
+  ground_balls_per_game: 28.640 (2.256 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 33.808 (4.858 below average)

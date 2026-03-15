@@ -1,0 +1,17 @@
+Team: Flagler
+Season: 2024 D2
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.428
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 12.690 (1.454 above average)
+  scoring_offense: 12.380 (1.066 above average)
+  scoring_margin: -0.310 (2.044 below average)
+  defensive_efficiency: 14.734 (0.969 below average)
+  saves_per_game: 11.880 (0.108 below average)
+  clearing_percentage: 0.823 (0.020 below average)
+  ground_balls_per_game: 31.880 (0.984 above average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 41.544 (2.878 above average)

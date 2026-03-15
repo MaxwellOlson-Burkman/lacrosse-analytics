@@ -1,0 +1,17 @@
+Team: St. Anselm
+Season: 2024 D2
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.701
+
+Stat Comparison vs League Average:
+  points_per_game: 21.000 (3.359 above average)
+  scoring_defense: 9.350 (1.886 below average)
+  scoring_offense: 14.060 (2.746 above average)
+  scoring_margin: 4.710 (2.976 above average)
+  defensive_efficiency: 17.297 (1.594 above average)
+  saves_per_game: 9.240 (2.748 below average)
+  clearing_percentage: 0.910 (0.067 above average)
+  ground_balls_per_game: 34.590 (3.694 above average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 47.181 (8.515 above average)

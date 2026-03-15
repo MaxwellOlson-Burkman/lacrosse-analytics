@@ -1,0 +1,17 @@
+Team: Shorter
+Season: 2015 D2
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.565
+
+Stat Comparison vs League Average:
+  points_per_game: 14.500 (3.141 below average)
+  scoring_defense: 9.290 (1.946 below average)
+  scoring_offense: 10.210 (1.104 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 17.733 (2.030 above average)
+  saves_per_game: 10.360 (1.628 below average)
+  clearing_percentage: 0.856 (0.013 above average)
+  ground_balls_per_game: 26.500 (4.396 below average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 32.310 (6.356 below average)

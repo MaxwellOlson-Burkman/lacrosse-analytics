@@ -1,0 +1,17 @@
+Team: Queens (NC)
+Season: 2020 D2
+Record: 5-2
+Winning %: 0.714
+Predicted Winning %: 0.722
+
+Stat Comparison vs League Average:
+  points_per_game: 22.290 (4.649 above average)
+  scoring_defense: 8.570 (2.666 below average)
+  scoring_offense: 13.430 (2.116 above average)
+  scoring_margin: 4.860 (3.126 above average)
+  defensive_efficiency: 19.238 (3.535 above average)
+  saves_per_game: 14.710 (2.722 above average)
+  clearing_percentage: 0.821 (0.022 below average)
+  ground_balls_per_game: 29.140 (1.756 below average)
+  shot_percentage: 0.328 (0.037 above average)
+  offensive_efficiency: 40.945 (2.279 above average)

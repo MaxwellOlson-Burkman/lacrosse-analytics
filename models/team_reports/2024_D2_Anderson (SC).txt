@@ -1,0 +1,17 @@
+Team: Anderson (SC)
+Season: 2024 D2
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.631
+
+Stat Comparison vs League Average:
+  points_per_game: 20.250 (2.609 above average)
+  scoring_defense: 11.630 (0.394 above average)
+  scoring_offense: 13.690 (2.376 above average)
+  scoring_margin: 2.060 (0.326 above average)
+  defensive_efficiency: 15.323 (0.380 below average)
+  saves_per_game: 12.060 (0.072 above average)
+  clearing_percentage: 0.899 (0.056 above average)
+  ground_balls_per_game: 39.190 (8.294 above average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 52.252 (13.586 above average)

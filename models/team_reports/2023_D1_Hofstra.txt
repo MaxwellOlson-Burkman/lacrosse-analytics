@@ -1,0 +1,17 @@
+Team: Hofstra
+Season: 2023 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.447
+
+Stat Comparison vs League Average:
+  points_per_game: 16.290 (1.351 below average)
+  scoring_defense: 10.640 (0.596 below average)
+  scoring_offense: 10.360 (0.954 below average)
+  scoring_margin: -0.290 (2.024 below average)
+  defensive_efficiency: 16.037 (0.334 above average)
+  saves_per_game: 11.140 (0.848 below average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 30.210 (0.686 below average)
+  shot_percentage: 0.250 (0.041 below average)
+  offensive_efficiency: 41.440 (2.774 above average)

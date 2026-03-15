@@ -1,0 +1,17 @@
+Team: Lewis
+Season: 2023 D2
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.669
+
+Stat Comparison vs League Average:
+  points_per_game: 19.440 (1.799 above average)
+  scoring_defense: 9.060 (2.176 below average)
+  scoring_offense: 12.440 (1.126 above average)
+  scoring_margin: 3.380 (1.646 above average)
+  defensive_efficiency: 18.264 (2.561 above average)
+  saves_per_game: 13.130 (1.142 above average)
+  clearing_percentage: 0.858 (0.015 above average)
+  ground_balls_per_game: 27.560 (3.336 below average)
+  shot_percentage: 0.332 (0.041 above average)
+  offensive_efficiency: 37.470 (1.196 below average)

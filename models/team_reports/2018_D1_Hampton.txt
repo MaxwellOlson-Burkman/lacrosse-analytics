@@ -1,0 +1,17 @@
+Team: Hampton
+Season: 2018 D1
+Record: 4-8
+Winning %: 0.333
+Predicted Winning %: 0.260
+
+Stat Comparison vs League Average:
+  points_per_game: 13.080 (4.561 below average)
+  scoring_defense: 12.750 (1.514 above average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: -3.750 (5.484 below average)
+  defensive_efficiency: 12.590 (3.113 below average)
+  saves_per_game: 11.500 (0.488 below average)
+  clearing_percentage: 0.823 (0.020 below average)
+  ground_balls_per_game: 34.580 (3.684 above average)
+  shot_percentage: 0.242 (0.049 below average)
+  offensive_efficiency: 37.190 (1.476 below average)

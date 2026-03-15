@@ -1,0 +1,17 @@
+Team: Franklin Pierce
+Season: 2022 D2
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.423
+
+Stat Comparison vs League Average:
+  points_per_game: 15.310 (2.331 below average)
+  scoring_defense: 10.230 (1.006 below average)
+  scoring_offense: 9.920 (1.394 below average)
+  scoring_margin: -0.310 (2.044 below average)
+  defensive_efficiency: 17.421 (1.718 above average)
+  saves_per_game: 12.770 (0.782 above average)
+  clearing_percentage: 0.840 (0.003 below average)
+  ground_balls_per_game: 28.770 (2.126 below average)
+  shot_percentage: 0.251 (0.040 below average)
+  offensive_efficiency: 39.522 (0.856 above average)

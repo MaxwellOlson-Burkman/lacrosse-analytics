@@ -1,0 +1,17 @@
+Team: Binghamton
+Season: 2016 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.318
+
+Stat Comparison vs League Average:
+  points_per_game: 14.500 (3.141 below average)
+  scoring_defense: 12.070 (0.834 above average)
+  scoring_offense: 9.430 (1.884 below average)
+  scoring_margin: -2.640 (4.374 below average)
+  defensive_efficiency: 13.591 (2.112 below average)
+  saves_per_game: 9.570 (2.418 below average)
+  clearing_percentage: 0.893 (0.050 above average)
+  ground_balls_per_game: 25.430 (5.466 below average)
+  shot_percentage: 0.254 (0.037 below average)
+  offensive_efficiency: 37.126 (1.540 below average)

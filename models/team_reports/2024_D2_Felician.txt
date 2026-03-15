@@ -1,0 +1,17 @@
+Team: Felician
+Season: 2024 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.189
+
+Stat Comparison vs League Average:
+  points_per_game: 12.500 (5.141 below average)
+  scoring_defense: 15.070 (3.834 above average)
+  scoring_offense: 8.790 (2.524 below average)
+  scoring_margin: -6.290 (8.024 below average)
+  defensive_efficiency: 12.576 (3.127 below average)
+  saves_per_game: 14.570 (2.582 above average)
+  clearing_percentage: 0.776 (0.067 below average)
+  ground_balls_per_game: 35.210 (4.314 above average)
+  shot_percentage: 0.235 (0.056 below average)
+  offensive_efficiency: 37.404 (1.262 below average)

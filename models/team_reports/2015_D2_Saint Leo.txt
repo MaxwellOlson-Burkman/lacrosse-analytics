@@ -1,0 +1,17 @@
+Team: Saint Leo
+Season: 2015 D2
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.598
+
+Stat Comparison vs League Average:
+  points_per_game: 16.290 (1.351 below average)
+  scoring_defense: 9.430 (1.806 below average)
+  scoring_offense: 10.930 (0.384 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 17.653 (1.950 above average)
+  saves_per_game: 12.360 (0.372 above average)
+  clearing_percentage: 0.867 (0.024 above average)
+  ground_balls_per_game: 32.290 (1.394 above average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 39.458 (0.792 above average)

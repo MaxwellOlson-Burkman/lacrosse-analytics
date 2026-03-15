@@ -1,0 +1,17 @@
+Team: North Carolina
+Season: 2019 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.570
+
+Stat Comparison vs League Average:
+  points_per_game: 18.600 (0.959 above average)
+  scoring_defense: 10.470 (0.766 below average)
+  scoring_offense: 12.400 (1.086 above average)
+  scoring_margin: 1.930 (0.196 above average)
+  defensive_efficiency: 16.245 (0.542 above average)
+  saves_per_game: 10.600 (1.388 below average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 31.800 (0.904 above average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 40.656 (1.990 above average)

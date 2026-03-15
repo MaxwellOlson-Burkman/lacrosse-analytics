@@ -1,0 +1,17 @@
+Team: Notre Dame
+Season: 2020 D1
+Record: 2-3
+Winning %: 0.400
+Predicted Winning %: 0.498
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 10.600 (0.636 below average)
+  scoring_offense: 12.200 (0.886 above average)
+  scoring_margin: 1.600 (0.134 below average)
+  defensive_efficiency: 14.240 (1.463 below average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 30.000 (0.896 below average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 41.781 (3.115 above average)

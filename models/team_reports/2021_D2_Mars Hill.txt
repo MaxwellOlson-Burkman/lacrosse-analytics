@@ -1,0 +1,17 @@
+Team: Mars Hill
+Season: 2021 D2
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.218
+
+Stat Comparison vs League Average:
+  points_per_game: 15.690 (1.951 below average)
+  scoring_defense: 18.460 (7.224 above average)
+  scoring_offense: 10.230 (1.084 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 9.340 (6.363 below average)
+  saves_per_game: 13.850 (1.862 above average)
+  clearing_percentage: 0.768 (0.075 below average)
+  ground_balls_per_game: 28.310 (2.586 below average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 35.034 (3.632 below average)

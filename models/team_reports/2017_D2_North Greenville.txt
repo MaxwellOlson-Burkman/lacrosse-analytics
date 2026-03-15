@@ -1,0 +1,17 @@
+Team: North Greenville
+Season: 2017 D2
+Record: 9-9
+Winning %: 0.500
+Predicted Winning %: 0.575
+
+Stat Comparison vs League Average:
+  points_per_game: 17.280 (0.361 below average)
+  scoring_defense: 9.560 (1.676 below average)
+  scoring_offense: 11.720 (0.406 above average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 17.419 (1.716 above average)
+  saves_per_game: 10.280 (1.708 below average)
+  clearing_percentage: 0.879 (0.036 above average)
+  ground_balls_per_game: 30.670 (0.226 below average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 37.206 (1.460 below average)

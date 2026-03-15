@@ -1,0 +1,17 @@
+Team: Chestnut Hill
+Season: 2016 D2
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.445
+
+Stat Comparison vs League Average:
+  points_per_game: 16.620 (1.021 below average)
+  scoring_defense: 10.620 (0.616 below average)
+  scoring_offense: 10.690 (0.624 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.629 (0.926 above average)
+  saves_per_game: 12.380 (0.392 above average)
+  clearing_percentage: 0.908 (0.065 above average)
+  ground_balls_per_game: 26.000 (4.896 below average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 35.872 (2.794 below average)

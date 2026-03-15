@@ -1,0 +1,17 @@
+Team: Tampa
+Season: 2019 D2
+Record: 15-6
+Winning %: 0.714
+Predicted Winning %: 0.693
+
+Stat Comparison vs League Average:
+  points_per_game: 23.330 (5.689 above average)
+  scoring_defense: 10.900 (0.336 below average)
+  scoring_offense: 14.710 (3.396 above average)
+  scoring_margin: 3.810 (2.076 above average)
+  defensive_efficiency: 15.461 (0.242 below average)
+  saves_per_game: 9.570 (2.418 below average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 37.950 (7.054 above average)
+  shot_percentage: 0.328 (0.037 above average)
+  offensive_efficiency: 44.848 (6.181 above average)

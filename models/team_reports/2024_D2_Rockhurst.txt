@@ -1,0 +1,17 @@
+Team: Rockhurst
+Season: 2024 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.676
+
+Stat Comparison vs League Average:
+  points_per_game: 21.870 (4.229 above average)
+  scoring_defense: 10.270 (0.966 below average)
+  scoring_offense: 14.130 (2.816 above average)
+  scoring_margin: 3.870 (2.136 above average)
+  defensive_efficiency: 16.424 (0.721 above average)
+  saves_per_game: 10.330 (1.658 below average)
+  clearing_percentage: 0.899 (0.056 above average)
+  ground_balls_per_game: 34.200 (3.304 above average)
+  shot_percentage: 0.297 (0.006 above average)
+  offensive_efficiency: 47.576 (8.910 above average)

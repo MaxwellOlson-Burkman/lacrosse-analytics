@@ -1,0 +1,17 @@
+Team: Emmanuel (GA)
+Season: 2022 D2
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.096
+
+Stat Comparison vs League Average:
+  points_per_game: 11.430 (6.211 below average)
+  scoring_defense: 14.790 (3.554 above average)
+  scoring_offense: 6.930 (4.384 below average)
+  scoring_margin: -7.860 (9.594 below average)
+  defensive_efficiency: 11.978 (3.725 below average)
+  saves_per_game: 13.210 (1.222 above average)
+  clearing_percentage: 0.784 (0.059 below average)
+  ground_balls_per_game: 24.570 (6.326 below average)
+  shot_percentage: 0.260 (0.031 below average)
+  offensive_efficiency: 26.654 (12.012 below average)

@@ -1,0 +1,17 @@
+Team: Brown
+Season: 2022 D1
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.610
+
+Stat Comparison vs League Average:
+  points_per_game: 21.000 (3.359 above average)
+  scoring_defense: 11.560 (0.324 above average)
+  scoring_offense: 13.190 (1.876 above average)
+  scoring_margin: 1.630 (0.104 below average)
+  defensive_efficiency: 16.113 (0.410 above average)
+  saves_per_game: 13.310 (1.322 above average)
+  clearing_percentage: 0.882 (0.039 above average)
+  ground_balls_per_game: 28.500 (2.396 below average)
+  shot_percentage: 0.289 (0.002 below average)
+  offensive_efficiency: 45.640 (6.974 above average)

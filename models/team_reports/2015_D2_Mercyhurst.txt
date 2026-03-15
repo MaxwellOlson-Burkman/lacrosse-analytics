@@ -1,0 +1,17 @@
+Team: Mercyhurst
+Season: 2015 D2
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.694
+
+Stat Comparison vs League Average:
+  points_per_game: 16.930 (0.711 below average)
+  scoring_defense: 7.140 (4.096 below average)
+  scoring_offense: 10.500 (0.814 below average)
+  scoring_margin: 3.360 (1.626 above average)
+  defensive_efficiency: 19.588 (3.885 above average)
+  saves_per_game: 9.360 (2.628 below average)
+  clearing_percentage: 0.872 (0.029 above average)
+  ground_balls_per_game: 25.500 (5.396 below average)
+  shot_percentage: 0.308 (0.017 above average)
+  offensive_efficiency: 34.091 (4.575 below average)

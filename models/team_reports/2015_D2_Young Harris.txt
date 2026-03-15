@@ -1,0 +1,17 @@
+Team: Young Harris
+Season: 2015 D2
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.586
+
+Stat Comparison vs League Average:
+  points_per_game: 17.940 (0.299 above average)
+  scoring_defense: 10.380 (0.856 below average)
+  scoring_offense: 10.880 (0.434 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 15.813 (0.110 above average)
+  saves_per_game: 10.560 (1.428 below average)
+  clearing_percentage: 0.902 (0.059 above average)
+  ground_balls_per_game: 27.940 (2.956 below average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 32.478 (6.189 below average)

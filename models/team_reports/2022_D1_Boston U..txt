@@ -1,0 +1,17 @@
+Team: Boston U.
+Season: 2022 D1
+Record: 12-5
+Winning %: 0.706
+Predicted Winning %: 0.640
+
+Stat Comparison vs League Average:
+  points_per_game: 21.470 (3.829 above average)
+  scoring_defense: 10.650 (0.586 below average)
+  scoring_offense: 13.290 (1.976 above average)
+  scoring_margin: 2.650 (0.916 above average)
+  defensive_efficiency: 16.492 (0.789 above average)
+  saves_per_game: 12.240 (0.252 above average)
+  clearing_percentage: 0.847 (0.004 above average)
+  ground_balls_per_game: 36.350 (5.454 above average)
+  shot_percentage: 0.300 (0.009 above average)
+  offensive_efficiency: 44.300 (5.634 above average)

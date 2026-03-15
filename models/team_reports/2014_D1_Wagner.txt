@@ -1,0 +1,17 @@
+Team: Wagner
+Season: 2014 D1
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.140
+
+Stat Comparison vs League Average:
+  points_per_game: 10.310 (7.331 below average)
+  scoring_defense: 12.380 (1.144 above average)
+  scoring_offense: 6.920 (4.394 below average)
+  scoring_margin: -5.460 (7.194 below average)
+  defensive_efficiency: 14.448 (1.255 below average)
+  saves_per_game: 12.310 (0.322 above average)
+  clearing_percentage: 0.804 (0.039 below average)
+  ground_balls_per_game: 27.920 (2.976 below average)
+  shot_percentage: 0.233 (0.058 below average)
+  offensive_efficiency: 29.700 (8.967 below average)

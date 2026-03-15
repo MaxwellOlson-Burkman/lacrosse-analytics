@@ -1,0 +1,17 @@
+Team: Towson
+Season: 2022 D1
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.464
+
+Stat Comparison vs League Average:
+  points_per_game: 17.690 (0.049 above average)
+  scoring_defense: 11.940 (0.704 above average)
+  scoring_offense: 11.250 (0.064 below average)
+  scoring_margin: -0.690 (2.424 below average)
+  defensive_efficiency: 15.477 (0.226 below average)
+  saves_per_game: 13.440 (1.452 above average)
+  clearing_percentage: 0.886 (0.043 above average)
+  ground_balls_per_game: 29.630 (1.266 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 41.209 (2.543 above average)

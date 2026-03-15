@@ -1,0 +1,17 @@
+Team: CSU Pueblo
+Season: 2023 D2
+Record: 1-13
+Winning %: 0.071
+Predicted Winning %: 0.054
+
+Stat Comparison vs League Average:
+  points_per_game: 10.070 (7.571 below average)
+  scoring_defense: 15.860 (4.624 above average)
+  scoring_offense: 6.430 (4.884 below average)
+  scoring_margin: -9.430 (11.164 below average)
+  defensive_efficiency: 12.065 (3.638 below average)
+  saves_per_game: 16.500 (4.512 above average)
+  clearing_percentage: 0.785 (0.058 below average)
+  ground_balls_per_game: 19.860 (11.036 below average)
+  shot_percentage: 0.249 (0.042 below average)
+  offensive_efficiency: 25.823 (12.843 below average)

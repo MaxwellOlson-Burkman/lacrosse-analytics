@@ -1,0 +1,17 @@
+Team: Davis & Elkins
+Season: 2023 D2
+Record: 3-14
+Winning %: 0.176
+Predicted Winning %: 0.165
+
+Stat Comparison vs League Average:
+  points_per_game: 16.760 (0.881 below average)
+  scoring_defense: 17.180 (5.944 above average)
+  scoring_offense: 9.650 (1.664 below average)
+  scoring_margin: -7.530 (9.264 below average)
+  defensive_efficiency: 11.455 (4.248 below average)
+  saves_per_game: 17.000 (5.012 above average)
+  clearing_percentage: 0.792 (0.051 below average)
+  ground_balls_per_game: 25.470 (5.426 below average)
+  shot_percentage: 0.311 (0.020 above average)
+  offensive_efficiency: 31.029 (7.637 below average)

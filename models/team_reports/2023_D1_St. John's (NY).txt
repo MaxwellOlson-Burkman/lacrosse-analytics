@@ -1,0 +1,17 @@
+Team: St. John's (NY)
+Season: 2023 D1
+Record: 0-14
+Winning %: 0.000
+Predicted Winning %: 0.104
+
+Stat Comparison vs League Average:
+  points_per_game: 14.360 (3.281 below average)
+  scoring_defense: 15.430 (4.194 above average)
+  scoring_offense: 9.290 (2.024 below average)
+  scoring_margin: -6.140 (7.874 below average)
+  defensive_efficiency: 11.581 (4.122 below average)
+  saves_per_game: 14.570 (2.582 above average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 24.790 (6.106 below average)
+  shot_percentage: 0.250 (0.041 below average)
+  offensive_efficiency: 37.160 (1.506 below average)

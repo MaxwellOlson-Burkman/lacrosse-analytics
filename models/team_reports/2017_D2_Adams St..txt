@@ -1,0 +1,17 @@
+Team: Adams St.
+Season: 2017 D2
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.252
+
+Stat Comparison vs League Average:
+  points_per_game: 11.850 (5.791 below average)
+  scoring_defense: 11.230 (0.006 below average)
+  scoring_offense: 7.460 (3.854 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 16.805 (1.102 above average)
+  saves_per_game: 16.000 (4.012 above average)
+  clearing_percentage: 0.764 (0.079 below average)
+  ground_balls_per_game: 27.230 (3.666 below average)
+  shot_percentage: 0.288 (0.002 below average)
+  offensive_efficiency: 25.858 (12.808 below average)

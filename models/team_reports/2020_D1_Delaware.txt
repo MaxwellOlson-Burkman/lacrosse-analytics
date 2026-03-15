@@ -1,0 +1,17 @@
+Team: Delaware
+Season: 2020 D1
+Record: 4-2
+Winning %: 0.667
+Predicted Winning %: 0.648
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 9.170 (2.066 below average)
+  scoring_offense: 11.830 (0.516 above average)
+  scoring_margin: 2.670 (0.936 above average)
+  defensive_efficiency: 17.379 (1.676 above average)
+  saves_per_game: 11.830 (0.158 below average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 29.500 (1.396 below average)
+  shot_percentage: 0.265 (0.026 below average)
+  offensive_efficiency: 44.642 (5.975 above average)

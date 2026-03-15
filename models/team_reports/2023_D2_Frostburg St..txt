@@ -1,0 +1,17 @@
+Team: Frostburg St.
+Season: 2023 D2
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.816
+
+Stat Comparison vs League Average:
+  points_per_game: 29.720 (12.079 above average)
+  scoring_defense: 10.220 (1.016 below average)
+  scoring_offense: 17.890 (6.576 above average)
+  scoring_margin: 7.670 (5.936 above average)
+  defensive_efficiency: 16.433 (0.730 above average)
+  saves_per_game: 9.560 (2.428 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 40.280 (9.384 above average)
+  shot_percentage: 0.318 (0.027 above average)
+  offensive_efficiency: 56.258 (17.592 above average)

@@ -1,0 +1,17 @@
+Team: Marist
+Season: 2022 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.317
+
+Stat Comparison vs League Average:
+  points_per_game: 15.400 (2.241 below average)
+  scoring_defense: 12.400 (1.164 above average)
+  scoring_offense: 9.930 (1.384 below average)
+  scoring_margin: -2.470 (4.204 below average)
+  defensive_efficiency: 14.475 (1.228 below average)
+  saves_per_game: 13.400 (1.412 above average)
+  clearing_percentage: 0.889 (0.046 above average)
+  ground_balls_per_game: 30.130 (0.766 below average)
+  shot_percentage: 0.245 (0.046 below average)
+  offensive_efficiency: 40.531 (1.864 above average)

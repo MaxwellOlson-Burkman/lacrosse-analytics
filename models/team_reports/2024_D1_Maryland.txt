@@ -1,0 +1,17 @@
+Team: Maryland
+Season: 2024 D1
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.550
+
+Stat Comparison vs League Average:
+  points_per_game: 17.760 (0.119 above average)
+  scoring_defense: 10.410 (0.826 below average)
+  scoring_offense: 10.940 (0.374 below average)
+  scoring_margin: 0.530 (1.204 below average)
+  defensive_efficiency: 15.267 (0.436 below average)
+  saves_per_game: 10.590 (1.398 below average)
+  clearing_percentage: 0.878 (0.035 above average)
+  ground_balls_per_game: 30.940 (0.044 above average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 37.466 (1.200 below average)

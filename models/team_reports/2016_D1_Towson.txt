@@ -1,0 +1,17 @@
+Team: Towson
+Season: 2016 D1
+Record: 16-3
+Winning %: 0.842
+Predicted Winning %: 0.777
+
+Stat Comparison vs League Average:
+  points_per_game: 16.260 (1.381 below average)
+  scoring_defense: 7.260 (3.976 below average)
+  scoring_offense: 10.890 (0.424 below average)
+  scoring_margin: 3.630 (1.896 above average)
+  defensive_efficiency: 18.496 (2.793 above average)
+  saves_per_game: 8.470 (3.518 below average)
+  clearing_percentage: 0.892 (0.049 above average)
+  ground_balls_per_game: 25.890 (5.006 below average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 37.295 (1.372 below average)

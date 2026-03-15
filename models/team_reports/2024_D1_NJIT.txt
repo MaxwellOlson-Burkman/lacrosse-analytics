@@ -1,0 +1,17 @@
+Team: NJIT
+Season: 2024 D1
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.577
+
+Stat Comparison vs League Average:
+  points_per_game: 19.360 (1.719 above average)
+  scoring_defense: 10.710 (0.526 below average)
+  scoring_offense: 11.790 (0.476 above average)
+  scoring_margin: 1.070 (0.664 below average)
+  defensive_efficiency: 17.237 (1.534 above average)
+  saves_per_game: 13.290 (1.302 above average)
+  clearing_percentage: 0.830 (0.013 below average)
+  ground_balls_per_game: 31.000 (0.104 above average)
+  shot_percentage: 0.303 (0.012 above average)
+  offensive_efficiency: 38.911 (0.245 above average)

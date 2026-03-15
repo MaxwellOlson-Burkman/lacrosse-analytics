@@ -1,0 +1,17 @@
+Team: Air Force
+Season: 2016 D1
+Record: 15-3
+Winning %: 0.833
+Predicted Winning %: 0.733
+
+Stat Comparison vs League Average:
+  points_per_game: 15.220 (2.421 below average)
+  scoring_defense: 7.720 (3.516 below average)
+  scoring_offense: 10.060 (1.254 below average)
+  scoring_margin: 2.330 (0.596 above average)
+  defensive_efficiency: 18.642 (2.939 above average)
+  saves_per_game: 9.440 (2.548 below average)
+  clearing_percentage: 0.871 (0.028 above average)
+  ground_balls_per_game: 24.390 (6.506 below average)
+  shot_percentage: 0.308 (0.017 above average)
+  offensive_efficiency: 32.662 (6.004 below average)

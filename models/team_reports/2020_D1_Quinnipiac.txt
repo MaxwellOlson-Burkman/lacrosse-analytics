@@ -1,0 +1,17 @@
+Team: Quinnipiac
+Season: 2020 D1
+Record: 0-6
+Winning %: 0.000
+Predicted Winning %: 0.123
+
+Stat Comparison vs League Average:
+  points_per_game: 13.330 (4.311 below average)
+  scoring_defense: 14.830 (3.594 above average)
+  scoring_offense: 9.330 (1.984 below average)
+  scoring_margin: -5.500 (7.234 below average)
+  defensive_efficiency: 11.929 (3.774 below average)
+  saves_per_game: 13.330 (1.342 above average)
+  clearing_percentage: 0.804 (0.039 below average)
+  ground_balls_per_game: 31.500 (0.604 above average)
+  shot_percentage: 0.231 (0.060 below average)
+  offensive_efficiency: 40.390 (1.723 above average)

@@ -1,0 +1,17 @@
+Team: Lehigh
+Season: 2015 D1
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.481
+
+Stat Comparison vs League Average:
+  points_per_game: 16.060 (1.581 below average)
+  scoring_defense: 10.060 (1.176 below average)
+  scoring_offense: 10.190 (1.124 below average)
+  scoring_margin: 0.130 (1.604 below average)
+  defensive_efficiency: 16.165 (0.462 above average)
+  saves_per_game: 10.000 (1.988 below average)
+  clearing_percentage: 0.858 (0.015 above average)
+  ground_balls_per_game: 29.440 (1.456 below average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 34.660 (4.006 below average)

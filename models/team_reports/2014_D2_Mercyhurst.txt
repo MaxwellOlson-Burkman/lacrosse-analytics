@@ -1,0 +1,17 @@
+Team: Mercyhurst
+Season: 2014 D2
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.689
+
+Stat Comparison vs League Average:
+  points_per_game: 19.250 (1.609 above average)
+  scoring_defense: 6.190 (5.046 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 5.000 (3.266 above average)
+  defensive_efficiency: 21.382 (5.679 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.897 (0.054 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.300 (0.009 above average)
+  offensive_efficiency: 42.567 (3.901 above average)

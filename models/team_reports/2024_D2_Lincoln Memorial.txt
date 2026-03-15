@@ -1,0 +1,17 @@
+Team: Lincoln Memorial
+Season: 2024 D2
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.308
+
+Stat Comparison vs League Average:
+  points_per_game: 15.870 (1.771 below average)
+  scoring_defense: 13.130 (1.894 above average)
+  scoring_offense: 10.600 (0.714 below average)
+  scoring_margin: -2.530 (4.264 below average)
+  defensive_efficiency: 13.444 (2.259 below average)
+  saves_per_game: 10.930 (1.058 below average)
+  clearing_percentage: 0.866 (0.023 above average)
+  ground_balls_per_game: 28.070 (2.826 below average)
+  shot_percentage: 0.269 (0.022 below average)
+  offensive_efficiency: 39.405 (0.739 above average)

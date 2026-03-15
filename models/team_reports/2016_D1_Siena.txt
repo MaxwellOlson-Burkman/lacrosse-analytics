@@ -1,0 +1,17 @@
+Team: Siena
+Season: 2016 D1
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.284
+
+Stat Comparison vs League Average:
+  points_per_game: 14.000 (3.641 below average)
+  scoring_defense: 12.080 (0.844 above average)
+  scoring_offense: 8.770 (2.544 below average)
+  scoring_margin: -3.310 (5.044 below average)
+  defensive_efficiency: 13.780 (1.923 below average)
+  saves_per_game: 9.150 (2.838 below average)
+  clearing_percentage: 0.913 (0.070 above average)
+  ground_balls_per_game: 26.620 (4.276 below average)
+  shot_percentage: 0.233 (0.058 below average)
+  offensive_efficiency: 37.639 (1.027 below average)

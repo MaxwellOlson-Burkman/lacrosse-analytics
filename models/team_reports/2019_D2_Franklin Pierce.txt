@@ -1,0 +1,17 @@
+Team: Franklin Pierce
+Season: 2019 D2
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.400
+
+Stat Comparison vs League Average:
+  points_per_game: 14.690 (2.951 below average)
+  scoring_defense: 10.920 (0.316 below average)
+  scoring_offense: 10.230 (1.084 below average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 14.588 (1.115 below average)
+  saves_per_game: 9.460 (2.528 below average)
+  clearing_percentage: 0.776 (0.067 below average)
+  ground_balls_per_game: 29.620 (1.276 below average)
+  shot_percentage: 0.250 (0.041 below average)
+  offensive_efficiency: 40.920 (2.254 above average)

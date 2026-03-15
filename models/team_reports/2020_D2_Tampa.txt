@@ -1,0 +1,17 @@
+Team: Tampa
+Season: 2020 D2
+Record: 8-0
+Winning %: 1.000
+Predicted Winning %: 0.955
+
+Stat Comparison vs League Average:
+  points_per_game: 27.630 (9.989 above average)
+  scoring_defense: 5.880 (5.356 below average)
+  scoring_offense: 16.630 (5.316 above average)
+  scoring_margin: 10.750 (9.016 above average)
+  defensive_efficiency: 20.225 (4.522 above average)
+  saves_per_game: 7.500 (4.488 below average)
+  clearing_percentage: 0.851 (0.008 above average)
+  ground_balls_per_game: 39.750 (8.854 above average)
+  shot_percentage: 0.368 (0.077 above average)
+  offensive_efficiency: 45.190 (6.524 above average)

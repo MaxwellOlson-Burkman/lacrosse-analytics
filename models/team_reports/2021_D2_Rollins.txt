@@ -1,0 +1,17 @@
+Team: Rollins
+Season: 2021 D2
+Record: 7-3
+Winning %: 0.700
+Predicted Winning %: 0.571
+
+Stat Comparison vs League Average:
+  points_per_game: 18.000 (0.359 above average)
+  scoring_defense: 10.700 (0.536 below average)
+  scoring_offense: 12.500 (1.186 above average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 15.400 (0.303 below average)
+  saves_per_game: 10.500 (1.488 below average)
+  clearing_percentage: 0.815 (0.028 below average)
+  ground_balls_per_game: 35.000 (4.104 above average)
+  shot_percentage: 0.296 (0.005 above average)
+  offensive_efficiency: 42.230 (3.564 above average)

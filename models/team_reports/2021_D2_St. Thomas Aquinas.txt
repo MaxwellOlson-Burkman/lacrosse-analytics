@@ -1,0 +1,17 @@
+Team: St. Thomas Aquinas
+Season: 2021 D2
+Record: 0-6
+Winning %: 0.000
+Predicted Winning %: 0.043
+
+Stat Comparison vs League Average:
+  points_per_game: 9.170 (8.471 below average)
+  scoring_defense: 19.830 (8.594 above average)
+  scoring_offense: 6.170 (5.144 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 7.484 (8.219 below average)
+  saves_per_game: 16.330 (4.342 above average)
+  clearing_percentage: 0.652 (0.191 below average)
+  ground_balls_per_game: 31.170 (0.274 above average)
+  shot_percentage: 0.195 (0.096 below average)
+  offensive_efficiency: 31.641 (7.025 below average)

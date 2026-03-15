@@ -1,0 +1,17 @@
+Team: Holy Cross
+Season: 2018 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.290
+
+Stat Comparison vs League Average:
+  points_per_game: 10.080 (7.561 below average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 6.690 (4.624 below average)
+  scoring_margin: -4.310 (6.044 below average)
+  defensive_efficiency: 15.138 (0.565 below average)
+  saves_per_game: 8.310 (3.678 below average)
+  clearing_percentage: 0.856 (0.013 above average)
+  ground_balls_per_game: 26.620 (4.276 below average)
+  shot_percentage: 0.184 (0.107 below average)
+  offensive_efficiency: 36.359 (2.307 below average)

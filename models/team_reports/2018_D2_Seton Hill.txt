@@ -1,0 +1,17 @@
+Team: Seton Hill
+Season: 2018 D2
+Record: 17-2
+Winning %: 0.895
+Predicted Winning %: 0.902
+
+Stat Comparison vs League Average:
+  points_per_game: 26.580 (8.939 above average)
+  scoring_defense: 7.790 (3.446 below average)
+  scoring_offense: 16.420 (5.106 above average)
+  scoring_margin: 8.630 (6.896 above average)
+  defensive_efficiency: 18.650 (2.947 above average)
+  saves_per_game: 9.950 (2.038 below average)
+  clearing_percentage: 0.909 (0.066 above average)
+  ground_balls_per_game: 34.630 (3.734 above average)
+  shot_percentage: 0.362 (0.071 above average)
+  offensive_efficiency: 45.359 (6.693 above average)

@@ -1,0 +1,17 @@
+Team: Sacred Heart
+Season: 2014 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.410
+
+Stat Comparison vs League Average:
+  points_per_game: 16.400 (1.241 below average)
+  scoring_defense: 11.670 (0.434 above average)
+  scoring_offense: 10.130 (1.184 below average)
+  scoring_margin: -1.530 (3.264 below average)
+  defensive_efficiency: 15.346 (0.357 below average)
+  saves_per_game: 12.270 (0.282 above average)
+  clearing_percentage: 0.893 (0.050 above average)
+  ground_balls_per_game: 26.400 (4.496 below average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 36.570 (2.096 below average)

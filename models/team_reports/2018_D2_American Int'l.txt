@@ -1,0 +1,17 @@
+Team: American Int'l
+Season: 2018 D2
+Record: 1-15
+Winning %: 0.063
+Predicted Winning %: 0.086
+
+Stat Comparison vs League Average:
+  points_per_game: 9.750 (7.891 below average)
+  scoring_defense: 15.310 (4.074 above average)
+  scoring_offense: 6.560 (4.754 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 12.720 (2.983 below average)
+  saves_per_game: 15.500 (3.512 above average)
+  clearing_percentage: 0.635 (0.208 below average)
+  ground_balls_per_game: 22.500 (8.396 below average)
+  shot_percentage: 0.249 (0.042 below average)
+  offensive_efficiency: 26.345 (12.321 below average)

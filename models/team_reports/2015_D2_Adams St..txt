@@ -1,0 +1,17 @@
+Team: Adams St.
+Season: 2015 D2
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.235
+
+Stat Comparison vs League Average:
+  points_per_game: 14.200 (3.441 below average)
+  scoring_defense: 14.670 (3.434 above average)
+  scoring_offense: 10.270 (1.044 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 11.454 (4.249 below average)
+  saves_per_game: 10.130 (1.858 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 22.000 (8.896 below average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 35.051 (3.615 below average)

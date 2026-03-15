@@ -1,0 +1,17 @@
+Team: Pace
+Season: 2014 D2
+Record: 5-7
+Winning %: 0.417
+Predicted Winning %: 0.468
+
+Stat Comparison vs League Average:
+  points_per_game: 16.750 (0.891 below average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.547 (3.844 above average)
+  saves_per_game: 12.500 (0.512 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.920 (1.024 above average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 44.495 (5.829 above average)

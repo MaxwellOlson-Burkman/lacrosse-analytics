@@ -1,0 +1,17 @@
+Team: Drexel
+Season: 2019 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.507
+
+Stat Comparison vs League Average:
+  points_per_game: 20.200 (2.559 above average)
+  scoring_defense: 12.470 (1.234 above average)
+  scoring_offense: 13.270 (1.956 above average)
+  scoring_margin: 0.800 (0.934 below average)
+  defensive_efficiency: 13.860 (1.843 below average)
+  saves_per_game: 9.600 (2.388 below average)
+  clearing_percentage: 0.865 (0.022 above average)
+  ground_balls_per_game: 34.530 (3.634 above average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 42.127 (3.461 above average)

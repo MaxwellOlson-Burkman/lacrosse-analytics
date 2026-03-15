@@ -1,0 +1,17 @@
+Team: Robert Morris
+Season: 2017 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.549
+
+Stat Comparison vs League Average:
+  points_per_game: 17.750 (0.109 above average)
+  scoring_defense: 10.310 (0.926 below average)
+  scoring_offense: 10.880 (0.434 below average)
+  scoring_margin: 0.560 (1.174 below average)
+  defensive_efficiency: 16.999 (1.296 above average)
+  saves_per_game: 13.130 (1.142 above average)
+  clearing_percentage: 0.889 (0.046 above average)
+  ground_balls_per_game: 30.310 (0.586 below average)
+  shot_percentage: 0.282 (0.009 below average)
+  offensive_efficiency: 38.582 (0.085 below average)

@@ -1,0 +1,17 @@
+Team: Marquette
+Season: 2018 D1
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.347
+
+Stat Comparison vs League Average:
+  points_per_game: 11.860 (5.781 below average)
+  scoring_defense: 9.860 (1.376 below average)
+  scoring_offense: 7.860 (3.454 below average)
+  scoring_margin: -2.000 (3.734 below average)
+  defensive_efficiency: 16.347 (0.644 above average)
+  saves_per_game: 8.790 (3.198 below average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 25.140 (5.756 below average)
+  shot_percentage: 0.233 (0.058 below average)
+  offensive_efficiency: 33.734 (4.932 below average)

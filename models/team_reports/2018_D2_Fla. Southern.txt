@@ -1,0 +1,17 @@
+Team: Fla. Southern
+Season: 2018 D2
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.574
+
+Stat Comparison vs League Average:
+  points_per_game: 19.400 (1.759 above average)
+  scoring_defense: 10.530 (0.706 below average)
+  scoring_offense: 11.870 (0.556 above average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 16.450 (0.747 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.844 (0.001 above average)
+  ground_balls_per_game: 33.400 (2.504 above average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 40.374 (1.708 above average)

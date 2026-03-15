@@ -1,0 +1,17 @@
+Team: Mercer
+Season: 2017 D1
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.376
+
+Stat Comparison vs League Average:
+  points_per_game: 14.850 (2.791 below average)
+  scoring_defense: 10.850 (0.386 below average)
+  scoring_offense: 8.850 (2.464 below average)
+  scoring_margin: -2.000 (3.734 below average)
+  defensive_efficiency: 15.718 (0.015 above average)
+  saves_per_game: 10.460 (1.528 below average)
+  clearing_percentage: 0.857 (0.014 above average)
+  ground_balls_per_game: 26.690 (4.206 below average)
+  shot_percentage: 0.253 (0.038 below average)
+  offensive_efficiency: 34.980 (3.686 below average)

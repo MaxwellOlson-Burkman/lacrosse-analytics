@@ -1,0 +1,17 @@
+Team: Syracuse
+Season: 2020 D1
+Record: 5-0
+Winning %: 1.000
+Predicted Winning %: 0.907
+
+Stat Comparison vs League Average:
+  points_per_game: 25.200 (7.559 above average)
+  scoring_defense: 9.400 (1.836 below average)
+  scoring_offense: 16.600 (5.286 above average)
+  scoring_margin: 7.200 (5.466 above average)
+  defensive_efficiency: 17.440 (1.737 above average)
+  saves_per_game: 12.800 (0.812 above average)
+  clearing_percentage: 0.910 (0.067 above average)
+  ground_balls_per_game: 41.200 (10.304 above average)
+  shot_percentage: 0.323 (0.032 above average)
+  offensive_efficiency: 51.393 (12.727 above average)

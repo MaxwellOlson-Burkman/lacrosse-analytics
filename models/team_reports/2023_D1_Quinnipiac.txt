@@ -1,0 +1,17 @@
+Team: Quinnipiac
+Season: 2023 D1
+Record: 7-7
+Winning %: 0.500
+Predicted Winning %: 0.468
+
+Stat Comparison vs League Average:
+  points_per_game: 21.070 (3.429 above average)
+  scoring_defense: 14.500 (3.264 above average)
+  scoring_offense: 13.070 (1.756 above average)
+  scoring_margin: -1.430 (3.164 below average)
+  defensive_efficiency: 12.549 (3.154 below average)
+  saves_per_game: 12.930 (0.942 above average)
+  clearing_percentage: 0.840 (0.003 below average)
+  ground_balls_per_game: 28.860 (2.036 below average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 42.993 (4.327 above average)

@@ -1,0 +1,17 @@
+Team: Bentley
+Season: 2015 D2
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.427
+
+Stat Comparison vs League Average:
+  points_per_game: 13.000 (4.641 below average)
+  scoring_defense: 9.690 (1.546 below average)
+  scoring_offense: 9.080 (2.234 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 16.849 (1.146 above average)
+  saves_per_game: 10.230 (1.758 below average)
+  clearing_percentage: 0.846 (0.003 above average)
+  ground_balls_per_game: 24.850 (6.046 below average)
+  shot_percentage: 0.228 (0.063 below average)
+  offensive_efficiency: 39.825 (1.158 above average)

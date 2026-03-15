@@ -1,0 +1,17 @@
+Team: Harvard
+Season: 2019 D1
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.358
+
+Stat Comparison vs League Average:
+  points_per_game: 19.230 (1.589 above average)
+  scoring_defense: 14.620 (3.384 above average)
+  scoring_offense: 12.000 (0.686 above average)
+  scoring_margin: -2.620 (4.354 below average)
+  defensive_efficiency: 13.104 (2.599 below average)
+  saves_per_game: 15.080 (3.092 above average)
+  clearing_percentage: 0.797 (0.046 below average)
+  ground_balls_per_game: 35.380 (4.484 above average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 41.096 (2.430 above average)

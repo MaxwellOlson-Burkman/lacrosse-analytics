@@ -1,0 +1,17 @@
+Team: Loyola Maryland
+Season: 2016 D1
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.690
+
+Stat Comparison vs League Average:
+  points_per_game: 17.110 (0.531 below average)
+  scoring_defense: 8.610 (2.626 below average)
+  scoring_offense: 10.940 (0.374 below average)
+  scoring_margin: 2.330 (0.596 above average)
+  defensive_efficiency: 17.559 (1.856 above average)
+  saves_per_game: 9.830 (2.158 below average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 29.830 (1.066 below average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 40.221 (1.554 above average)

@@ -1,0 +1,17 @@
+Team: Belmont Abbey
+Season: 2021 D2
+Record: 10-4
+Winning %: 0.714
+Predicted Winning %: 0.738
+
+Stat Comparison vs League Average:
+  points_per_game: 21.570 (3.929 above average)
+  scoring_defense: 8.140 (3.096 below average)
+  scoring_offense: 13.570 (2.256 above average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 18.350 (2.647 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.879 (0.036 above average)
+  ground_balls_per_game: 31.710 (0.814 above average)
+  shot_percentage: 0.343 (0.052 above average)
+  offensive_efficiency: 39.563 (0.897 above average)

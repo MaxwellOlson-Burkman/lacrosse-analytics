@@ -1,0 +1,17 @@
+Team: Westminster (UT)
+Season: 2020 D2
+Record: 4-4
+Winning %: 0.500
+Predicted Winning %: 0.566
+
+Stat Comparison vs League Average:
+  points_per_game: 23.130 (5.489 above average)
+  scoring_defense: 13.250 (2.014 above average)
+  scoring_offense: 15.130 (3.816 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 13.364 (2.339 below average)
+  saves_per_game: 11.380 (0.608 below average)
+  clearing_percentage: 0.884 (0.041 above average)
+  ground_balls_per_game: 30.880 (0.016 below average)
+  shot_percentage: 0.359 (0.068 above average)
+  offensive_efficiency: 42.145 (3.479 above average)

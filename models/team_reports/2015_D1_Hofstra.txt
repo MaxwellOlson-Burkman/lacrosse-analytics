@@ -1,0 +1,17 @@
+Team: Hofstra
+Season: 2015 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.523
+
+Stat Comparison vs League Average:
+  points_per_game: 14.790 (2.851 below average)
+  scoring_defense: 8.000 (3.236 below average)
+  scoring_offense: 9.500 (1.814 below average)
+  scoring_margin: 1.500 (0.234 below average)
+  defensive_efficiency: 17.332 (1.629 above average)
+  saves_per_game: 8.140 (3.848 below average)
+  clearing_percentage: 0.841 (0.002 below average)
+  ground_balls_per_game: 27.860 (3.036 below average)
+  shot_percentage: 0.255 (0.036 below average)
+  offensive_efficiency: 37.255 (1.411 below average)

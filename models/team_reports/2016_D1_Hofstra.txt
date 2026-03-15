@@ -1,0 +1,17 @@
+Team: Hofstra
+Season: 2016 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.624
+
+Stat Comparison vs League Average:
+  points_per_game: 14.930 (2.711 below average)
+  scoring_defense: 8.530 (2.706 below average)
+  scoring_offense: 10.000 (1.314 below average)
+  scoring_margin: 1.470 (0.264 below average)
+  defensive_efficiency: 18.174 (2.471 above average)
+  saves_per_game: 11.130 (0.858 below average)
+  clearing_percentage: 0.840 (0.003 below average)
+  ground_balls_per_game: 29.930 (0.966 below average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 35.971 (2.695 below average)

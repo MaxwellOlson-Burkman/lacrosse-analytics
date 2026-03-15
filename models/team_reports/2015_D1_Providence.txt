@@ -1,0 +1,17 @@
+Team: Providence
+Season: 2015 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.281
+
+Stat Comparison vs League Average:
+  points_per_game: 11.500 (6.141 below average)
+  scoring_defense: 10.860 (0.376 below average)
+  scoring_offense: 8.070 (3.244 below average)
+  scoring_margin: -2.790 (4.524 below average)
+  defensive_efficiency: 17.154 (1.451 above average)
+  saves_per_game: 13.930 (1.942 above average)
+  clearing_percentage: 0.797 (0.046 below average)
+  ground_balls_per_game: 26.640 (4.256 below average)
+  shot_percentage: 0.254 (0.037 below average)
+  offensive_efficiency: 31.772 (6.894 below average)

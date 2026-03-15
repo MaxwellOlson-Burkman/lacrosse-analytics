@@ -1,0 +1,17 @@
+Team: Lehigh
+Season: 2021 D1
+Record: 10-2
+Winning %: 0.833
+Predicted Winning %: 0.781
+
+Stat Comparison vs League Average:
+  points_per_game: 22.670 (5.029 above average)
+  scoring_defense: 10.170 (1.066 below average)
+  scoring_offense: 14.080 (2.766 above average)
+  scoring_margin: 3.920 (2.186 above average)
+  defensive_efficiency: 16.306 (0.603 above average)
+  saves_per_game: 12.420 (0.432 above average)
+  clearing_percentage: 0.825 (0.018 below average)
+  ground_balls_per_game: 41.920 (11.024 above average)
+  shot_percentage: 0.314 (0.023 above average)
+  offensive_efficiency: 44.841 (6.175 above average)

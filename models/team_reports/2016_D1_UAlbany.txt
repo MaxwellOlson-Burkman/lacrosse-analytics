@@ -1,0 +1,17 @@
+Team: UAlbany
+Season: 2016 D1
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.719
+
+Stat Comparison vs League Average:
+  points_per_game: 21.310 (3.669 above average)
+  scoring_defense: 10.060 (1.176 below average)
+  scoring_offense: 12.940 (1.626 above average)
+  scoring_margin: 2.880 (1.146 above average)
+  defensive_efficiency: 16.967 (1.264 above average)
+  saves_per_game: 12.690 (0.702 above average)
+  clearing_percentage: 0.907 (0.064 above average)
+  ground_balls_per_game: 28.440 (2.456 below average)
+  shot_percentage: 0.342 (0.051 above average)
+  offensive_efficiency: 37.836 (0.830 below average)

@@ -1,0 +1,17 @@
+Team: Siena
+Season: 2022 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.411
+
+Stat Comparison vs League Average:
+  points_per_game: 16.470 (1.171 below average)
+  scoring_defense: 10.600 (0.636 below average)
+  scoring_offense: 10.200 (1.114 below average)
+  scoring_margin: -0.400 (2.134 below average)
+  defensive_efficiency: 16.939 (1.236 above average)
+  saves_per_game: 14.130 (2.142 above average)
+  clearing_percentage: 0.838 (0.005 below average)
+  ground_balls_per_game: 30.600 (0.296 below average)
+  shot_percentage: 0.246 (0.045 below average)
+  offensive_efficiency: 41.463 (2.797 above average)

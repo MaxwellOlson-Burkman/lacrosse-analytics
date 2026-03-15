@@ -1,0 +1,17 @@
+Team: Rutgers
+Season: 2018 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.665
+
+Stat Comparison vs League Average:
+  points_per_game: 17.930 (0.289 above average)
+  scoring_defense: 9.530 (1.706 below average)
+  scoring_offense: 11.200 (0.114 below average)
+  scoring_margin: 1.670 (0.064 below average)
+  defensive_efficiency: 16.819 (1.116 above average)
+  saves_per_game: 9.530 (2.458 below average)
+  clearing_percentage: 0.881 (0.038 above average)
+  ground_balls_per_game: 27.800 (3.096 below average)
+  shot_percentage: 0.329 (0.038 above average)
+  offensive_efficiency: 34.043 (4.624 below average)

@@ -1,0 +1,17 @@
+Team: Wheeling
+Season: 2021 D2
+Record: 1-10
+Winning %: 0.091
+Predicted Winning %: 0.060
+
+Stat Comparison vs League Average:
+  points_per_game: 10.730 (6.911 below average)
+  scoring_defense: 18.180 (6.944 above average)
+  scoring_offense: 6.270 (5.044 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 7.646 (8.057 below average)
+  saves_per_game: 12.270 (0.282 above average)
+  clearing_percentage: 0.644 (0.199 below average)
+  ground_balls_per_game: 26.360 (4.536 below average)
+  shot_percentage: 0.243 (0.048 below average)
+  offensive_efficiency: 25.802 (12.864 below average)

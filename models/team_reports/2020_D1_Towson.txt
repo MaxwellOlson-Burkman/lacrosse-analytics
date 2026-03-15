@@ -1,0 +1,17 @@
+Team: Towson
+Season: 2020 D1
+Record: 0-6
+Winning %: 0.000
+Predicted Winning %: 0.051
+
+Stat Comparison vs League Average:
+  points_per_game: 11.000 (6.641 below average)
+  scoring_defense: 14.000 (2.764 above average)
+  scoring_offense: 7.000 (4.314 below average)
+  scoring_margin: -7.000 (8.734 below average)
+  defensive_efficiency: 11.810 (3.893 below average)
+  saves_per_game: 12.500 (0.512 above average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 23.330 (7.566 below average)
+  shot_percentage: 0.223 (0.068 below average)
+  offensive_efficiency: 31.390 (7.276 below average)

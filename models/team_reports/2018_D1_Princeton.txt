@@ -1,0 +1,17 @@
+Team: Princeton
+Season: 2018 D1
+Record: 8-5
+Winning %: 0.615
+Predicted Winning %: 0.589
+
+Stat Comparison vs League Average:
+  points_per_game: 22.850 (5.209 above average)
+  scoring_defense: 12.150 (0.914 above average)
+  scoring_offense: 13.620 (2.306 above average)
+  scoring_margin: 1.460 (0.274 below average)
+  defensive_efficiency: 14.920 (0.783 below average)
+  saves_per_game: 13.150 (1.162 above average)
+  clearing_percentage: 0.819 (0.024 below average)
+  ground_balls_per_game: 31.150 (0.254 above average)
+  shot_percentage: 0.358 (0.067 above average)
+  offensive_efficiency: 38.045 (0.621 below average)

@@ -1,0 +1,17 @@
+Team: Villanova
+Season: 2017 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.643
+
+Stat Comparison vs League Average:
+  points_per_game: 21.270 (3.629 above average)
+  scoring_defense: 11.470 (0.234 above average)
+  scoring_offense: 13.130 (1.816 above average)
+  scoring_margin: 1.670 (0.064 below average)
+  defensive_efficiency: 14.784 (0.919 below average)
+  saves_per_game: 9.730 (2.258 below average)
+  clearing_percentage: 0.905 (0.062 above average)
+  ground_balls_per_game: 27.530 (3.366 below average)
+  shot_percentage: 0.291 (0.000 above average)
+  offensive_efficiency: 45.120 (6.454 above average)

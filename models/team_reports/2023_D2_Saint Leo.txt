@@ -1,0 +1,17 @@
+Team: Saint Leo
+Season: 2023 D2
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.607
+
+Stat Comparison vs League Average:
+  points_per_game: 25.000 (7.359 above average)
+  scoring_defense: 12.560 (1.324 above average)
+  scoring_offense: 16.060 (4.746 above average)
+  scoring_margin: 3.500 (1.766 above average)
+  defensive_efficiency: 15.430 (0.273 below average)
+  saves_per_game: 12.750 (0.762 above average)
+  clearing_percentage: 0.804 (0.039 below average)
+  ground_balls_per_game: 35.750 (4.854 above average)
+  shot_percentage: 0.359 (0.068 above average)
+  offensive_efficiency: 44.735 (6.069 above average)

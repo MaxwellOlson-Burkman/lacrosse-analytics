@@ -1,0 +1,17 @@
+Team: Navy
+Season: 2022 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.582
+
+Stat Comparison vs League Average:
+  points_per_game: 17.330 (0.311 below average)
+  scoring_defense: 10.130 (1.106 below average)
+  scoring_offense: 10.670 (0.644 below average)
+  scoring_margin: 0.530 (1.204 below average)
+  defensive_efficiency: 16.414 (0.711 above average)
+  saves_per_game: 11.330 (0.658 below average)
+  clearing_percentage: 0.856 (0.013 above average)
+  ground_balls_per_game: 34.930 (4.034 above average)
+  shot_percentage: 0.266 (0.025 below average)
+  offensive_efficiency: 40.113 (1.447 above average)

@@ -1,0 +1,17 @@
+Team: Seton Hill
+Season: 2021 D2
+Record: 11-3
+Winning %: 0.786
+Predicted Winning %: 0.820
+
+Stat Comparison vs League Average:
+  points_per_game: 26.790 (9.149 above average)
+  scoring_defense: 8.140 (3.096 below average)
+  scoring_offense: 17.570 (6.256 above average)
+  scoring_margin: 9.430 (7.696 above average)
+  defensive_efficiency: 19.612 (3.909 above average)
+  saves_per_game: 12.140 (0.152 above average)
+  clearing_percentage: 0.832 (0.011 below average)
+  ground_balls_per_game: 35.210 (4.314 above average)
+  shot_percentage: 0.345 (0.054 above average)
+  offensive_efficiency: 50.928 (12.261 above average)

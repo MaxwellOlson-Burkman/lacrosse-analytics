@@ -1,0 +1,17 @@
+Team: Bellarmine
+Season: 2017 D1
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.225
+
+Stat Comparison vs League Average:
+  points_per_game: 13.310 (4.331 below average)
+  scoring_defense: 13.380 (2.144 above average)
+  scoring_offense: 8.620 (2.694 below average)
+  scoring_margin: -4.770 (6.504 below average)
+  defensive_efficiency: 12.870 (2.833 below average)
+  saves_per_game: 11.150 (0.838 below average)
+  clearing_percentage: 0.838 (0.005 below average)
+  ground_balls_per_game: 20.000 (10.896 below average)
+  shot_percentage: 0.264 (0.027 below average)
+  offensive_efficiency: 32.652 (6.015 below average)

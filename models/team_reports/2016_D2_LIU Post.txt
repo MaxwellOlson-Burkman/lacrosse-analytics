@@ -1,0 +1,17 @@
+Team: LIU Post
+Season: 2016 D2
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.758
+
+Stat Comparison vs League Average:
+  points_per_game: 20.250 (2.609 above average)
+  scoring_defense: 8.130 (3.106 below average)
+  scoring_offense: 13.440 (2.126 above average)
+  scoring_margin: 5.310 (3.576 above average)
+  defensive_efficiency: 18.280 (2.577 above average)
+  saves_per_game: 9.250 (2.738 below average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 30.190 (0.706 below average)
+  shot_percentage: 0.343 (0.052 above average)
+  offensive_efficiency: 39.184 (0.518 above average)

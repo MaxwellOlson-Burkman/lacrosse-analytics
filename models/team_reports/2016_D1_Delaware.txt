@@ -1,0 +1,17 @@
+Team: Delaware
+Season: 2016 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.273
+
+Stat Comparison vs League Average:
+  points_per_game: 12.330 (5.311 below average)
+  scoring_defense: 10.470 (0.766 below average)
+  scoring_offense: 8.200 (3.114 below average)
+  scoring_margin: -2.270 (4.004 below average)
+  defensive_efficiency: 15.190 (0.513 below average)
+  saves_per_game: 9.000 (2.988 below average)
+  clearing_percentage: 0.844 (0.001 above average)
+  ground_balls_per_game: 26.530 (4.366 below average)
+  shot_percentage: 0.256 (0.035 below average)
+  offensive_efficiency: 32.031 (6.635 below average)

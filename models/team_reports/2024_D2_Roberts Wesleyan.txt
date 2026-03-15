@@ -1,0 +1,17 @@
+Team: Roberts Wesleyan
+Season: 2024 D2
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.617
+
+Stat Comparison vs League Average:
+  points_per_game: 22.250 (4.609 above average)
+  scoring_defense: 10.940 (0.296 below average)
+  scoring_offense: 13.880 (2.566 above average)
+  scoring_margin: 2.940 (1.206 above average)
+  defensive_efficiency: 15.930 (0.227 above average)
+  saves_per_game: 10.250 (1.738 below average)
+  clearing_percentage: 0.854 (0.011 above average)
+  ground_balls_per_game: 32.190 (1.294 above average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 46.577 (7.911 above average)

@@ -1,0 +1,17 @@
+Team: Holy Cross
+Season: 2020 D1
+Record: 4-3
+Winning %: 0.571
+Predicted Winning %: 0.453
+
+Stat Comparison vs League Average:
+  points_per_game: 13.860 (3.781 below average)
+  scoring_defense: 10.570 (0.666 below average)
+  scoring_offense: 9.140 (2.174 below average)
+  scoring_margin: -1.430 (3.164 below average)
+  defensive_efficiency: 14.973 (0.730 below average)
+  saves_per_game: 9.710 (2.278 below average)
+  clearing_percentage: 0.830 (0.013 below average)
+  ground_balls_per_game: 31.290 (0.394 above average)
+  shot_percentage: 0.241 (0.050 below average)
+  offensive_efficiency: 37.925 (0.741 below average)

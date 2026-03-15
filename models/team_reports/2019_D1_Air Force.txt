@@ -1,0 +1,17 @@
+Team: Air Force
+Season: 2019 D1
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.672
+
+Stat Comparison vs League Average:
+  points_per_game: 17.930 (0.289 above average)
+  scoring_defense: 8.000 (3.236 below average)
+  scoring_offense: 11.270 (0.044 below average)
+  scoring_margin: 3.270 (1.536 above average)
+  defensive_efficiency: 18.129 (2.426 above average)
+  saves_per_game: 8.530 (3.458 below average)
+  clearing_percentage: 0.821 (0.022 below average)
+  ground_balls_per_game: 33.930 (3.034 above average)
+  shot_percentage: 0.280 (0.011 below average)
+  offensive_efficiency: 40.250 (1.584 above average)

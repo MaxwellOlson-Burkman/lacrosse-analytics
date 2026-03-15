@@ -1,0 +1,17 @@
+Team: Wingate
+Season: 2017 D2
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.719
+
+Stat Comparison vs League Average:
+  points_per_game: 17.120 (0.521 below average)
+  scoring_defense: 7.530 (3.706 below average)
+  scoring_offense: 10.710 (0.604 below average)
+  scoring_margin: 3.180 (1.446 above average)
+  defensive_efficiency: 19.521 (3.818 above average)
+  saves_per_game: 11.120 (0.868 below average)
+  clearing_percentage: 0.858 (0.015 above average)
+  ground_balls_per_game: 29.760 (1.136 below average)
+  shot_percentage: 0.303 (0.012 above average)
+  offensive_efficiency: 35.347 (3.320 below average)

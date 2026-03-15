@@ -1,0 +1,21 @@
+{
+  "points_per_game": 0.3924443954217327,
+  "scoring_defense": 0.2922795094219445,
+  "scoring_offense": 0.15391200800505989,
+  "scoring_margin": 0.03662990917032929,
+  "defensive_efficiency": 0.02723641245480385,
+  "saves_per_game": 0.01895753637086317,
+  "clearing_percentage": 0.01257466991747583,
+  "ground_balls_per_game": 0.01168826926728746,
+  "shot_percentage": 0.009738817561126625,
+  "offensive_efficiency": 0.008230411735304428,
+  "face_off_winning_percentage": 0.007378057326623088,
+  "possession_value_index": 0.005863979456390208,
+  "man_up_offense": 0.004785033429421519,
+  "man_down_defense": 0.004138975017524181,
+  "turnovers_per_game": 0.0037268810337573416,
+  "extra_man_impact": 0.0034914868495336173,
+  "caused_turnovers_per_game": 0.00299867103091654,
+  "division": 0.002299581422389602,
+  "assists_per_game": 0.0016253951075163096
+}

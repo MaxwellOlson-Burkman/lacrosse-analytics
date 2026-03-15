@@ -1,0 +1,17 @@
+Team: Florida Tech
+Season: 2014 D2
+Record: 3-9
+Winning %: 0.250
+Predicted Winning %: 0.414
+
+Stat Comparison vs League Average:
+  points_per_game: 17.830 (0.189 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.073 (3.370 above average)
+  saves_per_game: 10.920 (1.068 below average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 32.830 (1.934 above average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 46.101 (7.435 above average)

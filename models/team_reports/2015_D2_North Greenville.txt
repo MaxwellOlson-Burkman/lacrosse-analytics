@@ -1,0 +1,17 @@
+Team: North Greenville
+Season: 2015 D2
+Record: 1-14
+Winning %: 0.067
+Predicted Winning %: 0.098
+
+Stat Comparison vs League Average:
+  points_per_game: 11.670 (5.971 below average)
+  scoring_defense: 15.930 (4.694 above average)
+  scoring_offense: 7.600 (3.714 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 11.624 (4.079 below average)
+  saves_per_game: 14.730 (2.742 above average)
+  clearing_percentage: 0.831 (0.012 below average)
+  ground_balls_per_game: 26.470 (4.426 below average)
+  shot_percentage: 0.331 (0.040 above average)
+  offensive_efficiency: 22.961 (15.705 below average)

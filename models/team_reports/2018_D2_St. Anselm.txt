@@ -1,0 +1,17 @@
+Team: St. Anselm
+Season: 2018 D2
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.690
+
+Stat Comparison vs League Average:
+  points_per_game: 19.310 (1.669 above average)
+  scoring_defense: 8.380 (2.856 below average)
+  scoring_offense: 12.630 (1.316 above average)
+  scoring_margin: 4.250 (2.516 above average)
+  defensive_efficiency: 18.775 (3.072 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.864 (0.021 above average)
+  ground_balls_per_game: 28.560 (2.336 below average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 42.959 (4.293 above average)

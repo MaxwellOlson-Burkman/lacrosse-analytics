@@ -1,0 +1,17 @@
+Team: Florida Tech
+Season: 2024 D2
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.328
+
+Stat Comparison vs League Average:
+  points_per_game: 17.530 (0.111 below average)
+  scoring_defense: 13.730 (2.494 above average)
+  scoring_offense: 11.530 (0.216 above average)
+  scoring_margin: -2.200 (3.934 below average)
+  defensive_efficiency: 13.605 (2.098 below average)
+  saves_per_game: 14.200 (2.212 above average)
+  clearing_percentage: 0.857 (0.014 above average)
+  ground_balls_per_game: 27.400 (3.496 below average)
+  shot_percentage: 0.323 (0.032 above average)
+  offensive_efficiency: 35.697 (2.970 below average)

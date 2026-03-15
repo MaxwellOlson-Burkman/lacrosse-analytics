@@ -1,0 +1,17 @@
+Team: Merrimack
+Season: 2016 D2
+Record: 15-3
+Winning %: 0.833
+Predicted Winning %: 0.778
+
+Stat Comparison vs League Average:
+  points_per_game: 22.110 (4.469 above average)
+  scoring_defense: 9.000 (2.236 below average)
+  scoring_offense: 14.500 (3.186 above average)
+  scoring_margin: 5.500 (3.766 above average)
+  defensive_efficiency: 17.512 (1.809 above average)
+  saves_per_game: 9.940 (2.048 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 37.830 (6.934 above average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 47.541 (8.875 above average)

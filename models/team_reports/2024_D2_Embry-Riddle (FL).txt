@@ -1,0 +1,17 @@
+Team: Embry-Riddle (FL)
+Season: 2024 D2
+Record: 6-8
+Winning %: 0.429
+Predicted Winning %: 0.529
+
+Stat Comparison vs League Average:
+  points_per_game: 19.570 (1.929 above average)
+  scoring_defense: 12.070 (0.834 above average)
+  scoring_offense: 13.210 (1.896 above average)
+  scoring_margin: 1.140 (0.594 below average)
+  defensive_efficiency: 15.922 (0.219 above average)
+  saves_per_game: 14.140 (2.152 above average)
+  clearing_percentage: 0.888 (0.045 above average)
+  ground_balls_per_game: 26.070 (4.826 below average)
+  shot_percentage: 0.333 (0.042 above average)
+  offensive_efficiency: 39.670 (1.004 above average)

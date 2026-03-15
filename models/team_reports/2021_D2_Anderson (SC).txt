@@ -1,0 +1,17 @@
+Team: Anderson (SC)
+Season: 2021 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.335
+
+Stat Comparison vs League Average:
+  points_per_game: 16.930 (0.711 below average)
+  scoring_defense: 15.210 (3.974 above average)
+  scoring_offense: 11.860 (0.546 above average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 12.398 (3.305 below average)
+  saves_per_game: 12.860 (0.872 above average)
+  clearing_percentage: 0.772 (0.071 below average)
+  ground_balls_per_game: 35.570 (4.674 above average)
+  shot_percentage: 0.284 (0.007 below average)
+  offensive_efficiency: 41.761 (3.094 above average)

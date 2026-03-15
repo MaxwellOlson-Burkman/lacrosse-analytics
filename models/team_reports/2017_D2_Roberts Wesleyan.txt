@@ -1,0 +1,17 @@
+Team: Roberts Wesleyan
+Season: 2017 D2
+Record: 4-12
+Winning %: 0.250
+Predicted Winning %: 0.343
+
+Stat Comparison vs League Average:
+  points_per_game: 13.250 (4.391 below average)
+  scoring_defense: 9.940 (1.296 below average)
+  scoring_offense: 8.630 (2.684 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 17.915 (2.212 above average)
+  saves_per_game: 12.500 (0.512 above average)
+  clearing_percentage: 0.808 (0.035 below average)
+  ground_balls_per_game: 27.250 (3.646 below average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 30.495 (8.171 below average)

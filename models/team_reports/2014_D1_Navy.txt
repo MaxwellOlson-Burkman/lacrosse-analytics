@@ -1,0 +1,17 @@
+Team: Navy
+Season: 2014 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.428
+
+Stat Comparison vs League Average:
+  points_per_game: 13.430 (4.211 below average)
+  scoring_defense: 9.360 (1.876 below average)
+  scoring_offense: 8.930 (2.384 below average)
+  scoring_margin: -0.430 (2.164 below average)
+  defensive_efficiency: 17.167 (1.464 above average)
+  saves_per_game: 10.640 (1.348 below average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 29.290 (1.606 below average)
+  shot_percentage: 0.243 (0.048 below average)
+  offensive_efficiency: 36.749 (1.917 below average)

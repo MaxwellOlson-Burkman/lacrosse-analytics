@@ -1,0 +1,17 @@
+Team: Limestone
+Season: 2015 D2
+Record: 20-1
+Winning %: 0.952
+Predicted Winning %: 0.939
+
+Stat Comparison vs League Average:
+  points_per_game: 26.290 (8.649 above average)
+  scoring_defense: 7.480 (3.756 below average)
+  scoring_offense: 17.050 (5.736 above average)
+  scoring_margin: 9.570 (7.836 above average)
+  defensive_efficiency: 18.806 (3.103 above average)
+  saves_per_game: 8.670 (3.318 below average)
+  clearing_percentage: 0.896 (0.053 above average)
+  ground_balls_per_game: 41.240 (10.344 above average)
+  shot_percentage: 0.371 (0.080 above average)
+  offensive_efficiency: 45.957 (7.291 above average)

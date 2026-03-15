@@ -1,0 +1,17 @@
+Team: Lees-McRae
+Season: 2018 D2
+Record: 2-7
+Winning %: 0.222
+Predicted Winning %: 0.195
+
+Stat Comparison vs League Average:
+  points_per_game: 14.330 (3.311 below average)
+  scoring_defense: 17.780 (6.544 above average)
+  scoring_offense: 9.560 (1.754 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 8.418 (7.285 below average)
+  saves_per_game: 10.560 (1.428 below average)
+  clearing_percentage: 0.709 (0.134 below average)
+  ground_balls_per_game: 26.440 (4.456 below average)
+  shot_percentage: 0.345 (0.054 above average)
+  offensive_efficiency: 27.710 (10.956 below average)

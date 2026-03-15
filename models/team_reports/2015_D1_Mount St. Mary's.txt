@@ -1,0 +1,17 @@
+Team: Mount St. Mary's
+Season: 2015 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.368
+
+Stat Comparison vs League Average:
+  points_per_game: 10.270 (7.371 below average)
+  scoring_defense: 8.870 (2.366 below average)
+  scoring_offense: 7.330 (3.984 below average)
+  scoring_margin: -1.530 (3.264 below average)
+  defensive_efficiency: 17.686 (1.983 above average)
+  saves_per_game: 11.070 (0.918 below average)
+  clearing_percentage: 0.808 (0.035 below average)
+  ground_balls_per_game: 26.200 (4.696 below average)
+  shot_percentage: 0.227 (0.064 below average)
+  offensive_efficiency: 32.291 (6.375 below average)

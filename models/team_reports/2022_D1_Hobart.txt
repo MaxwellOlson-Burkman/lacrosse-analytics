@@ -1,0 +1,17 @@
+Team: Hobart
+Season: 2022 D1
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.587
+
+Stat Comparison vs League Average:
+  points_per_game: 21.540 (3.899 above average)
+  scoring_defense: 12.080 (0.844 above average)
+  scoring_offense: 14.080 (2.766 above average)
+  scoring_margin: 2.000 (0.266 above average)
+  defensive_efficiency: 14.370 (1.333 below average)
+  saves_per_game: 10.850 (1.138 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 32.770 (1.874 above average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 50.647 (11.981 above average)

@@ -1,0 +1,17 @@
+Team: Belmont Abbey
+Season: 2014 D2
+Record: 6-10
+Winning %: 0.375
+Predicted Winning %: 0.468
+
+Stat Comparison vs League Average:
+  points_per_game: 15.690 (1.951 below average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.770 (1.456 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.619 (3.916 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 45.445 (6.779 above average)

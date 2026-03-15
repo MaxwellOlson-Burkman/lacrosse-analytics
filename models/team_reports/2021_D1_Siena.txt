@@ -1,0 +1,17 @@
+Team: Siena
+Season: 2021 D1
+Record: 0-8
+Winning %: 0.000
+Predicted Winning %: 0.205
+
+Stat Comparison vs League Average:
+  points_per_game: 13.130 (4.511 below average)
+  scoring_defense: 10.130 (1.106 below average)
+  scoring_offense: 8.250 (3.064 below average)
+  scoring_margin: -1.880 (3.614 below average)
+  defensive_efficiency: 17.379 (1.676 above average)
+  saves_per_game: 14.880 (2.892 above average)
+  clearing_percentage: 0.805 (0.038 below average)
+  ground_balls_per_game: 28.250 (2.646 below average)
+  shot_percentage: 0.213 (0.078 below average)
+  offensive_efficiency: 38.732 (0.066 above average)

@@ -1,0 +1,17 @@
+Team: Dominican (NY)
+Season: 2021 D2
+Record: 4-4
+Winning %: 0.500
+Predicted Winning %: 0.352
+
+Stat Comparison vs League Average:
+  points_per_game: 17.880 (0.239 above average)
+  scoring_defense: 15.880 (4.644 above average)
+  scoring_offense: 10.630 (0.684 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 11.515 (4.188 below average)
+  saves_per_game: 12.250 (0.262 above average)
+  clearing_percentage: 0.798 (0.045 below average)
+  ground_balls_per_game: 33.000 (2.104 above average)
+  shot_percentage: 0.264 (0.027 below average)
+  offensive_efficiency: 40.265 (1.599 above average)

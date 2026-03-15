@@ -1,0 +1,17 @@
+Team: Lafayette
+Season: 2021 D1
+Record: 0-11
+Winning %: 0.000
+Predicted Winning %: 0.124
+
+Stat Comparison vs League Average:
+  points_per_game: 13.270 (4.371 below average)
+  scoring_defense: 14.550 (3.314 above average)
+  scoring_offense: 8.910 (2.404 below average)
+  scoring_margin: -5.640 (7.374 below average)
+  defensive_efficiency: 12.069 (3.634 below average)
+  saves_per_game: 12.730 (0.742 above average)
+  clearing_percentage: 0.814 (0.029 below average)
+  ground_balls_per_game: 29.450 (1.446 below average)
+  shot_percentage: 0.270 (0.021 below average)
+  offensive_efficiency: 33.000 (5.666 below average)

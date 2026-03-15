@@ -1,0 +1,17 @@
+Team: Bentley
+Season: 2016 D2
+Record: 6-7
+Winning %: 0.462
+Predicted Winning %: 0.426
+
+Stat Comparison vs League Average:
+  points_per_game: 13.380 (4.261 below average)
+  scoring_defense: 10.230 (1.006 below average)
+  scoring_offense: 8.540 (2.774 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 15.764 (0.061 above average)
+  saves_per_game: 9.380 (2.608 below average)
+  clearing_percentage: 0.814 (0.029 below average)
+  ground_balls_per_game: 31.460 (0.564 above average)
+  shot_percentage: 0.239 (0.052 below average)
+  offensive_efficiency: 35.732 (2.934 below average)

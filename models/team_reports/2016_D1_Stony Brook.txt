@@ -1,0 +1,17 @@
+Team: Stony Brook
+Season: 2016 D1
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.757
+
+Stat Comparison vs League Average:
+  points_per_game: 21.750 (4.109 above average)
+  scoring_defense: 9.130 (2.106 below average)
+  scoring_offense: 13.310 (1.996 above average)
+  scoring_margin: 4.190 (2.456 above average)
+  defensive_efficiency: 17.598 (1.895 above average)
+  saves_per_game: 10.310 (1.678 below average)
+  clearing_percentage: 0.881 (0.038 above average)
+  ground_balls_per_game: 31.690 (0.794 above average)
+  shot_percentage: 0.359 (0.068 above average)
+  offensive_efficiency: 37.075 (1.591 below average)

@@ -1,0 +1,17 @@
+Team: Army West Point
+Season: 2017 D1
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.665
+
+Stat Comparison vs League Average:
+  points_per_game: 16.060 (1.581 below average)
+  scoring_defense: 8.190 (3.046 below average)
+  scoring_offense: 10.630 (0.684 below average)
+  scoring_margin: 2.440 (0.706 above average)
+  defensive_efficiency: 17.598 (1.895 above average)
+  saves_per_game: 8.810 (3.178 below average)
+  clearing_percentage: 0.878 (0.035 above average)
+  ground_balls_per_game: 33.500 (2.604 above average)
+  shot_percentage: 0.272 (0.019 below average)
+  offensive_efficiency: 39.081 (0.415 above average)

@@ -1,0 +1,17 @@
+Team: Massachusetts
+Season: 2015 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.432
+
+Stat Comparison vs League Average:
+  points_per_game: 16.330 (1.311 below average)
+  scoring_defense: 10.730 (0.506 below average)
+  scoring_offense: 9.730 (1.584 below average)
+  scoring_margin: -1.000 (2.734 below average)
+  defensive_efficiency: 15.669 (0.034 below average)
+  saves_per_game: 10.730 (1.258 below average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 26.330 (4.566 below average)
+  shot_percentage: 0.296 (0.005 above average)
+  offensive_efficiency: 32.872 (5.794 below average)

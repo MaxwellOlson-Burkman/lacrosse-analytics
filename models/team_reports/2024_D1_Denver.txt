@@ -1,0 +1,17 @@
+Team: Denver
+Season: 2024 D1
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.643
+
+Stat Comparison vs League Average:
+  points_per_game: 18.760 (1.119 above average)
+  scoring_defense: 9.410 (1.826 below average)
+  scoring_offense: 11.820 (0.506 above average)
+  scoring_margin: 2.410 (0.676 above average)
+  defensive_efficiency: 17.653 (1.950 above average)
+  saves_per_game: 9.410 (2.578 below average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 29.820 (1.076 below average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 38.882 (0.215 above average)

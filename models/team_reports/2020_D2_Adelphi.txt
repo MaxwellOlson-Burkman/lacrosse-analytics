@@ -1,0 +1,17 @@
+Team: Adelphi
+Season: 2020 D2
+Record: 1-2
+Winning %: 0.333
+Predicted Winning %: 0.534
+
+Stat Comparison vs League Average:
+  points_per_game: 23.670 (6.029 above average)
+  scoring_defense: 10.670 (0.566 below average)
+  scoring_offense: 15.330 (4.016 above average)
+  scoring_margin: 4.670 (2.936 above average)
+  defensive_efficiency: 15.695 (0.008 below average)
+  saves_per_game: 9.000 (2.988 below average)
+  clearing_percentage: 0.817 (0.026 below average)
+  ground_balls_per_game: 34.670 (3.774 above average)
+  shot_percentage: 0.315 (0.024 above average)
+  offensive_efficiency: 48.667 (10.001 above average)

@@ -1,0 +1,17 @@
+Team: Mount Olive
+Season: 2024 D2
+Record: 12-3
+Winning %: 0.800
+Predicted Winning %: 0.629
+
+Stat Comparison vs League Average:
+  points_per_game: 23.070 (5.429 above average)
+  scoring_defense: 10.800 (0.436 below average)
+  scoring_offense: 13.670 (2.356 above average)
+  scoring_margin: 2.870 (1.136 above average)
+  defensive_efficiency: 16.544 (0.841 above average)
+  saves_per_game: 12.530 (0.542 above average)
+  clearing_percentage: 0.840 (0.003 below average)
+  ground_balls_per_game: 34.330 (3.434 above average)
+  shot_percentage: 0.341 (0.050 above average)
+  offensive_efficiency: 40.088 (1.422 above average)

@@ -1,0 +1,17 @@
+Team: Air Force
+Season: 2022 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.462
+
+Stat Comparison vs League Average:
+  points_per_game: 16.870 (0.771 below average)
+  scoring_defense: 10.270 (0.966 below average)
+  scoring_offense: 11.130 (0.184 below average)
+  scoring_margin: 0.870 (0.864 below average)
+  defensive_efficiency: 16.591 (0.888 above average)
+  saves_per_game: 12.270 (0.282 above average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 28.870 (2.026 below average)
+  shot_percentage: 0.252 (0.039 below average)
+  offensive_efficiency: 44.167 (5.501 above average)

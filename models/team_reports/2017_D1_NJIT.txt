@@ -1,0 +1,17 @@
+Team: NJIT
+Season: 2017 D1
+Record: 1-14
+Winning %: 0.067
+Predicted Winning %: 0.100
+
+Stat Comparison vs League Average:
+  points_per_game: 10.330 (7.311 below average)
+  scoring_defense: 12.400 (1.164 above average)
+  scoring_offense: 6.930 (4.384 below average)
+  scoring_margin: -5.470 (7.204 below average)
+  defensive_efficiency: 14.039 (1.664 below average)
+  saves_per_game: 13.130 (1.142 above average)
+  clearing_percentage: 0.776 (0.067 below average)
+  ground_balls_per_game: 23.730 (7.166 below average)
+  shot_percentage: 0.262 (0.029 below average)
+  offensive_efficiency: 26.450 (12.216 below average)

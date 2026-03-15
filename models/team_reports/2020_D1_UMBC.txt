@@ -1,0 +1,17 @@
+Team: UMBC
+Season: 2020 D1
+Record: 4-1
+Winning %: 0.800
+Predicted Winning %: 0.710
+
+Stat Comparison vs League Average:
+  points_per_game: 16.800 (0.841 below average)
+  scoring_defense: 8.400 (2.836 below average)
+  scoring_offense: 11.800 (0.486 above average)
+  scoring_margin: 3.400 (1.666 above average)
+  defensive_efficiency: 19.820 (4.117 above average)
+  saves_per_game: 12.400 (0.412 above average)
+  clearing_percentage: 0.900 (0.057 above average)
+  ground_balls_per_game: 29.800 (1.096 below average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 40.972 (2.306 above average)

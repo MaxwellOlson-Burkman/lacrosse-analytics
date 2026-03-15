@@ -1,0 +1,17 @@
+Team: North Greenville
+Season: 2020 D2
+Record: 5-4
+Winning %: 0.556
+Predicted Winning %: 0.509
+
+Stat Comparison vs League Average:
+  points_per_game: 15.440 (2.201 below average)
+  scoring_defense: 9.670 (1.566 below average)
+  scoring_offense: 11.220 (0.094 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 18.583 (2.880 above average)
+  saves_per_game: 16.110 (4.122 above average)
+  clearing_percentage: 0.908 (0.065 above average)
+  ground_balls_per_game: 28.440 (2.456 below average)
+  shot_percentage: 0.256 (0.035 below average)
+  offensive_efficiency: 43.828 (5.162 above average)

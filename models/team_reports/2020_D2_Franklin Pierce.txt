@@ -1,0 +1,17 @@
+Team: Franklin Pierce
+Season: 2020 D2
+Record: 2-0
+Winning %: 1.000
+Predicted Winning %: 0.940
+
+Stat Comparison vs League Average:
+  points_per_game: 24.000 (6.359 above average)
+  scoring_defense: 5.000 (6.236 below average)
+  scoring_offense: 16.500 (5.186 above average)
+  scoring_margin: 11.500 (9.766 above average)
+  defensive_efficiency: 21.870 (6.167 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 32.000 (1.104 above average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 56.507 (17.841 above average)

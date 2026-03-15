@@ -1,0 +1,17 @@
+Team: Maryland
+Season: 2022 D1
+Record: 18-0
+Winning %: 1.000
+Predicted Winning %: 0.934
+
+Stat Comparison vs League Average:
+  points_per_game: 29.000 (11.359 above average)
+  scoring_defense: 9.000 (2.236 below average)
+  scoring_offense: 17.670 (6.356 above average)
+  scoring_margin: 8.670 (6.936 above average)
+  defensive_efficiency: 17.995 (2.292 above average)
+  saves_per_game: 13.000 (1.012 above average)
+  clearing_percentage: 0.894 (0.051 above average)
+  ground_balls_per_game: 37.220 (6.324 above average)
+  shot_percentage: 0.391 (0.100 above average)
+  offensive_efficiency: 45.192 (6.526 above average)

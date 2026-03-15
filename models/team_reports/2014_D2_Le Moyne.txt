@@ -1,0 +1,17 @@
+Team: Le Moyne
+Season: 2014 D2
+Record: 13-3
+Winning %: 0.813
+Predicted Winning %: 0.832
+
+Stat Comparison vs League Average:
+  points_per_game: 22.060 (4.419 above average)
+  scoring_defense: 6.810 (4.426 below average)
+  scoring_offense: 13.500 (2.186 above average)
+  scoring_margin: 6.690 (4.956 above average)
+  defensive_efficiency: 20.805 (5.101 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.250 (0.354 above average)
+  shot_percentage: 0.333 (0.042 above average)
+  offensive_efficiency: 40.541 (1.874 above average)

@@ -1,0 +1,17 @@
+Team: American Int'l
+Season: 2021 D2
+Record: 0-11
+Winning %: 0.000
+Predicted Winning %: 0.038
+
+Stat Comparison vs League Average:
+  points_per_game: 8.360 (9.281 below average)
+  scoring_defense: 18.360 (7.124 above average)
+  scoring_offense: 5.360 (5.954 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 8.822 (6.881 below average)
+  saves_per_game: 13.640 (1.652 above average)
+  clearing_percentage: 0.686 (0.157 below average)
+  ground_balls_per_game: 29.360 (1.536 below average)
+  shot_percentage: 0.190 (0.101 below average)
+  offensive_efficiency: 28.211 (10.456 below average)

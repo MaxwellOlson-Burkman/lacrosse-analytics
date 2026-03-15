@@ -1,0 +1,17 @@
+Team: Pace
+Season: 2016 D2
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.683
+
+Stat Comparison vs League Average:
+  points_per_game: 21.650 (4.009 above average)
+  scoring_defense: 9.880 (1.356 below average)
+  scoring_offense: 13.590 (2.276 above average)
+  scoring_margin: 3.710 (1.976 above average)
+  defensive_efficiency: 16.928 (1.225 above average)
+  saves_per_game: 11.410 (0.578 below average)
+  clearing_percentage: 0.850 (0.007 above average)
+  ground_balls_per_game: 32.290 (1.394 above average)
+  shot_percentage: 0.319 (0.028 above average)
+  offensive_efficiency: 42.602 (3.936 above average)

@@ -1,0 +1,17 @@
+Team: UIndy
+Season: 2018 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.636
+
+Stat Comparison vs League Average:
+  points_per_game: 17.070 (0.571 below average)
+  scoring_defense: 8.070 (3.166 below average)
+  scoring_offense: 11.130 (0.184 below average)
+  scoring_margin: 3.070 (1.336 above average)
+  defensive_efficiency: 17.884 (2.181 above average)
+  saves_per_game: 7.730 (4.258 below average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 33.000 (2.104 above average)
+  shot_percentage: 0.238 (0.053 below average)
+  offensive_efficiency: 46.765 (8.099 above average)

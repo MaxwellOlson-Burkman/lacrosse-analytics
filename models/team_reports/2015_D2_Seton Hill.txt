@@ -1,0 +1,17 @@
+Team: Seton Hill
+Season: 2015 D2
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.677
+
+Stat Comparison vs League Average:
+  points_per_game: 16.360 (1.281 below average)
+  scoring_defense: 7.790 (3.446 below average)
+  scoring_offense: 11.790 (0.476 above average)
+  scoring_margin: 4.000 (2.266 above average)
+  defensive_efficiency: 18.650 (2.947 above average)
+  saves_per_game: 9.500 (2.488 below average)
+  clearing_percentage: 0.897 (0.054 above average)
+  ground_balls_per_game: 27.360 (3.536 below average)
+  shot_percentage: 0.353 (0.062 above average)
+  offensive_efficiency: 33.399 (5.267 below average)

@@ -1,0 +1,17 @@
+Team: Lander
+Season: 2020 D2
+Record: 4-2
+Winning %: 0.667
+Predicted Winning %: 0.688
+
+Stat Comparison vs League Average:
+  points_per_game: 23.170 (5.529 above average)
+  scoring_defense: 10.330 (0.906 below average)
+  scoring_offense: 14.330 (3.016 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 16.894 (1.191 above average)
+  saves_per_game: 13.330 (1.342 above average)
+  clearing_percentage: 0.806 (0.037 below average)
+  ground_balls_per_game: 47.670 (16.774 above average)
+  shot_percentage: 0.304 (0.013 above average)
+  offensive_efficiency: 47.138 (8.472 above average)

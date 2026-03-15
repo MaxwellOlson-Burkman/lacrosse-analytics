@@ -1,0 +1,17 @@
+Team: Dartmouth
+Season: 2020 D1
+Record: 3-1
+Winning %: 0.750
+Predicted Winning %: 0.695
+
+Stat Comparison vs League Average:
+  points_per_game: 18.000 (0.359 above average)
+  scoring_defense: 8.250 (2.986 below average)
+  scoring_offense: 11.500 (0.186 above average)
+  scoring_margin: 3.250 (1.516 above average)
+  defensive_efficiency: 18.300 (2.597 above average)
+  saves_per_game: 13.500 (1.512 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 30.250 (0.646 below average)
+  shot_percentage: 0.348 (0.057 above average)
+  offensive_efficiency: 33.046 (5.620 below average)

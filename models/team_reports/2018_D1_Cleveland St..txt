@@ -1,0 +1,17 @@
+Team: Cleveland St.
+Season: 2018 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.287
+
+Stat Comparison vs League Average:
+  points_per_game: 13.070 (4.571 below average)
+  scoring_defense: 11.360 (0.124 above average)
+  scoring_offense: 8.640 (2.674 below average)
+  scoring_margin: -2.710 (4.444 below average)
+  defensive_efficiency: 14.691 (1.012 below average)
+  saves_per_game: 10.570 (1.418 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 26.710 (4.186 below average)
+  shot_percentage: 0.248 (0.043 below average)
+  offensive_efficiency: 34.839 (3.827 below average)

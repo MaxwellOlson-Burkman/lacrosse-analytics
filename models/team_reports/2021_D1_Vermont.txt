@@ -1,0 +1,17 @@
+Team: Vermont
+Season: 2021 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.673
+
+Stat Comparison vs League Average:
+  points_per_game: 21.140 (3.499 above average)
+  scoring_defense: 10.570 (0.666 below average)
+  scoring_offense: 13.430 (2.116 above average)
+  scoring_margin: 2.860 (1.126 above average)
+  defensive_efficiency: 16.326 (0.623 above average)
+  saves_per_game: 11.570 (0.418 below average)
+  clearing_percentage: 0.869 (0.026 above average)
+  ground_balls_per_game: 35.360 (4.464 above average)
+  shot_percentage: 0.291 (0.000 above average)
+  offensive_efficiency: 46.151 (7.485 above average)

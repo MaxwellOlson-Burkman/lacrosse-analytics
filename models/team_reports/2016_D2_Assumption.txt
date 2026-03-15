@@ -1,0 +1,17 @@
+Team: Assumption
+Season: 2016 D2
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.325
+
+Stat Comparison vs League Average:
+  points_per_game: 14.140 (3.501 below average)
+  scoring_defense: 12.140 (0.904 above average)
+  scoring_offense: 8.860 (2.454 below average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 15.639 (0.064 below average)
+  saves_per_game: 12.930 (0.942 above average)
+  clearing_percentage: 0.755 (0.088 below average)
+  ground_balls_per_game: 31.930 (1.034 above average)
+  shot_percentage: 0.290 (0.001 below average)
+  offensive_efficiency: 30.552 (8.114 below average)

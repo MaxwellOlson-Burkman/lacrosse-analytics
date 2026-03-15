@@ -1,0 +1,17 @@
+Team: Boston U.
+Season: 2021 D1
+Record: 6-5
+Winning %: 0.545
+Predicted Winning %: 0.604
+
+Stat Comparison vs League Average:
+  points_per_game: 18.550 (0.909 above average)
+  scoring_defense: 10.000 (1.236 below average)
+  scoring_offense: 11.820 (0.506 above average)
+  scoring_margin: 1.820 (0.086 above average)
+  defensive_efficiency: 17.423 (1.720 above average)
+  saves_per_game: 13.360 (1.372 above average)
+  clearing_percentage: 0.880 (0.037 above average)
+  ground_balls_per_game: 30.640 (0.256 below average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 41.767 (3.101 above average)

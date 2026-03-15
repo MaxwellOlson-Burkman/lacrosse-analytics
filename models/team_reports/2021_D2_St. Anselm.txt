@@ -1,0 +1,17 @@
+Team: St. Anselm
+Season: 2021 D2
+Record: 13-2
+Winning %: 0.867
+Predicted Winning %: 0.911
+
+Stat Comparison vs League Average:
+  points_per_game: 25.600 (7.959 above average)
+  scoring_defense: 6.470 (4.766 below average)
+  scoring_offense: 16.070 (4.756 above average)
+  scoring_margin: 9.600 (7.866 above average)
+  defensive_efficiency: 20.229 (4.526 above average)
+  saves_per_game: 10.730 (1.258 below average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 41.930 (11.034 above average)
+  shot_percentage: 0.276 (0.015 below average)
+  offensive_efficiency: 58.225 (19.559 above average)

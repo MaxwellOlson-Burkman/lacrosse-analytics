@@ -1,0 +1,17 @@
+Team: Bellarmine
+Season: 2019 D1
+Record: 3-10
+Winning %: 0.231
+Predicted Winning %: 0.288
+
+Stat Comparison vs League Average:
+  points_per_game: 16.690 (0.951 below average)
+  scoring_defense: 13.230 (1.994 above average)
+  scoring_offense: 10.380 (0.934 below average)
+  scoring_margin: -2.850 (4.584 below average)
+  defensive_efficiency: 14.276 (1.427 below average)
+  saves_per_game: 13.770 (1.782 above average)
+  clearing_percentage: 0.835 (0.008 below average)
+  ground_balls_per_game: 26.310 (4.586 below average)
+  shot_percentage: 0.281 (0.010 below average)
+  offensive_efficiency: 36.940 (1.727 below average)

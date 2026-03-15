@@ -1,0 +1,17 @@
+Team: Villanova
+Season: 2024 D1
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.516
+
+Stat Comparison vs League Average:
+  points_per_game: 17.130 (0.511 below average)
+  scoring_defense: 10.310 (0.926 below average)
+  scoring_offense: 10.880 (0.434 below average)
+  scoring_margin: 0.560 (1.174 below average)
+  defensive_efficiency: 15.839 (0.136 above average)
+  saves_per_game: 10.130 (1.858 below average)
+  clearing_percentage: 0.827 (0.016 below average)
+  ground_balls_per_game: 31.310 (0.414 above average)
+  shot_percentage: 0.282 (0.009 below average)
+  offensive_efficiency: 38.582 (0.085 below average)

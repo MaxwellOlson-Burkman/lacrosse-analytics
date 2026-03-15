@@ -1,0 +1,17 @@
+Team: UMBC
+Season: 2014 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.493
+
+Stat Comparison vs League Average:
+  points_per_game: 18.930 (1.289 above average)
+  scoring_defense: 11.930 (0.694 above average)
+  scoring_offense: 12.200 (0.886 above average)
+  scoring_margin: 0.270 (1.464 below average)
+  defensive_efficiency: 14.494 (1.209 below average)
+  saves_per_game: 11.530 (0.458 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 33.070 (2.174 above average)
+  shot_percentage: 0.317 (0.026 above average)
+  offensive_efficiency: 38.486 (0.180 below average)

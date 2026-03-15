@@ -1,0 +1,17 @@
+Team: Air Force
+Season: 2024 D1
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.617
+
+Stat Comparison vs League Average:
+  points_per_game: 18.670 (1.029 above average)
+  scoring_defense: 9.670 (1.566 below average)
+  scoring_offense: 11.530 (0.216 above average)
+  scoring_margin: 1.870 (0.136 above average)
+  defensive_efficiency: 17.385 (1.682 above average)
+  saves_per_game: 10.600 (1.388 below average)
+  clearing_percentage: 0.882 (0.039 above average)
+  ground_balls_per_game: 31.400 (0.504 above average)
+  shot_percentage: 0.293 (0.002 above average)
+  offensive_efficiency: 39.352 (0.685 above average)

@@ -1,0 +1,17 @@
+Team: VMI
+Season: 2022 D1
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.261
+
+Stat Comparison vs League Average:
+  points_per_game: 15.330 (2.311 below average)
+  scoring_defense: 13.270 (2.034 above average)
+  scoring_offense: 9.600 (1.714 below average)
+  scoring_margin: -3.670 (5.404 below average)
+  defensive_efficiency: 13.604 (2.099 below average)
+  saves_per_game: 12.130 (0.142 above average)
+  clearing_percentage: 0.841 (0.002 below average)
+  ground_balls_per_game: 28.670 (2.226 below average)
+  shot_percentage: 0.236 (0.055 below average)
+  offensive_efficiency: 40.678 (2.012 above average)

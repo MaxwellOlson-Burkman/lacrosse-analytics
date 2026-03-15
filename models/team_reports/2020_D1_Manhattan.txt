@@ -1,0 +1,17 @@
+Team: Manhattan
+Season: 2020 D1
+Record: 3-3
+Winning %: 0.500
+Predicted Winning %: 0.466
+
+Stat Comparison vs League Average:
+  points_per_game: 13.830 (3.811 below average)
+  scoring_defense: 9.330 (1.906 below average)
+  scoring_offense: 8.500 (2.814 below average)
+  scoring_margin: -0.830 (2.564 below average)
+  defensive_efficiency: 18.484 (2.781 above average)
+  saves_per_game: 13.830 (1.842 above average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 23.830 (7.066 below average)
+  shot_percentage: 0.309 (0.018 above average)
+  offensive_efficiency: 27.508 (11.158 below average)

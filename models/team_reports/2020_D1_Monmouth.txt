@@ -1,0 +1,17 @@
+Team: Monmouth
+Season: 2020 D1
+Record: 2-4
+Winning %: 0.333
+Predicted Winning %: 0.255
+
+Stat Comparison vs League Average:
+  points_per_game: 10.830 (6.811 below average)
+  scoring_defense: 10.670 (0.566 below average)
+  scoring_offense: 6.830 (4.484 below average)
+  scoring_margin: -3.830 (5.564 below average)
+  defensive_efficiency: 16.396 (0.693 above average)
+  saves_per_game: 10.670 (1.318 below average)
+  clearing_percentage: 0.844 (0.001 above average)
+  ground_balls_per_game: 29.500 (1.396 below average)
+  shot_percentage: 0.202 (0.089 below average)
+  offensive_efficiency: 33.812 (4.854 below average)

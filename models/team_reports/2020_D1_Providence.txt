@@ -1,0 +1,17 @@
+Team: Providence
+Season: 2020 D1
+Record: 5-1
+Winning %: 0.833
+Predicted Winning %: 0.725
+
+Stat Comparison vs League Average:
+  points_per_game: 18.000 (0.359 above average)
+  scoring_defense: 8.000 (3.236 below average)
+  scoring_offense: 11.500 (0.186 above average)
+  scoring_margin: 3.500 (1.766 above average)
+  defensive_efficiency: 20.740 (5.037 above average)
+  saves_per_game: 13.500 (1.512 above average)
+  clearing_percentage: 0.856 (0.013 above average)
+  ground_balls_per_game: 32.500 (1.604 above average)
+  shot_percentage: 0.280 (0.011 below average)
+  offensive_efficiency: 41.071 (2.405 above average)

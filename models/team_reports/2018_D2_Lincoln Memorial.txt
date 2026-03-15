@@ -1,0 +1,17 @@
+Team: Lincoln Memorial
+Season: 2018 D2
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.785
+
+Stat Comparison vs League Average:
+  points_per_game: 25.000 (7.359 above average)
+  scoring_defense: 8.330 (2.906 below average)
+  scoring_offense: 15.000 (3.686 above average)
+  scoring_margin: 6.670 (4.936 above average)
+  defensive_efficiency: 18.769 (3.066 above average)
+  saves_per_game: 10.830 (1.158 below average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 39.060 (8.164 above average)
+  shot_percentage: 0.342 (0.051 above average)
+  offensive_efficiency: 43.860 (5.194 above average)

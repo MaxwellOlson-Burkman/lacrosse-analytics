@@ -1,0 +1,17 @@
+Team: Le Moyne
+Season: 2018 D2
+Record: 15-2
+Winning %: 0.882
+Predicted Winning %: 0.850
+
+Stat Comparison vs League Average:
+  points_per_game: 20.240 (2.599 above average)
+  scoring_defense: 6.590 (4.646 below average)
+  scoring_offense: 13.240 (1.926 above average)
+  scoring_margin: 6.650 (4.916 above average)
+  defensive_efficiency: 19.928 (4.225 above average)
+  saves_per_game: 9.710 (2.278 below average)
+  clearing_percentage: 0.864 (0.021 above average)
+  ground_balls_per_game: 30.120 (0.776 below average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 44.430 (5.763 above average)

@@ -1,0 +1,17 @@
+Team: New York Tech
+Season: 2020 D2
+Record: 4-2
+Winning %: 0.667
+Predicted Winning %: 0.700
+
+Stat Comparison vs League Average:
+  points_per_game: 21.000 (3.359 above average)
+  scoring_defense: 9.170 (2.066 below average)
+  scoring_offense: 12.670 (1.356 above average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 17.729 (2.026 above average)
+  saves_per_game: 14.330 (2.342 above average)
+  clearing_percentage: 0.832 (0.011 below average)
+  ground_balls_per_game: 27.830 (3.066 below average)
+  shot_percentage: 0.342 (0.051 above average)
+  offensive_efficiency: 37.047 (1.619 below average)

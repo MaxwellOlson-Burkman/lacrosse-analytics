@@ -1,0 +1,17 @@
+Team: New York Tech
+Season: 2016 D2
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.742
+
+Stat Comparison vs League Average:
+  points_per_game: 21.440 (3.799 above average)
+  scoring_defense: 8.060 (3.176 below average)
+  scoring_offense: 13.330 (2.016 above average)
+  scoring_margin: 5.280 (3.546 above average)
+  defensive_efficiency: 19.384 (3.681 above average)
+  saves_per_game: 11.280 (0.708 below average)
+  clearing_percentage: 0.885 (0.042 above average)
+  ground_balls_per_game: 27.170 (3.726 below average)
+  shot_percentage: 0.313 (0.022 above average)
+  offensive_efficiency: 42.588 (3.922 above average)

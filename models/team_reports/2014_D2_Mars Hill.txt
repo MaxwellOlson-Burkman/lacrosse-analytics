@@ -1,0 +1,17 @@
+Team: Mars Hill
+Season: 2014 D2
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.523
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 11.930 (0.616 above average)
+  scoring_margin: 4.920 (3.186 above average)
+  defensive_efficiency: 19.616 (3.913 above average)
+  saves_per_game: 12.730 (0.742 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 31.070 (0.174 above average)
+  shot_percentage: 0.367 (0.076 above average)
+  offensive_efficiency: 32.507 (6.159 below average)

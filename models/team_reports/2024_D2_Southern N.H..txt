@@ -1,0 +1,17 @@
+Team: Southern N.H.
+Season: 2024 D2
+Record: 4-9
+Winning %: 0.308
+Predicted Winning %: 0.442
+
+Stat Comparison vs League Average:
+  points_per_game: 15.690 (1.951 below average)
+  scoring_defense: 11.690 (0.454 above average)
+  scoring_offense: 10.380 (0.934 below average)
+  scoring_margin: -1.310 (3.044 below average)
+  defensive_efficiency: 15.311 (0.392 below average)
+  saves_per_game: 13.620 (1.632 above average)
+  clearing_percentage: 0.877 (0.034 above average)
+  ground_balls_per_game: 36.000 (5.104 above average)
+  shot_percentage: 0.234 (0.057 below average)
+  offensive_efficiency: 44.359 (5.693 above average)

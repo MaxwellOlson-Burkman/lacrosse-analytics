@@ -1,0 +1,17 @@
+Team: Duke
+Season: 2017 D1
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.760
+
+Stat Comparison vs League Average:
+  points_per_game: 20.890 (3.249 above average)
+  scoring_defense: 8.390 (2.846 below average)
+  scoring_offense: 13.060 (1.746 above average)
+  scoring_margin: 4.670 (2.936 above average)
+  defensive_efficiency: 17.807 (2.104 above average)
+  saves_per_game: 9.440 (2.548 below average)
+  clearing_percentage: 0.872 (0.029 above average)
+  ground_balls_per_game: 30.890 (0.006 below average)
+  shot_percentage: 0.347 (0.056 above average)
+  offensive_efficiency: 37.637 (1.029 below average)

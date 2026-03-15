@@ -1,0 +1,17 @@
+Team: Wheeling
+Season: 2015 D2
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.634
+
+Stat Comparison vs League Average:
+  points_per_game: 18.290 (0.649 above average)
+  scoring_defense: 8.930 (2.306 below average)
+  scoring_offense: 12.710 (1.396 above average)
+  scoring_margin: 3.790 (2.056 above average)
+  defensive_efficiency: 18.337 (2.634 above average)
+  saves_per_game: 10.640 (1.348 below average)
+  clearing_percentage: 0.941 (0.098 above average)
+  ground_balls_per_game: 30.430 (0.466 below average)
+  shot_percentage: 0.332 (0.041 above average)
+  offensive_efficiency: 38.283 (0.383 below average)

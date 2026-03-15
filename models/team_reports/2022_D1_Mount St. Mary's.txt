@@ -1,0 +1,17 @@
+Team: Mount St. Mary's
+Season: 2022 D1
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.341
+
+Stat Comparison vs League Average:
+  points_per_game: 14.070 (3.571 below average)
+  scoring_defense: 12.070 (0.834 above average)
+  scoring_offense: 9.000 (2.314 below average)
+  scoring_margin: -3.070 (4.804 below average)
+  defensive_efficiency: 14.976 (0.727 below average)
+  saves_per_game: 12.670 (0.682 above average)
+  clearing_percentage: 0.818 (0.025 below average)
+  ground_balls_per_game: 31.470 (0.574 above average)
+  shot_percentage: 0.222 (0.069 below average)
+  offensive_efficiency: 40.541 (1.874 above average)

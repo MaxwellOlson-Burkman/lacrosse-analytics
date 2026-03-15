@@ -1,0 +1,17 @@
+Team: Coker
+Season: 2017 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.242
+
+Stat Comparison vs League Average:
+  points_per_game: 13.570 (4.071 below average)
+  scoring_defense: 13.710 (2.474 above average)
+  scoring_offense: 8.860 (2.454 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 13.382 (2.321 below average)
+  saves_per_game: 11.140 (0.848 below average)
+  clearing_percentage: 0.858 (0.015 above average)
+  ground_balls_per_game: 29.860 (1.036 below average)
+  shot_percentage: 0.259 (0.032 below average)
+  offensive_efficiency: 34.208 (4.458 below average)

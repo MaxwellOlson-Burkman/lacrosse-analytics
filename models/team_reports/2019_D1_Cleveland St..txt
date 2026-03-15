@@ -1,0 +1,17 @@
+Team: Cleveland St.
+Season: 2019 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.589
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 10.270 (0.966 below average)
+  scoring_offense: 11.470 (0.156 above average)
+  scoring_margin: 1.200 (0.534 below average)
+  defensive_efficiency: 16.139 (0.436 above average)
+  saves_per_game: 9.730 (2.258 below average)
+  clearing_percentage: 0.853 (0.010 above average)
+  ground_balls_per_game: 32.600 (1.704 above average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 40.246 (1.580 above average)

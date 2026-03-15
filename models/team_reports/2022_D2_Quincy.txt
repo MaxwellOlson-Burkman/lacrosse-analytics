@@ -1,0 +1,17 @@
+Team: Quincy
+Season: 2022 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.256
+
+Stat Comparison vs League Average:
+  points_per_game: 12.360 (5.281 below average)
+  scoring_defense: 11.140 (0.096 below average)
+  scoring_offense: 7.140 (4.174 below average)
+  scoring_margin: -4.000 (5.734 below average)
+  defensive_efficiency: 17.453 (1.750 above average)
+  saves_per_game: 15.210 (3.222 above average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 24.710 (6.186 below average)
+  shot_percentage: 0.213 (0.078 below average)
+  offensive_efficiency: 33.521 (5.145 below average)

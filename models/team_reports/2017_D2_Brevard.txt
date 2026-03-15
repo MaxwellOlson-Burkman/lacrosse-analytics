@@ -1,0 +1,17 @@
+Team: Brevard
+Season: 2017 D2
+Record: 2-14
+Winning %: 0.125
+Predicted Winning %: 0.276
+
+Stat Comparison vs League Average:
+  points_per_game: 15.440 (2.201 below average)
+  scoring_defense: 12.880 (1.644 above average)
+  scoring_offense: 10.190 (1.124 below average)
+  scoring_margin: 5.035 (3.301 above average)
+  defensive_efficiency: 13.914 (1.789 below average)
+  saves_per_game: 12.380 (0.392 above average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 32.380 (1.484 above average)
+  shot_percentage: 0.362 (0.071 above average)
+  offensive_efficiency: 28.149 (10.517 below average)

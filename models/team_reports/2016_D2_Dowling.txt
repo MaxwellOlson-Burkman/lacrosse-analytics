@@ -1,0 +1,17 @@
+Team: Dowling
+Season: 2016 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.690
+
+Stat Comparison vs League Average:
+  points_per_game: 19.800 (2.159 above average)
+  scoring_defense: 8.730 (2.506 below average)
+  scoring_offense: 12.400 (1.086 above average)
+  scoring_margin: 3.670 (1.936 above average)
+  defensive_efficiency: 17.680 (1.977 above average)
+  saves_per_game: 10.600 (1.388 below average)
+  clearing_percentage: 0.822 (0.021 below average)
+  ground_balls_per_game: 27.200 (3.696 below average)
+  shot_percentage: 0.344 (0.053 above average)
+  offensive_efficiency: 36.047 (2.620 below average)

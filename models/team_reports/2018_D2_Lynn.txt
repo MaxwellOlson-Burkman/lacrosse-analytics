@@ -1,0 +1,17 @@
+Team: Lynn
+Season: 2018 D2
+Record: 9-6
+Winning %: 0.600
+Predicted Winning %: 0.643
+
+Stat Comparison vs League Average:
+  points_per_game: 18.330 (0.689 above average)
+  scoring_defense: 9.200 (2.036 below average)
+  scoring_offense: 12.000 (0.686 above average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 16.534 (0.831 above average)
+  saves_per_game: 8.530 (3.458 below average)
+  clearing_percentage: 0.854 (0.011 above average)
+  ground_balls_per_game: 41.400 (10.504 above average)
+  shot_percentage: 0.288 (0.003 below average)
+  offensive_efficiency: 41.667 (3.001 above average)

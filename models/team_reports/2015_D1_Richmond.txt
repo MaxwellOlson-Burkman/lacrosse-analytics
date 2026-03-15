@@ -1,0 +1,17 @@
+Team: Richmond
+Season: 2015 D1
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.714
+
+Stat Comparison vs League Average:
+  points_per_game: 19.000 (1.359 above average)
+  scoring_defense: 7.440 (3.796 below average)
+  scoring_offense: 11.750 (0.436 above average)
+  scoring_margin: 4.310 (2.576 above average)
+  defensive_efficiency: 19.730 (4.027 above average)
+  saves_per_game: 10.750 (1.238 below average)
+  clearing_percentage: 0.920 (0.077 above average)
+  ground_balls_per_game: 32.190 (1.294 above average)
+  shot_percentage: 0.303 (0.012 above average)
+  offensive_efficiency: 38.779 (0.113 above average)

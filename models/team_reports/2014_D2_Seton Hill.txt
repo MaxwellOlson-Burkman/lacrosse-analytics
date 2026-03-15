@@ -1,0 +1,17 @@
+Team: Seton Hill
+Season: 2014 D2
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.629
+
+Stat Comparison vs League Average:
+  points_per_game: 19.310 (1.669 above average)
+  scoring_defense: 7.995 (3.241 below average)
+  scoring_offense: 12.250 (0.936 above average)
+  scoring_margin: 2.560 (0.826 above average)
+  defensive_efficiency: 19.619 (3.916 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.903 (0.060 above average)
+  ground_balls_per_game: 31.730 (0.834 above average)
+  shot_percentage: 0.345 (0.054 above average)
+  offensive_efficiency: 35.507 (3.159 below average)

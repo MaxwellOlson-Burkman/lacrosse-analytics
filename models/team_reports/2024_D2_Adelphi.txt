@@ -1,0 +1,17 @@
+Team: Adelphi
+Season: 2024 D2
+Record: 17-2
+Winning %: 0.895
+Predicted Winning %: 0.790
+
+Stat Comparison vs League Average:
+  points_per_game: 22.420 (4.779 above average)
+  scoring_defense: 7.740 (3.496 below average)
+  scoring_offense: 14.000 (2.686 above average)
+  scoring_margin: 6.260 (4.526 above average)
+  defensive_efficiency: 20.825 (5.122 above average)
+  saves_per_game: 14.050 (2.062 above average)
+  clearing_percentage: 0.895 (0.052 above average)
+  ground_balls_per_game: 28.260 (2.636 below average)
+  shot_percentage: 0.330 (0.039 above average)
+  offensive_efficiency: 42.424 (3.758 above average)

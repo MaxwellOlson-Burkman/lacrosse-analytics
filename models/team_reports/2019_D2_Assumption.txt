@@ -1,0 +1,17 @@
+Team: Assumption
+Season: 2019 D2
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.623
+
+Stat Comparison vs League Average:
+  points_per_game: 22.270 (4.629 above average)
+  scoring_defense: 10.400 (0.836 below average)
+  scoring_offense: 13.870 (2.556 above average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 17.630 (1.927 above average)
+  saves_per_game: 14.600 (2.612 above average)
+  clearing_percentage: 0.857 (0.014 above average)
+  ground_balls_per_game: 30.130 (0.766 below average)
+  shot_percentage: 0.307 (0.016 above average)
+  offensive_efficiency: 45.179 (6.513 above average)

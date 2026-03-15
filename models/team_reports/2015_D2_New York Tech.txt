@@ -1,0 +1,17 @@
+Team: New York Tech
+Season: 2015 D2
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.731
+
+Stat Comparison vs League Average:
+  points_per_game: 21.940 (4.299 above average)
+  scoring_defense: 8.000 (3.236 below average)
+  scoring_offense: 13.380 (2.066 above average)
+  scoring_margin: 5.380 (3.646 above average)
+  defensive_efficiency: 18.798 (3.095 above average)
+  saves_per_game: 8.810 (3.178 below average)
+  clearing_percentage: 0.835 (0.008 below average)
+  ground_balls_per_game: 28.690 (2.206 below average)
+  shot_percentage: 0.360 (0.069 above average)
+  offensive_efficiency: 37.167 (1.499 below average)

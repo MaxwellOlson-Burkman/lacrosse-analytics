@@ -1,0 +1,17 @@
+Team: Lander
+Season: 2023 D2
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.732
+
+Stat Comparison vs League Average:
+  points_per_game: 25.350 (7.709 above average)
+  scoring_defense: 10.290 (0.946 below average)
+  scoring_offense: 15.060 (3.746 above average)
+  scoring_margin: 4.760 (3.026 above average)
+  defensive_efficiency: 17.235 (1.532 above average)
+  saves_per_game: 13.650 (1.662 above average)
+  clearing_percentage: 0.907 (0.064 above average)
+  ground_balls_per_game: 39.590 (8.694 above average)
+  shot_percentage: 0.328 (0.037 above average)
+  offensive_efficiency: 45.915 (7.249 above average)

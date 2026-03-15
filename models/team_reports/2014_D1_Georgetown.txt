@@ -1,0 +1,17 @@
+Team: Georgetown
+Season: 2014 D1
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.369
+
+Stat Comparison vs League Average:
+  points_per_game: 13.710 (3.931 below average)
+  scoring_defense: 10.790 (0.446 below average)
+  scoring_offense: 8.640 (2.674 below average)
+  scoring_margin: -2.140 (3.874 below average)
+  defensive_efficiency: 15.546 (0.157 below average)
+  saves_per_game: 10.570 (1.418 below average)
+  clearing_percentage: 0.829 (0.014 below average)
+  ground_balls_per_game: 33.070 (2.174 above average)
+  shot_percentage: 0.245 (0.046 below average)
+  offensive_efficiency: 35.265 (3.401 below average)

@@ -1,0 +1,17 @@
+Team: Lafayette
+Season: 2022 D1
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.342
+
+Stat Comparison vs League Average:
+  points_per_game: 18.530 (0.889 above average)
+  scoring_defense: 14.670 (3.434 above average)
+  scoring_offense: 12.070 (0.756 above average)
+  scoring_margin: -2.600 (4.334 below average)
+  defensive_efficiency: 11.421 (4.282 below average)
+  saves_per_game: 9.470 (2.518 below average)
+  clearing_percentage: 0.890 (0.047 above average)
+  ground_balls_per_game: 28.930 (1.966 below average)
+  shot_percentage: 0.319 (0.028 above average)
+  offensive_efficiency: 37.837 (0.829 below average)

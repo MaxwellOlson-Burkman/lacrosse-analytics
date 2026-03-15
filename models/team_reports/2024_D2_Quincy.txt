@@ -1,0 +1,17 @@
+Team: Quincy
+Season: 2024 D2
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.344
+
+Stat Comparison vs League Average:
+  points_per_game: 17.360 (0.281 below average)
+  scoring_defense: 13.500 (2.264 above average)
+  scoring_offense: 10.710 (0.604 below average)
+  scoring_margin: -2.790 (4.524 below average)
+  defensive_efficiency: 14.447 (1.256 below average)
+  saves_per_game: 14.790 (2.802 above average)
+  clearing_percentage: 0.864 (0.021 above average)
+  ground_balls_per_game: 37.210 (6.314 above average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 38.664 (0.002 below average)

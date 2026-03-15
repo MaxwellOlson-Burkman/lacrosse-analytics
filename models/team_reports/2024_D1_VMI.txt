@@ -1,0 +1,17 @@
+Team: VMI
+Season: 2024 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.509
+
+Stat Comparison vs League Average:
+  points_per_game: 18.600 (0.959 above average)
+  scoring_defense: 11.600 (0.364 above average)
+  scoring_offense: 12.200 (0.886 above average)
+  scoring_margin: 0.600 (1.134 below average)
+  defensive_efficiency: 14.915 (0.788 below average)
+  saves_per_game: 12.000 (0.012 above average)
+  clearing_percentage: 0.900 (0.057 above average)
+  ground_balls_per_game: 32.330 (1.434 above average)
+  shot_percentage: 0.308 (0.017 above average)
+  offensive_efficiency: 39.610 (0.944 above average)

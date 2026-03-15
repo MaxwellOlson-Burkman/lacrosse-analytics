@@ -1,0 +1,17 @@
+Team: Adelphi
+Season: 2021 D2
+Record: 7-3
+Winning %: 0.700
+Predicted Winning %: 0.696
+
+Stat Comparison vs League Average:
+  points_per_game: 20.500 (2.859 above average)
+  scoring_defense: 9.800 (1.436 below average)
+  scoring_offense: 12.500 (1.186 above average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 17.115 (1.412 above average)
+  saves_per_game: 10.900 (1.088 below average)
+  clearing_percentage: 0.851 (0.008 above average)
+  ground_balls_per_game: 33.600 (2.704 above average)
+  shot_percentage: 0.302 (0.011 above average)
+  offensive_efficiency: 41.391 (2.725 above average)

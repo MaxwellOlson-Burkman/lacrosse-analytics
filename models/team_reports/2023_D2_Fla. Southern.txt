@@ -1,0 +1,17 @@
+Team: Fla. Southern
+Season: 2023 D2
+Record: 13-5
+Winning %: 0.722
+Predicted Winning %: 0.777
+
+Stat Comparison vs League Average:
+  points_per_game: 27.170 (9.529 above average)
+  scoring_defense: 10.060 (1.176 below average)
+  scoring_offense: 17.500 (6.186 above average)
+  scoring_margin: 7.440 (5.706 above average)
+  defensive_efficiency: 16.388 (0.685 above average)
+  saves_per_game: 11.110 (0.878 below average)
+  clearing_percentage: 0.884 (0.041 above average)
+  ground_balls_per_game: 40.000 (9.104 above average)
+  shot_percentage: 0.337 (0.046 above average)
+  offensive_efficiency: 51.929 (13.263 above average)

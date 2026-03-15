@@ -1,0 +1,17 @@
+Team: Mercy
+Season: 2024 D2
+Record: 14-2
+Winning %: 0.875
+Predicted Winning %: 0.842
+
+Stat Comparison vs League Average:
+  points_per_game: 28.250 (10.609 above average)
+  scoring_defense: 9.440 (1.796 below average)
+  scoring_offense: 17.000 (5.686 above average)
+  scoring_margin: 7.560 (5.826 above average)
+  defensive_efficiency: 16.980 (1.277 above average)
+  saves_per_game: 11.500 (0.488 below average)
+  clearing_percentage: 0.851 (0.008 above average)
+  ground_balls_per_game: 43.060 (12.164 above average)
+  shot_percentage: 0.396 (0.105 above average)
+  offensive_efficiency: 42.929 (4.263 above average)

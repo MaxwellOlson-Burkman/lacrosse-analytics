@@ -1,0 +1,17 @@
+Team: St. Anselm
+Season: 2016 D2
+Record: 8-6
+Winning %: 0.571
+Predicted Winning %: 0.554
+
+Stat Comparison vs League Average:
+  points_per_game: 18.290 (0.649 above average)
+  scoring_defense: 10.710 (0.526 below average)
+  scoring_offense: 12.430 (1.116 above average)
+  scoring_margin: 4.030 (2.296 above average)
+  defensive_efficiency: 16.287 (0.584 above average)
+  saves_per_game: 11.790 (0.198 below average)
+  clearing_percentage: 0.857 (0.014 above average)
+  ground_balls_per_game: 33.290 (2.394 above average)
+  shot_percentage: 0.316 (0.025 above average)
+  offensive_efficiency: 39.335 (0.669 above average)

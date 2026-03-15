@@ -1,0 +1,17 @@
+Team: Massachusetts
+Season: 2014 D1
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.498
+
+Stat Comparison vs League Average:
+  points_per_game: 14.540 (3.101 below average)
+  scoring_defense: 9.690 (1.546 below average)
+  scoring_offense: 9.150 (2.164 below average)
+  scoring_margin: -0.540 (2.274 below average)
+  defensive_efficiency: 17.057 (1.354 above average)
+  saves_per_game: 10.540 (1.448 below average)
+  clearing_percentage: 0.886 (0.043 above average)
+  ground_balls_per_game: 26.620 (4.276 below average)
+  shot_percentage: 0.266 (0.025 below average)
+  offensive_efficiency: 34.398 (4.268 below average)

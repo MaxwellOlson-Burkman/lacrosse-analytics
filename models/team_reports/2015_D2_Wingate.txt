@@ -1,0 +1,17 @@
+Team: Wingate
+Season: 2015 D2
+Record: 6-10
+Winning %: 0.375
+Predicted Winning %: 0.446
+
+Stat Comparison vs League Average:
+  points_per_game: 17.380 (0.261 below average)
+  scoring_defense: 12.000 (0.764 above average)
+  scoring_offense: 10.880 (0.434 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 14.932 (0.771 below average)
+  saves_per_game: 11.690 (0.298 below average)
+  clearing_percentage: 0.842 (0.001 below average)
+  ground_balls_per_game: 37.500 (6.604 above average)
+  shot_percentage: 0.313 (0.022 above average)
+  offensive_efficiency: 34.760 (3.906 below average)

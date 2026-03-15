@@ -1,0 +1,17 @@
+Team: Coker
+Season: 2024 D2
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.192
+
+Stat Comparison vs League Average:
+  points_per_game: 12.400 (5.241 below average)
+  scoring_defense: 13.070 (1.834 above average)
+  scoring_offense: 7.800 (3.514 below average)
+  scoring_margin: -5.270 (7.004 below average)
+  defensive_efficiency: 14.781 (0.922 below average)
+  saves_per_game: 14.870 (2.882 above average)
+  clearing_percentage: 0.839 (0.004 below average)
+  ground_balls_per_game: 22.870 (8.026 below average)
+  shot_percentage: 0.240 (0.051 below average)
+  offensive_efficiency: 32.500 (6.166 below average)

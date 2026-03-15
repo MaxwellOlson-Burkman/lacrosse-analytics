@@ -1,0 +1,17 @@
+Team: St. Anselm
+Season: 2015 D2
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.178
+
+Stat Comparison vs League Average:
+  points_per_game: 12.380 (5.261 below average)
+  scoring_defense: 14.080 (2.844 above average)
+  scoring_offense: 8.230 (3.084 below average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 12.510 (3.193 below average)
+  saves_per_game: 10.850 (1.138 below average)
+  clearing_percentage: 0.828 (0.015 below average)
+  ground_balls_per_game: 30.310 (0.586 below average)
+  shot_percentage: 0.227 (0.064 below average)
+  offensive_efficiency: 36.256 (2.411 below average)

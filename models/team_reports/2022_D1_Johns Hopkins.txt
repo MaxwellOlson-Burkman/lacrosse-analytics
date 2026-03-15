@@ -1,0 +1,17 @@
+Team: Johns Hopkins
+Season: 2022 D1
+Record: 7-9
+Winning %: 0.438
+Predicted Winning %: 0.382
+
+Stat Comparison vs League Average:
+  points_per_game: 17.560 (0.081 below average)
+  scoring_defense: 12.630 (1.394 above average)
+  scoring_offense: 10.940 (0.374 below average)
+  scoring_margin: -1.690 (3.424 below average)
+  defensive_efficiency: 13.905 (1.798 below average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.835 (0.008 below average)
+  ground_balls_per_game: 31.190 (0.294 above average)
+  shot_percentage: 0.269 (0.022 below average)
+  offensive_efficiency: 40.669 (2.003 above average)

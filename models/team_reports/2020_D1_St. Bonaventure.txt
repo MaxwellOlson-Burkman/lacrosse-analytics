@@ -1,0 +1,17 @@
+Team: St. Bonaventure
+Season: 2020 D1
+Record: 0-6
+Winning %: 0.000
+Predicted Winning %: 0.041
+
+Stat Comparison vs League Average:
+  points_per_game: 9.830 (7.811 below average)
+  scoring_defense: 14.170 (2.934 above average)
+  scoring_offense: 6.170 (5.144 below average)
+  scoring_margin: -8.000 (9.734 below average)
+  defensive_efficiency: 11.764 (3.939 below average)
+  saves_per_game: 12.830 (0.842 above average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 17.170 (13.726 below average)
+  shot_percentage: 0.223 (0.068 below average)
+  offensive_efficiency: 27.668 (10.998 below average)

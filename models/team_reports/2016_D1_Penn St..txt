@@ -1,0 +1,17 @@
+Team: Penn St.
+Season: 2016 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.573
+
+Stat Comparison vs League Average:
+  points_per_game: 19.070 (1.429 above average)
+  scoring_defense: 10.930 (0.306 below average)
+  scoring_offense: 11.870 (0.556 above average)
+  scoring_margin: 0.930 (0.804 below average)
+  defensive_efficiency: 14.171 (1.532 below average)
+  saves_per_game: 9.470 (2.518 below average)
+  clearing_percentage: 0.900 (0.057 above average)
+  ground_balls_per_game: 27.070 (3.826 below average)
+  shot_percentage: 0.343 (0.052 above average)
+  offensive_efficiency: 34.606 (4.060 below average)

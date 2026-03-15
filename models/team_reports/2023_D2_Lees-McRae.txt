@@ -1,0 +1,17 @@
+Team: Lees-McRae
+Season: 2023 D2
+Record: 0-14
+Winning %: 0.000
+Predicted Winning %: 0.039
+
+Stat Comparison vs League Average:
+  points_per_game: 7.930 (9.711 below average)
+  scoring_defense: 16.640 (5.404 above average)
+  scoring_offense: 5.710 (5.604 below average)
+  scoring_margin: -10.930 (12.664 below average)
+  defensive_efficiency: 10.327 (5.376 below average)
+  saves_per_game: 14.290 (2.302 above average)
+  clearing_percentage: 0.722 (0.121 below average)
+  ground_balls_per_game: 26.000 (4.896 below average)
+  shot_percentage: 0.206 (0.085 below average)
+  offensive_efficiency: 27.718 (10.948 below average)

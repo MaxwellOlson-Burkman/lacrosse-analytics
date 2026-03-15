@@ -1,0 +1,17 @@
+Team: Cornell
+Season: 2024 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.640
+
+Stat Comparison vs League Average:
+  points_per_game: 24.570 (6.929 above average)
+  scoring_defense: 13.000 (1.764 above average)
+  scoring_offense: 15.070 (3.756 above average)
+  scoring_margin: 2.070 (0.336 above average)
+  defensive_efficiency: 14.457 (1.246 below average)
+  saves_per_game: 14.140 (2.152 above average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 33.710 (2.814 above average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 44.324 (5.657 above average)

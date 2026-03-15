@@ -1,0 +1,17 @@
+Team: High Point
+Season: 2020 D1
+Record: 2-6
+Winning %: 0.250
+Predicted Winning %: 0.327
+
+Stat Comparison vs League Average:
+  points_per_game: 20.000 (2.359 above average)
+  scoring_defense: 17.000 (5.764 above average)
+  scoring_offense: 12.380 (1.066 above average)
+  scoring_margin: -4.630 (6.364 below average)
+  defensive_efficiency: 9.589 (6.114 below average)
+  saves_per_game: 13.380 (1.392 above average)
+  clearing_percentage: 0.856 (0.013 above average)
+  ground_balls_per_game: 30.250 (0.646 below average)
+  shot_percentage: 0.321 (0.030 above average)
+  offensive_efficiency: 38.567 (0.099 below average)

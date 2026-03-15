@@ -1,0 +1,17 @@
+Team: Princeton
+Season: 2023 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.627
+
+Stat Comparison vs League Average:
+  points_per_game: 22.730 (5.089 above average)
+  scoring_defense: 11.070 (0.166 below average)
+  scoring_offense: 14.070 (2.756 above average)
+  scoring_margin: 3.000 (1.266 above average)
+  defensive_efficiency: 16.306 (0.603 above average)
+  saves_per_game: 14.870 (2.882 above average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 33.130 (2.234 above average)
+  shot_percentage: 0.300 (0.009 above average)
+  offensive_efficiency: 46.900 (8.234 above average)

@@ -1,0 +1,17 @@
+Team: Boston U.
+Season: 2020 D1
+Record: 3-3
+Winning %: 0.500
+Predicted Winning %: 0.475
+
+Stat Comparison vs League Average:
+  points_per_game: 16.670 (0.971 below average)
+  scoring_defense: 11.000 (0.236 below average)
+  scoring_offense: 10.330 (0.984 below average)
+  scoring_margin: -0.670 (2.404 below average)
+  defensive_efficiency: 16.309 (0.606 above average)
+  saves_per_game: 12.330 (0.342 above average)
+  clearing_percentage: 0.870 (0.027 above average)
+  ground_balls_per_game: 35.170 (4.274 above average)
+  shot_percentage: 0.277 (0.014 below average)
+  offensive_efficiency: 37.292 (1.374 below average)

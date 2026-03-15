@@ -1,0 +1,17 @@
+Team: Duke
+Season: 2021 D1
+Record: 14-3
+Winning %: 0.824
+Predicted Winning %: 0.728
+
+Stat Comparison vs League Average:
+  points_per_game: 22.240 (4.599 above average)
+  scoring_defense: 10.240 (0.996 below average)
+  scoring_offense: 14.240 (2.926 above average)
+  scoring_margin: 4.000 (2.266 above average)
+  defensive_efficiency: 16.500 (0.797 above average)
+  saves_per_game: 11.350 (0.638 below average)
+  clearing_percentage: 0.849 (0.006 above average)
+  ground_balls_per_game: 31.880 (0.984 above average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 41.882 (3.216 above average)

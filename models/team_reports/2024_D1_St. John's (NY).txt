@@ -1,0 +1,17 @@
+Team: St. John's (NY)
+Season: 2024 D1
+Record: 4-11
+Winning %: 0.267
+Predicted Winning %: 0.138
+
+Stat Comparison vs League Average:
+  points_per_game: 13.730 (3.911 below average)
+  scoring_defense: 14.400 (3.164 above average)
+  scoring_offense: 9.130 (2.184 below average)
+  scoring_margin: -5.270 (7.004 below average)
+  defensive_efficiency: 12.091 (3.612 below average)
+  saves_per_game: 12.670 (0.682 above average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 27.670 (3.226 below average)
+  shot_percentage: 0.243 (0.048 below average)
+  offensive_efficiency: 37.572 (1.094 below average)

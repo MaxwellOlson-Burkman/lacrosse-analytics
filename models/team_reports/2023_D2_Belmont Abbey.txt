@@ -1,0 +1,17 @@
+Team: Belmont Abbey
+Season: 2023 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.575
+
+Stat Comparison vs League Average:
+  points_per_game: 19.200 (1.559 above average)
+  scoring_defense: 10.470 (0.766 below average)
+  scoring_offense: 11.730 (0.416 above average)
+  scoring_margin: 1.270 (0.464 below average)
+  defensive_efficiency: 17.131 (1.428 above average)
+  saves_per_game: 13.470 (1.482 above average)
+  clearing_percentage: 0.862 (0.019 above average)
+  ground_balls_per_game: 31.530 (0.634 above average)
+  shot_percentage: 0.282 (0.009 below average)
+  offensive_efficiency: 41.596 (2.930 above average)

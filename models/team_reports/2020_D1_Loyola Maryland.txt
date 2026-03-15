@@ -1,0 +1,17 @@
+Team: Loyola Maryland
+Season: 2020 D1
+Record: 4-2
+Winning %: 0.667
+Predicted Winning %: 0.679
+
+Stat Comparison vs League Average:
+  points_per_game: 18.330 (0.689 above average)
+  scoring_defense: 8.670 (2.566 below average)
+  scoring_offense: 11.500 (0.186 above average)
+  scoring_margin: 2.830 (1.096 above average)
+  defensive_efficiency: 19.075 (3.372 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.903 (0.060 above average)
+  ground_balls_per_game: 33.330 (2.434 above average)
+  shot_percentage: 0.238 (0.053 below average)
+  offensive_efficiency: 48.319 (9.653 above average)

@@ -1,0 +1,17 @@
+Team: Delaware
+Season: 2019 D1
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.604
+
+Stat Comparison vs League Average:
+  points_per_game: 18.000 (0.359 above average)
+  scoring_defense: 9.930 (1.306 below average)
+  scoring_offense: 11.670 (0.356 above average)
+  scoring_margin: 1.730 (0.004 below average)
+  defensive_efficiency: 16.951 (1.248 above average)
+  saves_per_game: 13.670 (1.682 above average)
+  clearing_percentage: 0.885 (0.042 above average)
+  ground_balls_per_game: 28.870 (2.026 below average)
+  shot_percentage: 0.285 (0.006 below average)
+  offensive_efficiency: 40.947 (2.281 above average)

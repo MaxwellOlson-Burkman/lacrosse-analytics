@@ -1,0 +1,17 @@
+Team: Catawba
+Season: 2022 D2
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.191
+
+Stat Comparison vs League Average:
+  points_per_game: 12.800 (4.841 below average)
+  scoring_defense: 15.530 (4.294 above average)
+  scoring_offense: 9.200 (2.114 below average)
+  scoring_margin: -6.330 (8.064 below average)
+  defensive_efficiency: 10.616 (5.087 below average)
+  saves_per_game: 12.870 (0.882 above average)
+  clearing_percentage: 0.804 (0.039 below average)
+  ground_balls_per_game: 31.200 (0.304 above average)
+  shot_percentage: 0.245 (0.046 below average)
+  offensive_efficiency: 37.551 (1.115 below average)

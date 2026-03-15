@@ -1,0 +1,17 @@
+Team: Queens (NC)
+Season: 2018 D2
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.470
+
+Stat Comparison vs League Average:
+  points_per_game: 16.750 (0.891 below average)
+  scoring_defense: 10.380 (0.856 below average)
+  scoring_offense: 11.250 (0.064 below average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 16.430 (0.727 above average)
+  saves_per_game: 11.500 (0.488 below average)
+  clearing_percentage: 0.878 (0.035 above average)
+  ground_balls_per_game: 29.500 (1.396 below average)
+  shot_percentage: 0.283 (0.008 below average)
+  offensive_efficiency: 39.753 (1.087 above average)

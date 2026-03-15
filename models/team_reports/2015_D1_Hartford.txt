@@ -1,0 +1,17 @@
+Team: Hartford
+Season: 2015 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.425
+
+Stat Comparison vs League Average:
+  points_per_game: 15.800 (1.841 below average)
+  scoring_defense: 11.070 (0.166 below average)
+  scoring_offense: 9.800 (1.514 below average)
+  scoring_margin: -1.270 (3.004 below average)
+  defensive_efficiency: 15.094 (0.609 below average)
+  saves_per_game: 11.930 (0.058 below average)
+  clearing_percentage: 0.814 (0.029 below average)
+  ground_balls_per_game: 31.930 (1.034 above average)
+  shot_percentage: 0.287 (0.004 below average)
+  offensive_efficiency: 34.146 (4.520 below average)

@@ -1,0 +1,17 @@
+Team: Bucknell
+Season: 2017 D1
+Record: 5-8
+Winning %: 0.385
+Predicted Winning %: 0.421
+
+Stat Comparison vs League Average:
+  points_per_game: 16.080 (1.561 below average)
+  scoring_defense: 10.620 (0.616 below average)
+  scoring_offense: 9.690 (1.624 below average)
+  scoring_margin: -0.920 (2.654 below average)
+  defensive_efficiency: 16.250 (0.547 above average)
+  saves_per_game: 11.000 (0.988 below average)
+  clearing_percentage: 0.826 (0.017 below average)
+  ground_balls_per_game: 27.920 (2.976 below average)
+  shot_percentage: 0.257 (0.034 below average)
+  offensive_efficiency: 37.704 (0.962 below average)

@@ -1,0 +1,17 @@
+Team: Villanova
+Season: 2016 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.631
+
+Stat Comparison vs League Average:
+  points_per_game: 21.790 (4.149 above average)
+  scoring_defense: 10.640 (0.596 below average)
+  scoring_offense: 13.570 (2.256 above average)
+  scoring_margin: 2.930 (1.196 above average)
+  defensive_efficiency: 15.487 (0.216 below average)
+  saves_per_game: 9.640 (2.348 below average)
+  clearing_percentage: 0.877 (0.034 above average)
+  ground_balls_per_game: 30.570 (0.326 below average)
+  shot_percentage: 0.292 (0.001 above average)
+  offensive_efficiency: 46.473 (7.806 above average)

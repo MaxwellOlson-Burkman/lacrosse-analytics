@@ -1,0 +1,17 @@
+Team: CSU Pueblo
+Season: 2019 D2
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.498
+
+Stat Comparison vs League Average:
+  points_per_game: 22.600 (4.959 above average)
+  scoring_defense: 13.800 (2.564 above average)
+  scoring_offense: 13.930 (2.616 above average)
+  scoring_margin: 5.430 (3.696 above average)
+  defensive_efficiency: 13.605 (2.098 below average)
+  saves_per_game: 14.200 (2.212 above average)
+  clearing_percentage: 0.793 (0.050 below average)
+  ground_balls_per_game: 37.330 (6.434 above average)
+  shot_percentage: 0.344 (0.053 above average)
+  offensive_efficiency: 40.494 (1.828 above average)

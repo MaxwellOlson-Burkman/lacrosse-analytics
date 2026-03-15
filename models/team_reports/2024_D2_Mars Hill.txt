@@ -1,0 +1,17 @@
+Team: Mars Hill
+Season: 2024 D2
+Record: 5-10
+Winning %: 0.333
+Predicted Winning %: 0.277
+
+Stat Comparison vs League Average:
+  points_per_game: 14.530 (3.111 below average)
+  scoring_defense: 13.930 (2.694 above average)
+  scoring_offense: 9.400 (1.914 below average)
+  scoring_margin: -4.530 (6.264 below average)
+  defensive_efficiency: 13.979 (1.724 below average)
+  saves_per_game: 15.330 (3.342 above average)
+  clearing_percentage: 0.795 (0.048 below average)
+  ground_balls_per_game: 33.530 (2.634 above average)
+  shot_percentage: 0.278 (0.013 below average)
+  offensive_efficiency: 33.813 (4.853 below average)

@@ -1,0 +1,17 @@
+Team: Notre Dame
+Season: 2015 D1
+Record: 12-3
+Winning %: 0.800
+Predicted Winning %: 0.750
+
+Stat Comparison vs League Average:
+  points_per_game: 19.800 (2.159 above average)
+  scoring_defense: 9.330 (1.906 below average)
+  scoring_offense: 13.270 (1.956 above average)
+  scoring_margin: 3.930 (2.196 above average)
+  defensive_efficiency: 16.696 (0.993 above average)
+  saves_per_game: 10.870 (1.118 below average)
+  clearing_percentage: 0.852 (0.009 above average)
+  ground_balls_per_game: 33.070 (2.174 above average)
+  shot_percentage: 0.333 (0.042 above average)
+  offensive_efficiency: 39.850 (1.184 above average)

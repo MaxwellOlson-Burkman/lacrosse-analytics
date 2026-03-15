@@ -1,0 +1,17 @@
+Team: Loyola Maryland
+Season: 2024 D1
+Record: 7-8
+Winning %: 0.467
+Predicted Winning %: 0.483
+
+Stat Comparison vs League Average:
+  points_per_game: 17.800 (0.159 above average)
+  scoring_defense: 11.530 (0.294 above average)
+  scoring_offense: 11.270 (0.044 below average)
+  scoring_margin: -0.270 (2.004 below average)
+  defensive_efficiency: 15.804 (0.101 above average)
+  saves_per_game: 13.330 (1.342 above average)
+  clearing_percentage: 0.843 (0.000 below average)
+  ground_balls_per_game: 29.270 (1.626 below average)
+  shot_percentage: 0.294 (0.003 above average)
+  offensive_efficiency: 38.333 (0.333 below average)

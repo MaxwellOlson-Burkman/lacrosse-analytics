@@ -1,0 +1,17 @@
+Team: Massachusetts
+Season: 2019 D1
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.688
+
+Stat Comparison vs League Average:
+  points_per_game: 20.800 (3.159 above average)
+  scoring_defense: 8.870 (2.366 below average)
+  scoring_offense: 12.730 (1.416 above average)
+  scoring_margin: 3.870 (2.136 above average)
+  defensive_efficiency: 18.629 (2.926 above average)
+  saves_per_game: 13.530 (1.542 above average)
+  clearing_percentage: 0.875 (0.032 above average)
+  ground_balls_per_game: 32.530 (1.634 above average)
+  shot_percentage: 0.296 (0.005 above average)
+  offensive_efficiency: 43.007 (4.341 above average)

@@ -1,0 +1,17 @@
+Team: Pace
+Season: 2015 D2
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.547
+
+Stat Comparison vs League Average:
+  points_per_game: 18.250 (0.609 above average)
+  scoring_defense: 10.500 (0.736 below average)
+  scoring_offense: 11.810 (0.496 above average)
+  scoring_margin: 4.130 (2.396 above average)
+  defensive_efficiency: 16.752 (1.049 above average)
+  saves_per_game: 12.440 (0.452 above average)
+  clearing_percentage: 0.830 (0.013 below average)
+  ground_balls_per_game: 35.380 (4.484 above average)
+  shot_percentage: 0.317 (0.026 above average)
+  offensive_efficiency: 37.256 (1.411 below average)

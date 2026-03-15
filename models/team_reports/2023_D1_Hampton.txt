@@ -1,0 +1,17 @@
+Team: Hampton
+Season: 2023 D1
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.123
+
+Stat Comparison vs League Average:
+  points_per_game: 11.140 (6.501 below average)
+  scoring_defense: 16.790 (5.554 above average)
+  scoring_offense: 7.430 (3.884 below average)
+  scoring_margin: -9.360 (11.094 below average)
+  defensive_efficiency: 9.853 (5.850 below average)
+  saves_per_game: 12.210 (0.222 above average)
+  clearing_percentage: 0.755 (0.088 below average)
+  ground_balls_per_game: 30.290 (0.606 below average)
+  shot_percentage: 0.250 (0.041 below average)
+  offensive_efficiency: 29.720 (8.946 below average)

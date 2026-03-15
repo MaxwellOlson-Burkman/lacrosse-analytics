@@ -1,0 +1,17 @@
+Team: Lindenwood
+Season: 2017 D2
+Record: 10-4
+Winning %: 0.714
+Predicted Winning %: 0.781
+
+Stat Comparison vs League Average:
+  points_per_game: 19.430 (1.789 above average)
+  scoring_defense: 7.140 (4.096 below average)
+  scoring_offense: 13.000 (1.686 above average)
+  scoring_margin: 5.860 (4.126 above average)
+  defensive_efficiency: 20.392 (4.689 above average)
+  saves_per_game: 11.825 (0.163 below average)
+  clearing_percentage: 0.858 (0.015 above average)
+  ground_balls_per_game: 30.500 (0.396 below average)
+  shot_percentage: 0.290 (0.001 below average)
+  offensive_efficiency: 44.828 (6.161 above average)

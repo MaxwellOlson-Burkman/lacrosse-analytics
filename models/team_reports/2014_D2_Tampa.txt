@@ -1,0 +1,17 @@
+Team: Tampa
+Season: 2014 D2
+Record: 16-3
+Winning %: 0.842
+Predicted Winning %: 0.794
+
+Stat Comparison vs League Average:
+  points_per_game: 21.840 (4.199 above average)
+  scoring_defense: 7.790 (3.446 below average)
+  scoring_offense: 14.110 (2.796 above average)
+  scoring_margin: 6.320 (4.586 above average)
+  defensive_efficiency: 19.825 (4.121 above average)
+  saves_per_game: 12.740 (0.752 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 35.950 (5.054 above average)
+  shot_percentage: 0.331 (0.040 above average)
+  offensive_efficiency: 42.628 (3.962 above average)

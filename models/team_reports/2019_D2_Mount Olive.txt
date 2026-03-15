@@ -1,0 +1,17 @@
+Team: Mount Olive
+Season: 2019 D2
+Record: 12-4
+Winning %: 0.750
+Predicted Winning %: 0.785
+
+Stat Comparison vs League Average:
+  points_per_game: 21.060 (3.419 above average)
+  scoring_defense: 7.690 (3.546 below average)
+  scoring_offense: 13.440 (2.126 above average)
+  scoring_margin: 5.750 (4.016 above average)
+  defensive_efficiency: 20.657 (4.954 above average)
+  saves_per_game: 12.440 (0.452 above average)
+  clearing_percentage: 0.898 (0.055 above average)
+  ground_balls_per_game: 34.690 (3.794 above average)
+  shot_percentage: 0.320 (0.029 above average)
+  offensive_efficiency: 42.000 (3.334 above average)

@@ -1,0 +1,17 @@
+Team: Dist. Columbia
+Season: 2018 D2
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.558
+
+Stat Comparison vs League Average:
+  points_per_game: 19.470 (1.829 above average)
+  scoring_defense: 11.400 (0.164 above average)
+  scoring_offense: 12.470 (1.156 above average)
+  scoring_margin: 5.195 (3.461 above average)
+  defensive_efficiency: 15.550 (0.153 below average)
+  saves_per_game: 12.600 (0.612 above average)
+  clearing_percentage: 0.781 (0.062 below average)
+  ground_balls_per_game: 32.600 (1.704 above average)
+  shot_percentage: 0.320 (0.029 above average)
+  offensive_efficiency: 38.969 (0.303 above average)

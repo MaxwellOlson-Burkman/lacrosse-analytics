@@ -1,0 +1,17 @@
+Team: Bryant
+Season: 2015 D1
+Record: 8-10
+Winning %: 0.444
+Predicted Winning %: 0.477
+
+Stat Comparison vs League Average:
+  points_per_game: 13.060 (4.581 below average)
+  scoring_defense: 8.220 (3.016 below average)
+  scoring_offense: 8.280 (3.034 below average)
+  scoring_margin: 0.060 (1.674 below average)
+  defensive_efficiency: 17.986 (2.283 above average)
+  saves_per_game: 11.220 (0.768 below average)
+  clearing_percentage: 0.779 (0.064 below average)
+  ground_balls_per_game: 30.610 (0.286 below average)
+  shot_percentage: 0.269 (0.022 below average)
+  offensive_efficiency: 30.781 (7.885 below average)

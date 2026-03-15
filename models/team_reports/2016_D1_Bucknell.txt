@@ -1,0 +1,17 @@
+Team: Bucknell
+Season: 2016 D1
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.636
+
+Stat Comparison vs League Average:
+  points_per_game: 17.000 (0.641 below average)
+  scoring_defense: 9.070 (2.166 below average)
+  scoring_offense: 11.070 (0.244 below average)
+  scoring_margin: 2.000 (0.266 above average)
+  defensive_efficiency: 18.356 (2.653 above average)
+  saves_per_game: 12.070 (0.082 above average)
+  clearing_percentage: 0.771 (0.072 below average)
+  ground_balls_per_game: 30.070 (0.826 below average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 36.295 (2.371 below average)

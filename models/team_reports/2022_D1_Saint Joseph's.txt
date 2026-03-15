@@ -1,0 +1,17 @@
+Team: Saint Joseph's
+Season: 2022 D1
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.679
+
+Stat Comparison vs League Average:
+  points_per_game: 21.560 (3.919 above average)
+  scoring_defense: 10.440 (0.796 below average)
+  scoring_offense: 14.000 (2.686 above average)
+  scoring_margin: 3.560 (1.826 above average)
+  defensive_efficiency: 15.826 (0.123 above average)
+  saves_per_game: 11.170 (0.818 below average)
+  clearing_percentage: 0.877 (0.034 above average)
+  ground_balls_per_game: 29.830 (1.066 below average)
+  shot_percentage: 0.324 (0.033 above average)
+  offensive_efficiency: 43.210 (4.544 above average)

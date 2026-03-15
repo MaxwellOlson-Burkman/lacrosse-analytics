@@ -1,0 +1,17 @@
+Team: Limestone
+Season: 2021 D2
+Record: 10-4
+Winning %: 0.714
+Predicted Winning %: 0.750
+
+Stat Comparison vs League Average:
+  points_per_game: 20.710 (3.069 above average)
+  scoring_defense: 8.860 (2.376 below average)
+  scoring_offense: 14.070 (2.756 above average)
+  scoring_margin: 5.210 (3.476 above average)
+  defensive_efficiency: 17.804 (2.101 above average)
+  saves_per_game: 10.430 (1.558 below average)
+  clearing_percentage: 0.830 (0.013 below average)
+  ground_balls_per_game: 40.790 (9.894 above average)
+  shot_percentage: 0.326 (0.035 above average)
+  offensive_efficiency: 43.160 (4.493 above average)

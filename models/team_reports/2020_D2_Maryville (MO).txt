@@ -1,0 +1,17 @@
+Team: Maryville (MO)
+Season: 2020 D2
+Record: 2-4
+Winning %: 0.333
+Predicted Winning %: 0.379
+
+Stat Comparison vs League Average:
+  points_per_game: 14.500 (3.141 below average)
+  scoring_defense: 10.830 (0.406 below average)
+  scoring_offense: 8.830 (2.484 below average)
+  scoring_margin: 6.680 (4.946 above average)
+  defensive_efficiency: 16.244 (0.541 above average)
+  saves_per_game: 10.830 (1.158 below average)
+  clearing_percentage: 0.773 (0.070 below average)
+  ground_balls_per_game: 28.170 (2.726 below average)
+  shot_percentage: 0.256 (0.035 below average)
+  offensive_efficiency: 34.492 (4.174 below average)

@@ -1,0 +1,17 @@
+Team: Maryland
+Season: 2016 D1
+Record: 17-3
+Winning %: 0.850
+Predicted Winning %: 0.705
+
+Stat Comparison vs League Average:
+  points_per_game: 18.150 (0.509 above average)
+  scoring_defense: 8.350 (2.886 below average)
+  scoring_offense: 11.600 (0.286 above average)
+  scoring_margin: 3.250 (1.516 above average)
+  defensive_efficiency: 18.215 (2.512 above average)
+  saves_per_game: 9.700 (2.288 below average)
+  clearing_percentage: 0.910 (0.067 above average)
+  ground_balls_per_game: 27.800 (3.096 below average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 38.033 (0.633 below average)

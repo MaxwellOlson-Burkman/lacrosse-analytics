@@ -1,0 +1,17 @@
+Team: Newberry
+Season: 2023 D2
+Record: 11-5
+Winning %: 0.688
+Predicted Winning %: 0.624
+
+Stat Comparison vs League Average:
+  points_per_game: 24.000 (6.359 above average)
+  scoring_defense: 12.440 (1.204 above average)
+  scoring_offense: 15.060 (3.746 above average)
+  scoring_margin: 2.630 (0.896 above average)
+  defensive_efficiency: 14.305 (1.398 below average)
+  saves_per_game: 11.250 (0.738 below average)
+  clearing_percentage: 0.847 (0.004 above average)
+  ground_balls_per_game: 36.130 (5.234 above average)
+  shot_percentage: 0.370 (0.079 above average)
+  offensive_efficiency: 40.703 (2.037 above average)

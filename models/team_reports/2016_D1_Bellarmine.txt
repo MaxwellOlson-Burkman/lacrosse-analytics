@@ -1,0 +1,17 @@
+Team: Bellarmine
+Season: 2016 D1
+Record: 6-9
+Winning %: 0.400
+Predicted Winning %: 0.466
+
+Stat Comparison vs League Average:
+  points_per_game: 13.270 (4.371 below average)
+  scoring_defense: 9.130 (2.106 below average)
+  scoring_offense: 8.600 (2.714 below average)
+  scoring_margin: -0.530 (2.264 below average)
+  defensive_efficiency: 16.779 (1.076 above average)
+  saves_per_game: 9.130 (2.858 below average)
+  clearing_percentage: 0.872 (0.029 above average)
+  ground_balls_per_game: 24.930 (5.966 below average)
+  shot_percentage: 0.273 (0.018 below average)
+  offensive_efficiency: 31.502 (7.164 below average)

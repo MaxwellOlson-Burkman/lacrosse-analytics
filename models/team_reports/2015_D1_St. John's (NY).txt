@@ -1,0 +1,17 @@
+Team: St. John's (NY)
+Season: 2015 D1
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.298
+
+Stat Comparison vs League Average:
+  points_per_game: 15.500 (2.141 below average)
+  scoring_defense: 12.000 (0.764 above average)
+  scoring_offense: 9.860 (1.454 below average)
+  scoring_margin: -2.140 (3.874 below average)
+  defensive_efficiency: 13.774 (1.929 below average)
+  saves_per_game: 10.430 (1.558 below average)
+  clearing_percentage: 0.845 (0.002 above average)
+  ground_balls_per_game: 30.210 (0.686 below average)
+  shot_percentage: 0.274 (0.017 below average)
+  offensive_efficiency: 35.985 (2.681 below average)

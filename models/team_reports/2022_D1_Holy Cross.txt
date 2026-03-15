@@ -1,0 +1,17 @@
+Team: Holy Cross
+Season: 2022 D1
+Record: 1-13
+Winning %: 0.071
+Predicted Winning %: 0.131
+
+Stat Comparison vs League Average:
+  points_per_game: 13.790 (3.851 below average)
+  scoring_defense: 16.790 (5.554 above average)
+  scoring_offense: 8.570 (2.744 below average)
+  scoring_margin: -8.210 (9.944 below average)
+  defensive_efficiency: 10.507 (5.196 below average)
+  saves_per_game: 13.790 (1.802 above average)
+  clearing_percentage: 0.809 (0.034 below average)
+  ground_balls_per_game: 27.640 (3.256 below average)
+  shot_percentage: 0.245 (0.046 below average)
+  offensive_efficiency: 34.980 (3.687 below average)

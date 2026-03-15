@@ -1,0 +1,17 @@
+Team: Wagner
+Season: 2020 D1
+Record: 1-5
+Winning %: 0.167
+Predicted Winning %: 0.137
+
+Stat Comparison vs League Average:
+  points_per_game: 10.500 (7.141 below average)
+  scoring_defense: 15.330 (4.094 above average)
+  scoring_offense: 7.830 (3.484 below average)
+  scoring_margin: -7.500 (9.234 below average)
+  defensive_efficiency: 10.516 (5.187 below average)
+  saves_per_game: 10.670 (1.318 below average)
+  clearing_percentage: 0.863 (0.020 above average)
+  ground_balls_per_game: 20.000 (10.896 below average)
+  shot_percentage: 0.237 (0.054 below average)
+  offensive_efficiency: 33.038 (5.628 below average)

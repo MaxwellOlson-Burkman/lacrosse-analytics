@@ -1,0 +1,17 @@
+Team: Rockhurst
+Season: 2020 D2
+Record: 6-1
+Winning %: 0.857
+Predicted Winning %: 0.794
+
+Stat Comparison vs League Average:
+  points_per_game: 23.570 (5.929 above average)
+  scoring_defense: 8.710 (2.526 below average)
+  scoring_offense: 14.860 (3.546 above average)
+  scoring_margin: 6.140 (4.406 above average)
+  defensive_efficiency: 18.523 (2.820 above average)
+  saves_per_game: 11.710 (0.278 below average)
+  clearing_percentage: 0.917 (0.074 above average)
+  ground_balls_per_game: 39.430 (8.534 above average)
+  shot_percentage: 0.263 (0.028 below average)
+  offensive_efficiency: 56.502 (17.836 above average)

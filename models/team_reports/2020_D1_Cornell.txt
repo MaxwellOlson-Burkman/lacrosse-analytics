@@ -1,0 +1,17 @@
+Team: Cornell
+Season: 2020 D1
+Record: 5-0
+Winning %: 1.000
+Predicted Winning %: 0.886
+
+Stat Comparison vs League Average:
+  points_per_game: 28.800 (11.159 above average)
+  scoring_defense: 12.800 (1.564 above average)
+  scoring_offense: 18.400 (7.086 above average)
+  scoring_margin: 5.600 (3.866 above average)
+  defensive_efficiency: 12.745 (2.958 below average)
+  saves_per_game: 8.600 (3.388 below average)
+  clearing_percentage: 0.882 (0.039 above average)
+  ground_balls_per_game: 40.200 (9.304 above average)
+  shot_percentage: 0.404 (0.113 above average)
+  offensive_efficiency: 45.545 (6.878 above average)

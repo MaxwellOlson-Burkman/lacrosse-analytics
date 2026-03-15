@@ -1,0 +1,17 @@
+Team: Virginia
+Season: 2023 D1
+Record: 13-4
+Winning %: 0.765
+Predicted Winning %: 0.780
+
+Stat Comparison vs League Average:
+  points_per_game: 28.710 (11.069 above average)
+  scoring_defense: 12.120 (0.884 above average)
+  scoring_offense: 17.240 (5.926 above average)
+  scoring_margin: 5.120 (3.386 above average)
+  defensive_efficiency: 14.958 (0.745 below average)
+  saves_per_game: 13.060 (1.072 above average)
+  clearing_percentage: 0.908 (0.065 above average)
+  ground_balls_per_game: 39.650 (8.754 above average)
+  shot_percentage: 0.381 (0.090 above average)
+  offensive_efficiency: 45.249 (6.583 above average)

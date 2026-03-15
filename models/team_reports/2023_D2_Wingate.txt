@@ -1,0 +1,17 @@
+Team: Wingate
+Season: 2023 D2
+Record: 12-3
+Winning %: 0.800
+Predicted Winning %: 0.748
+
+Stat Comparison vs League Average:
+  points_per_game: 26.530 (8.889 above average)
+  scoring_defense: 10.470 (0.766 below average)
+  scoring_offense: 16.530 (5.216 above average)
+  scoring_margin: 6.070 (4.336 above average)
+  defensive_efficiency: 16.571 (0.868 above average)
+  saves_per_game: 11.870 (0.118 below average)
+  clearing_percentage: 0.854 (0.011 above average)
+  ground_balls_per_game: 42.470 (11.574 above average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 49.343 (10.677 above average)

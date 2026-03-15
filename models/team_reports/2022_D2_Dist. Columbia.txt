@@ -1,0 +1,17 @@
+Team: Dist. Columbia
+Season: 2022 D2
+Record: 3-7
+Winning %: 0.300
+Predicted Winning %: 0.277
+
+Stat Comparison vs League Average:
+  points_per_game: 16.700 (0.941 below average)
+  scoring_defense: 14.700 (3.464 above average)
+  scoring_offense: 10.500 (0.814 below average)
+  scoring_margin: -4.200 (5.934 below average)
+  defensive_efficiency: 12.905 (2.798 below average)
+  saves_per_game: 15.300 (3.312 above average)
+  clearing_percentage: 0.667 (0.176 below average)
+  ground_balls_per_game: 41.100 (10.204 above average)
+  shot_percentage: 0.248 (0.043 below average)
+  offensive_efficiency: 42.339 (3.673 above average)

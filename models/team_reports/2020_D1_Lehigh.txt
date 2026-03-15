@@ -1,0 +1,17 @@
+Team: Lehigh
+Season: 2020 D1
+Record: 5-1
+Winning %: 0.833
+Predicted Winning %: 0.770
+
+Stat Comparison vs League Average:
+  points_per_game: 22.830 (5.189 above average)
+  scoring_defense: 9.670 (1.566 below average)
+  scoring_offense: 14.000 (2.686 above average)
+  scoring_margin: 4.330 (2.596 above average)
+  defensive_efficiency: 15.256 (0.447 below average)
+  saves_per_game: 10.170 (1.818 below average)
+  clearing_percentage: 0.805 (0.038 below average)
+  ground_balls_per_game: 42.330 (11.434 above average)
+  shot_percentage: 0.349 (0.058 above average)
+  offensive_efficiency: 40.115 (1.449 above average)

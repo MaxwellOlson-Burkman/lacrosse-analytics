@@ -1,0 +1,17 @@
+Team: Limestone
+Season: 2022 D2
+Record: 17-3
+Winning %: 0.850
+Predicted Winning %: 0.819
+
+Stat Comparison vs League Average:
+  points_per_game: 23.950 (6.309 above average)
+  scoring_defense: 9.250 (1.986 below average)
+  scoring_offense: 16.500 (5.186 above average)
+  scoring_margin: 7.250 (5.516 above average)
+  defensive_efficiency: 18.265 (2.562 above average)
+  saves_per_game: 12.400 (0.412 above average)
+  clearing_percentage: 0.859 (0.016 above average)
+  ground_balls_per_game: 46.150 (15.254 above average)
+  shot_percentage: 0.333 (0.042 above average)
+  offensive_efficiency: 49.550 (10.883 above average)

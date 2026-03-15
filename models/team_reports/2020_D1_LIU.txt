@@ -1,0 +1,17 @@
+Team: LIU
+Season: 2020 D1
+Record: 1-6
+Winning %: 0.143
+Predicted Winning %: 0.268
+
+Stat Comparison vs League Average:
+  points_per_game: 18.860 (1.219 above average)
+  scoring_defense: 13.710 (2.474 above average)
+  scoring_offense: 11.290 (0.024 below average)
+  scoring_margin: -2.430 (4.164 below average)
+  defensive_efficiency: 14.092 (1.611 below average)
+  saves_per_game: 15.290 (3.302 above average)
+  clearing_percentage: 0.830 (0.013 below average)
+  ground_balls_per_game: 23.290 (7.606 below average)
+  shot_percentage: 0.336 (0.045 above average)
+  offensive_efficiency: 33.601 (5.065 below average)

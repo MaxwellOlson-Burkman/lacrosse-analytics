@@ -1,0 +1,17 @@
+Team: Chowan
+Season: 2020 D2
+Record: 5-3
+Winning %: 0.625
+Predicted Winning %: 0.675
+
+Stat Comparison vs League Average:
+  points_per_game: 23.500 (5.859 above average)
+  scoring_defense: 9.380 (1.856 below average)
+  scoring_offense: 14.000 (2.686 above average)
+  scoring_margin: 4.630 (2.896 above average)
+  defensive_efficiency: 18.250 (2.547 above average)
+  saves_per_game: 12.250 (0.262 above average)
+  clearing_percentage: 0.827 (0.016 below average)
+  ground_balls_per_game: 35.880 (4.984 above average)
+  shot_percentage: 0.332 (0.041 above average)
+  offensive_efficiency: 42.169 (3.503 above average)

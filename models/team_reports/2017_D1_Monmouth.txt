@@ -1,0 +1,17 @@
+Team: Monmouth
+Season: 2017 D1
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.724
+
+Stat Comparison vs League Average:
+  points_per_game: 14.500 (3.141 below average)
+  scoring_defense: 7.390 (3.846 below average)
+  scoring_offense: 9.720 (1.594 below average)
+  scoring_margin: 2.330 (0.596 above average)
+  defensive_efficiency: 18.927 (3.224 above average)
+  saves_per_game: 10.390 (1.598 below average)
+  clearing_percentage: 0.906 (0.063 above average)
+  ground_balls_per_game: 26.060 (4.836 below average)
+  shot_percentage: 0.263 (0.028 below average)
+  offensive_efficiency: 36.958 (1.708 below average)

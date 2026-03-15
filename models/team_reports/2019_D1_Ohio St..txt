@@ -1,0 +1,17 @@
+Team: Ohio St.
+Season: 2019 D1
+Record: 8-4
+Winning %: 0.667
+Predicted Winning %: 0.555
+
+Stat Comparison vs League Average:
+  points_per_game: 17.670 (0.029 above average)
+  scoring_defense: 10.750 (0.486 below average)
+  scoring_offense: 11.750 (0.436 above average)
+  scoring_margin: 1.000 (0.734 below average)
+  defensive_efficiency: 15.625 (0.078 below average)
+  saves_per_game: 10.750 (1.238 below average)
+  clearing_percentage: 0.892 (0.049 above average)
+  ground_balls_per_game: 32.000 (1.104 above average)
+  shot_percentage: 0.305 (0.014 above average)
+  offensive_efficiency: 38.525 (0.142 below average)

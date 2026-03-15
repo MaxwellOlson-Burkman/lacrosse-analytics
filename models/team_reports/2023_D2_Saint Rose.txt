@@ -1,0 +1,17 @@
+Team: Saint Rose
+Season: 2023 D2
+Record: 5-12
+Winning %: 0.294
+Predicted Winning %: 0.395
+
+Stat Comparison vs League Average:
+  points_per_game: 19.290 (1.649 above average)
+  scoring_defense: 13.350 (2.114 above average)
+  scoring_offense: 12.470 (1.156 above average)
+  scoring_margin: -0.880 (2.614 below average)
+  defensive_efficiency: 13.203 (2.500 below average)
+  saves_per_game: 11.760 (0.228 below average)
+  clearing_percentage: 0.819 (0.024 below average)
+  ground_balls_per_game: 33.820 (2.924 above average)
+  shot_percentage: 0.290 (0.001 below average)
+  offensive_efficiency: 43.000 (4.334 above average)

@@ -1,0 +1,17 @@
+Team: UMBC
+Season: 2021 D1
+Record: 8-3
+Winning %: 0.727
+Predicted Winning %: 0.626
+
+Stat Comparison vs League Average:
+  points_per_game: 16.910 (0.731 below average)
+  scoring_defense: 9.550 (1.686 below average)
+  scoring_offense: 10.820 (0.494 below average)
+  scoring_margin: 1.270 (0.464 below average)
+  defensive_efficiency: 17.419 (1.716 above average)
+  saves_per_game: 10.730 (1.258 below average)
+  clearing_percentage: 0.880 (0.037 above average)
+  ground_balls_per_game: 28.000 (2.896 below average)
+  shot_percentage: 0.274 (0.017 below average)
+  offensive_efficiency: 39.489 (0.823 above average)

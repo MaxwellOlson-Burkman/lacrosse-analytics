@@ -1,0 +1,17 @@
+Team: Holy Cross
+Season: 2024 D1
+Record: 2-11
+Winning %: 0.154
+Predicted Winning %: 0.136
+
+Stat Comparison vs League Average:
+  points_per_game: 12.540 (5.101 below average)
+  scoring_defense: 14.000 (2.764 above average)
+  scoring_offense: 8.310 (3.004 below average)
+  scoring_margin: -5.690 (7.424 below average)
+  defensive_efficiency: 11.686 (4.017 below average)
+  saves_per_game: 10.620 (1.368 below average)
+  clearing_percentage: 0.832 (0.011 below average)
+  ground_balls_per_game: 29.920 (0.976 below average)
+  shot_percentage: 0.245 (0.046 below average)
+  offensive_efficiency: 33.918 (4.748 below average)

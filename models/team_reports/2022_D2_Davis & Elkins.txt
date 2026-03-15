@@ -1,0 +1,17 @@
+Team: Davis & Elkins
+Season: 2022 D2
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.186
+
+Stat Comparison vs League Average:
+  points_per_game: 15.000 (2.641 below average)
+  scoring_defense: 16.500 (5.264 above average)
+  scoring_offense: 9.360 (1.954 below average)
+  scoring_margin: -7.140 (8.874 below average)
+  defensive_efficiency: 12.898 (2.805 below average)
+  saves_per_game: 19.210 (7.222 above average)
+  clearing_percentage: 0.658 (0.185 below average)
+  ground_balls_per_game: 20.930 (9.966 below average)
+  shot_percentage: 0.335 (0.044 above average)
+  offensive_efficiency: 27.940 (10.726 below average)

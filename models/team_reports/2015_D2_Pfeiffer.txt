@@ -1,0 +1,17 @@
+Team: Pfeiffer
+Season: 2015 D2
+Record: 10-5
+Winning %: 0.667
+Predicted Winning %: 0.720
+
+Stat Comparison vs League Average:
+  points_per_game: 22.200 (4.559 above average)
+  scoring_defense: 10.130 (1.106 below average)
+  scoring_offense: 14.070 (2.756 above average)
+  scoring_margin: 3.930 (2.196 above average)
+  defensive_efficiency: 16.521 (0.818 above average)
+  saves_per_game: 10.470 (1.518 below average)
+  clearing_percentage: 0.871 (0.028 above average)
+  ground_balls_per_game: 31.870 (0.974 above average)
+  shot_percentage: 0.340 (0.049 above average)
+  offensive_efficiency: 41.382 (2.716 above average)

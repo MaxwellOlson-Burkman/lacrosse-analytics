@@ -1,0 +1,17 @@
+Team: Mercyhurst
+Season: 2017 D2
+Record: 12-3
+Winning %: 0.800
+Predicted Winning %: 0.792
+
+Stat Comparison vs League Average:
+  points_per_game: 20.400 (2.759 above average)
+  scoring_defense: 6.600 (4.636 below average)
+  scoring_offense: 12.800 (1.486 above average)
+  scoring_margin: 6.200 (4.466 above average)
+  defensive_efficiency: 20.672 (4.969 above average)
+  saves_per_game: 11.825 (0.163 below average)
+  clearing_percentage: 0.903 (0.060 above average)
+  ground_balls_per_game: 26.870 (4.026 below average)
+  shot_percentage: 0.332 (0.041 above average)
+  offensive_efficiency: 38.554 (0.112 below average)

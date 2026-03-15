@@ -1,0 +1,17 @@
+Team: Lafayette
+Season: 2023 D1
+Record: 6-10
+Winning %: 0.375
+Predicted Winning %: 0.371
+
+Stat Comparison vs League Average:
+  points_per_game: 17.310 (0.331 below average)
+  scoring_defense: 12.810 (1.574 above average)
+  scoring_offense: 11.130 (0.184 below average)
+  scoring_margin: -1.690 (3.424 below average)
+  defensive_efficiency: 14.024 (1.679 below average)
+  saves_per_game: 11.380 (0.608 below average)
+  clearing_percentage: 0.861 (0.018 above average)
+  ground_balls_per_game: 28.190 (2.706 below average)
+  shot_percentage: 0.298 (0.007 above average)
+  offensive_efficiency: 37.349 (1.317 below average)

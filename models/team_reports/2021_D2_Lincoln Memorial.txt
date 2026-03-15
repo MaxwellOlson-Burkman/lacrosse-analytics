@@ -1,0 +1,17 @@
+Team: Lincoln Memorial
+Season: 2021 D2
+Record: 0-9
+Winning %: 0.000
+Predicted Winning %: 0.028
+
+Stat Comparison vs League Average:
+  points_per_game: 7.670 (9.971 below average)
+  scoring_defense: 19.890 (8.654 above average)
+  scoring_offense: 5.560 (5.754 below average)
+  scoring_margin: 6.375 (4.641 above average)
+  defensive_efficiency: 8.025 (7.678 below average)
+  saves_per_game: 17.000 (5.012 above average)
+  clearing_percentage: 0.619 (0.224 below average)
+  ground_balls_per_game: 22.890 (8.006 below average)
+  shot_percentage: 0.289 (0.002 below average)
+  offensive_efficiency: 19.239 (19.427 below average)
