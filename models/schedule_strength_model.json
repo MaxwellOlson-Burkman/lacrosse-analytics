@@ -1,0 +1,9 @@
+{
+  "feature_names": [
+    "sos_avg_opp_win_pct",
+    "sos_avg_opp_offense",
+    "sos_avg_opp_defense",
+    "games_played",
+    "sos_std_opp_win_pct"
+  ]
+}
