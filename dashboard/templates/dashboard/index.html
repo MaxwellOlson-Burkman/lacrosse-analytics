@@ -1,0 +1,399 @@
+{% extends "dashboard/base.html" %}
+
+{% block extra_head %}
+<link href="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/css/tom-select.css" rel="stylesheet">
+<style>
+  /* Tom Select dark theme – high contrast for readable typing */
+  .ts-wrapper.sidebar-team-select .ts-control {
+    background: #1e293b !important;
+    border-color: #475569 !important;
+    color: #f8fafc !important;
+  }
+  .ts-wrapper.sidebar-team-select .ts-control input {
+    color: #ffffff !important;
+    caret-color: #34d399;
+  }
+  .ts-wrapper.sidebar-team-select .ts-control input::placeholder {
+    color: #94a3b8 !important;
+  }
+  .ts-wrapper.sidebar-team-select.focus .ts-control {
+    border-color: #34d399 !important;
+    box-shadow: 0 0 0 1px #34d399 !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown {
+    background: #1e293b !important;
+    border-color: #475569 !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown .option {
+    color: #e2e8f0 !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown .option.active {
+    background: rgba(52, 211, 153, 0.25) !important;
+    color: #34d399 !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown .option:hover {
+    background: #334155 !important;
+    color: #f8fafc !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown .optgroup-header {
+    color: #94a3b8 !important;
+  }
+  .ts-wrapper.sidebar-team-select .item {
+    background: rgba(52, 211, 153, 0.3) !important;
+    color: #ecfdf5 !important;
+    border: 0;
+  }
+</style>
+{% endblock %}
+
+{% block left_panel %}
+<div class="p-4 flex flex-col h-full">
+  <!-- Title -->
+  <h1 class="text-lg font-semibold text-white mb-6 tracking-tight">Lacrosse Analytics</h1>
+
+  <!-- D1 picker -->
+  <div class="mb-5">
+    <div class="flex items-center justify-between mb-2">
+      <h3 class="text-xs text-slate-500 uppercase tracking-wider">D1</h3>
+      <a href="?division=1" class="text-[11px] text-slate-500 hover:text-emerald-400 transition">filter</a>
+    </div>
+    <form method="get" action="{% url 'dashboard:index' %}" class="space-y-2">
+      <select name="d1_year" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-xs rounded-lg px-3 py-2"
+              onchange="this.form.submit()">
+        {% for y in d1_years %}
+        <option value="{{ y }}" {% if d1_year_selected == y %}selected{% endif %}>{{ y }}</option>
+        {% endfor %}
+      </select>
+      <select name="stem" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
+        <option value="">Select team…</option>
+        {% for name, stem in d1_teams %}
+        <option value="{{ stem }}" {% if stem == selected_stem %}selected{% endif %}>{{ name }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Load D1 Team</button>
+    </form>
+  </div>
+
+  <!-- D2 picker -->
+  <div class="mb-6">
+    <div class="flex items-center justify-between mb-2">
+      <h3 class="text-xs text-slate-500 uppercase tracking-wider">D2</h3>
+      <a href="?division=2" class="text-[11px] text-slate-500 hover:text-emerald-400 transition">filter</a>
+    </div>
+    <form method="get" action="{% url 'dashboard:index' %}" class="space-y-2">
+      <select name="d2_year" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-xs rounded-lg px-3 py-2"
+              onchange="this.form.submit()">
+        {% for y in d2_years %}
+        <option value="{{ y }}" {% if d2_year_selected == y %}selected{% endif %}>{{ y }}</option>
+        {% endfor %}
+      </select>
+      <select name="stem" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
+        <option value="">Select team…</option>
+        {% for name, stem in d2_teams %}
+        <option value="{{ stem }}" {% if stem == selected_stem %}selected{% endif %}>{{ name }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Load D2 Team</button>
+    </form>
+  </div>
+
+  <!-- History -->
+  {% if recent_stems %}
+  <div class="flex-1 overflow-y-auto">
+    <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-2">Recent team-seasons</h3>
+    <ul class="space-y-1">
+      {% for item in recent_stems %}
+      <li>
+        <a href="?stem={{ item.stem }}" class="block px-3 py-1.5 text-sm text-slate-400 hover:text-emerald-400 hover:bg-slate-800 rounded-lg truncate transition" title="{{ item.label }}">{{ item.label }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <!-- TEAM-SEASON search (all) -->
+  <div class="mt-5 pt-4 border-t border-slate-800">
+    <label for="stem-search" class="block text-xs text-slate-500 uppercase tracking-wider mb-2">TEAM-SEASON search</label>
+    <form method="get" action="{% url 'dashboard:index' %}">
+      <select name="stem" id="stem-search" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2 mb-2 focus:outline-none focus:border-emerald-500" data-placeholder="Search team or season…">
+        <option value="">-- Search --</option>
+        {% for label, value in team_choices %}
+        <option value="{{ value }}" {% if value == selected_stem %}selected{% endif %}>{{ label }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit" class="w-full bg-slate-800 hover:bg-slate-700 text-slate-100 text-sm font-medium py-2 px-4 rounded-lg transition">Load</button>
+    </form>
+  </div>
+</div>
+{% endblock %}
+
+
+{% block center_panel %}
+{% if selected_stem %}
+  <!-- Status -->
+  <div class="flex items-center gap-2 mb-6">
+    <span class="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+    <span class="text-sm text-slate-400">Current Season Data Loaded</span>
+    <span class="text-sm font-medium text-white">{{ selected_stem_label }}</span>
+  </div>
+
+  {% if kpis %}
+  <!-- KPI Cards -->
+  <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+    <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
+      <p class="text-xs text-slate-500 uppercase tracking-wider mb-1">Record</p>
+      <p class="text-2xl font-mono font-semibold text-white">{{ kpis.record }}</p>
+    </div>
+    <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
+      <p class="text-xs text-slate-500 uppercase tracking-wider mb-1">Win %</p>
+      <p class="text-2xl font-mono font-semibold text-emerald-400">{{ kpis.win_pct }}</p>
+    </div>
+    <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
+      <p class="text-xs text-slate-500 uppercase tracking-wider mb-1">Predicted Win %</p>
+      <p class="text-2xl font-mono font-semibold text-emerald-400">{{ kpis.predicted_win_pct }}</p>
+    </div>
+    <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
+      <p class="text-xs text-slate-500 uppercase tracking-wider mb-1">SOS Rank</p>
+      <p class="text-2xl font-mono font-semibold text-white">{{ kpis.sos_rank }}</p>
+    </div>
+  </div>
+
+  <!-- Radar chart -->
+  {% if radar_labels %}
+  <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-6 max-w-lg mx-auto">
+    <h3 class="text-sm text-slate-400 mb-4">Team Strength Radar</h3>
+    <canvas id="team-radar" height="280"></canvas>
+  </div>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const ctx = document.getElementById('team-radar');
+    if (!ctx) return;
+    new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels: {{ radar_labels|safe }},
+        datasets: [{
+          label: '{{ selected_stem_label|escapejs }}',
+          data: {{ radar_values|safe }},
+          spanGaps: false,
+          borderColor: 'rgb(52, 211, 153)',
+          backgroundColor: 'rgba(52, 211, 153, 0.15)',
+          pointBackgroundColor: 'rgb(52, 211, 153)',
+          pointBorderColor: '#fff',
+          pointRadius: 4,
+          borderWidth: 2,
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          r: {
+            beginAtZero: true,
+            max: 100,
+            ticks: { display: false },
+            grid: { color: 'rgba(255,255,255,0.08)' },
+            angleLines: { color: 'rgba(255,255,255,0.08)' },
+            pointLabels: { color: '#94a3b8', font: { size: 11 } },
+          }
+        },
+        plugins: {
+          legend: { display: false },
+        }
+      }
+    });
+  });
+  </script>
+  {% endif %}
+
+  {% endif %}
+
+  <!-- Full report (below KPIs) -->
+  {% if report_content is not None %}
+  <div class="mt-8 bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+    <div class="px-4 py-3 border-b border-white/10">
+      <h3 class="text-sm text-slate-400">Full Report</h3>
+    </div>
+    <pre class="p-4 text-xs font-mono text-slate-300 whitespace-pre-wrap leading-relaxed max-h-[50vh] overflow-auto">{{ report_content }}</pre>
+  </div>
+  {% endif %}
+
+{% else %}
+  <!-- Placeholder -->
+  <div class="flex items-center justify-center h-full">
+    <div class="text-center">
+      <div class="text-slate-600 mb-3">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg>
+      </div>
+      <p class="text-slate-500 text-sm">Select a team from the sidebar to see KPIs and strength radar.</p>
+    </div>
+  </div>
+{% endif %}
+{% endblock %}
+
+
+{% block right_panel %}
+<div class="flex flex-col h-full">
+  <!-- Header -->
+  <div class="px-4 py-3 border-b border-slate-700 flex items-center justify-between shrink-0">
+    <h2 class="text-sm font-semibold text-white">RAG Chat</h2>
+    {% if not chroma_ok %}
+    <span class="text-[10px] text-amber-500">Index missing</span>
+    {% else %}
+    <span class="inline-flex items-center gap-1 text-[10px] text-emerald-500"><span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>Online</span>
+    {% endif %}
+  </div>
+
+  {% if not chroma_ok %}
+  <div class="px-4 py-3 bg-amber-500/10 border-b border-amber-500/20">
+    <p class="text-xs text-amber-400">RAG index not found. Build with: <code class="bg-slate-800 px-1 py-0.5 rounded text-[11px]">python scripts/build_rag_index.py</code></p>
+    <p class="text-xs text-amber-400/90 mt-1">Chat requires the team report index to be built.</p>
+  </div>
+  {% endif %}
+
+  <!-- Messages -->
+  <div id="chat-messages" class="flex-1 overflow-y-auto p-4 space-y-1">
+    {% include "dashboard/partials/chat_messages.html" %}
+  </div>
+
+  <!-- Input form -->
+  <div class="p-3 border-t border-slate-700 shrink-0">
+    <form id="chat-form"
+          hx-post="{% url 'dashboard:chat_partial' %}"
+          hx-target="#chat-messages"
+          hx-swap="innerHTML scroll:#chat-messages:bottom"
+          hx-indicator="#chat-spinner"
+          hx-on::before-request="window.chatOptimisticBefore(event)"
+          hx-on::after-request="window.chatOptimisticAfter(event)"
+          class="space-y-2">
+      {% csrf_token %}
+      <!-- Mode: Chat (use_rag=0) vs Team & stats (use_rag=1) -->
+      <div class="space-y-1" role="group" aria-label="Chat mode">
+        <div class="flex rounded-lg bg-slate-800/80 border border-slate-700 p-0.5">
+          <input type="radio" name="use_rag" value="0" id="mode-general"
+                 {% if not chroma_ok %}checked{% endif %}
+                 class="peer/mode-general sr-only">
+          <label for="mode-general" class="flex-1 cursor-pointer rounded-md px-3 py-1.5 text-center text-xs font-medium transition peer-checked/mode-general:bg-emerald-600 peer-checked/mode-general:text-white peer-checked/mode-general:shadow-sm [.peer:not(:checked)+&]:text-slate-400 [.peer:not(:checked)+&]:hover:text-slate-300">Chat</label>
+          <input type="radio" name="use_rag" value="1" id="mode-rag"
+                 {% if chroma_ok %}checked{% endif %}
+                 {% if not chroma_ok %}disabled{% endif %}
+                 class="peer/mode-rag sr-only">
+          <label for="mode-rag" class="flex-1 cursor-pointer rounded-md px-3 py-1.5 text-center text-xs font-medium transition peer-checked/mode-rag:bg-emerald-600 peer-checked/mode-rag:text-white peer-checked/mode-rag:shadow-sm [.peer:not(:checked)+&]:text-slate-400 [.peer:not(:checked)+&]:hover:text-slate-300 {% if not chroma_ok %}opacity-50 cursor-not-allowed pointer-events-none{% endif %}">Team & stats</label>
+        </div>
+        <p class="text-[10px] text-slate-500 px-0.5">Both use report data · Team & stats adds predictions/current-season (coming soon)</p>
+      </div>
+      <!-- Mode hint (updated by script when radios change) -->
+      <p class="text-[10px] text-slate-500 min-h-[1.25rem]" id="chat-mode-hint">{% if chroma_ok %}Answers use team report data.{% else %}Build the index to use chat.{% endif %}</p>
+      <div class="flex gap-2">
+        <input type="text" name="question" placeholder="Ask about lacrosse data…"
+               class="flex-1 bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2 focus:outline-none focus:border-emerald-500 placeholder-slate-600"
+               autocomplete="off">
+        <button type="submit"
+                class="bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium px-4 py-2 rounded-lg transition htmx-hide-on-request">Send</button>
+        <span id="chat-spinner" class="htmx-indicator items-center gap-2 text-emerald-400 text-sm py-2">
+          <svg class="animate-spin h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path></svg>
+          Thinking…
+        </span>
+      </div>
+    </form>
+    <button hx-post="{% url 'dashboard:clear_chat_partial' %}"
+            hx-target="#chat-messages"
+            hx-swap="innerHTML"
+            hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'
+            class="mt-2 text-xs text-slate-600 hover:text-slate-400 transition">Clear chat</button>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
+<script>
+(function() {
+  var THINKING_SVG = '<svg class="animate-spin h-4 w-4 inline-block mr-1.5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path></svg>';
+
+  window.chatOptimisticBefore = function(ev) {
+    var form = ev.target;
+    var input = form.querySelector('[name=question]');
+    var question = (input && input.value) ? input.value.trim() : '';
+    if (!question) return;
+
+    var container = document.getElementById('chat-messages');
+    if (!container) return;
+
+    var placeholder = container.querySelector('p.text-slate-600');
+    if (placeholder && placeholder.textContent.indexOf('No messages yet') !== -1) placeholder.remove();
+
+    var userBubble = document.createElement('div');
+    userBubble.className = 'mb-3 p-3 rounded-lg border border-emerald-500/30 bg-emerald-500/5';
+    userBubble.innerHTML = '<span class="text-[10px] uppercase tracking-wider text-emerald-400 block mb-1">user</span><div class="text-slate-200 leading-relaxed whitespace-pre-wrap text-sm"></div>';
+    userBubble.querySelector('div').textContent = question;
+    container.appendChild(userBubble);
+
+    var thinkingDiv = document.createElement('div');
+    thinkingDiv.id = 'chat-thinking-placeholder';
+    thinkingDiv.className = 'mb-3 p-3 rounded-lg border border-slate-700 bg-slate-800/50';
+    thinkingDiv.innerHTML = '<span class="text-[10px] uppercase tracking-wider text-slate-500 block mb-1">assistant</span><div class="flex items-center gap-2 text-slate-400 text-sm">' + THINKING_SVG + 'Thinking… <span id="chat-thinking-counter">0s</span></div>';
+    container.appendChild(thinkingDiv);
+
+    var sec = 0;
+    var counterEl = document.getElementById('chat-thinking-counter');
+    var intervalId = setInterval(function() {
+      sec += 1;
+      if (counterEl) counterEl.textContent = sec + 's';
+    }, 1000);
+    window._chatThinkingInterval = intervalId;
+
+    if (input) input.value = '';
+    container.scrollTop = container.scrollHeight;
+  };
+
+  window.chatOptimisticAfter = function() {
+    if (window._chatThinkingInterval) {
+      clearInterval(window._chatThinkingInterval);
+      window._chatThinkingInterval = null;
+    }
+  };
+})();
+
+document.addEventListener('DOMContentLoaded', function() {
+  var hintEl = document.getElementById('chat-mode-hint');
+  var form = document.getElementById('chat-form');
+  if (hintEl && form) {
+    var updateHint = function() {
+      var rag = form.querySelector('input[name=use_rag][value="1"]');
+      hintEl.textContent = rag && rag.checked ? 'Answers use report data + predictions/current-season (coming soon).' : 'Answers use team report data.';
+    };
+    form.querySelectorAll('input[name=use_rag]').forEach(function(radio) {
+      radio.addEventListener('change', updateHint);
+    });
+    updateHint();
+  }
+
+  var el = document.getElementById('stem-search');
+  if (!el || typeof TomSelect === 'undefined') return;
+  new TomSelect(el, {
+    create: false,
+    maxOptions: null,
+    maxItems: 1,
+    placeholder: el.getAttribute('data-placeholder') || 'Search team or season…',
+    plugins: {},
+    render: {
+      option: function(data, escape) {
+        return '<div class="option">' + escape(data.text) + '</div>';
+      },
+      item: function(data, escape) {
+        return '<div class="item">' + escape(data.text) + '</div>';
+      }
+    },
+    onInitialize: function() {
+      this.wrapper.classList.add('sidebar-team-select');
+      var dropdown = this.dropdown;
+      if (dropdown) dropdown.classList.add('sidebar-team-select-dropdown');
+    },
+    onDropdownOpen: function() {
+      var dropdown = this.dropdown;
+      if (dropdown) dropdown.classList.add('sidebar-team-select-dropdown');
+    }
+  });
+});
+</script>
+{% endblock %}

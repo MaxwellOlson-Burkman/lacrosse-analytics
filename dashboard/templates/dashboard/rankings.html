@@ -1,0 +1,79 @@
+{% extends "dashboard/base.html" %}
+
+{% block left_panel %}
+<div class="p-4 flex flex-col h-full">
+  <h1 class="text-lg font-semibold text-white mb-4 tracking-tight">Rankings</h1>
+
+  <form method="get" action="{% url 'dashboard:rankings' %}" class="space-y-2">
+    <div class="grid grid-cols-2 gap-2">
+      <div>
+        <label class="block text-xs text-slate-500 uppercase tracking-wider mb-1">Division</label>
+        <select name="division" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
+          <option value="1" {% if division == "1" %}selected{% endif %}>D1</option>
+          <option value="2" {% if division == "2" %}selected{% endif %}>D2</option>
+        </select>
+      </div>
+      <div>
+        <label class="block text-xs text-slate-500 uppercase tracking-wider mb-1">Year</label>
+        <select name="year" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
+          {% for y in years %}
+          <option value="{{ y }}" {% if y == year %}selected{% endif %}>{{ y }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+
+    <div>
+      <label class="block text-xs text-slate-500 uppercase tracking-wider mb-1">Stat</label>
+      <select name="stat" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
+        {% for s in stats %}
+        <option value="{{ s.key }}" {% if s.key == stat %}selected{% endif %}>{{ s.label }}</option>
+        {% endfor %}
+      </select>
+    </div>
+
+    <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Show Rankings</button>
+
+    <a href="{% url 'dashboard:index' %}" class="block text-center w-full bg-slate-800 hover:bg-slate-700 text-slate-100 text-sm font-medium py-2 px-4 rounded-lg transition">Back to Dashboard</a>
+  </form>
+</div>
+{% endblock %}
+
+{% block center_panel %}
+<div class="max-w-4xl mx-auto">
+  <div class="flex items-center justify-between mb-4">
+    <div>
+      <h2 class="text-lg font-semibold text-white">{{ year }} D{{ division }} – {{ stat_label }}</h2>
+      <p class="text-xs text-slate-500 mt-1">Top 50 teams</p>
+    </div>
+  </div>
+
+  <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+    <table class="w-full text-sm">
+      <thead class="bg-slate-900/60 text-slate-400">
+        <tr>
+          <th class="text-left px-4 py-3 w-16">Rank</th>
+          <th class="text-left px-4 py-3">Team</th>
+          <th class="text-right px-4 py-3 w-40">Value</th>
+        </tr>
+      </thead>
+      <tbody class="divide-y divide-white/5">
+        {% for r in rows %}
+        <tr class="hover:bg-white/5">
+          <td class="px-4 py-2 font-mono text-slate-300">{{ r.rank }}</td>
+          <td class="px-4 py-2 text-slate-200">{{ r.team_name }}</td>
+          <td class="px-4 py-2 text-right font-mono text-emerald-300">{{ r.value }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}
+
+{% block right_panel %}
+<div class="p-4 text-sm text-slate-400">
+  <p>Select a year/division/stat on the left to view rankings.</p>
+</div>
+{% endblock %}
+

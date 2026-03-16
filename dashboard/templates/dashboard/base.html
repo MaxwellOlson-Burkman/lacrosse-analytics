@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="csrf-token" content="{{ csrf_token }}">
+  <title>{% block title %}Lacrosse Analytics{% endblock %}</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            mono: ['"JetBrains Mono"', 'ui-monospace', 'SFMono-Regular', 'monospace'],
+          },
+        },
+      },
+    }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1"></script>
+  <style>
+    .htmx-indicator { display: none; }
+    .htmx-request .htmx-indicator { display: inline-flex; }
+    .htmx-request .htmx-hide-on-request { display: none; }
+  </style>
+  {% block extra_head %}{% endblock %}
+</head>
+<body class="h-full bg-slate-900 text-slate-200 antialiased">
+  <div class="grid grid-cols-[220px_1fr_380px] h-full min-h-screen">
+    <!-- Left sidebar -->
+    <aside class="bg-slate-900 border-r border-slate-700 flex flex-col overflow-y-auto">
+      {% block left_panel %}{% endblock %}
+    </aside>
+
+    <!-- Center canvas -->
+    <main class="min-w-0 overflow-y-auto p-6 bg-slate-950/50">
+      {% block center_panel %}{% endblock %}
+    </main>
+
+    <!-- Right sidebar (chat) -->
+    <aside class="bg-slate-900 border-l border-slate-700 flex flex-col overflow-hidden">
+      {% block right_panel %}{% endblock %}
+    </aside>
+  </div>
+
+  <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+  {% block extra_js %}{% endblock %}
+</body>
+</html>

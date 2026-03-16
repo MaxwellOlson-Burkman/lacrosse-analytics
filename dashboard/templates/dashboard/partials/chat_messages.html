@@ -1,0 +1,20 @@
+{% if chat_messages %}
+  {% for msg in chat_messages %}
+  <div class="mb-3 p-3 rounded-lg border {% if msg.role == 'user' %}border-emerald-500/30 bg-emerald-500/5{% else %}border-slate-700 bg-slate-800/50{% endif %}">
+    <span class="text-[10px] uppercase tracking-wider {% if msg.role == 'user' %}text-emerald-400{% else %}text-slate-500{% endif %} block mb-1">{{ msg.role }}{% if msg.role == 'assistant' %} {% if msg.sources %}<span class="text-emerald-500/90 font-normal normal-case">From our data</span>{% else %}<span class="text-slate-500 font-normal normal-case">General</span>{% endif %}{% endif %}</span>
+    <div class="text-slate-200 leading-relaxed whitespace-pre-wrap text-sm">{{ msg.content }}</div>
+    {% if msg.role == "assistant" and msg.sources %}
+    <details class="mt-2 text-xs text-slate-500">
+      <summary class="cursor-pointer hover:text-slate-400">View sources</summary>
+      <ul class="mt-1 ml-4 list-disc space-y-1">
+        {% for s in msg.sources %}
+        <li><code class="text-[11px] bg-slate-800 px-1 py-0.5 rounded">{{ s.source }}</code> – {{ s.snippet|truncatewords:30 }}</li>
+        {% endfor %}
+      </ul>
+    </details>
+    {% endif %}
+  </div>
+  {% endfor %}
+{% else %}
+  <p class="text-slate-600 text-sm italic">No messages yet. Ask a question below.</p>
+{% endif %}
