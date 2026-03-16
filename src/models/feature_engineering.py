@@ -32,6 +32,16 @@ BASE_FEATURE_COLS = [
     c for c in RAW_STAT_COLS if c != "opponent_clear_percentage"
 ]
 
+# Core stat columns we impute by year/division when missing (~40–50 rows in synced data)
+CORE_STAT_COLS_IMPUTE = [
+    "assists_per_game",
+    "face_off_winning_percentage",
+    "ground_balls_per_game",
+    "points_per_game",
+    "scoring_offense",
+    "scoring_defense",
+]
+
 # Strength-of-schedule metrics (from schedule-based SOS pipeline)
 SOS_FEATURE_COLS = ["wp", "opp_wp", "opp_opp_wp", "rpi"]
 
@@ -125,11 +135,15 @@ def impute_missing(
     for col in feature_cols:
         if col not in out.columns:
             continue
+        # Per-year-division median (or mean) so imputation is controlled by peer group
         medians = out.groupby(["academic_year", "division"])[col].transform(agg)
         out[col] = out[col].fillna(medians)
-        # Fallback: global median
+        # Fallback: global median when a year/division has no non-NaN values
         if out[col].isna().any():
             out[col] = out[col].fillna(out[col].median())
+        # Final fallback: if column was entirely NaN (edge case), use 0 to avoid NaNs in model
+        if out[col].isna().any():
+            out[col] = out[col].fillna(0.0)
     return out
 
 
@@ -190,18 +204,41 @@ def load_and_prepare(data_path: Optional[Path] = None) -> pd.DataFrame:
     if data_path is None:
         project_root = Path(__file__).resolve().parent.parent.parent
         processed = project_root / "data" / "processed"
-        # Prefer combined season+SOS file when present (from scripts/combine_all_data.py)
+        # Prefer latest synced season+SOS file when present, then older combined file, then base stats.
+        synced = processed / "team_stats_with_sos_full_synced.csv"
         combined = processed / "team_stats_with_sos.csv"
-        data_path = combined if combined.exists() else processed / "team_stats_model_ready.csv"
+        if synced.exists():
+            data_path = synced
+        elif combined.exists():
+            data_path = combined
+        else:
+            data_path = processed / "team_stats_model_ready.csv"
 
     df = pd.read_csv(data_path)
-    df = impute_missing(df, feature_cols=[c for c in BASE_FEATURE_COLS if c in df.columns])
+
+    # 1) Controlled imputation for core stat columns (by year/division median)
+    core_cols = [c for c in CORE_STAT_COLS_IMPUTE if c in df.columns]
+    if core_cols:
+        df = impute_missing(df, feature_cols=core_cols, strategy="median")
+    # 2) Remaining base feature columns
+    rest_base = [c for c in BASE_FEATURE_COLS if c in df.columns and c not in core_cols]
+    if rest_base:
+        df = impute_missing(df, feature_cols=rest_base, strategy="median")
+    # 3) Derived features then impute any NaNs in them
     df = build_derived_features(df)
-    # Impute any remaining NaNs in derived features (edge cases)
     derived = ["possession_value_index", "offensive_efficiency", "defensive_efficiency", "extra_man_impact"]
-    df = impute_missing(df, feature_cols=[c for c in derived if c in df.columns])
-    # Impute SOS columns when present (schedule-based wp, opp_wp, opp_opp_wp, rpi)
+    df = impute_missing(df, feature_cols=[c for c in derived if c in df.columns], strategy="median")
+    # 4) SOS columns when present
     sos_cols = [c for c in SOS_FEATURE_COLS if c in df.columns]
     if sos_cols:
-        df = impute_missing(df, feature_cols=sos_cols)
+        df = impute_missing(df, feature_cols=sos_cols, strategy="median")
+
+    # Sanity check: no NaNs in feature columns used for modeling
+    feature_cols = get_feature_columns(include_derived=True, include_clearing_margin=False, include_sos=True)
+    used = [c for c in feature_cols if c in df.columns]
+    if used and df[used].isna().any().any():
+        missing = df[used].isna().sum()
+        missing = missing[missing > 0]
+        raise ValueError(f"Imputation left NaNs in feature columns: {missing.to_dict()}")
+
     return df
