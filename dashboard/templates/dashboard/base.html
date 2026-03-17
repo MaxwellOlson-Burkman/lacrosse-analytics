@@ -24,25 +24,58 @@
     .htmx-indicator { display: none; }
     .htmx-request .htmx-indicator { display: inline-flex; }
     .htmx-request .htmx-hide-on-request { display: none; }
+    /* Global thin / minimal scrollbars */
+    * {
+      scrollbar-width: thin;
+      scrollbar-color: rgba(148,163,184,0.6) transparent;
+    }
+    *::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    *::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    *::-webkit-scrollbar-thumb {
+      background-color: rgba(148,163,184,0.4);
+      border-radius: 9999px;
+    }
+    .scroll-area::-webkit-scrollbar-thumb {
+      background-color: transparent;
+    }
+    .scroll-area:hover::-webkit-scrollbar-thumb {
+      background-color: rgba(148,163,184,0.6);
+    }
   </style>
   {% block extra_head %}{% endblock %}
 </head>
 <body class="h-full bg-slate-900 text-slate-200 antialiased">
-  <div class="grid grid-cols-[220px_1fr_380px] h-full min-h-screen">
-    <!-- Left sidebar -->
-    <aside class="bg-slate-900 border-r border-slate-700 flex flex-col overflow-y-auto">
-      {% block left_panel %}{% endblock %}
+  <div class="grid grid-cols-[260px_1fr] h-full min-h-screen">
+    <!-- Left sidebar: fixed width -->
+    <aside class="w-[260px] min-w-[260px] max-w-[260px] shrink-0 bg-slate-900 border-r border-slate-700 flex flex-col overflow-hidden">
+      <!-- Persistent nav (all pages) -->
+      <nav class="px-4 pt-4 pb-3 border-b border-slate-800 shrink-0">
+        <h1 class="text-lg font-semibold text-white mb-3 tracking-tight">Lacrosse Analytics</h1>
+        <p class="text-[10px] text-slate-500 uppercase tracking-widest mb-2">Explore</p>
+        <ul class="space-y-1">
+          <li><a href="{% url 'dashboard:index' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'index' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Dashboard</a></li>
+          <li><a href="{% url 'dashboard:rankings' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'rankings' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Team Rankings</a></li>
+          <li><a href="{% url 'dashboard:conference_rankings' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'conference_rankings' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Conference Rankings</a></li>
+          <li><a href="{% url 'dashboard:chat' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'chat' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Chat</a></li>
+          <li><a href="{% url 'dashboard:compare' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'compare' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Compare teams</a></li>
+        </ul>
+      </nav>
+      <!-- Page-specific sidebar content (scrolls inside fixed column) -->
+      <div class="flex-1 min-h-0 overflow-y-auto">
+        {% block left_panel %}{% endblock %}
+        {% block left_panel_content %}{% endblock %}
+      </div>
     </aside>
 
-    <!-- Center canvas -->
+    <!-- Center / main content only (no right panel) -->
     <main class="min-w-0 overflow-y-auto p-6 bg-slate-950/50">
       {% block center_panel %}{% endblock %}
     </main>
-
-    <!-- Right sidebar (chat) -->
-    <aside class="bg-slate-900 border-l border-slate-700 flex flex-col overflow-hidden">
-      {% block right_panel %}{% endblock %}
-    </aside>
   </div>
 
   <script src="https://unpkg.com/htmx.org@1.9.10"></script>

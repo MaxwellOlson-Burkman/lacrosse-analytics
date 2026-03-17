@@ -113,8 +113,159 @@ def _run_rag_query(request, question: str, *, mode: int = 1):
     request.session.modified = True
 
 
+def _humanize_stat_key(key: str) -> str:
+    """Turn snake_case stat key into title-style label."""
+    key = key.strip()
+    if not key:
+        return key
+    # Known mappings
+    known = {
+        "win % (from schedule)": "Win % (from schedule)",
+        "caused_turnovers_per_game": "Caused turnovers per game",
+        "man_up_offense": "Man-up offense",
+        "scoring_offense": "Scoring offense",
+        "turnovers_per_game": "Turnovers per game",
+        "offensive_efficiency": "Offensive efficiency",
+        "saves_per_game": "Saves per game",
+        "defensive_efficiency": "Defensive efficiency",
+        "points_per_game": "Points per game",
+        "scoring_defense": "Scoring defense",
+        "clearing_percentage": "Clearing %",
+        "ground_balls_per_game": "Ground balls per game",
+        "possession_value_index": "Possession value index",
+    }
+    key_lower = key.lower().replace("_", " ")
+    for k, v in known.items():
+        if k.replace("_", " ") == key_lower or k == key.lower():
+            return v
+    return key.replace("_", " ").title()
+
+
+def parse_team_report_tables(report_content: str):
+    """Parse report text into summary, stat comparison, and SOS for table display.
+
+    Adds semantic fields to stat comparison rows:
+    - key: raw stat key from the report
+    - delta: signed difference vs league avg (positive = above, negative = below)
+    - abs_delta: absolute difference
+    - direction: "above" | "below" | "equal"
+    - good_bad: "good" | "bad" | "neutral" based on stat semantics.
+    """
+    if not report_content:
+        return None
+    lines = report_content.strip().splitlines()
+    summary = []
+    stat_comparison = []
+    sos = []
+
+    # Stat semantics: whether higher or lower values are better.
+    stat_semantics = {
+        "turnovers_per_game": "lower",
+        "defensive_efficiency": "lower",
+        "scoring_defense": "lower",
+        # Generally higher is better for these:
+        "caused_turnovers_per_game": "higher",
+        "man_up_offense": "higher",
+        "scoring_offense": "higher",
+        "offensive_efficiency": "higher",
+        "saves_per_game": "higher",
+        "points_per_game": "higher",
+        "clearing_percentage": "higher",
+        "ground_balls_per_game": "higher",
+        "possession_value_index": "higher",
+        "win % (from schedule)": "higher",
+    }
+
+    phase = None  # "header" | "stat" | "sos"
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if stripped.startswith("Team:"):
+            summary.append(("Team", stripped.split(":", 1)[1].strip()))
+        elif stripped.startswith("Season:"):
+            summary.append(("Season", stripped.split(":", 1)[1].strip()))
+        elif stripped.startswith("Record:"):
+            summary.append(("Record", stripped.split(":", 1)[1].strip()))
+        elif stripped.startswith("Winning %:"):
+            summary.append(("Winning %", stripped.split(":", 1)[1].strip()))
+        elif stripped.startswith("Predicted Winning %:"):
+            summary.append(("Predicted Winning %", stripped.split(":", 1)[1].strip()))
+        elif "Stat Comparison vs League Average" in stripped:
+            phase = "stat"
+            continue
+        elif stripped.lower().startswith("strength of schedule"):
+            phase = "sos"
+            continue
+        elif phase == "stat" and ":" in stripped:
+            part = stripped.split(":", 1)
+            key_raw = part[0].strip()
+            rest = part[1].strip()
+            value = ""
+            vs_avg = ""
+            m = re.match(r"^([\d.]+)\s*(\(.+\))?$", rest)
+            if m:
+                value = m.group(1)
+                if m.group(2):
+                    vs_avg = m.group(2).strip(" ()")
+            else:
+                value = rest
+            # Parse vs_avg like "0.932 above average" / "0.932 below average"
+            direction = "equal"
+            delta = 0.0
+            abs_delta = 0.0
+            if vs_avg:
+                text = vs_avg.strip()
+                # grab leading numeric magnitude
+                m2 = re.match(r"^([+-]?[0-9]*\.?[0-9]+)", text)
+                if m2:
+                    mag = float(m2.group(1))
+                    lower = text.lower()
+                    if "above" in lower:
+                        direction = "above"
+                        delta = mag
+                        abs_delta = mag
+                    elif "below" in lower:
+                        direction = "below"
+                        delta = -mag
+                        abs_delta = mag
+            # Determine good/bad based on semantics and direction
+            semantics_key = key_raw
+            sem = stat_semantics.get(semantics_key, "higher")
+            if direction == "equal" or abs_delta == 0.0:
+                good_bad = "neutral"
+            elif sem == "higher":
+                good_bad = "good" if direction == "above" else "bad"
+            elif sem == "lower":
+                good_bad = "good" if direction == "below" else "bad"
+            else:
+                good_bad = "neutral"
+
+            label = _humanize_stat_key(key_raw)
+            stat_comparison.append(
+                {
+                    "key": key_raw,
+                    "stat": label,
+                    "value": value,
+                    "vs_average": vs_avg,
+                    "delta": delta,
+                    "abs_delta": abs_delta,
+                    "direction": direction,
+                    "good_bad": good_bad,
+                }
+            )
+        elif phase == "sos" and ":" in stripped:
+            key = stripped.split(":", 1)[0].strip()
+            val = stripped.split(":", 1)[1].strip()
+            sos.append((key, val))
+
+    if not summary:
+        return None
+    return {"summary": summary, "stat_comparison": stat_comparison, "sos": sos}
+
+
 def parse_team_report_kpis(report_content: str):
-    """Parse a team report text into KPI dict and radar data. Returns None on failure."""
+    """Parse a team report text into KPI dict and radar/chart data. Returns None on failure."""
     if not report_content:
         return None
     lines = report_content.strip().splitlines()
@@ -134,24 +285,14 @@ def parse_team_report_kpis(report_content: str):
     if not kpis.get("record"):
         return None
 
-    # Radar: extract stat values from the "Stat Comparison" section
-    stat_keys = {
+    # Radar: subset of stats with fixed scales
+    stat_keys_radar = {
         "scoring_offense": "Scoring Offense",
         "scoring_defense": "Scoring Defense",
         "clearing_percentage": "Clearing %",
         "ground_balls_per_game": "Ground Balls",
         "possession_value_index": "Possession Value",
     }
-    raw_stats = {}
-    for line in lines:
-        line_stripped = line.strip()
-        for key in stat_keys:
-            if line_stripped.startswith(f"{key}:"):
-                m = re.search(r":\s*([\d.]+)", line_stripped)
-                if m:
-                    raw_stats[key] = float(m.group(1))
-
-    # Normalize to 0-100 with rough scales per stat
     scales = {
         "scoring_offense": (5, 20),
         "scoring_defense": (5, 20),
@@ -159,10 +300,28 @@ def parse_team_report_kpis(report_content: str):
         "ground_balls_per_game": (15, 50),
         "possession_value_index": (0.05, 0.25),
     }
+    raw_stats = {}
+    for line in lines:
+        line_stripped = line.strip()
+        for key in list(stat_keys_radar.keys()) + [
+            "caused_turnovers_per_game", "man_up_offense", "turnovers_per_game",
+            "offensive_efficiency", "saves_per_game", "defensive_efficiency",
+            "points_per_game",
+        ]:
+            if line_stripped.startswith(f"{key}:") or (key == "win % (from schedule)" and line_stripped.lower().startswith("win % (from schedule):")):
+                m = re.search(r":\s*([\d.]+)", line_stripped)
+                if m:
+                    raw_stats[key] = float(m.group(1))
+                break
+        else:
+            if line_stripped.lower().startswith("win % (from schedule):"):
+                m = re.search(r":\s*([\d.]+)", line_stripped)
+                if m:
+                    raw_stats["win % (from schedule)"] = float(m.group(1))
 
     radar_labels = []
     radar_values = []
-    for key, label in stat_keys.items():
+    for key, label in stat_keys_radar.items():
         radar_labels.append(label)
         val = raw_stats.get(key)
         if val is not None:
@@ -170,11 +329,33 @@ def parse_team_report_kpis(report_content: str):
             normalized = max(0, min(100, (val - lo) / (hi - lo) * 100))
             radar_values.append(round(normalized, 1))
         else:
-            # Missing stat should display as N/A in the UI (Chart.js uses null).
             radar_values.append(None)
-
     kpis["radar_labels"] = radar_labels
     kpis["radar_values"] = radar_values
+
+    # All stats for bar/line charts: order matching report Stat Comparison section
+    chart_order = [
+        "win % (from schedule)", "caused_turnovers_per_game", "man_up_offense", "scoring_offense",
+        "turnovers_per_game", "offensive_efficiency", "saves_per_game", "defensive_efficiency",
+        "points_per_game", "scoring_defense", "clearing_percentage", "ground_balls_per_game",
+        "possession_value_index",
+    ]
+    chart_labels = []
+    chart_values = []
+    for key in chart_order:
+        val = raw_stats.get(key)
+        if val is not None:
+            chart_labels.append(_humanize_stat_key(key))
+            chart_values.append(round(val, 3))
+    # Fallback: add any keys found in raw_stats not in chart_order
+    for key, val in raw_stats.items():
+        if key in chart_order:
+            continue
+        chart_labels.append(_humanize_stat_key(key))
+        chart_values.append(round(val, 3))
+    kpis["chart_labels"] = chart_labels
+    kpis["chart_values"] = chart_values
+
     return kpis
 
 
@@ -209,75 +390,78 @@ def index_view(request):
     team_choices = get_team_choices()
     team_index = get_team_index()
 
-    # Build per-division year/team lists for the left panel
-    d1_years = sorted({r["year"] for r in team_index if r["division"] == 1}, reverse=True)
-    d2_years = sorted({r["year"] for r in team_index if r["division"] == 2}, reverse=True)
-    d1_year_sel = request.GET.get("d1_year", "").strip()
-    d2_year_sel = request.GET.get("d2_year", "").strip()
-    d1_year_sel_i = int(d1_year_sel) if d1_year_sel.isdigit() else (d1_years[0] if d1_years else None)
-    d2_year_sel_i = int(d2_year_sel) if d2_year_sel.isdigit() else (d2_years[0] if d2_years else None)
+    # Unified picker: division → year → team
+    div_raw = request.GET.get("division", "1").strip()
+    picker_division = int(div_raw) if div_raw in ("1", "2") else 1
 
-    d1_teams = [
+    picker_years = sorted(
+        {r["year"] for r in team_index if r["division"] == picker_division},
+        reverse=True,
+    )
+
+    year_raw = request.GET.get("year", "").strip()
+    picker_year = int(year_raw) if year_raw.isdigit() else (picker_years[0] if picker_years else None)
+
+    picker_teams = [
         (r["name"], r["stem"])
         for r in team_index
-        if r["division"] == 1 and (d1_year_sel_i is None or r["year"] == d1_year_sel_i)
+        if r["division"] == picker_division and (picker_year is None or r["year"] == picker_year)
     ]
-    d2_teams = [
-        (r["name"], r["stem"])
-        for r in team_index
-        if r["division"] == 2 and (d2_year_sel_i is None or r["year"] == d2_year_sel_i)
-    ]
-
-    # Backwards-compatible division filter for the old TEAM-SEASON dropdown/search
-    division = request.GET.get("division", "").strip()
-    if division in ("1", "2"):
-        filtered_choices = [(l, v) for l, v in team_choices if f"_D{division}_" in v]
-    else:
-        filtered_choices = team_choices
-        division = ""
 
     # Team selection
     stem = request.GET.get("stem", "").strip()
     report_content = get_report_content(stem) if stem else None
     kpis = parse_team_report_kpis(report_content) if report_content else None
+    report_tables = parse_team_report_tables(report_content) if report_content else None
 
     selected_stem_label = ""
     if stem:
         selected_stem_label = _label_for_stem(stem, team_choices)
         _push_recent_stem(request, stem, selected_stem_label)
+        # Keep current selection in dropdown when switching year/division so it doesn't revert to "Select team"
+        if not any(s == stem for _, s in picker_teams):
+            picker_teams = list(picker_teams) + [(selected_stem_label, stem)]
 
     config = load_rag_config()
     chroma_ok = chroma_index_exists(config)
     chat_messages = request.session.get("chat_messages", [])
     recent_stems = request.session.get("recent_stems", [])
 
-    # Radar data as JSON for Chart.js
+    # Chart data as JSON for Chart.js (radar + bar/line)
     radar_labels = json.dumps(kpis["radar_labels"]) if kpis else None
     radar_values = json.dumps(kpis["radar_values"]) if kpis else None
+    chart_labels = json.dumps(kpis["chart_labels"]) if kpis else None
+    chart_values = json.dumps(kpis["chart_values"]) if kpis else None
 
     return render(
         request,
         "dashboard/index.html",
         {
-            "team_choices": filtered_choices,
+            "active_page": "index",
+            "team_choices": team_choices,
             "selected_stem": stem,
             "selected_stem_label": selected_stem_label,
             "report_content": report_content,
+            "report_tables": report_tables,
             "kpis": kpis,
             "radar_labels": radar_labels,
             "radar_values": radar_values,
+            "chart_labels": chart_labels,
+            "chart_values": chart_values,
             "chroma_ok": chroma_ok,
             "chat_messages": chat_messages,
             "recent_stems": recent_stems,
-            "division": division,
-            "d1_years": d1_years,
-            "d2_years": d2_years,
-            "d1_year_selected": d1_year_sel_i,
-            "d2_year_selected": d2_year_sel_i,
-            "d1_teams": d1_teams,
-            "d2_teams": d2_teams,
+            "picker_division": picker_division,
+            "picker_year": picker_year,
+            "picker_years": picker_years,
+            "picker_teams": picker_teams,
         },
     )
+
+
+def chat_page_view(request):
+    """Full-page chat (two-column layout; main content is chat only)."""
+    return render(request, "dashboard/chat.html", {"active_page": "chat"})
 
 
 def chat_partial(request):
@@ -319,8 +503,10 @@ def rankings_view(request):
         year = 2024
     division = 1 if div_raw == "1" else 2 if div_raw == "2" else 1
 
-    # Load data (cached per process by pandas; OK for now)
-    data_path = Path(settings.BASE_DIR) / "data" / "processed" / "team_stats_with_sos.csv"
+    # Load data: prefer synced file when present (same source as conference rankings)
+    processed = Path(settings.BASE_DIR) / "data" / "processed"
+    synced = processed / "team_stats_with_sos_full_synced.csv"
+    data_path = synced if synced.exists() else processed / "team_stats_with_sos.csv"
     df = pd.read_csv(data_path)
 
     allowed_stats = {
@@ -344,7 +530,10 @@ def rankings_view(request):
     subset = subset[["team_name", stat]].dropna()
     subset = subset.sort_values(by=stat, ascending=not higher_is_better).reset_index(drop=True)
     subset["rank"] = subset.index + 1
-    top = subset.head(50).to_dict(orient="records")
+    # Template expects "value" for the stat column
+    top = subset.head(50).copy()
+    top = top.rename(columns={stat: "value"})
+    top = top.to_dict(orient="records")
 
     # Options for dropdowns
     years = sorted(df["academic_year"].dropna().astype(int).unique().tolist(), reverse=True)
@@ -354,6 +543,7 @@ def rankings_view(request):
         request,
         "dashboard/rankings.html",
         {
+            "active_page": "rankings",
             "year": year,
             "division": str(division),
             "stat": stat,
@@ -365,6 +555,65 @@ def rankings_view(request):
     )
 
 
+def conference_rankings_view(request):
+    """Conference strength rankings per year/division from conference_rankings.csv."""
+    year_raw = (request.GET.get("year") or "").strip()
+    div_raw = (request.GET.get("division") or "").strip()
+
+    try:
+        year = int(year_raw)
+    except Exception:
+        year = 2024
+    division = 1 if div_raw == "1" else 2 if div_raw == "2" else 1
+
+    conf_path = Path(settings.BASE_DIR) / "data" / "processed" / "conference_rankings.csv"
+    if not conf_path.exists():
+        return render(
+            request,
+            "dashboard/conference_rankings.html",
+            {
+                "active_page": "conference_rankings",
+                "file_missing": True,
+                "rows": [],
+                "years": [],
+                "year": year,
+                "division": str(division),
+            },
+        )
+
+    df = pd.read_csv(conf_path)
+    subset = df[
+        (df["academic_year"] == year) & (df["division"] == division)
+    ].sort_values("conference_rank").copy()
+    subset["conference_strength"] = subset["conference_strength"].apply(
+        lambda x: f"{float(x):.3f}"
+    )
+    rows = subset[["conference_rank", "conference", "conference_strength", "team_count"]].to_dict(
+        orient="records"
+    )
+    # Rename keys for template (conference_rank -> rank)
+    for r in rows:
+        r["rank"] = r.pop("conference_rank")
+
+    years = sorted(
+        df["academic_year"].dropna().astype(int).unique().tolist(),
+        reverse=True,
+    )
+
+    return render(
+        request,
+        "dashboard/conference_rankings.html",
+        {
+            "active_page": "conference_rankings",
+            "file_missing": False,
+            "rows": rows,
+            "years": years,
+            "year": year,
+            "division": str(division),
+        },
+    )
+
+
 def clear_chat_partial(request):
     """HTMX endpoint: clear chat, return empty chat fragment."""
     if request.method != "POST":
@@ -372,3 +621,48 @@ def clear_chat_partial(request):
     request.session["chat_messages"] = []
     request.session.modified = True
     return render(request, "dashboard/partials/chat_messages.html", {"chat_messages": []})
+
+
+def compare_view(request):
+    """Side-by-side team comparison. GET stem_a, stem_b."""
+    team_choices = get_team_choices()
+
+    stem_a = (request.GET.get("stem_a") or "").strip()
+    stem_b = (request.GET.get("stem_b") or "").strip()
+
+    def build_side(stem: str):
+        if not stem:
+            return None
+        content = get_report_content(stem)
+        label = _label_for_stem(stem, team_choices)
+        if not content:
+            return {"stem": stem, "label": label, "missing": True}
+        tables = parse_team_report_tables(content)
+        kpis = parse_team_report_kpis(content)
+        return {
+            "stem": stem,
+            "label": label,
+            "missing": False,
+            "report_tables": tables,
+            "kpis": kpis,
+            "radar_labels": json.dumps(kpis["radar_labels"]) if kpis else None,
+            "radar_values": json.dumps(kpis["radar_values"]) if kpis else None,
+            "chart_labels": json.dumps(kpis["chart_labels"]) if kpis else None,
+            "chart_values": json.dumps(kpis["chart_values"]) if kpis else None,
+        }
+
+    side_a = build_side(stem_a)
+    side_b = build_side(stem_b)
+
+    return render(
+        request,
+        "dashboard/compare.html",
+        {
+            "active_page": "compare",
+            "team_choices": team_choices,
+            "stem_a": stem_a,
+            "stem_b": stem_b,
+            "side_a": side_a,
+            "side_b": side_b,
+        },
+    )

@@ -1,0 +1,284 @@
+{% extends "dashboard/base.html" %}
+
+{% block title %}Compare teams – Lacrosse Analytics{% endblock %}
+
+{% block left_panel_content %}
+<div class="p-4 flex flex-col h-full space-y-5">
+  <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-2">Compare two team-seasons</h3>
+  <form method="get" action="{% url 'dashboard:compare' %}" class="space-y-4">
+    <div>
+      <label class="block text-[10px] text-slate-500 uppercase mb-1">Team A</label>
+      <select name="stem_a" id="team-select-a" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2" data-placeholder="Search team A…">
+        <option value="">Select team…</option>
+        {% for label, value in team_choices %}
+        <option value="{{ value }}" {% if value == stem_a %}selected{% endif %}>{{ label }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div>
+      <label class="block text-[10px] text-slate-500 uppercase mb-1">Team B</label>
+      <select name="stem_b" id="team-select-b" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2" data-placeholder="Search team B…">
+        <option value="">Select team…</option>
+        {% for label, value in team_choices %}
+        <option value="{{ value }}" {% if value == stem_b %}selected{% endif %}>{{ label }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Compare</button>
+  </form>
+</div>
+{% endblock %}
+
+{% block center_panel %}
+<div class="space-y-6">
+  {% if not side_a and not side_b %}
+  <div class="text-center py-12 text-slate-500">
+    <p class="text-sm">Select Team A and Team B in the sidebar, then click Compare.</p>
+  </div>
+  {% else %}
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+    <!-- Team A -->
+    <div class="space-y-4">
+      <h2 class="text-lg font-semibold text-white border-b border-slate-700 pb-2">{% if side_a %}{{ side_a.label }}{% else %}Team A{% endif %}</h2>
+      {% if not side_a %}
+      <p class="text-slate-500 text-sm">Select Team A in the sidebar.</p>
+      {% elif side_a.missing %}
+      <p class="text-amber-400 text-sm">Report not found.</p>
+      {% else %}
+      {% if side_a.report_tables %}
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+        <div class="px-4 py-2 border-b border-white/10"><h3 class="text-xs text-slate-500 uppercase">Summary</h3></div>
+        <table class="w-full text-sm"><tbody class="divide-y divide-white/5">
+          {% for label, value in side_a.report_tables.summary %}
+          <tr><td class="px-4 py-1.5 text-slate-500 w-40">{{ label }}</td><td class="px-4 py-1.5 text-slate-200">{{ value }}</td></tr>
+          {% endfor %}
+        </tbody></table>
+      </div>
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+        <div class="px-4 py-2 border-b border-white/10"><h3 class="text-xs text-slate-500 uppercase">Stat comparison</h3></div>
+        <table class="w-full text-sm">
+          <thead class="bg-slate-900/60 text-slate-400">
+            <tr><th class="text-left px-4 py-1.5 text-xs">Stat</th><th class="text-right px-4 py-1.5 text-xs w-20">Value</th><th class="text-left px-4 py-1.5 text-xs">Vs avg</th></tr>
+          </thead>
+          <tbody class="divide-y divide-white/5">
+          {% for row in side_a.report_tables.stat_comparison %}
+            <tr>
+              <td class="px-4 py-1 text-slate-200 text-xs">{{ row.stat }}</td>
+              <td class="px-4 py-1 text-right font-mono text-xs {% if row.good_bad == 'good' %}text-emerald-300{% elif row.good_bad == 'bad' %}text-rose-300{% else %}text-slate-300{% endif %}">{{ row.value }}</td>
+              <td class="px-4 py-1 text-xs">
+                {% if row.direction == 'equal' %}
+                  <span class="text-slate-400">= league average</span>
+                {% else %}
+                  <span class="{% if row.good_bad == 'good' %}text-emerald-400{% elif row.good_bad == 'bad' %}text-rose-400{% else %}text-slate-400{% endif %}">
+                    {% if row.direction == 'above' %}+{% elif row.direction == 'below' %}-{% endif %}{{ row.abs_delta }} {{ row.direction }} avg
+                  </span>
+                {% endif %}
+              </td>
+            </tr>
+          {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+        <div class="px-4 py-2 border-b border-white/10"><h3 class="text-xs text-slate-500 uppercase">SOS</h3></div>
+        <table class="w-full text-sm"><tbody class="divide-y divide-white/5">
+          {% for label, value in side_a.report_tables.sos %}
+          <tr><td class="px-4 py-1 text-slate-500 text-xs">{{ label }}</td><td class="px-4 py-1 text-slate-200 text-xs">{{ value }}</td></tr>
+          {% endfor %}
+        </tbody></table>
+      </div>
+      {% endif %}
+      {% endif %}
+    </div>
+
+    <!-- Team B -->
+    <div class="space-y-4">
+      <h2 class="text-lg font-semibold text-white border-b border-slate-700 pb-2">{% if side_b %}{{ side_b.label }}{% else %}Team B{% endif %}</h2>
+      {% if not side_b %}
+      <p class="text-slate-500 text-sm">Select Team B in the sidebar.</p>
+      {% elif side_b.missing %}
+      <p class="text-amber-400 text-sm">Report not found.</p>
+      {% else %}
+      {% if side_b.report_tables %}
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+        <div class="px-4 py-2 border-b border-white/10"><h3 class="text-xs text-slate-500 uppercase">Summary</h3></div>
+        <table class="w-full text-sm"><tbody class="divide-y divide-white/5">
+          {% for label, value in side_b.report_tables.summary %}
+          <tr><td class="px-4 py-1.5 text-slate-500 w-40">{{ label }}</td><td class="px-4 py-1.5 text-slate-200">{{ value }}</td></tr>
+          {% endfor %}
+        </tbody></table>
+      </div>
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+        <div class="px-4 py-2 border-b border-white/10"><h3 class="text-xs text-slate-500 uppercase">Stat comparison</h3></div>
+        <table class="w-full text-sm">
+          <thead class="bg-slate-900/60 text-slate-400">
+            <tr><th class="text-left px-4 py-1.5 text-xs">Stat</th><th class="text-right px-4 py-1.5 text-xs w-20">Value</th><th class="text-left px-4 py-1.5 text-xs">Vs avg</th></tr>
+          </thead>
+          <tbody class="divide-y divide-white/5">
+          {% for row in side_b.report_tables.stat_comparison %}
+            <tr>
+              <td class="px-4 py-1 text-slate-200 text-xs">{{ row.stat }}</td>
+              <td class="px-4 py-1 text-right font-mono text-xs {% if row.good_bad == 'good' %}text-emerald-300{% elif row.good_bad == 'bad' %}text-rose-300{% else %}text-slate-300{% endif %}">{{ row.value }}</td>
+              <td class="px-4 py-1 text-xs">
+                {% if row.direction == 'equal' %}
+                  <span class="text-slate-400">= league average</span>
+                {% else %}
+                  <span class="{% if row.good_bad == 'good' %}text-emerald-400{% elif row.good_bad == 'bad' %}text-rose-400{% else %}text-slate-400{% endif %}">
+                    {% if row.direction == 'above' %}+{% elif row.direction == 'below' %}-{% endif %}{{ row.abs_delta }} {{ row.direction }} avg
+                  </span>
+                {% endif %}
+              </td>
+            </tr>
+          {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+        <div class="px-4 py-2 border-b border-white/10"><h3 class="text-xs text-slate-500 uppercase">SOS</h3></div>
+        <table class="w-full text-sm"><tbody class="divide-y divide-white/5">
+          {% for label, value in side_b.report_tables.sos %}
+          <tr><td class="px-4 py-1 text-slate-500 text-xs">{{ label }}</td><td class="px-4 py-1 text-slate-200 text-xs">{{ value }}</td></tr>
+          {% endfor %}
+        </tbody></table>
+      </div>
+      {% endif %}
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+</div>
+
+{% if side_a and not side_a.missing and side_a.radar_labels and side_b and not side_b.missing and side_b.radar_labels %}
+  <div class="mt-8 space-y-4">
+    <h3 class="text-xs text-slate-500 uppercase tracking-wider">Charts</h3>
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
+        <h4 class="text-xs text-slate-500 uppercase mb-2">Radar – {{ side_a.label }}</h4>
+        <div class="h-72"><canvas id="team-chart-a"></canvas></div>
+      </div>
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
+        <h4 class="text-xs text-slate-500 uppercase mb-2">Radar – {{ side_b.label }}</h4>
+        <div class="h-72"><canvas id="team-chart-b"></canvas></div>
+      </div>
+    </div>
+  </div>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    function makeChart(canvasId, radarLabels, radarValues, teamLabel) {
+      var ctx = document.getElementById(canvasId);
+      if (!ctx) return null;
+      return new Chart(ctx, {
+        type: 'radar',
+        data: {
+          labels: radarLabels,
+          datasets: [{
+            label: teamLabel,
+            data: radarValues,
+            borderColor: 'rgb(52, 211, 153)',
+            backgroundColor: 'rgba(52, 211, 153, 0.15)',
+            pointBackgroundColor: 'rgb(52, 211, 153)',
+            pointBorderColor: '#fff',
+            pointRadius: 4,
+            borderWidth: 2,
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: true,
+          scales: {
+            r: { beginAtZero: true, max: 100, ticks: { display: false }, grid: { color: 'rgba(255,255,255,0.1)' }, angleLines: { color: 'rgba(255,255,255,0.1)' }, pointLabels: { color: '#94a3b8', font: { size: 10 } } }
+          },
+          plugins: { legend: { display: false } }
+        }
+      });
+    }
+    if (document.getElementById('team-chart-a')) {
+      makeChart('team-chart-a', {{ side_a.radar_labels|safe }}, {{ side_a.radar_values|safe }}, '{{ side_a.label|escapejs }}');
+    }
+    if (document.getElementById('team-chart-b')) {
+      makeChart('team-chart-b', {{ side_b.radar_labels|safe }}, {{ side_b.radar_values|safe }}, '{{ side_b.label|escapejs }}');
+    }
+  });
+  </script>
+{% endif %}
+
+{% endblock %}
+
+{% block extra_head %}
+{{ block.super }}
+<link href="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/css/tom-select.css" rel="stylesheet">
+<style>
+  .ts-wrapper.sidebar-team-select .ts-control {
+    background: #1e293b !important;
+    border-color: #475569 !important;
+    color: #f8fafc !important;
+  }
+  .ts-wrapper.sidebar-team-select .ts-control input {
+    color: #ffffff !important;
+    caret-color: #34d399;
+  }
+  .ts-wrapper.sidebar-team-select .ts-control input::placeholder {
+    color: #94a3b8 !important;
+  }
+  .ts-wrapper.sidebar-team-select.focus .ts-control {
+    border-color: #34d399 !important;
+    box-shadow: 0 0 0 1px #34d399 !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown {
+    background: #1e293b !important;
+    border-color: #475569 !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown .option {
+    color: #e2e8f0 !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown .option.active {
+    background: rgba(52, 211, 153, 0.25) !important;
+    color: #34d399 !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown .option:hover {
+    background: #334155 !important;
+    color: #f8fafc !important;
+  }
+  .ts-dropdown.sidebar-team-select-dropdown .optgroup-header {
+    color: #94a3b8 !important;
+  }
+  .ts-wrapper.sidebar-team-select .item {
+    background: rgba(52, 211, 153, 0.3) !important;
+    color: #ecfdf5 !important;
+    border: 0;
+  }
+</style>
+{% endblock %}
+
+{% block extra_js %}
+<script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  ['team-select-a', 'team-select-b'].forEach(function(id) {
+    var el = document.getElementById(id);
+    if (el && typeof TomSelect !== 'undefined') {
+      new TomSelect(el, {
+        create: false,
+        maxOptions: null,
+        maxItems: 1,
+        placeholder: el.getAttribute('data-placeholder') || 'Search team…',
+        plugins: {},
+        render: {
+          option: function(data, escape) { return '<div class="option">' + escape(data.text) + '</div>'; },
+          item: function(data, escape) { return '<div class="item">' + escape(data.text) + '</div>'; }
+        },
+        onInitialize: function() {
+          this.wrapper.classList.add('sidebar-team-select');
+          var dropdown = this.dropdown;
+          if (dropdown) dropdown.classList.add('sidebar-team-select-dropdown');
+        },
+        onDropdownOpen: function() {
+          var dropdown = this.dropdown;
+          if (dropdown) dropdown.classList.add('sidebar-team-select-dropdown');
+        }
+      });
+    }
+  });
+});
+</script>
+{% endblock %}

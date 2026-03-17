@@ -2,9 +2,9 @@
 
 {% block left_panel_content %}
 <div class="p-4 flex flex-col h-full">
-  <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-3">Filter Rankings</h3>
+  <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-3">Filter Conferences</h3>
 
-  <form method="get" action="{% url 'dashboard:rankings' %}" class="space-y-2">
+  <form method="get" action="{% url 'dashboard:conference_rankings' %}" class="space-y-2">
     <div class="grid grid-cols-2 gap-2">
       <div>
         <label class="block text-[10px] text-slate-500 uppercase mb-1">Division</label>
@@ -23,26 +23,24 @@
       </div>
     </div>
 
-    <div>
-      <label class="block text-[10px] text-slate-500 uppercase mb-1">Stat</label>
-      <select name="stat" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
-        {% for s in stats %}
-        <option value="{{ s.key }}" {% if s.key == stat %}selected{% endif %}>{{ s.label }}</option>
-        {% endfor %}
-      </select>
-    </div>
-
-    <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Show Rankings</button>
+    <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Show Conference Rankings</button>
   </form>
 </div>
 {% endblock %}
 
 {% block center_panel %}
 <div class="max-w-4xl mx-auto">
+  {% if file_missing %}
+  <div class="bg-amber-900/30 border border-amber-600/50 rounded-xl p-6 text-amber-200">
+    <p class="font-medium">Conference rankings not generated yet.</p>
+    <p class="mt-2 text-sm">Run from the project root:</p>
+    <code class="block mt-2 p-3 bg-slate-900 rounded text-emerald-400 text-sm">python scripts/build_conference_rankings.py</code>
+  </div>
+  {% else %}
   <div class="flex items-center justify-between mb-4">
     <div>
-      <h2 class="text-lg font-semibold text-white">{{ year }} D{{ division }} – {{ stat_label }}</h2>
-      <p class="text-xs text-slate-500 mt-1">Top 50 teams</p>
+      <h2 class="text-lg font-semibold text-white">{{ year }} D{{ division }} – Conference Strength</h2>
+      <p class="text-xs text-slate-500 mt-1">Ranked by composite (win %, RPI, schedule difficulty). Conferences with 3+ teams.</p>
     </div>
   </div>
 
@@ -51,20 +49,23 @@
       <thead class="bg-slate-900/60 text-slate-400">
         <tr>
           <th class="text-left px-4 py-3 w-16">Rank</th>
-          <th class="text-left px-4 py-3">Team</th>
-          <th class="text-right px-4 py-3 w-40">Value</th>
+          <th class="text-left px-4 py-3">Conference</th>
+          <th class="text-right px-4 py-3 w-32">Strength</th>
+          <th class="text-right px-4 py-3 w-20">Teams</th>
         </tr>
       </thead>
       <tbody class="divide-y divide-white/5">
         {% for r in rows %}
         <tr class="hover:bg-white/5">
           <td class="px-4 py-2 font-mono text-slate-300">{{ r.rank }}</td>
-          <td class="px-4 py-2 text-slate-200">{{ r.team_name }}</td>
-          <td class="px-4 py-2 text-right font-mono text-emerald-300">{{ r.value }}</td>
+          <td class="px-4 py-2 text-slate-200">{{ r.conference }}</td>
+          <td class="px-4 py-2 text-right font-mono text-emerald-300">{{ r.conference_strength }}</td>
+          <td class="px-4 py-2 text-right font-mono text-slate-400">{{ r.team_count }}</td>
         </tr>
         {% endfor %}
       </tbody>
     </table>
   </div>
+  {% endif %}
 </div>
 {% endblock %}

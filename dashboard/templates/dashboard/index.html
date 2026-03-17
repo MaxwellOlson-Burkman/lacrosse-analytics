@@ -46,84 +46,55 @@
 </style>
 {% endblock %}
 
-{% block left_panel %}
-<div class="p-4 flex flex-col h-full">
-  <!-- Title -->
-  <h1 class="text-lg font-semibold text-white mb-6 tracking-tight">Lacrosse Analytics</h1>
+{% block left_panel_content %}
+<div class="p-4 flex flex-col h-full space-y-5">
 
-  <!-- D1 picker -->
-  <div class="mb-5">
-    <div class="flex items-center justify-between mb-2">
-      <h3 class="text-xs text-slate-500 uppercase tracking-wider">D1</h3>
-      <a href="?division=1" class="text-[11px] text-slate-500 hover:text-emerald-400 transition">filter</a>
-    </div>
+  <!-- Load a team -->
+  <div>
+    <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-2">Load a team</h3>
     <form method="get" action="{% url 'dashboard:index' %}" class="space-y-2">
-      <select name="d1_year" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-xs rounded-lg px-3 py-2"
-              onchange="this.form.submit()">
-        {% for y in d1_years %}
-        <option value="{{ y }}" {% if d1_year_selected == y %}selected{% endif %}>{{ y }}</option>
-        {% endfor %}
-      </select>
-      <select name="stem" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
+      <div class="grid grid-cols-2 gap-2">
+        <div>
+          <label class="block text-[10px] text-slate-500 uppercase mb-1">Division</label>
+          <select name="division" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-xs rounded-lg px-3 py-2"
+                  onchange="this.form.submit()">
+            <option value="1" {% if picker_division == 1 %}selected{% endif %}>D1</option>
+            <option value="2" {% if picker_division == 2 %}selected{% endif %}>D2</option>
+          </select>
+        </div>
+        <div>
+          <label class="block text-[10px] text-slate-500 uppercase mb-1">Year</label>
+          <select name="year" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-xs rounded-lg px-3 py-2"
+                  onchange="this.form.submit()">
+            {% for y in picker_years %}
+            <option value="{{ y }}" {% if picker_year == y %}selected{% endif %}>{{ y }}</option>
+            {% endfor %}
+          </select>
+        </div>
+      </div>
+      <select name="stem" id="team-select" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2" data-placeholder="Type to search team…">
         <option value="">Select team…</option>
-        {% for name, stem in d1_teams %}
-        <option value="{{ stem }}" {% if stem == selected_stem %}selected{% endif %}>{{ name }}</option>
+        {% for name, stem_val in picker_teams %}
+        <option value="{{ stem_val }}" {% if stem_val == selected_stem %}selected{% endif %}>{{ name }}</option>
         {% endfor %}
       </select>
-      <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Load D1 Team</button>
+      <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Load Team</button>
     </form>
   </div>
 
-  <!-- D2 picker -->
-  <div class="mb-6">
-    <div class="flex items-center justify-between mb-2">
-      <h3 class="text-xs text-slate-500 uppercase tracking-wider">D2</h3>
-      <a href="?division=2" class="text-[11px] text-slate-500 hover:text-emerald-400 transition">filter</a>
-    </div>
-    <form method="get" action="{% url 'dashboard:index' %}" class="space-y-2">
-      <select name="d2_year" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-xs rounded-lg px-3 py-2"
-              onchange="this.form.submit()">
-        {% for y in d2_years %}
-        <option value="{{ y }}" {% if d2_year_selected == y %}selected{% endif %}>{{ y }}</option>
-        {% endfor %}
-      </select>
-      <select name="stem" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
-        <option value="">Select team…</option>
-        {% for name, stem in d2_teams %}
-        <option value="{{ stem }}" {% if stem == selected_stem %}selected{% endif %}>{{ name }}</option>
-        {% endfor %}
-      </select>
-      <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Load D2 Team</button>
-    </form>
-  </div>
-
-  <!-- History -->
+  <!-- Recent -->
   {% if recent_stems %}
-  <div class="flex-1 overflow-y-auto">
-    <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-2">Recent team-seasons</h3>
-    <ul class="space-y-1">
+  <div>
+    <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-2">Recent</h3>
+    <ul class="space-y-0.5">
       {% for item in recent_stems %}
       <li>
-        <a href="?stem={{ item.stem }}" class="block px-3 py-1.5 text-sm text-slate-400 hover:text-emerald-400 hover:bg-slate-800 rounded-lg truncate transition" title="{{ item.label }}">{{ item.label }}</a>
+        <a href="?stem={{ item.stem }}" class="block px-3 py-1 text-sm text-slate-400 hover:text-emerald-400 hover:bg-slate-800 rounded-lg truncate transition" title="{{ item.label }}">{{ item.label }}</a>
       </li>
       {% endfor %}
     </ul>
   </div>
   {% endif %}
-
-  <!-- TEAM-SEASON search (all) -->
-  <div class="mt-5 pt-4 border-t border-slate-800">
-    <label for="stem-search" class="block text-xs text-slate-500 uppercase tracking-wider mb-2">TEAM-SEASON search</label>
-    <form method="get" action="{% url 'dashboard:index' %}">
-      <select name="stem" id="stem-search" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2 mb-2 focus:outline-none focus:border-emerald-500" data-placeholder="Search team or season…">
-        <option value="">-- Search --</option>
-        {% for label, value in team_choices %}
-        <option value="{{ value }}" {% if value == selected_stem %}selected{% endif %}>{{ label }}</option>
-        {% endfor %}
-      </select>
-      <button type="submit" class="w-full bg-slate-800 hover:bg-slate-700 text-slate-100 text-sm font-medium py-2 px-4 rounded-lg transition">Load</button>
-    </form>
-  </div>
 </div>
 {% endblock %}
 
@@ -139,7 +110,7 @@
 
   {% if kpis %}
   <!-- KPI Cards -->
-  <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+  <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
     <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
       <p class="text-xs text-slate-500 uppercase tracking-wider mb-1">Record</p>
       <p class="text-2xl font-mono font-semibold text-white">{{ kpis.record }}</p>
@@ -157,64 +128,206 @@
       <p class="text-2xl font-mono font-semibold text-white">{{ kpis.sos_rank }}</p>
     </div>
   </div>
+  {% endif %}
 
-  <!-- Radar chart -->
-  {% if radar_labels %}
-  <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-6 max-w-lg mx-auto">
-    <h3 class="text-sm text-slate-400 mb-4">Team Strength Radar</h3>
-    <canvas id="team-radar" height="280"></canvas>
+  <!-- Tabs: Report | Radar — one at a time, full size, no scrollbars in either -->
+  {% if report_content is not None %}
+  <div class="space-y-4" id="team-view-tabs">
+    <div class="flex rounded-lg bg-slate-800/80 border border-slate-700 p-0.5 w-fit" role="tablist">
+      <input type="radio" name="team-view-tab" id="tab-report" class="sr-only" checked value="report">
+      <label for="tab-report" class="cursor-pointer rounded-md px-4 py-2 text-sm font-medium transition tab-label text-slate-400 hover:text-slate-200" data-tab="report">Full Report</label>
+      {% if radar_labels %}
+      <input type="radio" name="team-view-tab" id="tab-radar" class="sr-only" value="radar">
+      <label for="tab-radar" class="cursor-pointer rounded-md px-4 py-2 text-sm font-medium transition tab-label text-slate-400 hover:text-slate-200" data-tab="radar">Team Strength Radar</label>
+      {% endif %}
+    </div>
+
+    <!-- Report panel: tables or fallback to pre -->
+    <div class="team-view-panel" id="panel-report" data-panel="report">
+      {% if report_tables %}
+      <div class="space-y-6">
+        {# Summary removed (already shown above in KPIs/status) #}
+        <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+          <div class="px-4 py-3 border-b border-white/10">
+            <h3 class="text-sm text-slate-400">Stat comparison vs league average</h3>
+          </div>
+          <table class="w-full text-sm">
+            <thead class="bg-slate-900/60 text-slate-400"><tr><th class="text-left px-4 py-2">Stat</th><th class="text-right px-4 py-2 w-24">Value</th><th class="text-left px-4 py-2">Vs league average</th></tr></thead>
+            <tbody class="divide-y divide-white/5">
+              {% for row in report_tables.stat_comparison %}
+              <tr>
+                <td class="px-4 py-2 text-slate-200">{{ row.stat }}</td>
+                <td class="px-4 py-2 text-right font-mono text-sm {% if row.good_bad == 'good' %}text-emerald-300{% elif row.good_bad == 'bad' %}text-rose-300{% else %}text-slate-300{% endif %}">{{ row.value }}</td>
+                <td class="px-4 py-2 text-sm">
+                  {% if row.direction == 'equal' %}
+                    <span class="text-slate-400">= league average</span>
+                  {% else %}
+                    <span class="{% if row.good_bad == 'good' %}text-emerald-400{% elif row.good_bad == 'bad' %}text-rose-400{% else %}text-slate-400{% endif %}">
+                      {% if row.direction == 'above' %}+{% elif row.direction == 'below' %}-{% endif %}{{ row.abs_delta }} {{ row.direction }} average
+                    </span>
+                  {% endif %}
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+          <div class="px-4 py-3 border-b border-white/10">
+            <h3 class="text-sm text-slate-400">Strength of schedule</h3>
+          </div>
+          <table class="w-full text-sm">
+            <tbody class="divide-y divide-white/5">
+              {% for label, value in report_tables.sos %}
+              <tr><td class="px-4 py-2 text-slate-500 w-56">{{ label }}</td><td class="px-4 py-2 text-slate-200">{{ value }}</td></tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+      {% else %}
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+        <div class="px-4 py-3 border-b border-white/10">
+          <h3 class="text-sm text-slate-400">Full Report</h3>
+        </div>
+        <pre class="p-4 text-sm font-mono text-slate-300 whitespace-pre-wrap leading-relaxed">{{ report_content }}</pre>
+      </div>
+      {% endif %}
+    </div>
+    {% if radar_labels %}
+    <!-- Chart panel (hidden by default): type toggle + canvas -->
+    <div class="team-view-panel hidden" id="panel-radar" data-panel="radar">
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-6 max-w-[800px] mx-auto">
+        <h3 class="text-sm text-slate-400 mb-3">Team stats</h3>
+        <div class="flex rounded-lg bg-slate-800/80 border border-slate-700 p-0.5 w-fit mb-4" role="group">
+          <button type="button" class="chart-type-btn rounded-md px-3 py-1.5 text-xs font-medium transition bg-emerald-600 text-white" data-type="radar">Radar</button>
+          <button type="button" class="chart-type-btn rounded-md px-3 py-1.5 text-xs font-medium transition text-slate-400 hover:text-slate-200" data-type="bar">Bar</button>
+          <button type="button" class="chart-type-btn rounded-md px-3 py-1.5 text-xs font-medium transition text-slate-400 hover:text-slate-200" data-type="line">Line</button>
+        </div>
+        <div class="w-full aspect-[4/3] max-h-[480px]">
+          <canvas id="team-chart"></canvas>
+        </div>
+      </div>
+    </div>
+    {% endif %}
   </div>
   <script>
+  (function() {
+    var container = document.getElementById('team-view-tabs');
+    if (!container) return;
+    var radios = container.querySelectorAll('input[name="team-view-tab"]');
+    var panels = container.querySelectorAll('.team-view-panel');
+    var labels = container.querySelectorAll('.tab-label');
+    function update() {
+      var value = (container.querySelector('input[name="team-view-tab"]:checked') || {}).value;
+      panels.forEach(function(p) {
+        p.classList.toggle('hidden', p.getAttribute('data-panel') !== value);
+      });
+      labels.forEach(function(l) {
+        l.classList.toggle('bg-emerald-600', l.getAttribute('data-tab') === value);
+        l.classList.toggle('text-white', l.getAttribute('data-tab') === value);
+        l.classList.toggle('text-slate-400', l.getAttribute('data-tab') !== value);
+      });
+    }
+    radios.forEach(function(r) { r.addEventListener('change', update); });
+    update();
+  })();
+  </script>
+  {% if radar_labels %}
+  <script>
   document.addEventListener('DOMContentLoaded', function() {
-    const ctx = document.getElementById('team-radar');
-    if (!ctx) return;
-    new Chart(ctx, {
-      type: 'radar',
-      data: {
-        labels: {{ radar_labels|safe }},
-        datasets: [{
-          label: '{{ selected_stem_label|escapejs }}',
-          data: {{ radar_values|safe }},
-          spanGaps: false,
-          borderColor: 'rgb(52, 211, 153)',
-          backgroundColor: 'rgba(52, 211, 153, 0.15)',
-          pointBackgroundColor: 'rgb(52, 211, 153)',
-          pointBorderColor: '#fff',
-          pointRadius: 4,
-          borderWidth: 2,
-        }]
-      },
-      options: {
+    var radarLabels = {{ radar_labels|safe }};
+    var radarValues = {{ radar_values|safe }};
+    var chartLabels = {{ chart_labels|safe }};
+    var chartValues = {{ chart_values|safe }};
+    var teamLabel = '{{ selected_stem_label|escapejs }}';
+    var chartInstance = null;
+    var currentType = 'radar';
+
+    function setActiveBtn(type) {
+      document.querySelectorAll('.chart-type-btn').forEach(function(btn) {
+        var isActive = btn.getAttribute('data-type') === type;
+        btn.classList.toggle('bg-emerald-600', isActive);
+        btn.classList.toggle('text-white', isActive);
+        btn.classList.toggle('text-slate-400', !isActive);
+      });
+    }
+
+    function renderChart(type) {
+      var ctx = document.getElementById('team-chart');
+      if (!ctx) return;
+      if (chartInstance) {
+        chartInstance.destroy();
+        chartInstance = null;
+      }
+      currentType = type;
+      setActiveBtn(type);
+
+      var labels = type === 'radar' ? radarLabels : chartLabels;
+      var data = type === 'radar' ? radarValues : chartValues;
+      var opts = {
         responsive: true,
-        scales: {
+        maintainAspectRatio: true,
+        plugins: { legend: { display: false } }
+      };
+      if (type === 'radar') {
+        opts.scales = {
           r: {
             beginAtZero: true,
             max: 100,
             ticks: { display: false },
-            grid: { color: 'rgba(255,255,255,0.08)' },
-            angleLines: { color: 'rgba(255,255,255,0.08)' },
-            pointLabels: { color: '#94a3b8', font: { size: 11 } },
+            grid: { color: 'rgba(255,255,255,0.1)' },
+            angleLines: { color: 'rgba(255,255,255,0.1)' },
+            pointLabels: { color: '#94a3b8', font: { size: 13 } },
           }
-        },
-        plugins: {
-          legend: { display: false },
-        }
+        };
       }
+      if (type === 'bar') {
+        opts.indexAxis = 'y';
+        opts.scales = {
+          x: { grid: { color: 'rgba(255,255,255,0.08)' }, ticks: { color: '#94a3b8' } },
+          y: { grid: { display: false }, ticks: { color: '#94a3b8', font: { size: 11 } },
+          }
+        };
+      }
+      if (type === 'line') {
+        opts.scales = {
+          x: { grid: { color: 'rgba(255,255,255,0.08)' }, ticks: { color: '#94a3b8', maxRotation: 45 } },
+          y: { grid: { color: 'rgba(255,255,255,0.08)' }, ticks: { color: '#94a3b8' } }
+        };
+      }
+
+      chartInstance = new Chart(ctx, {
+        type: type,
+        data: {
+          labels: labels,
+          datasets: [{
+            label: teamLabel,
+            data: data,
+            spanGaps: false,
+            borderColor: 'rgb(52, 211, 153)',
+            backgroundColor: type === 'radar' ? 'rgba(52, 211, 153, 0.15)' : 'rgba(52, 211, 153, 0.5)',
+            pointBackgroundColor: 'rgb(52, 211, 153)',
+            pointBorderColor: '#fff',
+            pointRadius: type === 'line' ? 4 : 5,
+            borderWidth: 2,
+            tension: type === 'line' ? 0.2 : 0,
+            fill: type === 'line',
+          }]
+        },
+        options: opts
+      });
+    }
+
+    document.querySelectorAll('.chart-type-btn').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        renderChart(btn.getAttribute('data-type'));
+      });
     });
+    renderChart('radar');
   });
   </script>
   {% endif %}
-
-  {% endif %}
-
-  <!-- Full report (below KPIs) -->
-  {% if report_content is not None %}
-  <div class="mt-8 bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
-    <div class="px-4 py-3 border-b border-white/10">
-      <h3 class="text-sm text-slate-400">Full Report</h3>
-    </div>
-    <pre class="p-4 text-xs font-mono text-slate-300 whitespace-pre-wrap leading-relaxed max-h-[50vh] overflow-auto">{{ report_content }}</pre>
-  </div>
   {% endif %}
 
 {% else %}
@@ -231,169 +344,37 @@
 {% endblock %}
 
 
-{% block right_panel %}
-<div class="flex flex-col h-full">
-  <!-- Header -->
-  <div class="px-4 py-3 border-b border-slate-700 flex items-center justify-between shrink-0">
-    <h2 class="text-sm font-semibold text-white">RAG Chat</h2>
-    {% if not chroma_ok %}
-    <span class="text-[10px] text-amber-500">Index missing</span>
-    {% else %}
-    <span class="inline-flex items-center gap-1 text-[10px] text-emerald-500"><span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>Online</span>
-    {% endif %}
-  </div>
-
-  {% if not chroma_ok %}
-  <div class="px-4 py-3 bg-amber-500/10 border-b border-amber-500/20">
-    <p class="text-xs text-amber-400">RAG index not found. Build with: <code class="bg-slate-800 px-1 py-0.5 rounded text-[11px]">python scripts/build_rag_index.py</code></p>
-    <p class="text-xs text-amber-400/90 mt-1">Chat requires the team report index to be built.</p>
-  </div>
-  {% endif %}
-
-  <!-- Messages -->
-  <div id="chat-messages" class="flex-1 overflow-y-auto p-4 space-y-1">
-    {% include "dashboard/partials/chat_messages.html" %}
-  </div>
-
-  <!-- Input form -->
-  <div class="p-3 border-t border-slate-700 shrink-0">
-    <form id="chat-form"
-          hx-post="{% url 'dashboard:chat_partial' %}"
-          hx-target="#chat-messages"
-          hx-swap="innerHTML scroll:#chat-messages:bottom"
-          hx-indicator="#chat-spinner"
-          hx-on::before-request="window.chatOptimisticBefore(event)"
-          hx-on::after-request="window.chatOptimisticAfter(event)"
-          class="space-y-2">
-      {% csrf_token %}
-      <!-- Mode: Chat (use_rag=0) vs Team & stats (use_rag=1) -->
-      <div class="space-y-1" role="group" aria-label="Chat mode">
-        <div class="flex rounded-lg bg-slate-800/80 border border-slate-700 p-0.5">
-          <input type="radio" name="use_rag" value="0" id="mode-general"
-                 {% if not chroma_ok %}checked{% endif %}
-                 class="peer/mode-general sr-only">
-          <label for="mode-general" class="flex-1 cursor-pointer rounded-md px-3 py-1.5 text-center text-xs font-medium transition peer-checked/mode-general:bg-emerald-600 peer-checked/mode-general:text-white peer-checked/mode-general:shadow-sm [.peer:not(:checked)+&]:text-slate-400 [.peer:not(:checked)+&]:hover:text-slate-300">Chat</label>
-          <input type="radio" name="use_rag" value="1" id="mode-rag"
-                 {% if chroma_ok %}checked{% endif %}
-                 {% if not chroma_ok %}disabled{% endif %}
-                 class="peer/mode-rag sr-only">
-          <label for="mode-rag" class="flex-1 cursor-pointer rounded-md px-3 py-1.5 text-center text-xs font-medium transition peer-checked/mode-rag:bg-emerald-600 peer-checked/mode-rag:text-white peer-checked/mode-rag:shadow-sm [.peer:not(:checked)+&]:text-slate-400 [.peer:not(:checked)+&]:hover:text-slate-300 {% if not chroma_ok %}opacity-50 cursor-not-allowed pointer-events-none{% endif %}">Team & stats</label>
-        </div>
-        <p class="text-[10px] text-slate-500 px-0.5">Both use report data · Team & stats adds predictions/current-season (coming soon)</p>
-      </div>
-      <!-- Mode hint (updated by script when radios change) -->
-      <p class="text-[10px] text-slate-500 min-h-[1.25rem]" id="chat-mode-hint">{% if chroma_ok %}Answers use team report data.{% else %}Build the index to use chat.{% endif %}</p>
-      <div class="flex gap-2">
-        <input type="text" name="question" placeholder="Ask about lacrosse data…"
-               class="flex-1 bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2 focus:outline-none focus:border-emerald-500 placeholder-slate-600"
-               autocomplete="off">
-        <button type="submit"
-                class="bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium px-4 py-2 rounded-lg transition htmx-hide-on-request">Send</button>
-        <span id="chat-spinner" class="htmx-indicator items-center gap-2 text-emerald-400 text-sm py-2">
-          <svg class="animate-spin h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path></svg>
-          Thinking…
-        </span>
-      </div>
-    </form>
-    <button hx-post="{% url 'dashboard:clear_chat_partial' %}"
-            hx-target="#chat-messages"
-            hx-swap="innerHTML"
-            hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'
-            class="mt-2 text-xs text-slate-600 hover:text-slate-400 transition">Clear chat</button>
-  </div>
-</div>
-{% endblock %}
-
 {% block extra_js %}
 <script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
 <script>
-(function() {
-  var THINKING_SVG = '<svg class="animate-spin h-4 w-4 inline-block mr-1.5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path></svg>';
-
-  window.chatOptimisticBefore = function(ev) {
-    var form = ev.target;
-    var input = form.querySelector('[name=question]');
-    var question = (input && input.value) ? input.value.trim() : '';
-    if (!question) return;
-
-    var container = document.getElementById('chat-messages');
-    if (!container) return;
-
-    var placeholder = container.querySelector('p.text-slate-600');
-    if (placeholder && placeholder.textContent.indexOf('No messages yet') !== -1) placeholder.remove();
-
-    var userBubble = document.createElement('div');
-    userBubble.className = 'mb-3 p-3 rounded-lg border border-emerald-500/30 bg-emerald-500/5';
-    userBubble.innerHTML = '<span class="text-[10px] uppercase tracking-wider text-emerald-400 block mb-1">user</span><div class="text-slate-200 leading-relaxed whitespace-pre-wrap text-sm"></div>';
-    userBubble.querySelector('div').textContent = question;
-    container.appendChild(userBubble);
-
-    var thinkingDiv = document.createElement('div');
-    thinkingDiv.id = 'chat-thinking-placeholder';
-    thinkingDiv.className = 'mb-3 p-3 rounded-lg border border-slate-700 bg-slate-800/50';
-    thinkingDiv.innerHTML = '<span class="text-[10px] uppercase tracking-wider text-slate-500 block mb-1">assistant</span><div class="flex items-center gap-2 text-slate-400 text-sm">' + THINKING_SVG + 'Thinking… <span id="chat-thinking-counter">0s</span></div>';
-    container.appendChild(thinkingDiv);
-
-    var sec = 0;
-    var counterEl = document.getElementById('chat-thinking-counter');
-    var intervalId = setInterval(function() {
-      sec += 1;
-      if (counterEl) counterEl.textContent = sec + 's';
-    }, 1000);
-    window._chatThinkingInterval = intervalId;
-
-    if (input) input.value = '';
-    container.scrollTop = container.scrollHeight;
-  };
-
-  window.chatOptimisticAfter = function() {
-    if (window._chatThinkingInterval) {
-      clearInterval(window._chatThinkingInterval);
-      window._chatThinkingInterval = null;
-    }
-  };
-})();
-
 document.addEventListener('DOMContentLoaded', function() {
-  var hintEl = document.getElementById('chat-mode-hint');
-  var form = document.getElementById('chat-form');
-  if (hintEl && form) {
-    var updateHint = function() {
-      var rag = form.querySelector('input[name=use_rag][value="1"]');
-      hintEl.textContent = rag && rag.checked ? 'Answers use report data + predictions/current-season (coming soon).' : 'Answers use team report data.';
-    };
-    form.querySelectorAll('input[name=use_rag]').forEach(function(radio) {
-      radio.addEventListener('change', updateHint);
-    });
-    updateHint();
-  }
-
-  var el = document.getElementById('stem-search');
-  if (!el || typeof TomSelect === 'undefined') return;
-  new TomSelect(el, {
-    create: false,
-    maxOptions: null,
-    maxItems: 1,
-    placeholder: el.getAttribute('data-placeholder') || 'Search team or season…',
-    plugins: {},
-    render: {
-      option: function(data, escape) {
-        return '<div class="option">' + escape(data.text) + '</div>';
+  var el = document.getElementById('team-select');
+  if (el && typeof TomSelect !== 'undefined') {
+    new TomSelect(el, {
+      create: false,
+      maxOptions: null,
+      maxItems: 1,
+      placeholder: el.getAttribute('data-placeholder') || 'Type to search team…',
+      plugins: {},
+      render: {
+        option: function(data, escape) {
+          return '<div class="option">' + escape(data.text) + '</div>';
+        },
+        item: function(data, escape) {
+          return '<div class="item">' + escape(data.text) + '</div>';
+        }
       },
-      item: function(data, escape) {
-        return '<div class="item">' + escape(data.text) + '</div>';
+      onInitialize: function() {
+        this.wrapper.classList.add('sidebar-team-select');
+        var dropdown = this.dropdown;
+        if (dropdown) dropdown.classList.add('sidebar-team-select-dropdown');
+      },
+      onDropdownOpen: function() {
+        var dropdown = this.dropdown;
+        if (dropdown) dropdown.classList.add('sidebar-team-select-dropdown');
       }
-    },
-    onInitialize: function() {
-      this.wrapper.classList.add('sidebar-team-select');
-      var dropdown = this.dropdown;
-      if (dropdown) dropdown.classList.add('sidebar-team-select-dropdown');
-    },
-    onDropdownOpen: function() {
-      var dropdown = this.dropdown;
-      if (dropdown) dropdown.classList.add('sidebar-team-select-dropdown');
-    }
-  });
+    });
+  }
 });
 </script>
 {% endblock %}
