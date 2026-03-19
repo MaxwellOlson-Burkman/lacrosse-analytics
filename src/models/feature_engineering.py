@@ -42,8 +42,11 @@ CORE_STAT_COLS_IMPUTE = [
     "scoring_defense",
 ]
 
-# Strength-of-schedule metrics (from schedule-based SOS pipeline)
-SOS_FEATURE_COLS = ["wp", "opp_wp", "opp_opp_wp", "rpi"]
+# Strength-of-schedule metrics (from schedule-based SOS pipeline).
+# NOTE: "wp" is excluded because it IS the team's own win% — the same value
+# as the target column.  Including it lets the model trivially memorise
+# actual results instead of genuinely predicting.
+SOS_FEATURE_COLS = ["opp_wp", "opp_opp_wp", "rpi"]
 
 TARGET_COL = "winning_percentage"
 
@@ -203,16 +206,16 @@ def load_and_prepare(data_path: Optional[Path] = None) -> pd.DataFrame:
     """Load model-ready CSV, impute base stats, build derived features."""
     if data_path is None:
         project_root = Path(__file__).resolve().parent.parent.parent
-        processed = project_root / "data" / "processed"
+        team_dir = project_root / "data" / "processed" / "team"
         # Prefer latest synced season+SOS file when present, then older combined file, then base stats.
-        synced = processed / "team_stats_with_sos_full_synced.csv"
-        combined = processed / "team_stats_with_sos.csv"
+        synced = team_dir / "team_stats_with_sos_full_synced.csv"
+        combined = team_dir / "team_stats_with_sos.csv"
         if synced.exists():
             data_path = synced
         elif combined.exists():
             data_path = combined
         else:
-            data_path = processed / "team_stats_model_ready.csv"
+            data_path = team_dir / "team_stats_model_ready.csv"
 
     df = pd.read_csv(data_path)
 
