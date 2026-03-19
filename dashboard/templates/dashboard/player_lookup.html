@@ -1,0 +1,100 @@
+{% extends "dashboard/base.html" %}
+{% block title %}Player Lookup – Lacrosse Analytics{% endblock %}
+
+{% block left_panel_content %}
+<div class="p-4 flex flex-col h-full space-y-5">
+  <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-2">Find a player</h3>
+  <form method="get" action="{% url 'dashboard:player_lookup' %}" class="space-y-4" id="player-filter-form">
+    <div class="grid grid-cols-2 gap-2">
+      <div>
+        <label class="block text-[10px] text-slate-500 uppercase mb-1">Division</label>
+        <select name="division" onchange="this.form.submit()" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-2 py-2">
+          <option value="1" {% if division == "1" %}selected{% endif %}>D1</option>
+          <option value="2" {% if division == "2" %}selected{% endif %}>D2</option>
+        </select>
+      </div>
+      <div>
+        <label class="block text-[10px] text-slate-500 uppercase mb-1">Year</label>
+        <select name="year" onchange="this.form.submit()" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-2 py-2">
+          {% for y in years %}
+          <option value="{{ y }}" {% if y == year %}selected{% endif %}>{{ y }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+    <div>
+      <label class="block text-[10px] text-slate-500 uppercase mb-1">Player</label>
+      <select name="player_id" id="player-select" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2" data-placeholder="Search player…">
+        <option value="">Select player…</option>
+        {% for label, pid in player_choices %}
+        <option value="{{ pid }}">{{ label }}</option>
+        {% endfor %}
+      </select>
+    </div>
+  </form>
+  <p class="text-[10px] text-slate-600">{{ player_choices|length }} player{{ player_choices|length|pluralize }} in {{ year }} D{{ division }}</p>
+
+  {% if recent_players %}
+  <div>
+    <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-2">Recent</h3>
+    <ul class="space-y-0.5">
+      {% for rp in recent_players %}
+      <li>
+        <a href="{% url 'dashboard:player_detail' rp.id %}" class="block px-3 py-1 text-sm text-slate-400 hover:text-emerald-400 hover:bg-slate-800 rounded-lg truncate transition" title="{{ rp.label }}">{{ rp.label }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block center_panel %}
+<div class="text-center py-20 text-slate-500">
+  <svg class="w-12 h-12 mx-auto mb-4 text-slate-700" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z"/></svg>
+  <p class="text-sm">Select a player in the sidebar to view their stats.</p>
+</div>
+{% endblock %}
+
+{% block extra_head %}
+{{ block.super }}
+<link href="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/css/tom-select.css" rel="stylesheet">
+<style>
+  .ts-wrapper.sidebar-team-select .ts-control { background: #1e293b !important; border-color: #475569 !important; color: #f8fafc !important; }
+  .ts-wrapper.sidebar-team-select .ts-control input { color: #ffffff !important; caret-color: #34d399; }
+  .ts-wrapper.sidebar-team-select .ts-control input::placeholder { color: #94a3b8 !important; }
+  .ts-wrapper.sidebar-team-select.focus .ts-control { border-color: #34d399 !important; box-shadow: 0 0 0 1px #34d399 !important; }
+  .ts-dropdown.sidebar-team-select-dropdown { background: #1e293b !important; border-color: #475569 !important; }
+  .ts-dropdown.sidebar-team-select-dropdown .option { color: #e2e8f0 !important; }
+  .ts-dropdown.sidebar-team-select-dropdown .option.active { background: rgba(52, 211, 153, 0.25) !important; color: #34d399 !important; }
+  .ts-dropdown.sidebar-team-select-dropdown .option:hover { background: #334155 !important; color: #f8fafc !important; }
+  .ts-wrapper.sidebar-team-select .item { background: rgba(52, 211, 153, 0.3) !important; color: #ecfdf5 !important; border: 0; }
+</style>
+{% endblock %}
+
+{% block extra_js %}
+<script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var el = document.getElementById('player-select');
+  if (el && typeof TomSelect !== 'undefined') {
+    new TomSelect(el, {
+      create: false, maxOptions: 200, maxItems: 1,
+      placeholder: el.getAttribute('data-placeholder') || 'Search player…',
+      onInitialize: function() {
+        this.wrapper.classList.add('sidebar-team-select');
+        if (this.dropdown) this.dropdown.classList.add('sidebar-team-select-dropdown');
+      },
+      onDropdownOpen: function() {
+        if (this.dropdown) this.dropdown.classList.add('sidebar-team-select-dropdown');
+      },
+      onChange: function(value) {
+        if (value) {
+          window.location.href = '{% url "dashboard:player_detail" 0 %}'.replace('/0/', '/' + value + '/');
+        }
+      }
+    });
+  }
+});
+</script>
+{% endblock %}

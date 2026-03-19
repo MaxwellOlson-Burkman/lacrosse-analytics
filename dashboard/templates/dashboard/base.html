@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en" class="h-full">
 <head>
@@ -5,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="csrf-token" content="{{ csrf_token }}">
   <title>{% block title %}Lacrosse Analytics{% endblock %}</title>
+  <link rel="stylesheet" href="{% static 'dashboard/css/style.css' %}">
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -24,61 +26,159 @@
     .htmx-indicator { display: none; }
     .htmx-request .htmx-indicator { display: inline-flex; }
     .htmx-request .htmx-hide-on-request { display: none; }
-    /* Global thin / minimal scrollbars */
+
+    /* Invisible-until-hover scrollbars */
     * {
       scrollbar-width: thin;
-      scrollbar-color: rgba(148,163,184,0.6) transparent;
+      scrollbar-color: transparent transparent;
     }
-    *::-webkit-scrollbar {
-      width: 6px;
-      height: 6px;
+    *:hover {
+      scrollbar-color: rgba(148,163,184,0.5) transparent;
     }
-    *::-webkit-scrollbar-track {
-      background: transparent;
+    *::-webkit-scrollbar { width: 5px; height: 5px; }
+    *::-webkit-scrollbar-track { background: transparent; }
+    *::-webkit-scrollbar-thumb { background-color: transparent; border-radius: 9999px; }
+    *:hover::-webkit-scrollbar-thumb { background-color: rgba(148,163,184,0.35); }
+    .scroll-area::-webkit-scrollbar-thumb { background-color: transparent; }
+    .scroll-area:hover::-webkit-scrollbar-thumb { background-color: rgba(148,163,184,0.5); }
+
+    /* Accordion transitions */
+    .accordion-body { max-height: 0; overflow: hidden; transition: max-height 0.25s ease-out; }
+    .accordion-open .accordion-body { max-height: 600px; }
+    .accordion-chevron { transition: transform 0.2s ease; }
+    .accordion-open .accordion-chevron { transform: rotate(90deg); }
+
+    /* Glossary tooltip */
+    .glossary-tip { position: relative; border-bottom: 1px dotted rgba(148,163,184,0.5); cursor: help; }
+    .glossary-tip .glossary-popup {
+      display: none; position: absolute; bottom: 130%; left: 50%; transform: translateX(-50%);
+      min-width: 220px; max-width: 300px; padding: 8px 12px; border-radius: 8px; z-index: 50;
+      background: rgba(15,23,42,0.92); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+      color: #cbd5e1; font-size: 11px; line-height: 1.5; text-align: left; pointer-events: none;
     }
-    *::-webkit-scrollbar-thumb {
-      background-color: rgba(148,163,184,0.4);
-      border-radius: 9999px;
-    }
-    .scroll-area::-webkit-scrollbar-thumb {
-      background-color: transparent;
-    }
-    .scroll-area:hover::-webkit-scrollbar-thumb {
-      background-color: rgba(148,163,184,0.6);
+    .glossary-tip:hover .glossary-popup { display: block; }
+    .glossary-popup strong { color: #34d399; }
+
+    /* Glass card utility */
+    .glass-card {
+      background: rgba(255,255,255,0.03);
+      backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
     }
   </style>
+  <script>
+    if (localStorage.getItem('cbMode') === '1') document.documentElement.classList.add('cb-mode');
+  </script>
   {% block extra_head %}{% endblock %}
 </head>
 <body class="h-full bg-slate-900 text-slate-200 antialiased">
   <div class="grid grid-cols-[260px_1fr] h-full min-h-screen">
-    <!-- Left sidebar: fixed width -->
-    <aside class="w-[260px] min-w-[260px] max-w-[260px] shrink-0 bg-slate-900 border-r border-slate-700 flex flex-col overflow-hidden">
-      <!-- Persistent nav (all pages) -->
+    <!-- Left sidebar -->
+    <aside class="w-[260px] min-w-[260px] max-w-[260px] shrink-0 bg-slate-900/80 backdrop-blur-md border-r border-slate-700/60 flex flex-col overflow-hidden">
       <nav class="px-4 pt-4 pb-3 border-b border-slate-800 shrink-0">
-        <h1 class="text-lg font-semibold text-white mb-3 tracking-tight">Lacrosse Analytics</h1>
-        <p class="text-[10px] text-slate-500 uppercase tracking-widest mb-2">Explore</p>
-        <ul class="space-y-1">
-          <li><a href="{% url 'dashboard:index' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'index' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Dashboard</a></li>
-          <li><a href="{% url 'dashboard:rankings' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'rankings' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Team Rankings</a></li>
-          <li><a href="{% url 'dashboard:conference_rankings' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'conference_rankings' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Conference Rankings</a></li>
-          <li><a href="{% url 'dashboard:chat' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'chat' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Chat</a></li>
-          <li><a href="{% url 'dashboard:compare' %}" class="block px-3 py-1.5 text-sm rounded-lg transition {% if active_page == 'compare' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Compare teams</a></li>
-        </ul>
+        <div class="flex items-center justify-between gap-2 mb-4">
+          <h1 class="text-lg font-semibold text-white tracking-tight shrink-0">Lacrosse Analytics</h1>
+          <button type="button" onclick="document.documentElement.classList.toggle('cb-mode');localStorage.setItem('cbMode',document.documentElement.classList.contains('cb-mode')?'1':'0')" class="cb-toggle flex items-center gap-1.5 text-slate-400 hover:text-slate-300 rounded px-2 py-1 text-xs whitespace-nowrap" title="Use colorblind-friendly colors (blue/orange instead of green/red)">
+            <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z"/><path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+            <span>Colorblind</span>
+          </button>
+        </div>
+
+        <!-- Dashboard (always visible) -->
+        <a href="{% url 'dashboard:index' %}" class="block px-3 py-1.5 text-sm rounded-lg mb-1 transition {% if active_page == 'index' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Dashboard</a>
+
+        <!-- Rankings accordion -->
+        <div class="accordion-section {% if active_page == 'rankings' or active_page == 'conference_rankings' or active_page == 'leaderboards' %}accordion-open{% endif %} mt-1" data-accordion>
+          <button type="button" class="w-full flex items-center justify-between px-3 py-1.5 text-sm text-slate-400 hover:text-emerald-400 hover:bg-slate-800 rounded-lg transition" onclick="this.parentElement.classList.toggle('accordion-open')">
+            <span>Rankings</span>
+            <svg class="w-3 h-3 accordion-chevron" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd"/></svg>
+          </button>
+          <div class="accordion-body">
+            <ul class="pl-4 space-y-0.5 py-1">
+              <li><a href="{% url 'dashboard:rankings' %}" class="block px-3 py-1 text-xs rounded-lg transition {% if active_page == 'rankings' %}text-emerald-400 bg-slate-800{% else %}text-slate-500 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Team Rankings</a></li>
+              <li><a href="{% url 'dashboard:conference_rankings' %}" class="block px-3 py-1 text-xs rounded-lg transition {% if active_page == 'conference_rankings' %}text-emerald-400 bg-slate-800{% else %}text-slate-500 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Conference Rankings</a></li>
+              <li><a href="{% url 'dashboard:leaderboards' %}" class="block px-3 py-1 text-xs rounded-lg transition {% if active_page == 'leaderboards' %}text-emerald-400 bg-slate-800{% else %}text-slate-500 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Player Leaderboards</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Analysis accordion -->
+        <div class="accordion-section {% if active_page == 'compare' or active_page == 'compare_players' or active_page == 'tewaaraton' or active_page == 'player_lookup' %}accordion-open{% endif %} mt-1" data-accordion>
+          <button type="button" class="w-full flex items-center justify-between px-3 py-1.5 text-sm text-slate-400 hover:text-emerald-400 hover:bg-slate-800 rounded-lg transition" onclick="this.parentElement.classList.toggle('accordion-open')">
+            <span>Analysis</span>
+            <svg class="w-3 h-3 accordion-chevron" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd"/></svg>
+          </button>
+          <div class="accordion-body">
+            <ul class="pl-4 space-y-0.5 py-1">
+              <li><a href="{% url 'dashboard:player_lookup' %}" class="block px-3 py-1 text-xs rounded-lg transition {% if active_page == 'player_lookup' %}text-emerald-400 bg-slate-800{% else %}text-slate-500 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Player Lookup</a></li>
+              <li><a href="{% url 'dashboard:compare' %}" class="block px-3 py-1 text-xs rounded-lg transition {% if active_page == 'compare' %}text-emerald-400 bg-slate-800{% else %}text-slate-500 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Compare Teams</a></li>
+              <li><a href="{% url 'dashboard:compare_players' %}" class="block px-3 py-1 text-xs rounded-lg transition {% if active_page == 'compare_players' %}text-emerald-400 bg-slate-800{% else %}text-slate-500 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Compare Players</a></li>
+              <li><a href="{% url 'dashboard:tewaaraton' %}" class="block px-3 py-1 text-xs rounded-lg transition {% if active_page == 'tewaaraton' %}text-emerald-400 bg-slate-800{% else %}text-slate-500 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Tewaaraton Watch</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Chat -->
+        <a href="{% url 'dashboard:chat' %}" class="block px-3 py-1.5 text-sm rounded-lg mt-1 transition {% if active_page == 'chat' %}text-emerald-400 font-medium bg-slate-800{% else %}text-slate-400 hover:text-emerald-400 hover:bg-slate-800{% endif %}">Chat</a>
       </nav>
-      <!-- Page-specific sidebar content (scrolls inside fixed column) -->
-      <div class="flex-1 min-h-0 overflow-y-auto">
+
+      <!-- Page-specific sidebar content -->
+      <div class="flex-1 min-h-0 overflow-y-auto scroll-area">
         {% block left_panel %}{% endblock %}
         {% block left_panel_content %}{% endblock %}
       </div>
+
+      <!-- Recent searches -->
+      {% if recent_stems %}
+      <div class="shrink-0 border-t border-slate-800 px-3 py-3">
+        <p class="text-[10px] text-slate-600 uppercase tracking-widest mb-2">Recent</p>
+        <div class="space-y-1">
+          {% for item in recent_stems|slice:":5" %}
+          <a href="{% url 'dashboard:index' %}?stem={{ item.stem }}"
+             class="block px-2 py-1.5 text-xs text-slate-500 hover:text-emerald-400 rounded-lg glass-card hover:bg-white/5 transition truncate">
+            {{ item.label }}
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
     </aside>
 
-    <!-- Center / main content only (no right panel) -->
-    <main class="min-w-0 overflow-y-auto p-6 bg-slate-950/50">
+    <!-- Main content -->
+    <main class="min-w-0 overflow-y-auto p-6 bg-slate-950/50 scroll-area">
       {% block center_panel %}{% endblock %}
     </main>
   </div>
 
   <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+
+  <!-- Glossary tooltip definitions -->
+  <script>
+  (function() {
+    var glossary = {
+      'SOS': '<strong>SOS</strong> (Strength of Schedule)<br>Measures the average quality of opponents faced. Combines opponent win % and opponents\' opponents\' win %.',
+      'RPI': '<strong>RPI</strong> (Rating Percentage Index)<br>RPI = 0.25 × WP + 0.50 × OppWP + 0.25 × OppOppWP<br>Blends team performance with schedule strength.',
+      'PVI': '<strong>PVI</strong> (Possession Value Index)<br>PVI = FO Win% × (1 − TO/25)<br>Quantifies how much value a team extracts per possession.',
+      'GAA': '<strong>GAA</strong> (Goals Against Average)<br>Average goals allowed per game by the goalie.',
+      'FO%': '<strong>FO%</strong> (Faceoff Win Percentage)<br>Faceoffs won ÷ total faceoffs taken.',
+      'Save%': '<strong>Save%</strong> (Save Percentage)<br>Saves ÷ (saves + goals allowed).',
+      'Z-Score': '<strong>Z-Score</strong><br>How many standard deviations a stat is above or below the NCAA average. Z = (value − mean) / σ.',
+      'MAE': '<strong>MAE</strong> (Mean Absolute Error)<br>Average prediction error magnitude.'
+    };
+    document.querySelectorAll('.glossary-tip').forEach(function(el) {
+      var term = el.getAttribute('data-term');
+      if (glossary[term]) {
+        var popup = document.createElement('span');
+        popup.className = 'glossary-popup';
+        popup.innerHTML = glossary[term];
+        el.appendChild(popup);
+      }
+    });
+  })();
+  </script>
+
   {% block extra_js %}{% endblock %}
 </body>
 </html>

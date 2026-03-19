@@ -1,0 +1,186 @@
+{% extends "dashboard/base.html" %}
+{% block title %}Compare Players – Lacrosse Analytics{% endblock %}
+
+{% block left_panel_content %}
+<div class="p-4 flex flex-col h-full space-y-5">
+  <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-2">Compare two players</h3>
+  <form method="get" action="{% url 'dashboard:compare_players' %}" class="space-y-4">
+    <!-- Scope filters: changing year or division reloads the player list -->
+    <div class="grid grid-cols-2 gap-2">
+      <div>
+        <label class="block text-[10px] text-slate-500 uppercase mb-1">Division</label>
+        <select name="division" onchange="this.form.submit()" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-2 py-2">
+          <option value="1" {% if division == "1" %}selected{% endif %}>D1</option>
+          <option value="2" {% if division == "2" %}selected{% endif %}>D2</option>
+        </select>
+      </div>
+      <div>
+        <label class="block text-[10px] text-slate-500 uppercase mb-1">Year</label>
+        <select name="year" onchange="this.form.submit()" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-2 py-2">
+          {% for y in years %}
+          <option value="{{ y }}" {% if y == year %}selected{% endif %}>{{ y }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+    <!-- Player selects scoped to the chosen year + division -->
+    <div>
+      <label class="block text-[10px] text-slate-500 uppercase mb-1">Player A</label>
+      <select name="player_a" id="player-select-a" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2" data-placeholder="Search player…">
+        <option value="">Select player…</option>
+        {% for label, value in player_choices %}
+        <option value="{{ value }}" {% if value|stringformat:"s" == player_a %}selected{% endif %}>{{ label }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div>
+      <label class="block text-[10px] text-slate-500 uppercase mb-1">Player B</label>
+      <select name="player_b" id="player-select-b" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2" data-placeholder="Search player…">
+        <option value="">Select player…</option>
+        {% for label, value in player_choices %}
+        <option value="{{ value }}" {% if value|stringformat:"s" == player_b %}selected{% endif %}>{{ label }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Compare</button>
+  </form>
+  <p class="text-[10px] text-slate-600">{{ player_choices|length }} player{{ player_choices|length|pluralize }} in {{ year }} D{{ division }}</p>
+</div>
+{% endblock %}
+
+{% block center_panel %}
+<div class="space-y-6">
+  {% if not side_a and not side_b %}
+  <div class="text-center py-12 text-slate-500">
+    <p class="text-sm">Select Player A and Player B in the sidebar, then click Compare.</p>
+  </div>
+  {% else %}
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+    <!-- Player A -->
+    <div class="space-y-4">
+      <h2 class="text-lg font-semibold text-white border-b border-slate-700 pb-2">{% if side_a %}{{ side_a.label }}{% else %}Player A{% endif %}</h2>
+      {% if not side_a %}
+      <p class="text-slate-500 text-sm">Select Player A in the sidebar.</p>
+      {% elif side_a.missing %}
+      <p class="text-amber-400 text-sm">No season totals found for this player.</p>
+      {% else %}
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+        <div class="px-4 py-2 border-b border-white/10"><h3 class="text-xs text-slate-500 uppercase">Stats</h3></div>
+        <table class="w-full text-sm"><tbody class="divide-y divide-white/5">
+          {% for key, val in side_a.stats.items %}
+          <tr><td class="px-4 py-1.5 text-slate-500 w-24">{{ key }}</td><td class="px-4 py-1.5 text-slate-200 font-mono">{{ val }}</td></tr>
+          {% endfor %}
+        </tbody></table>
+      </div>
+      {% endif %}
+    </div>
+    <!-- Player B -->
+    <div class="space-y-4">
+      <h2 class="text-lg font-semibold text-white border-b border-slate-700 pb-2">{% if side_b %}{{ side_b.label }}{% else %}Player B{% endif %}</h2>
+      {% if not side_b %}
+      <p class="text-slate-500 text-sm">Select Player B in the sidebar.</p>
+      {% elif side_b.missing %}
+      <p class="text-amber-400 text-sm">No season totals found for this player.</p>
+      {% else %}
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+        <div class="px-4 py-2 border-b border-white/10"><h3 class="text-xs text-slate-500 uppercase">Stats</h3></div>
+        <table class="w-full text-sm"><tbody class="divide-y divide-white/5">
+          {% for key, val in side_b.stats.items %}
+          <tr><td class="px-4 py-1.5 text-slate-500 w-24">{{ key }}</td><td class="px-4 py-1.5 text-slate-200 font-mono">{{ val }}</td></tr>
+          {% endfor %}
+        </tbody></table>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if side_a and not side_a.missing and side_b and not side_b.missing %}
+  <div class="mt-8 space-y-4">
+    <h3 class="text-xs text-slate-500 uppercase tracking-wider">Radar Comparison</h3>
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
+        <h4 class="text-xs text-slate-500 uppercase mb-2">{{ side_a.label }}</h4>
+        <div class="h-72"><canvas id="player-chart-a"></canvas></div>
+      </div>
+      <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
+        <h4 class="text-xs text-slate-500 uppercase mb-2">{{ side_b.label }}</h4>
+        <div class="h-72"><canvas id="player-chart-b"></canvas></div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block extra_head %}
+{{ block.super }}
+<link href="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/css/tom-select.css" rel="stylesheet">
+<style>
+  .ts-wrapper.sidebar-team-select .ts-control { background: #1e293b !important; border-color: #475569 !important; color: #f8fafc !important; }
+  .ts-wrapper.sidebar-team-select .ts-control input { color: #ffffff !important; caret-color: #34d399; }
+  .ts-wrapper.sidebar-team-select .ts-control input::placeholder { color: #94a3b8 !important; }
+  .ts-wrapper.sidebar-team-select.focus .ts-control { border-color: #34d399 !important; box-shadow: 0 0 0 1px #34d399 !important; }
+  .ts-dropdown.sidebar-team-select-dropdown { background: #1e293b !important; border-color: #475569 !important; }
+  .ts-dropdown.sidebar-team-select-dropdown .option { color: #e2e8f0 !important; }
+  .ts-dropdown.sidebar-team-select-dropdown .option.active { background: rgba(52, 211, 153, 0.25) !important; color: #34d399 !important; }
+  .ts-dropdown.sidebar-team-select-dropdown .option:hover { background: #334155 !important; color: #f8fafc !important; }
+  .ts-wrapper.sidebar-team-select .item { background: rgba(52, 211, 153, 0.3) !important; color: #ecfdf5 !important; border: 0; }
+</style>
+{% endblock %}
+
+{% block extra_js %}
+<script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  ['player-select-a', 'player-select-b'].forEach(function(id) {
+    var el = document.getElementById(id);
+    if (el && typeof TomSelect !== 'undefined') {
+      new TomSelect(el, {
+        create: false, maxOptions: 200, maxItems: 1,
+        placeholder: el.getAttribute('data-placeholder') || 'Search player…',
+        onInitialize: function() {
+          this.wrapper.classList.add('sidebar-team-select');
+          if (this.dropdown) this.dropdown.classList.add('sidebar-team-select-dropdown');
+        },
+        onDropdownOpen: function() {
+          if (this.dropdown) this.dropdown.classList.add('sidebar-team-select-dropdown');
+        }
+      });
+    }
+  });
+
+  {% if side_a and not side_a.missing and side_b and not side_b.missing %}
+  function makeRadar(canvasId, labels, values, label) {
+    var ctx = document.getElementById(canvasId);
+    if (!ctx) return;
+    var cb = document.documentElement.classList.contains('cb-mode');
+    var colorA = cb ? 'rgb(96, 165, 250)' : 'rgb(52, 211, 153)';
+    var colorAbg = cb ? 'rgba(96, 165, 250, 0.15)' : 'rgba(52, 211, 153, 0.15)';
+    var colorB = cb ? 'rgb(167, 139, 250)' : 'rgb(96, 165, 250)';
+    var colorBbg = cb ? 'rgba(167, 139, 250, 0.15)' : 'rgba(96, 165, 250, 0.15)';
+    var isA = canvasId.includes('-a');
+    new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels: labels,
+        datasets: [{ label: label, data: values,
+          borderColor: isA ? colorA : colorB,
+          backgroundColor: isA ? colorAbg : colorBbg,
+          pointBackgroundColor: isA ? colorA : colorB,
+          pointBorderColor: '#fff', pointRadius: 4, borderWidth: 2 }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: true,
+        scales: { r: { beginAtZero: true, max: 100, ticks: { display: false }, grid: { color: 'rgba(255,255,255,0.1)' }, angleLines: { color: 'rgba(255,255,255,0.1)' }, pointLabels: { color: '#94a3b8', font: { size: 10 } } } },
+        plugins: { legend: { display: false } }
+      }
+    });
+  }
+  var labels = {{ radar_labels|safe }};
+  makeRadar('player-chart-a', labels, {{ side_a.radar_values|safe }}, '{{ side_a.label|escapejs }}');
+  makeRadar('player-chart-b', labels, {{ side_b.radar_values|safe }}, '{{ side_b.label|escapejs }}');
+  {% endif %}
+});
+</script>
+{% endblock %}

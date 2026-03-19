@@ -64,12 +64,12 @@
           {% for row in side_a.report_tables.stat_comparison %}
             <tr>
               <td class="px-4 py-1 text-slate-200 text-xs">{{ row.stat }}</td>
-              <td class="px-4 py-1 text-right font-mono text-xs {% if row.good_bad == 'good' %}text-emerald-300{% elif row.good_bad == 'bad' %}text-rose-300{% else %}text-slate-300{% endif %}">{{ row.value }}</td>
+              <td class="px-4 py-1 text-right font-mono text-xs {% if row.good_bad == 'good' %}text-emerald-300 stat-good{% elif row.good_bad == 'bad' %}text-rose-300 stat-bad{% else %}text-slate-300{% endif %}">{{ row.value }}</td>
               <td class="px-4 py-1 text-xs">
                 {% if row.direction == 'equal' %}
                   <span class="text-slate-400">= league average</span>
                 {% else %}
-                  <span class="{% if row.good_bad == 'good' %}text-emerald-400{% elif row.good_bad == 'bad' %}text-rose-400{% else %}text-slate-400{% endif %}">
+                  <span class="{% if row.good_bad == 'good' %}text-emerald-400 stat-good{% elif row.good_bad == 'bad' %}text-rose-400 stat-bad{% else %}text-slate-400{% endif %}">
                     {% if row.direction == 'above' %}+{% elif row.direction == 'below' %}-{% endif %}{{ row.abs_delta }} {{ row.direction }} avg
                   </span>
                 {% endif %}
@@ -118,12 +118,12 @@
           {% for row in side_b.report_tables.stat_comparison %}
             <tr>
               <td class="px-4 py-1 text-slate-200 text-xs">{{ row.stat }}</td>
-              <td class="px-4 py-1 text-right font-mono text-xs {% if row.good_bad == 'good' %}text-emerald-300{% elif row.good_bad == 'bad' %}text-rose-300{% else %}text-slate-300{% endif %}">{{ row.value }}</td>
+              <td class="px-4 py-1 text-right font-mono text-xs {% if row.good_bad == 'good' %}text-emerald-300 stat-good{% elif row.good_bad == 'bad' %}text-rose-300 stat-bad{% else %}text-slate-300{% endif %}">{{ row.value }}</td>
               <td class="px-4 py-1 text-xs">
                 {% if row.direction == 'equal' %}
                   <span class="text-slate-400">= league average</span>
                 {% else %}
-                  <span class="{% if row.good_bad == 'good' %}text-emerald-400{% elif row.good_bad == 'bad' %}text-rose-400{% else %}text-slate-400{% endif %}">
+                  <span class="{% if row.good_bad == 'good' %}text-emerald-400 stat-good{% elif row.good_bad == 'bad' %}text-rose-400 stat-bad{% else %}text-slate-400{% endif %}">
                     {% if row.direction == 'above' %}+{% elif row.direction == 'below' %}-{% endif %}{{ row.abs_delta }} {{ row.direction }} avg
                   </span>
                 {% endif %}
@@ -167,6 +167,9 @@
     function makeChart(canvasId, radarLabels, radarValues, teamLabel) {
       var ctx = document.getElementById(canvasId);
       if (!ctx) return null;
+      var cb = document.documentElement.classList.contains('cb-mode');
+      var accent = cb ? 'rgb(96, 165, 250)' : 'rgb(52, 211, 153)';
+      var accentBg = cb ? 'rgba(96, 165, 250, 0.15)' : 'rgba(52, 211, 153, 0.15)';
       return new Chart(ctx, {
         type: 'radar',
         data: {
@@ -174,9 +177,9 @@
           datasets: [{
             label: teamLabel,
             data: radarValues,
-            borderColor: 'rgb(52, 211, 153)',
-            backgroundColor: 'rgba(52, 211, 153, 0.15)',
-            pointBackgroundColor: 'rgb(52, 211, 153)',
+            borderColor: accent,
+            backgroundColor: accentBg,
+            pointBackgroundColor: accent,
             pointBorderColor: '#fff',
             pointRadius: 4,
             borderWidth: 2,

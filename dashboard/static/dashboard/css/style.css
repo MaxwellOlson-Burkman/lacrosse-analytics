@@ -10,6 +10,25 @@
   --accent-hover: #79b8ff;
 }
 
+/* ── Glass card utility (mirror of Tailwind inline) ── */
+.glass-card {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  border-radius: 0.75rem;
+}
+
+.glass-card-strong {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.25);
+  border-radius: 0.75rem;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -204,6 +223,57 @@ body {
   padding: 0.1em 0.3em;
   border-radius: 3px;
 }
+
+/* ── Colorblind mode overrides ── */
+/* Good/bad stat indicators: green/red → blue/orange */
+html.cb-mode .stat-good { color: #60a5fa !important; }
+html.cb-mode .stat-bad  { color: #fb923c !important; }
+
+/* Accent color swap: emerald → blue */
+html.cb-mode .cb-accent { color: #60a5fa !important; }
+html.cb-mode .cb-accent-bg { background-color: #2563eb !important; }
+html.cb-mode .cb-accent-bg:hover { background-color: #3b82f6 !important; }
+
+/* Nav + sidebar active links */
+html.cb-mode .nav-active { color: #60a5fa !important; }
+html.cb-mode .nav-hover:hover { color: #60a5fa !important; }
+
+/* KPI value accent */
+html.cb-mode .kpi-accent { color: #60a5fa !important; }
+
+/* Leaderboard stat values */
+html.cb-mode .lb-stat { color: #60a5fa !important; }
+
+/* Tom Select overrides for CB mode */
+html.cb-mode .ts-wrapper.sidebar-team-select .ts-control input { caret-color: #60a5fa !important; }
+html.cb-mode .ts-wrapper.sidebar-team-select.focus .ts-control {
+  border-color: #60a5fa !important;
+  box-shadow: 0 0 0 1px #60a5fa !important;
+}
+html.cb-mode .ts-dropdown.sidebar-team-select-dropdown .option.active {
+  background: rgba(96, 165, 250, 0.25) !important;
+  color: #60a5fa !important;
+}
+html.cb-mode .ts-wrapper.sidebar-team-select .item {
+  background: rgba(96, 165, 250, 0.3) !important;
+  color: #eff6ff !important;
+}
+
+/* Glossary tooltip accent */
+html.cb-mode .glossary-popup strong { color: #60a5fa !important; }
+
+/* Toggle button styling */
+.cb-toggle {
+  cursor: pointer;
+  transition: opacity 0.15s, color 0.15s;
+  opacity: 0.7;
+}
+.cb-toggle:hover { opacity: 1; }
+html.cb-mode .cb-toggle {
+  opacity: 1;
+  color: #60a5fa !important;
+}
+html.cb-mode .cb-toggle span { color: #60a5fa !important; }
 
 /* Team lookup */
 .lookup-form {

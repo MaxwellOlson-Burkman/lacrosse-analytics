@@ -1,0 +1,135 @@
+{% extends "dashboard/base.html" %}
+{% block title %}{% if player %}{{ player }} – {% endif %}Player – Lacrosse Analytics{% endblock %}
+
+{% block left_panel_content %}
+<div class="p-4 flex flex-col h-full space-y-5">
+  <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-2">Player Lookup</h3>
+  <a href="{% url 'dashboard:player_lookup' %}" class="text-sm text-emerald-400 hover:text-emerald-300 transition">Search for another player</a>
+  {% if player %}
+  <a href="{% url 'dashboard:compare_players' %}?year={{ player.academic_year }}&division={{ player.division }}&player_a={{ player.id }}"
+     class="text-sm text-slate-400 hover:text-emerald-400 transition">Compare with another player</a>
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block center_panel %}
+{% if not player %}
+<div class="text-center py-16 text-slate-500">
+  <p class="text-sm">Player not found.</p>
+  <a href="{% url 'dashboard:player_lookup' %}" class="text-emerald-400 text-sm hover:underline mt-2 inline-block">Back to Player Lookup</a>
+</div>
+{% else %}
+<div class="max-w-4xl mx-auto space-y-6">
+  <!-- Header -->
+  <div class="flex items-start gap-4">
+    <div class="flex-1">
+      <h2 class="text-2xl font-semibold text-white">{{ player.name }}</h2>
+      <p class="text-slate-400 text-sm mt-1">{{ player.team_name }} &middot; {{ player.academic_year }} D{{ player.division }}{% if player.class_year %} &middot; {{ player.class_year }}{% endif %}</p>
+      {% if position %}
+      <span class="inline-block mt-2 px-3 py-1 rounded-full text-xs font-medium bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">{{ position }}</span>
+      {% else %}
+      <span class="inline-block mt-2 text-xs text-slate-600">Position not recorded</span>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if not stats %}
+  <div class="bg-amber-900/20 border border-amber-600/30 rounded-xl p-6">
+    <p class="text-amber-400 text-sm">No season stats found for this player.</p>
+  </div>
+  {% else %}
+  <!-- KPI Cards -->
+  <div class="grid grid-cols-3 lg:grid-cols-6 gap-3">
+    {% for label, val in kpis.items %}
+    <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-3 text-center">
+      <p class="text-[10px] text-slate-500 uppercase tracking-wider mb-1">{{ label }}</p>
+      <p class="text-xl font-mono font-semibold text-white">{{ val }}</p>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Per-game rates -->
+  <div class="grid grid-cols-2 lg:grid-cols-4 gap-3">
+    {% for label, val in per_game.items %}
+    <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-3 text-center">
+      <p class="text-[10px] text-slate-500 uppercase tracking-wider mb-1">{{ label }}</p>
+      <p class="text-lg font-mono font-semibold text-emerald-400">{{ val }}</p>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+    <!-- Full stats table -->
+    <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+      <div class="px-4 py-2 border-b border-white/10">
+        <h3 class="text-xs text-slate-500 uppercase">Season Stats</h3>
+      </div>
+      <table class="w-full text-sm">
+        <tbody class="divide-y divide-white/5">
+          {% for label, val in stats.items %}
+          <tr>
+            <td class="px-4 py-1.5 text-slate-500">{{ label }}</td>
+            <td class="px-4 py-1.5 text-slate-200 font-mono text-right">{{ val }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Radar chart -->
+    <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4">
+      <h3 class="text-xs text-slate-500 uppercase mb-3">Performance Radar</h3>
+      <div class="h-72">
+        <canvas id="player-radar"></canvas>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+{% endblock %}
+
+{% block extra_js %}
+{% if stats and radar_labels %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var ctx = document.getElementById('player-radar');
+  if (!ctx) return;
+  var cb = document.documentElement.classList.contains('cb-mode');
+  var accent = cb ? 'rgb(96, 165, 250)' : 'rgb(52, 211, 153)';
+  var accentBg = cb ? 'rgba(96, 165, 250, 0.15)' : 'rgba(52, 211, 153, 0.15)';
+  new Chart(ctx, {
+    type: 'radar',
+    data: {
+      labels: {{ radar_labels|safe }},
+      datasets: [{
+        label: '{{ player.name|escapejs }}',
+        data: {{ radar_values|safe }},
+        borderColor: accent,
+        backgroundColor: accentBg,
+        pointBackgroundColor: accent,
+        pointBorderColor: '#fff',
+        pointRadius: 4,
+        borderWidth: 2
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: true,
+      scales: {
+        r: {
+          beginAtZero: true,
+          max: 100,
+          ticks: { display: false },
+          grid: { color: 'rgba(255,255,255,0.1)' },
+          angleLines: { color: 'rgba(255,255,255,0.1)' },
+          pointLabels: { color: '#94a3b8', font: { size: 11 } }
+        }
+      },
+      plugins: { legend: { display: false } }
+    }
+  });
+});
+</script>
+{% endif %}
+{% endblock %}

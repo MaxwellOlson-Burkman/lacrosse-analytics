@@ -188,9 +188,19 @@ def parse_team_report_tables(report_content: str):
         elif stripped.startswith("Record:"):
             summary.append(("Record", stripped.split(":", 1)[1].strip()))
         elif stripped.startswith("Winning %:"):
-            summary.append(("Winning %", stripped.split(":", 1)[1].strip()))
+            raw = stripped.split(":", 1)[1].strip()
+            try:
+                raw = f"{float(raw) * 100:.1f}%"
+            except (ValueError, TypeError):
+                pass
+            summary.append(("Winning %", raw))
         elif stripped.startswith("Predicted Winning %:"):
-            summary.append(("Predicted Winning %", stripped.split(":", 1)[1].strip()))
+            raw = stripped.split(":", 1)[1].strip()
+            try:
+                raw = f"{float(raw) * 100:.1f}%"
+            except (ValueError, TypeError):
+                pass
+            summary.append(("Predicted Winning %", raw))
         elif "Stat Comparison vs League Average" in stripped:
             phase = "stat"
             continue
@@ -276,9 +286,17 @@ def parse_team_report_kpis(report_content: str):
         if line.startswith("Record:"):
             kpis["record"] = line.split(":", 1)[1].strip()
         elif line.startswith("Winning %:"):
-            kpis["win_pct"] = line.split(":", 1)[1].strip()
+            raw = line.split(":", 1)[1].strip()
+            try:
+                kpis["win_pct"] = f"{float(raw) * 100:.1f}%"
+            except (ValueError, TypeError):
+                kpis["win_pct"] = raw
         elif line.startswith("Predicted Winning %:"):
-            kpis["predicted_win_pct"] = line.split(":", 1)[1].strip()
+            raw = line.split(":", 1)[1].strip()
+            try:
+                kpis["predicted_win_pct"] = f"{float(raw) * 100:.1f}%"
+            except (ValueError, TypeError):
+                kpis["predicted_win_pct"] = raw
         elif line.startswith("Stats-based SOS rank:") or line.startswith("Model schedule difficulty rank:"):
             kpis["sos_rank"] = line.split(":", 1)[1].strip()
 
@@ -504,9 +522,9 @@ def rankings_view(request):
     division = 1 if div_raw == "1" else 2 if div_raw == "2" else 1
 
     # Load data: prefer synced file when present (same source as conference rankings)
-    processed = Path(settings.BASE_DIR) / "data" / "processed"
-    synced = processed / "team_stats_with_sos_full_synced.csv"
-    data_path = synced if synced.exists() else processed / "team_stats_with_sos.csv"
+    team_dir = Path(settings.BASE_DIR) / "data" / "processed" / "team"
+    synced = team_dir / "team_stats_with_sos_full_synced.csv"
+    data_path = synced if synced.exists() else team_dir / "team_stats_with_sos.csv"
     df = pd.read_csv(data_path)
 
     allowed_stats = {
@@ -566,7 +584,7 @@ def conference_rankings_view(request):
         year = 2024
     division = 1 if div_raw == "1" else 2 if div_raw == "2" else 1
 
-    conf_path = Path(settings.BASE_DIR) / "data" / "processed" / "conference_rankings.csv"
+    conf_path = Path(settings.BASE_DIR) / "data" / "processed" / "team" / "conference_rankings.csv"
     if not conf_path.exists():
         return render(
             request,
@@ -666,3 +684,383 @@ def compare_view(request):
             "side_b": side_b,
         },
     )
+
+
+# ──────────────────────────────────────────────
+# Tewaaraton Watch
+# ──────────────────────────────────────────────
+
+def tewaaraton_view(request):
+    """Tewaaraton Trophy estimator: dual-model Top 10."""
+    year_raw = (request.GET.get("year") or "").strip()
+    div_raw = (request.GET.get("division") or "").strip()
+
+    try:
+        year = int(year_raw)
+    except Exception:
+        year = 2024
+    division = int(div_raw) if div_raw in ("1", "2") else 1
+
+    team_dir = Path(settings.BASE_DIR) / "data" / "processed" / "team"
+    sos_path = team_dir / "team_stats_with_sos.csv"
+    years: list[int] = []
+    if sos_path.exists():
+        df_sos = pd.read_csv(sos_path)
+        years = sorted(df_sos["academic_year"].dropna().astype(int).unique().tolist(), reverse=True)
+
+    rows = []
+    try:
+        from src.estimators import build_tewaaraton_rankings
+        df = build_tewaaraton_rankings(year, division)
+        if not df.empty:
+            rows = df.to_dict(orient="records")
+    except Exception:
+        pass
+
+    return render(request, "dashboard/tewaaraton.html", {
+        "active_page": "tewaaraton",
+        "year": year,
+        "division": str(division),
+        "years": years,
+        "rows": rows,
+    })
+
+
+# ──────────────────────────────────────────────
+# Player Leaderboards
+# ──────────────────────────────────────────────
+
+def leaderboards_view(request):
+    """Position-based player leaderboards with tabs."""
+    from dashboard.models import Player
+
+    year_raw = (request.GET.get("year") or "").strip()
+    div_raw = (request.GET.get("division") or "").strip()
+    tab = (request.GET.get("tab") or "offense").strip().lower()
+
+    try:
+        year = int(year_raw)
+    except Exception:
+        year = 2024
+    division = int(div_raw) if div_raw in ("1", "2") else 1
+
+    years = list(
+        Player.objects.values_list("academic_year", flat=True)
+        .distinct()
+        .order_by("-academic_year")
+    )
+    if not years:
+        years = [2024]
+
+    rows = []
+    columns: list[dict] = []
+    try:
+        from src.rankers import PositionRanker
+        ranker = PositionRanker()
+        if tab == "defense":
+            df = ranker.rank_defense(year, division)
+            columns = [
+                {"key": "rank", "label": "#"}, {"key": "player_name", "label": "Player"},
+                {"key": "team_name", "label": "Team"}, {"key": "position", "label": "Pos"},
+                {"key": "games_played", "label": "GP"}, {"key": "caused_turnovers", "label": "CT"},
+                {"key": "ground_balls", "label": "GB"}, {"key": "ct_pg", "label": "CT/G"},
+                {"key": "gb_pg", "label": "GB/G"}, {"key": "def_score", "label": "Score"},
+            ]
+        elif tab == "goalies":
+            df = ranker.rank_goalies(year, division)
+            columns = [
+                {"key": "rank", "label": "#"}, {"key": "player_name", "label": "Player"},
+                {"key": "team_name", "label": "Team"},
+                {"key": "games_played", "label": "GP"}, {"key": "saves", "label": "Sv"},
+                {"key": "goals_allowed", "label": "GA"}, {"key": "save_pct", "label": "Sv%"},
+                {"key": "gaa", "label": "GAA"},
+            ]
+        elif tab == "faceoff":
+            df = ranker.rank_faceoff(year, division)
+            columns = [
+                {"key": "rank", "label": "#"}, {"key": "player_name", "label": "Player"},
+                {"key": "team_name", "label": "Team"}, {"key": "position", "label": "Pos"},
+                {"key": "games_played", "label": "GP"}, {"key": "faceoffs_won", "label": "FOW"},
+                {"key": "faceoffs_lost", "label": "FOL"}, {"key": "fo_total", "label": "Total"},
+                {"key": "fo_pct", "label": "FO%"},
+            ]
+        else:
+            df = ranker.rank_offense(year, division)
+            columns = [
+                {"key": "rank", "label": "#"}, {"key": "player_name", "label": "Player"},
+                {"key": "team_name", "label": "Team"}, {"key": "position", "label": "Pos"},
+                {"key": "games_played", "label": "GP"}, {"key": "points", "label": "Pts"},
+                {"key": "goals", "label": "G"}, {"key": "assists", "label": "A"},
+                {"key": "ppg", "label": "PPG"}, {"key": "gpg", "label": "GPG"},
+            ]
+        if not df.empty:
+            rows = df.to_dict(orient="records")
+    except Exception:
+        pass
+
+    tabs = [
+        {"key": "offense", "label": "Offense"},
+        {"key": "defense", "label": "Defense"},
+        {"key": "goalies", "label": "Goalies"},
+        {"key": "faceoff", "label": "Faceoff"},
+    ]
+
+    return render(request, "dashboard/leaderboards.html", {
+        "active_page": "leaderboards",
+        "year": year,
+        "division": str(division),
+        "years": years,
+        "tab": tab,
+        "tabs": tabs,
+        "columns": columns,
+        "rows": rows,
+    })
+
+
+# ──────────────────────────────────────────────
+# Compare Players
+# ──────────────────────────────────────────────
+
+def compare_players_view(request):
+    """Side-by-side player comparison with radar charts, scoped by year + division."""
+    from dashboard.models import Player, SeasonTotals
+
+    player_a_id = (request.GET.get("player_a") or "").strip()
+    player_b_id = (request.GET.get("player_b") or "").strip()
+
+    # Year + division filter — shrinks search space from 2000 to ~hundreds per season
+    year_raw = (request.GET.get("year") or "").strip()
+    div_raw = (request.GET.get("division") or "").strip()
+    division = int(div_raw) if div_raw in ("1", "2") else 1
+
+    # Build years list from actual player data (only years that have players)
+    available_years = list(
+        Player.objects.values_list("academic_year", flat=True)
+        .distinct()
+        .order_by("-academic_year")
+    )
+    if not available_years:
+        available_years = [2024]
+
+    try:
+        year = int(year_raw)
+        if year not in available_years:
+            year = available_years[0]
+    except (ValueError, TypeError):
+        year = available_years[0]
+
+    # Filter players to the selected (year, division) only, cap at 500
+    filtered_players = list(
+        Player.objects.filter(academic_year=year, division=division)
+        .values_list("id", "name", "team_name", "academic_year", "division")
+        .order_by("name")[:500]
+    )
+    player_choices = [
+        (f"{name} – {team} ({yr} D{div})", pid)
+        for pid, name, team, yr, div in filtered_players
+    ]
+
+    radar_labels = json.dumps(["Goals/G", "Assists/G", "Points/G", "GB/G", "Shooting %"])
+
+    def _build_side(pid_str: str):
+        if not pid_str:
+            return None
+        try:
+            pid = int(pid_str)
+            player = Player.objects.get(id=pid)
+        except (ValueError, Player.DoesNotExist):
+            return None
+        st = player.season_totals.first()
+        if st is None:
+            return {"player": player, "label": str(player), "missing": True}
+
+        gp = max(st.games_played, 1)
+        gpg = round(st.goals / gp, 2) if st.goals else 0
+        apg = round(st.assists / gp, 2) if st.assists else 0
+        ppg = round(st.points / gp, 2) if st.points else 0
+        gbpg = round(st.ground_balls / gp, 2) if st.ground_balls else 0
+        sh_pct = round(st.goals / max(st.shots, 1) * 100, 1) if st.shots else 0
+
+        # Normalize to 0-100 for radar
+        radar_values = json.dumps([
+            min(100, gpg * 20),     # ~5 goals/game = 100
+            min(100, apg * 25),     # ~4 assists/game = 100
+            min(100, ppg * 12.5),   # ~8 points/game = 100
+            min(100, gbpg * 15),    # ~6.7 GB/game = 100
+            min(100, sh_pct),       # already percentage
+        ])
+
+        return {
+            "player": player,
+            "label": str(player),
+            "missing": False,
+            "stats": {
+                "GP": gp, "G": st.goals, "A": st.assists, "Pts": st.points,
+                "GB": st.ground_balls, "TO": st.turnovers, "CT": st.caused_turnovers,
+                "GPG": gpg, "APG": apg, "PPG": ppg,
+                "Sh%": f"{sh_pct}%",
+            },
+            "radar_values": radar_values,
+        }
+
+    side_a = _build_side(player_a_id)
+    side_b = _build_side(player_b_id)
+
+    return render(request, "dashboard/compare_players.html", {
+        "active_page": "compare_players",
+        "player_choices": player_choices,
+        "player_a": player_a_id,
+        "player_b": player_b_id,
+        "side_a": side_a,
+        "side_b": side_b,
+        "radar_labels": radar_labels,
+        "year": year,
+        "division": str(division),
+        "years": available_years,
+    })
+
+
+# ──────────────────────────────────────────────
+# Player Lookup (individual stats page)
+# ──────────────────────────────────────────────
+
+MAX_RECENT_PLAYERS = 8
+
+
+def player_lookup_view(request):
+    """Player search page: pick year + division, then search for a player to view."""
+    from dashboard.models import Player
+
+    year_raw = (request.GET.get("year") or "").strip()
+    div_raw = (request.GET.get("division") or "").strip()
+    division = int(div_raw) if div_raw in ("1", "2") else 1
+
+    available_years = list(
+        Player.objects.values_list("academic_year", flat=True)
+        .distinct()
+        .order_by("-academic_year")
+    )
+    if not available_years:
+        available_years = [2024]
+
+    try:
+        year = int(year_raw)
+        if year not in available_years:
+            year = available_years[0]
+    except (ValueError, TypeError):
+        year = available_years[0]
+
+    filtered_players = list(
+        Player.objects.filter(academic_year=year, division=division)
+        .values_list("id", "name", "team_name", "academic_year", "division")
+        .order_by("name")[:500]
+    )
+    player_choices = [
+        (f"{name} – {team} ({yr} D{div})", pid)
+        for pid, name, team, yr, div in filtered_players
+    ]
+
+    recent_players = request.session.get("recent_players", [])
+
+    return render(request, "dashboard/player_lookup.html", {
+        "active_page": "player_lookup",
+        "player_choices": player_choices,
+        "year": year,
+        "division": str(division),
+        "years": available_years,
+        "recent_players": recent_players,
+    })
+
+
+def player_detail_view(request, player_id: int):
+    """Individual player stats page with radar chart."""
+    from dashboard.models import Player, SeasonTotals
+
+    try:
+        player = Player.objects.get(id=player_id)
+    except Player.DoesNotExist:
+        return render(request, "dashboard/player_detail.html", {
+            "active_page": "player_lookup",
+            "player": None,
+        })
+
+    st = player.season_totals.first()
+
+    # Push to recent players in session
+    recent = request.session.get("recent_players", [])
+    entry = {"id": player.id, "label": str(player)}
+    recent = [r for r in recent if r.get("id") != player.id]
+    recent.insert(0, entry)
+    request.session["recent_players"] = recent[:MAX_RECENT_PLAYERS]
+    request.session.modified = True
+
+    position = player.position.strip() if player.position and player.position.strip() else None
+
+    if st is None:
+        return render(request, "dashboard/player_detail.html", {
+            "active_page": "player_lookup",
+            "player": player,
+            "position": position,
+            "stats": None,
+        })
+
+    gp = max(st.games_played, 1)
+    gpg = round(st.goals / gp, 2) if st.goals else 0
+    apg = round(st.assists / gp, 2) if st.assists else 0
+    ppg = round(st.points / gp, 2) if st.points else 0
+    gbpg = round(st.ground_balls / gp, 2) if st.ground_balls else 0
+    sh_pct = round(st.goals / max(st.shots, 1) * 100, 1) if st.shots else 0
+
+    radar_labels = json.dumps(["Goals/G", "Assists/G", "Points/G", "GB/G", "Shooting %"])
+    radar_values = json.dumps([
+        min(100, gpg * 20),
+        min(100, apg * 25),
+        min(100, ppg * 12.5),
+        min(100, gbpg * 15),
+        min(100, sh_pct),
+    ])
+
+    stats = {
+        "Games Played": st.games_played,
+        "Games Started": st.games_started,
+        "Goals": st.goals,
+        "Assists": st.assists,
+        "Points": st.points,
+        "Shots": st.shots,
+        "Shots on Goal": st.shots_on_goal,
+        "Ground Balls": st.ground_balls,
+        "Turnovers": st.turnovers,
+        "Caused Turnovers": st.caused_turnovers,
+        "Faceoffs Won": st.faceoffs_won,
+        "Faceoffs Lost": st.faceoffs_lost,
+    }
+    if st.saves is not None:
+        stats["Saves"] = st.saves
+    if st.goals_allowed is not None:
+        stats["Goals Allowed"] = st.goals_allowed
+
+    kpis = {
+        "GP": st.games_played,
+        "G": st.goals,
+        "A": st.assists,
+        "Pts": st.points,
+        "GB": st.ground_balls,
+        "Sh%": f"{sh_pct}%",
+    }
+    per_game = {
+        "GPG": gpg,
+        "APG": apg,
+        "PPG": ppg,
+        "GB/G": gbpg,
+    }
+
+    return render(request, "dashboard/player_detail.html", {
+        "active_page": "player_lookup",
+        "player": player,
+        "position": position,
+        "stats": stats,
+        "kpis": kpis,
+        "per_game": per_game,
+        "radar_labels": radar_labels,
+        "radar_values": radar_values,
+    })

@@ -1,0 +1,78 @@
+{% extends "dashboard/base.html" %}
+{% block title %}Player Leaderboards – Lacrosse Analytics{% endblock %}
+
+{% block left_panel_content %}
+<div class="p-4 flex flex-col h-full">
+  <h3 class="text-xs text-slate-500 uppercase tracking-wider mb-3">Leaderboard Filters</h3>
+  <form method="get" action="{% url 'dashboard:leaderboards' %}" class="space-y-2">
+    <input type="hidden" name="tab" value="{{ tab }}">
+    <div class="grid grid-cols-2 gap-2">
+      <div>
+        <label class="block text-[10px] text-slate-500 uppercase mb-1">Division</label>
+        <select name="division" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
+          <option value="1" {% if division == "1" %}selected{% endif %}>D1</option>
+          <option value="2" {% if division == "2" %}selected{% endif %}>D2</option>
+        </select>
+      </div>
+      <div>
+        <label class="block text-[10px] text-slate-500 uppercase mb-1">Year</label>
+        <select name="year" class="w-full bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg px-3 py-2">
+          {% for y in years %}
+          <option value="{{ y }}" {% if y == year %}selected{% endif %}>{{ y }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+    <button type="submit" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-medium py-2 px-4 rounded-lg transition">Update</button>
+  </form>
+</div>
+{% endblock %}
+
+{% block center_panel %}
+<div class="max-w-5xl mx-auto">
+  <div class="mb-4">
+    <h2 class="text-lg font-semibold text-white">Player Leaderboards</h2>
+    <p class="text-xs text-slate-500 mt-1">{{ year }} D{{ division }}</p>
+  </div>
+
+  <!-- Tabs -->
+  <div class="flex gap-1 mb-4">
+    {% for t in tabs %}
+    <a href="{% url 'dashboard:leaderboards' %}?year={{ year }}&division={{ division }}&tab={{ t.key }}"
+       class="px-4 py-2 text-sm rounded-lg transition {% if t.key == tab %}bg-emerald-600 text-white font-medium{% else %}bg-slate-800 text-slate-400 hover:bg-slate-700 hover:text-slate-200{% endif %}">
+      {{ t.label }}
+    </a>
+    {% endfor %}
+  </div>
+
+  {% if not rows %}
+  <div class="text-center py-16">
+    <p class="text-slate-500 text-sm">No player data available.</p>
+    <p class="text-slate-600 text-xs mt-2">Run <code class="text-emerald-400">python scripts/scrape_player_stats.py --years {{ year }}</code> to populate.</p>
+  </div>
+  {% else %}
+  <div class="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl overflow-hidden">
+    <table class="w-full text-sm">
+      <thead class="bg-slate-900/60 text-slate-400">
+        <tr>
+          {% for col in columns %}
+          <th class="{% if col.key == 'player_name' or col.key == 'team_name' %}text-left{% else %}text-right{% endif %} px-3 py-3 text-xs">{{ col.label }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody class="divide-y divide-white/5">
+        {% for r in rows %}
+        <tr class="hover:bg-white/5">
+          {% for col in columns %}
+          <td class="px-3 py-2 {% if col.key == 'player_name' %}text-slate-200{% elif col.key == 'team_name' %}text-slate-400 text-left{% elif col.key == 'rank' %}font-mono text-slate-300 text-right{% else %}font-mono text-emerald-300 text-right{% endif %}">
+            {% if col.key == "rank" %}{{ r.rank }}{% elif col.key == "player_name" %}{{ r.player_name }}{% elif col.key == "team_name" %}{{ r.team_name }}{% elif col.key == "position" %}{{ r.position }}{% elif col.key == "games_played" %}{{ r.games_played }}{% elif col.key == "points" %}{{ r.points }}{% elif col.key == "goals" %}{{ r.goals }}{% elif col.key == "assists" %}{{ r.assists }}{% elif col.key == "ppg" %}{{ r.ppg }}{% elif col.key == "gpg" %}{{ r.gpg }}{% elif col.key == "apg" %}{{ r.apg }}{% elif col.key == "caused_turnovers" %}{{ r.caused_turnovers }}{% elif col.key == "ground_balls" %}{{ r.ground_balls }}{% elif col.key == "ct_pg" %}{{ r.ct_pg }}{% elif col.key == "gb_pg" %}{{ r.gb_pg }}{% elif col.key == "def_score" %}{{ r.def_score }}{% elif col.key == "saves" %}{{ r.saves }}{% elif col.key == "goals_allowed" %}{{ r.goals_allowed }}{% elif col.key == "save_pct" %}{{ r.save_pct }}{% elif col.key == "gaa" %}{{ r.gaa }}{% elif col.key == "faceoffs_won" %}{{ r.faceoffs_won }}{% elif col.key == "faceoffs_lost" %}{{ r.faceoffs_lost }}{% elif col.key == "fo_total" %}{{ r.fo_total }}{% elif col.key == "fo_pct" %}{{ r.fo_pct }}{% endif %}
+          </td>
+          {% endfor %}
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

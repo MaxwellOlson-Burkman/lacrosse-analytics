@@ -157,12 +157,12 @@
               {% for row in report_tables.stat_comparison %}
               <tr>
                 <td class="px-4 py-2 text-slate-200">{{ row.stat }}</td>
-                <td class="px-4 py-2 text-right font-mono text-sm {% if row.good_bad == 'good' %}text-emerald-300{% elif row.good_bad == 'bad' %}text-rose-300{% else %}text-slate-300{% endif %}">{{ row.value }}</td>
+                <td class="px-4 py-2 text-right font-mono text-sm {% if row.good_bad == 'good' %}text-emerald-300 stat-good{% elif row.good_bad == 'bad' %}text-rose-300 stat-bad{% else %}text-slate-300{% endif %}">{{ row.value }}</td>
                 <td class="px-4 py-2 text-sm">
                   {% if row.direction == 'equal' %}
                     <span class="text-slate-400">= league average</span>
                   {% else %}
-                    <span class="{% if row.good_bad == 'good' %}text-emerald-400{% elif row.good_bad == 'bad' %}text-rose-400{% else %}text-slate-400{% endif %}">
+                    <span class="{% if row.good_bad == 'good' %}text-emerald-400 stat-good{% elif row.good_bad == 'bad' %}text-rose-400 stat-bad{% else %}text-slate-400{% endif %}">
                       {% if row.direction == 'above' %}+{% elif row.direction == 'below' %}-{% endif %}{{ row.abs_delta }} {{ row.direction }} average
                     </span>
                   {% endif %}
@@ -297,6 +297,9 @@
         };
       }
 
+      var cb = document.documentElement.classList.contains('cb-mode');
+      var accent = cb ? 'rgb(96, 165, 250)' : 'rgb(52, 211, 153)';
+      var accentFill = cb ? 'rgba(96, 165, 250,' : 'rgba(52, 211, 153,';
       chartInstance = new Chart(ctx, {
         type: type,
         data: {
@@ -305,9 +308,9 @@
             label: teamLabel,
             data: data,
             spanGaps: false,
-            borderColor: 'rgb(52, 211, 153)',
-            backgroundColor: type === 'radar' ? 'rgba(52, 211, 153, 0.15)' : 'rgba(52, 211, 153, 0.5)',
-            pointBackgroundColor: 'rgb(52, 211, 153)',
+            borderColor: accent,
+            backgroundColor: type === 'radar' ? accentFill + '0.15)' : accentFill + '0.5)',
+            pointBackgroundColor: accent,
             pointBorderColor: '#fff',
             pointRadius: type === 'line' ? 4 : 5,
             borderWidth: 2,
