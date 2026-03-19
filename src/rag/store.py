@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any, Callable, Optional
 from uuid import uuid4
 
 import chromadb
@@ -14,8 +14,11 @@ from langchain_core.callbacks import CallbackManagerForRetrieverRun
 from .loaders import load_metadata_docs, load_team_reports
 
 
-ddef _get_embeddings(embedding_model: str):
-    from langchain_ollama import OllamaEmbeddings
+def _get_embeddings(embedding_model: str):
+    try:
+        from langchain_ollama import OllamaEmbeddings
+    except ImportError:
+        from langchain_community.embeddings import OllamaEmbeddings
     return OllamaEmbeddings(model=embedding_model)
 
 
@@ -43,9 +46,16 @@ class ChromaVectorStore:
         self._collection.add(ids=ids, embeddings=emb, documents=texts, metadatas=metadatas)
         return ids
 
-    def similarity_search(self, query: str, k: int = 5, **kwargs: Any) -> list[Document]:
+    def similarity_search(self, query: str, k: int = 5, where: Optional[dict] = None, **kwargs: Any) -> list[Document]:
         emb = self._embeddings.embed_query(query)
-        res = self._collection.query(query_embeddings=[emb], n_results=k, include=["documents", "metadatas"])
+        query_kwargs = dict(
+            query_embeddings=[emb],
+            n_results=k,
+            include=["documents", "metadatas"],
+        )
+        if where:
+            query_kwargs["where"] = where
+        res = self._collection.query(**query_kwargs)
         docs = []
         if res["documents"] and res["documents"][0]:
             for content, meta in zip(res["documents"][0], res["metadatas"][0] or []):
@@ -84,16 +94,19 @@ def build_index(
     *,
     feature_importance_path: Optional[Path] = None,
     model_metadata_path: Optional[Path] = None,
+    team_aliases_path: Optional[Path] = None,
     embedding_model: str = "nomic-embed-text",
     collection_name: str = "lacrosse_team_reports",
+    batch_size: int = 50,
+    progress_callback: Optional[Callable[[int, int], None]] = None,
 ) -> int:
-    """Load documents, embed with Ollama, persist to Chroma. Returns number of docs indexed."""
+    """Load documents, embed with Ollama in batches, persist to Chroma. Returns number of docs indexed."""
     reports_dir = Path(reports_dir)
     chroma_path = Path(chroma_path)
     chroma_path.mkdir(parents=True, exist_ok=True)
 
     docs: list[Document] = []
-    docs.extend(load_team_reports(reports_dir))
+    docs.extend(load_team_reports(reports_dir, team_aliases_path=team_aliases_path))
     docs.extend(
         load_metadata_docs(
             feature_importance_path=feature_importance_path,
@@ -108,8 +121,15 @@ def build_index(
         collection_name=collection_name,
         embedding_model=embedding_model,
     )
-    store.add_documents(docs)
-    return len(docs)
+
+    total = len(docs)
+    for i in range(0, total, batch_size):
+        chunk = docs[i : i + batch_size]
+        store.add_documents(chunk)
+        n_done = min(i + len(chunk), total)
+        if progress_callback:
+            progress_callback(n_done, total)
+    return total
 
 
 def load_vector_store(
