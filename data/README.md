@@ -6,16 +6,31 @@ This directory holds all scraped and processed NCAA lacrosse data.
 
 ```
 data/
-├── raw/                    # Raw scraped HTML/JSON - never modify by hand
+├── raw/                           # Raw scraped HTML/JSON (never modify by hand)
 │   └── {year}/
 │       └── division_{1|2}/
-│           └── {stat_name}.html
-├── processed/              # Clean, structured data ready for modeling
-│   ├── team_stats.parquet
-│   ├── team_stats.csv
-│   ├── team_stats_model_ready.parquet
-│   └── team_stats_model_ready.csv
-└── README.md               # This file
+│           ├── {stat_name}.html   # Raw HTML from stats.ncaa.org
+│           └── {stat_name}.json   # Structured JSON (for archive fallback)
+├── processed/                     # Clean, structured data ready for modeling
+│   ├── teams/
+│   │   ├── team_stats.csv
+│   │   ├── team_stats.parquet
+│   │   ├── team_stats_model_ready.csv
+│   │   ├── team_stats_model_ready.parquet
+│   │   └── completeness_report.csv
+│   ├── players/
+│   │   ├── player_stats.csv
+│   │   ├── player_stats.parquet
+│   │   └── completeness_report.csv
+│   ├── games/
+│   │   ├── game_results.csv
+│   │   ├── game_results.parquet
+│   │   └── completeness_report.csv
+│   └── winning_percentage_backfill.csv
+├── scripts/                       # Data processing and utility scripts
+│   ├── backfill_winning_percentage.py
+│   └── data_completeness_report.py
+└── README.md                      # This file
 ```
 
 ## Data Sources
