@@ -37,7 +37,7 @@ The RAG component transforms this from a static model into an interactive tool.
 * **Languages:** Python
 * **Machine Learning:** Scikit-learn, Pandas, NumPy
 * **Generative AI:** LangChain, ChromaDB, Ollama (local LLM and embeddings)
-* **Web Framework:** Streamlit
+* **Web Framework:** Django
 * **Version Control:** Git
 
 ---
@@ -114,7 +114,23 @@ The RAG component transforms this from a static model into an interactive tool.
    python scripts/query_rag.py "What stats matter most for winning?" --sources
    ```
 
-5. Optional: edit `config/rag_config.yaml` to change the Ollama chat model (e.g. `mistral`), retriever `k`, or paths. Phase 4 (Streamlit) will add a web UI on top of this.
+5. Optional: edit `config/rag_config.yaml` to change the Ollama chat model (e.g. `mistral`), retriever `k`, or paths.
+
+### Phase 4: Django dashboard
+
+1. With Phase 2 and 3 in place (team reports and RAG index built), run the dashboard:
+   ```bash
+   pip install -r requirements.txt
+   python manage.py migrate
+   python manage.py runserver
+   ```
+   Open http://127.0.0.1:8000/ in your browser.
+
+2. **Chat:** Ask questions in natural language; answers are grounded in team reports and model metadata (Ollama + RAG). Use "View sources" to see retrieved snippets. Use "Clear chat" to reset the conversation.
+
+3. **Team lookup:** Select a team-season from the dropdown and click "Show report" to view that team’s full report (record, stat comparison vs league average, strength of schedule).
+
+4. If the RAG index is missing, the app shows a message to run `python scripts/build_rag_index.py`; Team lookup works without the index.
 
 ---
 
@@ -134,4 +150,4 @@ The RAG component transforms this from a static model into an interactive tool.
 * ~~Perform prompt engineering to ensure the AI prioritizes statistical accuracy over general knowledge.~~
 
 ### Phase 4: Deployment
-* Launch a Streamlit dashboard that allows for real-time stat input and conversational analysis.
+* ~~Launch a Django dashboard for RAG chat and team report lookup.~~
