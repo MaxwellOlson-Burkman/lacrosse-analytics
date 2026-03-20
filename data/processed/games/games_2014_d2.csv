@@ -733,19 +733,6 @@ academic_year,division,team_org_id,opp_org_id,team_name,opp_name,game_date,locat
 2014,2,103602,103572.0,Wheeling,Mercyhurst,2014-04-19,H,5,7,L,-2
 2014,2,103602,103590.0,Wheeling,Mars Hill,2014-04-26,H,10,8,W,2
 2014,2,103602,103598.0,Wheeling,"Lake Erie @ Erie, Pa.",2014-05-02,H,7,9,L,-2
-2014,2,103595,103616.0,Wingate,Young Harris,2014-02-16,H,12,6,W,6
-2014,2,103595,103591.0,Wingate,Mount Olive,2014-02-22,H,15,14,W,1
-2014,2,103595,103587.0,Wingate,Coker,2014-02-26,A,10,15,L,-5
-2014,2,103595,103604.0,Wingate,Lees-McRae,2014-03-01,H,27,0,W,27
-2014,2,103595,103586.0,Wingate,Catawba,2014-03-05,H,6,9,L,-3
-2014,2,103595,103605.0,Wingate,Ohio Valley,2014-03-10,A,14,9,W,5
-2014,2,103595,103610.0,Wingate,Brevard,2014-03-15,A,17,4,W,13
-2014,2,103595,103589.0,Wingate,Limestone,2014-03-19,A,6,15,L,-9
-2014,2,103595,103601.0,Wingate,Queens (NC),2014-03-22,H,12,13,L,-1
-2014,2,103595,103588.0,Wingate,Lenoir-Rhyne,2014-03-26,A,10,17,L,-7
-2014,2,103595,103615.0,Wingate,Shorter,2014-03-29,H,10,9,W,1
-2014,2,103595,103590.0,Wingate,Mars Hill,2014-04-05,A,13,15,L,-2
-2014,2,103595,103603.0,Wingate,Tusculum,2014-04-12,H,15,3,W,12
 2014,2,103616,,Young Harris,Point U.,2014-02-05,A,13,5,W,8
 2014,2,103616,103591.0,Young Harris,Mount Olive,2014-02-08,H,4,18,L,-14
 2014,2,103616,103595.0,Young Harris,Wingate,2014-02-16,A,6,12,L,-6
@@ -761,3 +748,16 @@ academic_year,division,team_org_id,opp_org_id,team_name,opp_name,game_date,locat
 2014,2,103616,,Young Harris,Reinhardt,2014-04-02,H,11,10,W,1
 2014,2,103616,103783.0,Young Harris,"Huntingdon @ Atlanta, Ga.",2014-04-09,H,10,8,W,2
 2014,2,103616,103615.0,Young Harris,Shorter,2014-04-12,A,5,15,L,-10
+2014,2,103595,103616.0,Wingate,Young Harris,2014-02-16 00:00:00,H,12,6,W,6
+2014,2,103595,103591.0,Wingate,Mount Olive,2014-02-22 00:00:00,H,15,14,W,1
+2014,2,103595,103587.0,Wingate,Coker,2014-02-26 00:00:00,A,10,15,L,-5
+2014,2,103595,103604.0,Wingate,Lees-McRae,2014-03-01 00:00:00,H,27,0,W,27
+2014,2,103595,103586.0,Wingate,Catawba,2014-03-05 00:00:00,H,6,9,L,-3
+2014,2,103595,103605.0,Wingate,Ohio Valley,2014-03-10 00:00:00,A,14,9,W,5
+2014,2,103595,103610.0,Wingate,Brevard,2014-03-15 00:00:00,A,17,4,W,13
+2014,2,103595,103589.0,Wingate,Limestone,2014-03-19 00:00:00,A,6,15,L,-9
+2014,2,103595,103601.0,Wingate,Queens (NC),2014-03-22 00:00:00,H,12,13,L,-1
+2014,2,103595,103588.0,Wingate,Lenoir-Rhyne,2014-03-26 00:00:00,A,10,17,L,-7
+2014,2,103595,103615.0,Wingate,Shorter,2014-03-29 00:00:00,H,10,9,W,1
+2014,2,103595,103590.0,Wingate,Mars Hill,2014-04-05 00:00:00,A,13,15,L,-2
+2014,2,103595,103603.0,Wingate,Tusculum,2014-04-12 00:00:00,H,15,3,W,12

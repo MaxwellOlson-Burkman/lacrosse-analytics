@@ -205,15 +205,6 @@ academic_year,division,team_org_id,opp_org_id,team_name,opp_name,game_date,locat
 2016,2,24040,24029.0,Colorado Mesa,Rockhurst,2016-04-30,A,15,9,W,6
 2016,2,24040,24019.0,Colorado Mesa,Adams St.,2016-05-06,H,9,6,W,3
 2016,2,24040,24057.0,Colorado Mesa,Westminster (UT),2016-05-07,H,8,6,W,2
-2016,2,23998,24055.0,Davis & Elkins,Young Harris,2016-03-05,A,1,18,L,-17
-2016,2,23998,24054.0,Davis & Elkins,Shorter,2016-03-08,A,4,26,L,-22
-2016,2,23998,24050.0,Davis & Elkins,Brevard,2016-03-10,A,6,21,L,-15
-2016,2,23998,,Davis & Elkins,Cumberlands (KY),2016-03-12,A,7,18,L,-11
-2016,2,23998,23994.0,Davis & Elkins,UAH,2016-04-03,H,9,10,L,-1
-2016,2,23998,24042.0,Davis & Elkins,Wheeling,2016-04-06,A,3,33,L,-30
-2016,2,23998,24020.0,Davis & Elkins,Alderson Broaddus,2016-04-21,A,4,26,L,-22
-2016,2,23998,24026.0,Davis & Elkins,"Mars Hill @ Charleston, W. Va.",2016-04-23,H,3,16,L,-13
-2016,2,23998,24045.0,Davis & Elkins,Ohio Valley,2016-04-30,A,6,19,L,-13
 2016,2,23999,24028.0,Dist. Columbia,Post,2016-02-27,H,10,19,L,-9
 2016,2,23999,24037.0,Dist. Columbia,Dominican (NY),2016-03-04,H,8,9,L,-1
 2016,2,23999,24031.0,Dist. Columbia,St. Thomas Aquinas,2016-03-12,A,13,7,W,6
@@ -945,3 +936,12 @@ academic_year,division,team_org_id,opp_org_id,team_name,opp_name,game_date,locat
 2016,2,24055,24056.0,Young Harris,Emmanuel (GA),2016-04-06,H,19,11,W,8
 2016,2,24055,23994.0,Young Harris,UAH,2016-04-09,A,14,3,W,11
 2016,2,24055,24054.0,Young Harris,Shorter,2016-04-16,A,11,13,L,-2
+2016,2,23998,24055.0,Davis & Elkins,Young Harris,2016-03-05 00:00:00,A,1,18,L,-17
+2016,2,23998,24054.0,Davis & Elkins,Shorter,2016-03-08 00:00:00,A,4,26,L,-22
+2016,2,23998,24050.0,Davis & Elkins,Brevard,2016-03-10 00:00:00,A,6,21,L,-15
+2016,2,23998,,Davis & Elkins,Cumberlands (KY),2016-03-12 00:00:00,A,7,18,L,-11
+2016,2,23998,23994.0,Davis & Elkins,UAH,2016-04-03 00:00:00,H,9,10,L,-1
+2016,2,23998,24042.0,Davis & Elkins,Wheeling,2016-04-06 00:00:00,A,3,33,L,-30
+2016,2,23998,24020.0,Davis & Elkins,Alderson Broaddus,2016-04-21 00:00:00,A,4,26,L,-22
+2016,2,23998,24026.0,Davis & Elkins,"Mars Hill @ Charleston, W. Va.",2016-04-23 00:00:00,H,3,16,L,-13
+2016,2,23998,24045.0,Davis & Elkins,Ohio Valley,2016-04-30 00:00:00,A,6,19,L,-13
