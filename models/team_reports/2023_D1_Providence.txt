@@ -2,22 +2,27 @@ Team: Providence
 Season: 2023 D1
 Record: 6-9
 Winning %: 0.400
-Predicted Winning %: 0.296
+Predicted Winning %: 0.400
 
 Stat Comparison vs League Average:
-  points_per_game: 17.200 (0.441 below average)
-  scoring_defense: 14.270 (3.034 above average)
+  Win % (from schedule): 0.400 (0.087 below average)
+  caused_turnovers_per_game: 5.330 (2.681 below average)
+  man_up_offense: 0.333 (0.008 below average)
+  defensive_efficiency: 12.845 (2.827 below average)
   scoring_offense: 10.930 (0.383 below average)
-  defensive_efficiency: 12.845 (2.858 below average)
-  scoring_margin: -3.330 (5.060 below average)
-  saves_per_game: 13.800 (1.813 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 25.530 (5.364 below average)
+  offensive_efficiency: 35.954 (2.784 below average)
+  points_per_game: 17.200 (0.467 below average)
+  scoring_margin: -3.330 (4.871 below average)
+  saves_per_game: 13.800 (1.777 above average)
+  rpi: 0.479 (0.020 below average)
+  scoring_defense: 14.270 (2.996 above average)
   clearing_percentage: 0.820 (0.023 below average)
-  possession_value_index: 0.133 (0.036 below average)
+  face_off_winning_percentage: 0.400 (0.102 below average)
+  ground_balls_per_game: 25.530 (5.405 below average)
+  possession_value_index: 0.133 (0.034 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 39 of 72
   Avg opponent win %: 0.483
   Model schedule difficulty rank: 39 of 72
-  Schedule difficulty score: 0.483
+  Schedule difficulty score: 0.484

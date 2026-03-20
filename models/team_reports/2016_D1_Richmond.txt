@@ -2,19 +2,24 @@ Team: Richmond
 Season: 2016 D1
 Record: 11-5
 Winning %: 0.688
-Predicted Winning %: 0.663
+Predicted Winning %: 0.688
 
 Stat Comparison vs League Average:
-  points_per_game: 14.380 (3.261 below average)
-  scoring_defense: 7.440 (3.796 below average)
+  Win % (from schedule): 0.688 (0.200 above average)
+  caused_turnovers_per_game: 10.250 (2.239 above average)
+  man_up_offense: 0.323 (0.018 below average)
+  defensive_efficiency: 18.223 (2.551 above average)
   scoring_offense: 8.630 (2.683 below average)
-  defensive_efficiency: 18.223 (2.520 above average)
-  scoring_margin: 1.190 (0.540 below average)
-  saves_per_game: 9.560 (2.427 below average)
-  Win % (from schedule): 0.688 (0.189 above average)
-  ground_balls_per_game: 27.810 (3.084 below average)
+  offensive_efficiency: 33.976 (4.762 below average)
+  points_per_game: 14.380 (3.287 below average)
+  scoring_margin: 1.190 (0.351 below average)
+  saves_per_game: 9.560 (2.463 below average)
+  rpi: 0.542 (0.043 above average)
+  scoring_defense: 7.440 (3.834 below average)
   clearing_percentage: 0.917 (0.074 above average)
-  possession_value_index: 0.224 (0.054 above average)
+  face_off_winning_percentage: 0.523 (0.021 above average)
+  ground_balls_per_game: 27.810 (3.125 below average)
+  possession_value_index: 0.224 (0.057 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 50 of 68

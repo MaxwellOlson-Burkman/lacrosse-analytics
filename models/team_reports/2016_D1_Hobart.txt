@@ -2,19 +2,24 @@ Team: Hobart
 Season: 2016 D1
 Record: 10-7
 Winning %: 0.588
-Predicted Winning %: 0.519
+Predicted Winning %: 0.588
 
 Stat Comparison vs League Average:
-  points_per_game: 13.410 (4.231 below average)
-  scoring_defense: 10.120 (1.116 below average)
+  Win % (from schedule): 0.588 (0.101 above average)
+  caused_turnovers_per_game: 6.120 (1.891 below average)
+  man_up_offense: 0.295 (0.046 below average)
+  defensive_efficiency: 17.024 (1.352 above average)
   scoring_offense: 9.240 (2.073 below average)
-  defensive_efficiency: 17.024 (1.321 above average)
-  scoring_margin: -0.880 (2.610 below average)
-  saves_per_game: 10.880 (1.107 below average)
-  Win % (from schedule): 0.588 (0.090 above average)
-  ground_balls_per_game: 26.000 (4.894 below average)
+  offensive_efficiency: 35.953 (2.785 below average)
+  points_per_game: 13.410 (4.257 below average)
+  scoring_margin: -0.880 (2.421 below average)
+  saves_per_game: 10.880 (1.143 below average)
+  rpi: 0.508 (0.009 above average)
+  scoring_defense: 10.120 (1.154 below average)
   clearing_percentage: 0.906 (0.063 above average)
-  possession_value_index: 0.261 (0.091 above average)
+  face_off_winning_percentage: 0.551 (0.049 above average)
+  ground_balls_per_game: 26.000 (4.935 below average)
+  possession_value_index: 0.261 (0.093 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 55 of 68

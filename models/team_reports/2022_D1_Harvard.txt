@@ -2,22 +2,27 @@ Team: Harvard
 Season: 2022 D1
 Record: 8-5
 Winning %: 0.615
-Predicted Winning %: 0.507
+Predicted Winning %: 0.615
 
 Stat Comparison vs League Average:
-  points_per_game: 19.540 (1.899 above average)
-  scoring_defense: 12.230 (0.994 above average)
+  Win % (from schedule): 0.615 (0.128 above average)
+  caused_turnovers_per_game: 10.080 (2.069 above average)
+  man_up_offense: 0.279 (0.062 below average)
+  defensive_efficiency: 14.169 (1.503 below average)
   scoring_offense: 13.150 (1.837 above average)
-  defensive_efficiency: 14.169 (1.534 below average)
-  scoring_margin: 0.920 (0.810 below average)
-  saves_per_game: 12.380 (0.393 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.620 (2.726 above average)
+  offensive_efficiency: 41.094 (2.356 above average)
+  points_per_game: 19.540 (1.873 above average)
+  scoring_margin: 0.920 (0.621 below average)
+  saves_per_game: 12.380 (0.357 above average)
+  rpi: 0.566 (0.067 above average)
+  scoring_defense: 12.230 (0.956 above average)
   clearing_percentage: 0.814 (0.029 below average)
-  possession_value_index: 0.109 (0.061 below average)
+  face_off_winning_percentage: 0.397 (0.105 below average)
+  ground_balls_per_game: 33.620 (2.685 above average)
+  possession_value_index: 0.109 (0.058 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 14 of 72
   Avg opponent win %: 0.550
   Model schedule difficulty rank: 14 of 72
-  Schedule difficulty score: 0.550
+  Schedule difficulty score: 0.549

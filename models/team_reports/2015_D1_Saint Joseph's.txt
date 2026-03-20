@@ -2,22 +2,27 @@ Team: Saint Joseph's
 Season: 2015 D1
 Record: 11-6
 Winning %: 0.647
-Predicted Winning %: 0.709
+Predicted Winning %: 0.647
 
 Stat Comparison vs League Average:
-  points_per_game: 16.710 (0.931 below average)
-  scoring_defense: 7.650 (3.586 below average)
+  Win % (from schedule): 0.647 (0.160 above average)
+  caused_turnovers_per_game: 8.000 (0.011 below average)
+  man_up_offense: 0.458 (0.117 above average)
+  defensive_efficiency: 19.209 (3.537 above average)
   scoring_offense: 10.710 (0.603 below average)
-  defensive_efficiency: 19.209 (3.506 above average)
-  scoring_margin: 3.060 (1.330 above average)
-  saves_per_game: 9.530 (2.457 below average)
-  Win % (from schedule): 0.647 (0.149 above average)
-  ground_balls_per_game: 30.590 (0.304 below average)
+  offensive_efficiency: 39.667 (0.929 above average)
+  points_per_game: 16.710 (0.957 below average)
+  scoring_margin: 3.060 (1.519 above average)
+  saves_per_game: 9.530 (2.493 below average)
+  rpi: 0.491 (0.008 below average)
+  scoring_defense: 7.650 (3.624 below average)
   clearing_percentage: 0.886 (0.043 above average)
-  possession_value_index: 0.248 (0.079 above average)
+  face_off_winning_percentage: 0.512 (0.010 above average)
+  ground_balls_per_game: 30.590 (0.345 below average)
+  possession_value_index: 0.248 (0.081 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 63 of 68
   Avg opponent win %: 0.423
   Model schedule difficulty rank: 63 of 68
-  Schedule difficulty score: 0.424
+  Schedule difficulty score: 0.425

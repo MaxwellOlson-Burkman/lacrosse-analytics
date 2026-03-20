@@ -2,20 +2,27 @@ Team: Yale
 Season: 2017 D1
 Record: 10-6
 Winning %: 0.625
-Predicted Winning %: 0.641
+Predicted Winning %: 0.625
 
 Stat Comparison vs League Average:
-  points_per_game: 20.940 (3.299 above average)
-  scoring_defense: 10.310 (0.926 below average)
+  Win % (from schedule): 0.625 (0.138 above average)
+  caused_turnovers_per_game: 5.560 (2.451 below average)
+  man_up_offense: 0.171 (0.170 below average)
+  defensive_efficiency: 15.169 (0.503 below average)
   scoring_offense: 12.940 (1.627 above average)
-  defensive_efficiency: 15.169 (0.534 below average)
-  scoring_margin: 2.630 (0.900 above average)
-  saves_per_game: 9.380 (2.607 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.310 (1.416 above average)
+  offensive_efficiency: 41.210 (2.472 above average)
+  points_per_game: 20.940 (3.273 above average)
+  scoring_margin: 2.630 (1.089 above average)
+  saves_per_game: 9.380 (2.643 below average)
+  rpi: 0.556 (0.056 above average)
+  scoring_defense: 10.310 (0.964 below average)
   clearing_percentage: 0.877 (0.034 above average)
-  possession_value_index: 0.313 (0.144 above average)
+  face_off_winning_percentage: 0.605 (0.103 above average)
+  ground_balls_per_game: 32.310 (1.375 above average)
+  possession_value_index: 0.313 (0.146 above average)
 
 Strength of schedule:
-  Model schedule difficulty rank: 1 of 70
-  Schedule difficulty score: 0.495
+  Stats-based SOS rank: 24 of 70
+  Avg opponent win %: 0.523
+  Model schedule difficulty rank: 24 of 70
+  Schedule difficulty score: 0.523

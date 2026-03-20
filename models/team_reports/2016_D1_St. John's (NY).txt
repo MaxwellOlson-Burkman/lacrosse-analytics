@@ -2,22 +2,27 @@ Team: St. John's (NY)
 Season: 2016 D1
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.190
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 13.430 (4.211 below average)
-  scoring_defense: 13.430 (2.194 above average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 4.430 (3.581 below average)
+  man_up_offense: 0.368 (0.027 above average)
+  defensive_efficiency: 13.243 (2.429 below average)
   scoring_offense: 8.140 (3.173 below average)
-  defensive_efficiency: 13.243 (2.460 below average)
-  scoring_margin: -5.290 (7.020 below average)
-  saves_per_game: 11.710 (0.277 below average)
-  Win % (from schedule): 0.143 (0.356 below average)
-  ground_balls_per_game: 26.430 (4.464 below average)
+  offensive_efficiency: 33.498 (5.240 below average)
+  points_per_game: 13.430 (4.237 below average)
+  scoring_margin: -5.290 (6.831 below average)
+  saves_per_game: 11.710 (0.313 below average)
+  rpi: 0.442 (0.057 below average)
+  scoring_defense: 13.430 (2.156 above average)
   clearing_percentage: 0.875 (0.032 above average)
-  possession_value_index: 0.212 (0.043 above average)
+  face_off_winning_percentage: 0.432 (0.070 below average)
+  ground_balls_per_game: 26.430 (4.505 below average)
+  possession_value_index: 0.212 (0.045 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 10 of 68
   Avg opponent win %: 0.564
   Model schedule difficulty rank: 9 of 68
-  Schedule difficulty score: 0.564
+  Schedule difficulty score: 0.565

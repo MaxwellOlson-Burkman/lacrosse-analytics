@@ -2,19 +2,24 @@ Team: Saint Rose
 Season: 2016 D2
 Record: 3-13
 Winning %: 0.188
-Predicted Winning %: 0.332
+Predicted Winning %: 0.188
 
 Stat Comparison vs League Average:
-  points_per_game: 12.440 (5.201 below average)
-  scoring_defense: 9.630 (1.606 below average)
+  Win % (from schedule): 0.188 (0.300 below average)
+  caused_turnovers_per_game: 7.380 (0.631 below average)
+  man_up_offense: 0.246 (0.095 below average)
+  defensive_efficiency: 17.625 (1.953 above average)
   scoring_offense: 8.000 (3.313 below average)
-  defensive_efficiency: 17.625 (1.922 above average)
-  scoring_margin: 4.030 (2.300 above average)
-  saves_per_game: 12.000 (0.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.000 (0.894 below average)
+  offensive_efficiency: 31.373 (7.365 below average)
+  points_per_game: 12.440 (5.227 below average)
+  scoring_margin: 4.030 (2.489 above average)
+  saves_per_game: 12.000 (0.023 below average)
+  rpi: 0.429 (0.070 below average)
+  scoring_defense: 9.630 (1.644 below average)
   clearing_percentage: 0.788 (0.055 below average)
-  possession_value_index: 0.074 (0.095 below average)
+  face_off_winning_percentage: 0.531 (0.029 above average)
+  ground_balls_per_game: 30.000 (0.935 below average)
+  possession_value_index: 0.074 (0.093 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 25 of 63

@@ -1,0 +1,28 @@
+Team: Chowan
+Season: 2025 D2
+Record: 1-11
+Winning %: 0.083
+Predicted Winning %: 0.084
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.083 (0.404 below average)
+  caused_turnovers_per_game: 9.420 (1.409 above average)
+  man_up_offense: 0.279 (0.062 below average)
+  defensive_efficiency: 10.379 (5.293 below average)
+  scoring_offense: 8.170 (3.143 below average)
+  offensive_efficiency: 28.667 (10.071 below average)
+  points_per_game: 13.250 (4.417 below average)
+  scoring_margin: -9.420 (10.961 below average)
+  saves_per_game: 14.580 (2.557 above average)
+  rpi: 0.345 (0.154 below average)
+  scoring_defense: 17.580 (6.306 above average)
+  clearing_percentage: 0.779 (0.064 below average)
+  face_off_winning_percentage: 0.374 (0.128 below average)
+  ground_balls_per_game: 26.080 (4.855 below average)
+  possession_value_index: 0.047 (0.120 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 68 of 78
+  Avg opponent win %: 0.422
+  Model schedule difficulty rank: 68 of 78
+  Schedule difficulty score: 0.421

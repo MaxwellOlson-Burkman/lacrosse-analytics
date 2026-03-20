@@ -1,0 +1,28 @@
+Team: Maryville (MO)
+Season: 2025 D2
+Record: 14-5
+Winning %: 0.737
+Predicted Winning %: 0.737
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.737 (0.250 above average)
+  caused_turnovers_per_game: 10.630 (2.619 above average)
+  man_up_offense: 0.406 (0.065 above average)
+  defensive_efficiency: 17.052 (1.380 above average)
+  scoring_offense: 13.580 (2.267 above average)
+  offensive_efficiency: 49.382 (10.644 above average)
+  points_per_game: 21.580 (3.913 above average)
+  scoring_margin: 4.680 (3.139 above average)
+  saves_per_game: 8.790 (3.233 below average)
+  rpi: 0.604 (0.105 above average)
+  scoring_defense: 8.890 (2.384 below average)
+  clearing_percentage: 0.882 (0.039 above average)
+  face_off_winning_percentage: 0.574 (0.072 above average)
+  ground_balls_per_game: 37.260 (6.325 above average)
+  possession_value_index: 0.174 (0.007 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 11 of 78
+  Avg opponent win %: 0.558
+  Model schedule difficulty rank: 11 of 78
+  Schedule difficulty score: 0.558

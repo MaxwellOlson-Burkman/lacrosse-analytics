@@ -2,19 +2,24 @@ Team: Utah
 Season: 2019 D1
 Record: 5-10
 Winning %: 0.333
-Predicted Winning %: 0.271
+Predicted Winning %: 0.333
 
 Stat Comparison vs League Average:
-  points_per_game: 15.130 (2.511 below average)
-  scoring_defense: 13.130 (1.894 above average)
+  Win % (from schedule): 0.333 (0.154 below average)
+  caused_turnovers_per_game: 6.870 (1.141 below average)
+  man_up_offense: 0.380 (0.039 above average)
+  defensive_efficiency: 13.605 (2.067 below average)
   scoring_offense: 9.200 (2.113 below average)
-  defensive_efficiency: 13.605 (2.098 below average)
-  scoring_margin: -3.930 (5.660 below average)
-  saves_per_game: 12.600 (0.613 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 25.870 (5.024 below average)
+  offensive_efficiency: 32.056 (6.682 below average)
+  points_per_game: 15.130 (2.537 below average)
+  scoring_margin: -3.930 (5.471 below average)
+  saves_per_game: 12.600 (0.577 above average)
+  rpi: 0.450 (0.049 below average)
+  scoring_defense: 13.130 (1.856 above average)
   clearing_percentage: 0.814 (0.029 below average)
-  possession_value_index: 0.099 (0.071 below average)
+  face_off_winning_percentage: 0.322 (0.180 below average)
+  ground_balls_per_game: 25.870 (5.065 below average)
+  possession_value_index: 0.099 (0.068 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 37 of 73

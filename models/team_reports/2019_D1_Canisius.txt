@@ -2,22 +2,27 @@ Team: Canisius
 Season: 2019 D1
 Record: 8-8
 Winning %: 0.500
-Predicted Winning %: 0.459
+Predicted Winning %: 0.500
 
 Stat Comparison vs League Average:
-  points_per_game: 15.750 (1.891 below average)
-  scoring_defense: 10.190 (1.046 below average)
+  Win % (from schedule): 0.500 (0.013 above average)
+  caused_turnovers_per_game: 7.130 (0.881 below average)
+  man_up_offense: 0.436 (0.095 above average)
+  defensive_efficiency: 15.983 (0.311 above average)
   scoring_offense: 10.560 (0.753 below average)
-  defensive_efficiency: 15.983 (0.280 above average)
-  scoring_margin: 0.380 (1.350 below average)
-  saves_per_game: 11.560 (0.427 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.750 (3.144 below average)
+  offensive_efficiency: 33.955 (4.783 below average)
+  points_per_game: 15.750 (1.917 below average)
+  scoring_margin: 0.380 (1.161 below average)
+  saves_per_game: 11.560 (0.463 below average)
+  rpi: 0.455 (0.044 below average)
+  scoring_defense: 10.190 (1.084 below average)
   clearing_percentage: 0.801 (0.042 below average)
-  possession_value_index: 0.123 (0.047 below average)
+  face_off_winning_percentage: 0.482 (0.020 below average)
+  ground_balls_per_game: 27.750 (3.185 below average)
+  possession_value_index: 0.123 (0.044 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 66 of 73
   Avg opponent win %: 0.418
-  Model schedule difficulty rank: 62 of 73
-  Schedule difficulty score: 0.419
+  Model schedule difficulty rank: 64 of 73
+  Schedule difficulty score: 0.416

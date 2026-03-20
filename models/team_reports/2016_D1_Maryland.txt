@@ -2,19 +2,24 @@ Team: Maryland
 Season: 2016 D1
 Record: 17-3
 Winning %: 0.850
-Predicted Winning %: 0.762
+Predicted Winning %: 0.850
 
 Stat Comparison vs League Average:
-  points_per_game: 18.150 (0.509 above average)
-  scoring_defense: 8.350 (2.886 below average)
+  Win % (from schedule): 0.850 (0.363 above average)
+  caused_turnovers_per_game: 6.350 (1.661 below average)
+  man_up_offense: 0.476 (0.135 above average)
+  defensive_efficiency: 18.215 (2.543 above average)
   scoring_offense: 11.600 (0.287 above average)
-  defensive_efficiency: 18.215 (2.512 above average)
-  scoring_margin: 3.250 (1.520 above average)
-  saves_per_game: 9.700 (2.287 below average)
-  Win % (from schedule): 0.850 (0.352 above average)
-  ground_balls_per_game: 27.800 (3.094 below average)
+  offensive_efficiency: 38.033 (0.705 below average)
+  points_per_game: 18.150 (0.483 above average)
+  scoring_margin: 3.250 (1.709 above average)
+  saves_per_game: 9.700 (2.323 below average)
+  rpi: 0.651 (0.152 above average)
+  scoring_defense: 8.350 (2.924 below average)
   clearing_percentage: 0.910 (0.067 above average)
-  possession_value_index: 0.301 (0.131 above average)
+  face_off_winning_percentage: 0.524 (0.022 above average)
+  ground_balls_per_game: 27.800 (3.135 below average)
+  possession_value_index: 0.301 (0.134 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 1 of 68

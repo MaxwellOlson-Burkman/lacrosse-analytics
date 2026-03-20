@@ -2,22 +2,27 @@ Team: Villanova
 Season: 2019 D1
 Record: 8-7
 Winning %: 0.533
-Predicted Winning %: 0.473
+Predicted Winning %: 0.533
 
 Stat Comparison vs League Average:
-  points_per_game: 18.130 (0.489 above average)
-  scoring_defense: 11.730 (0.494 above average)
+  Win % (from schedule): 0.533 (0.046 above average)
+  caused_turnovers_per_game: 7.400 (0.611 below average)
+  man_up_offense: 0.382 (0.041 above average)
+  defensive_efficiency: 15.106 (0.566 below average)
   scoring_offense: 11.330 (0.017 above average)
-  defensive_efficiency: 15.106 (0.597 below average)
-  scoring_margin: -0.400 (2.130 below average)
-  saves_per_game: 11.670 (0.317 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.070 (1.824 below average)
+  offensive_efficiency: 40.903 (2.165 above average)
+  points_per_game: 18.130 (0.463 above average)
+  scoring_margin: -0.400 (1.941 below average)
+  saves_per_game: 11.670 (0.353 below average)
+  rpi: 0.553 (0.054 above average)
+  scoring_defense: 11.730 (0.456 above average)
   clearing_percentage: 0.870 (0.027 above average)
-  possession_value_index: 0.204 (0.034 above average)
+  face_off_winning_percentage: 0.499 (0.003 below average)
+  ground_balls_per_game: 29.070 (1.865 below average)
+  possession_value_index: 0.204 (0.037 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 10 of 73
   Avg opponent win %: 0.569
   Model schedule difficulty rank: 10 of 73
-  Schedule difficulty score: 0.568
+  Schedule difficulty score: 0.569

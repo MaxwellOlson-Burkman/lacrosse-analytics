@@ -2,19 +2,24 @@ Team: Flagler
 Season: 2024 D2
 Record: 7-9
 Winning %: 0.438
-Predicted Winning %: 0.436
+Predicted Winning %: 0.438
 
 Stat Comparison vs League Average:
-  points_per_game: 19.000 (1.359 above average)
-  scoring_defense: 12.690 (1.454 above average)
+  Win % (from schedule): 0.438 (0.050 below average)
+  caused_turnovers_per_game: 7.940 (0.071 below average)
+  man_up_offense: 0.270 (0.071 below average)
+  defensive_efficiency: 14.734 (0.938 below average)
   scoring_offense: 12.380 (1.067 above average)
-  defensive_efficiency: 14.734 (0.969 below average)
-  scoring_margin: -0.310 (2.040 below average)
-  saves_per_game: 11.880 (0.107 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.880 (0.986 above average)
+  offensive_efficiency: 41.544 (2.806 above average)
+  points_per_game: 19.000 (1.333 above average)
+  scoring_margin: -0.310 (1.851 below average)
+  saves_per_game: 11.880 (0.143 below average)
+  rpi: 0.544 (0.045 above average)
+  scoring_defense: 12.690 (1.416 above average)
   clearing_percentage: 0.823 (0.020 below average)
-  possession_value_index: 0.169 (0.001 below average)
+  face_off_winning_percentage: 0.536 (0.034 above average)
+  ground_balls_per_game: 31.880 (0.945 above average)
+  possession_value_index: 0.169 (0.002 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 5 of 79

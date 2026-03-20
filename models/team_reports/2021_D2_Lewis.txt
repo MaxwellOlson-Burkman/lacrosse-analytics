@@ -2,22 +2,27 @@ Team: Lewis
 Season: 2021 D2
 Record: 5-7
 Winning %: 0.417
-Predicted Winning %: 0.521
+Predicted Winning %: 0.417
 
 Stat Comparison vs League Average:
-  points_per_game: 18.920 (1.279 above average)
-  scoring_defense: 10.500 (0.736 below average)
+  Win % (from schedule): 0.417 (0.071 below average)
+  caused_turnovers_per_game: 8.420 (0.409 above average)
+  man_up_offense: 0.224 (0.117 below average)
+  defensive_efficiency: 17.200 (1.528 above average)
   scoring_offense: 11.170 (0.143 below average)
-  defensive_efficiency: 17.200 (1.497 above average)
-  scoring_margin: 6.375 (4.645 above average)
-  saves_per_game: 13.250 (1.263 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.500 (0.394 below average)
+  offensive_efficiency: 38.385 (0.353 below average)
+  points_per_game: 18.920 (1.253 above average)
+  scoring_margin: 6.375 (4.834 above average)
+  saves_per_game: 13.250 (1.227 above average)
+  rpi: 0.463 (0.036 below average)
+  scoring_defense: 10.500 (0.774 below average)
   clearing_percentage: 0.858 (0.015 above average)
-  possession_value_index: 0.104 (0.066 below average)
+  face_off_winning_percentage: 0.538 (0.036 above average)
+  ground_balls_per_game: 30.500 (0.435 below average)
+  possession_value_index: 0.104 (0.063 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 43 of 69
   Avg opponent win %: 0.467
   Model schedule difficulty rank: 43 of 69
-  Schedule difficulty score: 0.467
+  Schedule difficulty score: 0.468

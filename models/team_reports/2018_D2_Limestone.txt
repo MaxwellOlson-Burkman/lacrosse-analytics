@@ -2,19 +2,24 @@ Team: Limestone
 Season: 2018 D2
 Record: 11-8
 Winning %: 0.579
-Predicted Winning %: 0.712
+Predicted Winning %: 0.579
 
 Stat Comparison vs League Average:
-  points_per_game: 21.110 (3.469 above average)
-  scoring_defense: 9.580 (1.656 below average)
+  Win % (from schedule): 0.579 (0.092 above average)
+  caused_turnovers_per_game: 6.580 (1.431 below average)
+  man_up_offense: 0.323 (0.018 below average)
+  defensive_efficiency: 17.300 (1.628 above average)
   scoring_offense: 14.160 (2.847 above average)
-  defensive_efficiency: 17.300 (1.597 above average)
-  scoring_margin: 4.580 (2.850 above average)
-  saves_per_game: 10.950 (1.037 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.680 (2.786 above average)
+  offensive_efficiency: 43.040 (4.302 above average)
+  points_per_game: 21.110 (3.443 above average)
+  scoring_margin: 4.580 (3.039 above average)
+  saves_per_game: 10.950 (1.073 below average)
+  rpi: 0.581 (0.082 above average)
+  scoring_defense: 9.580 (1.694 below average)
   clearing_percentage: 0.851 (0.008 above average)
-  possession_value_index: 0.248 (0.078 above average)
+  face_off_winning_percentage: 0.555 (0.053 above average)
+  ground_balls_per_game: 33.680 (2.745 above average)
+  possession_value_index: 0.248 (0.081 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 4 of 68

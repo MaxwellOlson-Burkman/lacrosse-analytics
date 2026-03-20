@@ -2,19 +2,24 @@ Team: Chowan
 Season: 2017 D2
 Record: 1-12
 Winning %: 0.077
-Predicted Winning %: 0.206
+Predicted Winning %: 0.077
 
 Stat Comparison vs League Average:
-  points_per_game: 14.770 (2.871 below average)
-  scoring_defense: 9.875 (1.361 below average)
+  Win % (from schedule): 0.077 (0.410 below average)
+  caused_turnovers_per_game: 7.850 (0.161 below average)
+  man_up_offense: 0.320 (0.021 below average)
+  defensive_efficiency: 18.938 (3.266 above average)
   scoring_offense: 9.540 (1.773 below average)
-  defensive_efficiency: 18.938 (3.235 above average)
-  scoring_margin: 5.035 (3.305 above average)
-  saves_per_game: 17.310 (5.323 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 24.380 (6.514 below average)
+  offensive_efficiency: 28.997 (9.741 below average)
+  points_per_game: 14.770 (2.897 below average)
+  scoring_margin: 5.035 (3.494 above average)
+  saves_per_game: 17.310 (5.287 above average)
+  rpi: 0.370 (0.129 below average)
+  scoring_defense: 9.875 (1.399 below average)
   clearing_percentage: 0.760 (0.083 below average)
-  possession_value_index: 0.149 (0.021 below average)
+  face_off_winning_percentage: 0.520 (0.019 above average)
+  ground_balls_per_game: 24.380 (6.555 below average)
+  possession_value_index: 0.149 (0.018 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 44 of 65

@@ -2,22 +2,27 @@ Team: Marquette
 Season: 2014 D1
 Record: 6-10
 Winning %: 0.375
-Predicted Winning %: 0.338
+Predicted Winning %: 0.375
 
 Stat Comparison vs League Average:
-  points_per_game: 13.810 (3.831 below average)
-  scoring_defense: 11.560 (0.324 above average)
+  Win % (from schedule): 0.375 (0.112 below average)
+  caused_turnovers_per_game: 6.190 (1.821 below average)
+  man_up_offense: 0.411 (0.070 above average)
+  defensive_efficiency: 13.232 (2.440 below average)
   scoring_offense: 9.250 (2.063 below average)
-  defensive_efficiency: 13.232 (2.471 below average)
-  scoring_margin: -2.310 (4.040 below average)
-  saves_per_game: 8.190 (3.797 below average)
-  Win % (from schedule): 0.375 (0.123 below average)
-  ground_balls_per_game: 26.440 (4.454 below average)
+  offensive_efficiency: 32.230 (6.508 below average)
+  points_per_game: 13.810 (3.857 below average)
+  scoring_margin: -2.310 (3.851 below average)
+  saves_per_game: 8.190 (3.833 below average)
+  rpi: 0.478 (0.021 below average)
+  scoring_defense: 11.560 (0.286 above average)
   clearing_percentage: 0.883 (0.040 above average)
-  possession_value_index: 0.219 (0.050 above average)
+  face_off_winning_percentage: 0.441 (0.061 below average)
+  ground_balls_per_game: 26.440 (4.495 below average)
+  possession_value_index: 0.219 (0.052 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 24 of 67
   Avg opponent win %: 0.523
-  Model schedule difficulty rank: 24 of 67
-  Schedule difficulty score: 0.521
+  Model schedule difficulty rank: 23 of 67
+  Schedule difficulty score: 0.523

@@ -2,19 +2,24 @@ Team: Sacred Heart
 Season: 2015 D1
 Record: 6-7
 Winning %: 0.462
-Predicted Winning %: 0.312
+Predicted Winning %: 0.462
 
 Stat Comparison vs League Average:
-  points_per_game: 13.540 (4.101 below average)
-  scoring_defense: 11.690 (0.454 above average)
+  Win % (from schedule): 0.462 (0.026 below average)
+  caused_turnovers_per_game: 7.150 (0.861 below average)
+  man_up_offense: 0.236 (0.105 below average)
+  defensive_efficiency: 14.340 (1.332 below average)
   scoring_offense: 8.620 (2.693 below average)
-  defensive_efficiency: 14.340 (1.363 below average)
-  scoring_margin: -3.080 (4.810 below average)
-  saves_per_game: 11.150 (0.837 below average)
-  Win % (from schedule): 0.462 (0.037 below average)
-  ground_balls_per_game: 28.150 (2.744 below average)
+  offensive_efficiency: 32.285 (6.453 below average)
+  points_per_game: 13.540 (4.127 below average)
+  scoring_margin: -3.080 (4.621 below average)
+  saves_per_game: 11.150 (0.873 below average)
+  rpi: 0.450 (0.049 below average)
+  scoring_defense: 11.690 (0.416 above average)
   clearing_percentage: 0.810 (0.033 below average)
-  possession_value_index: 0.148 (0.022 below average)
+  face_off_winning_percentage: 0.516 (0.014 above average)
+  ground_balls_per_game: 28.150 (2.785 below average)
+  possession_value_index: 0.148 (0.019 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 62 of 68

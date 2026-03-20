@@ -2,19 +2,24 @@ Team: Fairfield
 Season: 2014 D1
 Record: 12-4
 Winning %: 0.750
-Predicted Winning %: 0.737
+Predicted Winning %: 0.750
 
 Stat Comparison vs League Average:
-  points_per_game: 17.000 (0.641 below average)
-  scoring_defense: 8.440 (2.796 below average)
+  Win % (from schedule): 0.750 (0.263 above average)
+  caused_turnovers_per_game: 6.880 (1.131 below average)
+  man_up_offense: 0.356 (0.015 above average)
+  defensive_efficiency: 18.077 (2.405 above average)
   scoring_offense: 11.310 (0.003 below average)
-  defensive_efficiency: 18.077 (2.374 above average)
-  scoring_margin: 2.880 (1.150 above average)
-  saves_per_game: 9.940 (2.047 below average)
-  Win % (from schedule): 0.750 (0.252 above average)
-  ground_balls_per_game: 28.690 (2.204 below average)
+  offensive_efficiency: 30.650 (8.087 below average)
+  points_per_game: 17.000 (0.667 below average)
+  scoring_margin: 2.880 (1.339 above average)
+  saves_per_game: 9.940 (2.083 below average)
+  rpi: 0.543 (0.043 above average)
+  scoring_defense: 8.440 (2.834 below average)
   clearing_percentage: 0.881 (0.038 above average)
-  possession_value_index: 0.239 (0.070 above average)
+  face_off_winning_percentage: 0.476 (0.026 below average)
+  ground_balls_per_game: 28.690 (2.245 below average)
+  possession_value_index: 0.239 (0.072 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 50 of 67

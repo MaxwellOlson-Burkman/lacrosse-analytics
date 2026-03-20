@@ -2,22 +2,27 @@ Team: Montevallo
 Season: 2024 D2
 Record: 9-6
 Winning %: 0.600
-Predicted Winning %: 0.692
+Predicted Winning %: 0.600
 
 Stat Comparison vs League Average:
-  points_per_game: 25.530 (7.889 above average)
-  scoring_defense: 11.930 (0.694 above average)
+  Win % (from schedule): 0.600 (0.113 above average)
+  caused_turnovers_per_game: 10.670 (2.659 above average)
+  man_up_offense: 0.361 (0.020 above average)
+  defensive_efficiency: 15.881 (0.209 above average)
   scoring_offense: 15.600 (4.287 above average)
-  defensive_efficiency: 15.881 (0.178 above average)
-  scoring_margin: 3.670 (1.940 above average)
-  saves_per_game: 14.470 (2.483 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 43.070 (12.176 above average)
+  offensive_efficiency: 45.087 (6.349 above average)
+  points_per_game: 25.530 (7.863 above average)
+  scoring_margin: 3.670 (2.129 above average)
+  saves_per_game: 14.470 (2.447 above average)
+  rpi: 0.517 (0.017 above average)
+  scoring_defense: 11.930 (0.656 above average)
   clearing_percentage: 0.841 (0.002 below average)
-  possession_value_index: 0.000 (0.170 below average)
+  face_off_winning_percentage: 0.663 (0.161 above average)
+  ground_balls_per_game: 43.070 (12.135 above average)
+  possession_value_index: N/A (league average 0.167)
 
 Strength of schedule:
   Stats-based SOS rank: 53 of 79
   Avg opponent win %: 0.471
   Model schedule difficulty rank: 53 of 79
-  Schedule difficulty score: 0.472
+  Schedule difficulty score: 0.471

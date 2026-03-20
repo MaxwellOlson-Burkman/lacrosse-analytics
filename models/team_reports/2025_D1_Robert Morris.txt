@@ -1,0 +1,28 @@
+Team: Robert Morris
+Season: 2025 D1
+Record: 11-6
+Winning %: 0.647
+Predicted Winning %: 0.647
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.647 (0.160 above average)
+  caused_turnovers_per_game: 7.940 (0.071 below average)
+  man_up_offense: 0.346 (0.005 above average)
+  defensive_efficiency: 17.260 (1.588 above average)
+  scoring_offense: 11.940 (0.627 above average)
+  offensive_efficiency: 39.406 (0.668 above average)
+  points_per_game: 20.410 (2.743 above average)
+  scoring_margin: 1.760 (0.219 above average)
+  saves_per_game: 12.000 (0.023 below average)
+  rpi: 0.529 (0.030 above average)
+  scoring_defense: 10.180 (1.094 below average)
+  clearing_percentage: 0.856 (0.013 above average)
+  face_off_winning_percentage: 0.613 (0.111 above average)
+  ground_balls_per_game: 36.120 (5.185 above average)
+  possession_value_index: 0.185 (0.018 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 43 of 74
+  Avg opponent win %: 0.477
+  Model schedule difficulty rank: 43 of 74
+  Schedule difficulty score: 0.478

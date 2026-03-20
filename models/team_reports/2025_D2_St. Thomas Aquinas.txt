@@ -1,0 +1,28 @@
+Team: St. Thomas Aquinas
+Season: 2025 D2
+Record: 4-10
+Winning %: 0.286
+Predicted Winning %: 0.286
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.286 (0.202 below average)
+  caused_turnovers_per_game: 7.360 (0.651 below average)
+  man_up_offense: 0.198 (0.143 below average)
+  defensive_efficiency: 13.917 (1.755 below average)
+  scoring_offense: 11.210 (0.103 below average)
+  offensive_efficiency: 33.463 (5.275 below average)
+  points_per_game: 18.570 (0.903 above average)
+  scoring_margin: -3.500 (5.041 below average)
+  saves_per_game: 17.140 (5.117 above average)
+  rpi: 0.429 (0.070 below average)
+  scoring_defense: 14.710 (3.436 above average)
+  clearing_percentage: 0.694 (0.149 below average)
+  face_off_winning_percentage: 0.617 (0.115 above average)
+  ground_balls_per_game: 39.570 (8.635 above average)
+  possession_value_index: N/A (league average 0.167)
+
+Strength of schedule:
+  Stats-based SOS rank: 47 of 78
+  Avg opponent win %: 0.485
+  Model schedule difficulty rank: 46 of 78
+  Schedule difficulty score: 0.484

@@ -2,19 +2,24 @@ Team: NJIT
 Season: 2016 D1
 Record: 1-14
 Winning %: 0.067
-Predicted Winning %: 0.064
+Predicted Winning %: 0.067
 
 Stat Comparison vs League Average:
-  points_per_game: 8.930 (8.711 below average)
-  scoring_defense: 13.800 (2.564 above average)
+  Win % (from schedule): 0.067 (0.421 below average)
+  caused_turnovers_per_game: 6.530 (1.481 below average)
+  man_up_offense: 0.192 (0.149 below average)
+  defensive_efficiency: 13.269 (2.403 below average)
   scoring_offense: 5.870 (5.443 below average)
-  defensive_efficiency: 13.269 (2.434 below average)
-  scoring_margin: -7.930 (9.660 below average)
-  saves_per_game: 12.530 (0.543 above average)
-  Win % (from schedule): 0.067 (0.432 below average)
-  ground_balls_per_game: 25.130 (5.764 below average)
+  offensive_efficiency: 26.441 (12.296 below average)
+  points_per_game: 8.930 (8.737 below average)
+  scoring_margin: -7.930 (9.471 below average)
+  saves_per_game: 12.530 (0.507 above average)
+  rpi: 0.345 (0.154 below average)
+  scoring_defense: 13.800 (2.526 above average)
   clearing_percentage: 0.786 (0.057 below average)
-  possession_value_index: 0.125 (0.045 below average)
+  face_off_winning_percentage: 0.387 (0.115 below average)
+  ground_balls_per_game: 25.130 (5.805 below average)
+  possession_value_index: 0.125 (0.042 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 61 of 68

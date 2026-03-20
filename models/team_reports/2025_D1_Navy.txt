@@ -1,0 +1,28 @@
+Team: Navy
+Season: 2025 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.533
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.533 (0.046 above average)
+  caused_turnovers_per_game: 7.270 (0.741 below average)
+  man_up_offense: 0.395 (0.054 above average)
+  defensive_efficiency: 15.971 (0.299 above average)
+  scoring_offense: 11.200 (0.113 below average)
+  offensive_efficiency: 38.225 (0.513 below average)
+  points_per_game: 18.330 (0.663 above average)
+  scoring_margin: 0.600 (0.941 below average)
+  saves_per_game: 11.670 (0.353 below average)
+  rpi: 0.510 (0.011 above average)
+  scoring_defense: 10.600 (0.674 below average)
+  clearing_percentage: 0.843 (0.000 below average)
+  face_off_winning_percentage: 0.471 (0.031 below average)
+  ground_balls_per_game: 30.530 (0.405 below average)
+  possession_value_index: 0.170 (0.003 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 41 of 74
+  Avg opponent win %: 0.481
+  Model schedule difficulty rank: 41 of 74
+  Schedule difficulty score: 0.481

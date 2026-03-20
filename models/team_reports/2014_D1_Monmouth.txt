@@ -2,22 +2,27 @@ Team: Monmouth
 Season: 2014 D1
 Record: 0-13
 Winning %: 0.000
-Predicted Winning %: 0.120
+Predicted Winning %: 0.000
 
 Stat Comparison vs League Average:
-  points_per_game: 8.920 (8.721 below average)
-  scoring_defense: 11.230 (0.006 below average)
+  Win % (from schedule): 0.000 (0.487 below average)
+  caused_turnovers_per_game: 8.460 (0.449 above average)
+  man_up_offense: 0.267 (0.074 below average)
+  defensive_efficiency: 15.836 (0.164 above average)
   scoring_offense: 6.150 (5.163 below average)
-  defensive_efficiency: 15.836 (0.133 above average)
-  scoring_margin: -5.080 (6.810 below average)
-  saves_per_game: 12.620 (0.633 above average)
-  Win % (from schedule): 0.000 (0.498 below average)
-  ground_balls_per_game: 26.150 (4.744 below average)
+  offensive_efficiency: 33.791 (4.947 below average)
+  points_per_game: 8.920 (8.747 below average)
+  scoring_margin: -5.080 (6.621 below average)
+  saves_per_game: 12.620 (0.597 above average)
+  rpi: 0.349 (0.150 below average)
+  scoring_defense: 11.230 (0.044 below average)
   clearing_percentage: 0.837 (0.006 below average)
-  possession_value_index: 0.114 (0.056 below average)
+  face_off_winning_percentage: 0.296 (0.206 below average)
+  ground_balls_per_game: 26.150 (4.785 below average)
+  possession_value_index: 0.114 (0.053 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 40 of 67
   Avg opponent win %: 0.482
   Model schedule difficulty rank: 40 of 67
-  Schedule difficulty score: 0.482
+  Schedule difficulty score: 0.481

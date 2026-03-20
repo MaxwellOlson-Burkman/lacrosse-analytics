@@ -2,19 +2,24 @@ Team: Navy
 Season: 2014 D1
 Record: 4-10
 Winning %: 0.286
-Predicted Winning %: 0.352
+Predicted Winning %: 0.286
 
 Stat Comparison vs League Average:
-  points_per_game: 13.430 (4.211 below average)
-  scoring_defense: 9.360 (1.876 below average)
+  Win % (from schedule): 0.286 (0.202 below average)
+  caused_turnovers_per_game: 7.710 (0.301 below average)
+  man_up_offense: 0.179 (0.162 below average)
+  defensive_efficiency: 17.167 (1.495 above average)
   scoring_offense: 8.930 (2.383 below average)
-  defensive_efficiency: 17.167 (1.464 above average)
-  scoring_margin: -0.430 (2.160 below average)
-  saves_per_game: 10.640 (1.347 below average)
-  Win % (from schedule): 0.286 (0.213 below average)
-  ground_balls_per_game: 29.290 (1.604 below average)
+  offensive_efficiency: 36.749 (1.989 below average)
+  points_per_game: 13.430 (4.237 below average)
+  scoring_margin: -0.430 (1.971 below average)
+  saves_per_game: 10.640 (1.383 below average)
+  rpi: 0.438 (0.061 below average)
+  scoring_defense: 9.360 (1.914 below average)
   clearing_percentage: 0.839 (0.004 below average)
-  possession_value_index: 0.235 (0.065 above average)
+  face_off_winning_percentage: 0.559 (0.057 above average)
+  ground_balls_per_game: 29.290 (1.645 below average)
+  possession_value_index: 0.235 (0.068 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 42 of 67

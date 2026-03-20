@@ -2,22 +2,27 @@ Team: Yale
 Season: 2023 D1
 Record: 9-6
 Winning %: 0.600
-Predicted Winning %: 0.563
+Predicted Winning %: 0.600
 
 Stat Comparison vs League Average:
-  points_per_game: 22.930 (5.289 above average)
-  scoring_defense: 14.000 (2.764 above average)
+  Win % (from schedule): 0.600 (0.113 above average)
+  caused_turnovers_per_game: 7.670 (0.341 below average)
+  man_up_offense: 0.255 (0.086 below average)
+  defensive_efficiency: 12.996 (2.676 below average)
   scoring_offense: 15.130 (3.817 above average)
-  defensive_efficiency: 12.996 (2.707 below average)
-  scoring_margin: 1.130 (0.600 below average)
-  saves_per_game: 14.670 (2.683 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 34.000 (3.106 above average)
+  offensive_efficiency: 46.698 (7.960 above average)
+  points_per_game: 22.930 (5.263 above average)
+  scoring_margin: 1.130 (0.411 below average)
+  saves_per_game: 14.670 (2.647 above average)
+  rpi: 0.581 (0.081 above average)
+  scoring_defense: 14.000 (2.726 above average)
   clearing_percentage: 0.835 (0.008 below average)
-  possession_value_index: 0.199 (0.029 above average)
+  face_off_winning_percentage: 0.525 (0.023 above average)
+  ground_balls_per_game: 34.000 (3.065 above average)
+  possession_value_index: 0.199 (0.032 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 10 of 72
   Avg opponent win %: 0.584
   Model schedule difficulty rank: 10 of 72
-  Schedule difficulty score: 0.583
+  Schedule difficulty score: 0.585

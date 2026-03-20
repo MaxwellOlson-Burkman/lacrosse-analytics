@@ -2,22 +2,27 @@ Team: Lafayette
 Season: 2023 D1
 Record: 6-10
 Winning %: 0.375
-Predicted Winning %: 0.370
+Predicted Winning %: 0.375
 
 Stat Comparison vs League Average:
-  points_per_game: 17.310 (0.331 below average)
-  scoring_defense: 12.810 (1.574 above average)
+  Win % (from schedule): 0.375 (0.112 below average)
+  caused_turnovers_per_game: 6.630 (1.381 below average)
+  man_up_offense: 0.446 (0.105 above average)
+  defensive_efficiency: 14.024 (1.648 below average)
   scoring_offense: 11.130 (0.183 below average)
-  defensive_efficiency: 14.024 (1.679 below average)
-  scoring_margin: -1.690 (3.420 below average)
-  saves_per_game: 11.380 (0.607 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.190 (2.704 below average)
+  offensive_efficiency: 37.349 (1.389 below average)
+  points_per_game: 17.310 (0.357 below average)
+  scoring_margin: -1.690 (3.231 below average)
+  saves_per_game: 11.380 (0.643 below average)
+  rpi: 0.474 (0.026 below average)
+  scoring_defense: 12.810 (1.536 above average)
   clearing_percentage: 0.861 (0.018 above average)
-  possession_value_index: 0.174 (0.004 above average)
+  face_off_winning_percentage: 0.443 (0.059 below average)
+  ground_balls_per_game: 28.190 (2.745 below average)
+  possession_value_index: 0.174 (0.007 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 32 of 72
   Avg opponent win %: 0.502
-  Model schedule difficulty rank: 31 of 72
+  Model schedule difficulty rank: 30 of 72
   Schedule difficulty score: 0.502

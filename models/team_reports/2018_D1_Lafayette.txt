@@ -2,19 +2,24 @@ Team: Lafayette
 Season: 2018 D1
 Record: 3-12
 Winning %: 0.200
-Predicted Winning %: 0.179
+Predicted Winning %: 0.200
 
 Stat Comparison vs League Average:
-  points_per_game: 12.000 (5.641 below average)
-  scoring_defense: 13.400 (2.164 above average)
+  Win % (from schedule): 0.200 (0.287 below average)
+  caused_turnovers_per_game: 6.470 (1.541 below average)
+  man_up_offense: 0.190 (0.151 below average)
+  defensive_efficiency: 12.551 (3.121 below average)
   scoring_offense: 7.800 (3.513 below average)
-  defensive_efficiency: 12.551 (3.152 below average)
-  scoring_margin: -5.600 (7.330 below average)
-  saves_per_game: 10.270 (1.717 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.870 (3.024 below average)
+  offensive_efficiency: 33.191 (5.546 below average)
+  points_per_game: 12.000 (5.667 below average)
+  scoring_margin: -5.600 (7.141 below average)
+  saves_per_game: 10.270 (1.753 below average)
+  rpi: 0.388 (0.112 below average)
+  scoring_defense: 13.400 (2.126 above average)
   clearing_percentage: 0.780 (0.063 below average)
-  possession_value_index: 0.149 (0.021 below average)
+  face_off_winning_percentage: 0.477 (0.025 below average)
+  ground_balls_per_game: 27.870 (3.065 below average)
+  possession_value_index: 0.149 (0.018 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 59 of 71

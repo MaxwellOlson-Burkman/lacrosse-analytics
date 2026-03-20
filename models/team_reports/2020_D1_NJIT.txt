@@ -2,19 +2,24 @@ Team: NJIT
 Season: 2020 D1
 Record: 1-6
 Winning %: 0.143
-Predicted Winning %: 0.192
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 12.290 (5.351 below average)
-  scoring_defense: 12.430 (1.194 above average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 8.000 (0.011 below average)
+  man_up_offense: 0.261 (0.080 below average)
+  defensive_efficiency: 14.877 (0.795 below average)
   scoring_offense: 7.710 (3.603 below average)
-  defensive_efficiency: 14.877 (0.826 below average)
-  scoring_margin: -4.710 (6.440 below average)
-  saves_per_game: 12.140 (0.153 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 26.860 (4.034 below average)
+  offensive_efficiency: 30.354 (8.384 below average)
+  points_per_game: 12.290 (5.377 below average)
+  scoring_margin: -4.710 (6.251 below average)
+  saves_per_game: 12.140 (0.117 above average)
+  rpi: 0.387 (0.112 below average)
+  scoring_defense: 12.430 (1.156 above average)
   clearing_percentage: 0.858 (0.015 above average)
-  possession_value_index: 0.075 (0.094 below average)
+  face_off_winning_percentage: 0.439 (0.063 below average)
+  ground_balls_per_game: 26.860 (4.075 below average)
+  possession_value_index: 0.075 (0.092 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 36 of 74

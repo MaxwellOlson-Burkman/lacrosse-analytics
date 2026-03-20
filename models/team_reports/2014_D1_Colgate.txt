@@ -2,22 +2,27 @@ Team: Colgate
 Season: 2014 D1
 Record: 9-7
 Winning %: 0.563
-Predicted Winning %: 0.539
+Predicted Winning %: 0.563
 
 Stat Comparison vs League Average:
-  points_per_game: 12.380 (5.261 below average)
-  scoring_defense: 8.880 (2.356 below average)
+  Win % (from schedule): 0.562 (0.075 above average)
+  caused_turnovers_per_game: 6.940 (1.071 below average)
+  man_up_offense: 0.266 (0.075 below average)
+  defensive_efficiency: 17.349 (1.677 above average)
   scoring_offense: 8.440 (2.873 below average)
-  defensive_efficiency: 17.349 (1.646 above average)
-  scoring_margin: -0.440 (2.170 below average)
-  saves_per_game: 9.880 (2.107 below average)
-  Win % (from schedule): 0.562 (0.064 above average)
-  ground_balls_per_game: 29.690 (1.204 below average)
+  offensive_efficiency: 32.713 (6.025 below average)
+  points_per_game: 12.380 (5.287 below average)
+  scoring_margin: -0.440 (1.981 below average)
+  saves_per_game: 9.880 (2.143 below average)
+  rpi: 0.518 (0.019 above average)
+  scoring_defense: 8.880 (2.394 below average)
   clearing_percentage: 0.858 (0.015 above average)
-  possession_value_index: 0.232 (0.062 above average)
+  face_off_winning_percentage: 0.598 (0.096 above average)
+  ground_balls_per_game: 29.690 (1.245 below average)
+  possession_value_index: 0.232 (0.065 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 39 of 67
   Avg opponent win %: 0.487
-  Model schedule difficulty rank: 39 of 67
+  Model schedule difficulty rank: 38 of 67
   Schedule difficulty score: 0.487

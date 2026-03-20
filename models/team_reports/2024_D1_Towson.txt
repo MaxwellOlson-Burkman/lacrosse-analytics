@@ -2,22 +2,27 @@ Team: Towson
 Season: 2024 D1
 Record: 13-4
 Winning %: 0.765
-Predicted Winning %: 0.761
+Predicted Winning %: 0.765
 
 Stat Comparison vs League Average:
-  points_per_game: 23.940 (6.299 above average)
-  scoring_defense: 9.120 (2.116 below average)
+  Win % (from schedule): 0.765 (0.277 above average)
+  caused_turnovers_per_game: 10.290 (2.279 above average)
+  man_up_offense: 0.439 (0.098 above average)
+  defensive_efficiency: 17.473 (1.801 above average)
   scoring_offense: 14.530 (3.217 above average)
-  defensive_efficiency: 17.473 (1.770 above average)
-  scoring_margin: 5.410 (3.680 above average)
-  saves_per_game: 10.410 (1.577 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 34.880 (3.986 above average)
+  offensive_efficiency: 42.988 (4.250 above average)
+  points_per_game: 23.940 (6.273 above average)
+  scoring_margin: 5.410 (3.869 above average)
+  saves_per_game: 10.410 (1.613 below average)
+  rpi: 0.554 (0.055 above average)
+  scoring_defense: 9.120 (2.154 below average)
   clearing_percentage: 0.914 (0.071 above average)
-  possession_value_index: 0.217 (0.047 above average)
+  face_off_winning_percentage: 0.565 (0.063 above average)
+  ground_balls_per_game: 34.880 (3.945 above average)
+  possession_value_index: 0.217 (0.050 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 55 of 73
   Avg opponent win %: 0.462
-  Model schedule difficulty rank: 54 of 73
-  Schedule difficulty score: 0.463
+  Model schedule difficulty rank: 55 of 73
+  Schedule difficulty score: 0.462

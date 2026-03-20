@@ -2,22 +2,27 @@ Team: Roberts Wesleyan
 Season: 2018 D2
 Record: 6-10
 Winning %: 0.375
-Predicted Winning %: 0.370
+Predicted Winning %: 0.375
 
 Stat Comparison vs League Average:
-  points_per_game: 15.310 (2.331 below average)
-  scoring_defense: 11.630 (0.394 above average)
+  Win % (from schedule): 0.375 (0.112 below average)
+  caused_turnovers_per_game: 5.310 (2.701 below average)
+  man_up_offense: 0.279 (0.062 below average)
+  defensive_efficiency: 16.480 (0.808 above average)
   scoring_offense: 9.880 (1.433 below average)
-  defensive_efficiency: 16.480 (0.777 above average)
-  scoring_margin: 5.195 (3.465 above average)
-  saves_per_game: 13.750 (1.763 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.380 (1.514 below average)
+  offensive_efficiency: 27.521 (11.217 below average)
+  points_per_game: 15.310 (2.357 below average)
+  scoring_margin: 5.195 (3.654 above average)
+  saves_per_game: 13.750 (1.727 above average)
+  rpi: 0.477 (0.023 below average)
+  scoring_defense: 11.630 (0.356 above average)
   clearing_percentage: 0.811 (0.032 below average)
-  possession_value_index: 0.137 (0.032 below average)
+  face_off_winning_percentage: 0.509 (0.007 above average)
+  ground_balls_per_game: 29.380 (1.555 below average)
+  possession_value_index: 0.137 (0.030 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 32 of 68
   Avg opponent win %: 0.511
   Model schedule difficulty rank: 31 of 68
-  Schedule difficulty score: 0.512
+  Schedule difficulty score: 0.511

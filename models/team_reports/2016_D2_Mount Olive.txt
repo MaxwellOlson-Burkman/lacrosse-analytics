@@ -2,22 +2,27 @@ Team: Mount Olive
 Season: 2016 D2
 Record: 13-5
 Winning %: 0.722
-Predicted Winning %: 0.650
+Predicted Winning %: 0.722
 
 Stat Comparison vs League Average:
-  points_per_game: 16.280 (1.361 below average)
-  scoring_defense: 8.560 (2.676 below average)
+  Win % (from schedule): 0.722 (0.235 above average)
+  caused_turnovers_per_game: 8.890 (0.879 above average)
+  man_up_offense: 0.306 (0.035 below average)
+  defensive_efficiency: 18.181 (2.509 above average)
   scoring_offense: 11.220 (0.093 below average)
-  defensive_efficiency: 18.181 (2.478 above average)
-  scoring_margin: 4.030 (2.300 above average)
-  saves_per_game: 9.670 (2.317 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.220 (1.674 below average)
+  offensive_efficiency: 39.368 (0.631 above average)
+  points_per_game: 16.280 (1.387 below average)
+  scoring_margin: 4.030 (2.489 above average)
+  saves_per_game: 9.670 (2.353 below average)
+  rpi: 0.621 (0.122 above average)
+  scoring_defense: 8.560 (2.714 below average)
   clearing_percentage: 0.889 (0.046 above average)
-  possession_value_index: 0.226 (0.057 above average)
+  face_off_winning_percentage: 0.511 (0.009 above average)
+  ground_balls_per_game: 29.220 (1.715 below average)
+  possession_value_index: 0.226 (0.059 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 10 of 63
   Avg opponent win %: 0.550
   Model schedule difficulty rank: 10 of 63
-  Schedule difficulty score: 0.550
+  Schedule difficulty score: 0.549

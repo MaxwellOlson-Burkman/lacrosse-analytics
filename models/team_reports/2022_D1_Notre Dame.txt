@@ -2,22 +2,27 @@ Team: Notre Dame
 Season: 2022 D1
 Record: 8-4
 Winning %: 0.667
-Predicted Winning %: 0.719
+Predicted Winning %: 0.667
 
 Stat Comparison vs League Average:
-  points_per_game: 22.500 (4.859 above average)
-  scoring_defense: 10.080 (1.156 below average)
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 8.920 (0.909 above average)
+  man_up_offense: 0.677 (0.336 above average)
+  defensive_efficiency: 17.110 (1.438 above average)
   scoring_offense: 14.750 (3.437 above average)
-  defensive_efficiency: 17.110 (1.407 above average)
-  scoring_margin: 4.670 (2.940 above average)
-  saves_per_game: 14.250 (2.263 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.250 (1.356 above average)
+  offensive_efficiency: 44.833 (6.095 above average)
+  points_per_game: 22.500 (4.833 above average)
+  scoring_margin: 4.670 (3.129 above average)
+  saves_per_game: 14.250 (2.227 above average)
+  rpi: 0.580 (0.081 above average)
+  scoring_defense: 10.080 (1.194 below average)
   clearing_percentage: 0.907 (0.064 above average)
-  possession_value_index: 0.199 (0.029 above average)
+  face_off_winning_percentage: 0.455 (0.047 below average)
+  ground_balls_per_game: 32.250 (1.315 above average)
+  possession_value_index: 0.199 (0.032 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 11 of 72
   Avg opponent win %: 0.568
   Model schedule difficulty rank: 11 of 72
-  Schedule difficulty score: 0.568
+  Schedule difficulty score: 0.569

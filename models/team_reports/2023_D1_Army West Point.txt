@@ -2,19 +2,24 @@ Team: Army West Point
 Season: 2023 D1
 Record: 13-4
 Winning %: 0.765
-Predicted Winning %: 0.669
+Predicted Winning %: 0.765
 
 Stat Comparison vs League Average:
-  points_per_game: 19.410 (1.769 above average)
-  scoring_defense: 9.120 (2.116 below average)
+  Win % (from schedule): 0.765 (0.277 above average)
+  caused_turnovers_per_game: 7.760 (0.251 below average)
+  man_up_offense: 0.500 (0.159 above average)
+  defensive_efficiency: 17.527 (1.855 above average)
   scoring_offense: 12.820 (1.507 above average)
-  defensive_efficiency: 17.527 (1.824 above average)
-  scoring_margin: 3.710 (1.980 above average)
-  saves_per_game: 10.940 (1.047 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 36.060 (5.166 above average)
+  offensive_efficiency: 42.171 (3.433 above average)
+  points_per_game: 19.410 (1.743 above average)
+  scoring_margin: 3.710 (2.169 above average)
+  saves_per_game: 10.940 (1.083 below average)
+  rpi: 0.562 (0.063 above average)
+  scoring_defense: 9.120 (2.154 below average)
   clearing_percentage: 0.849 (0.006 above average)
-  possession_value_index: 0.211 (0.042 above average)
+  face_off_winning_percentage: 0.610 (0.108 above average)
+  ground_balls_per_game: 36.060 (5.125 above average)
+  possession_value_index: 0.211 (0.044 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 49 of 72

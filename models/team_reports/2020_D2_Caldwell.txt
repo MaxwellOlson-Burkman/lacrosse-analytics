@@ -2,22 +2,27 @@ Team: Caldwell
 Season: 2020 D2
 Record: 1-1
 Winning %: 0.500
-Predicted Winning %: 0.408
+Predicted Winning %: 0.500
 
 Stat Comparison vs League Average:
-  points_per_game: 13.000 (4.641 below average)
-  scoring_defense: 10.500 (0.736 below average)
+  Win % (from schedule): 0.500 (0.013 above average)
+  caused_turnovers_per_game: 7.500 (0.511 below average)
+  man_up_offense: 0.250 (0.091 below average)
+  defensive_efficiency: 16.670 (0.998 above average)
   scoring_offense: 8.000 (3.313 below average)
-  defensive_efficiency: 16.670 (0.967 above average)
-  scoring_margin: 6.680 (4.950 above average)
-  saves_per_game: 12.000 (0.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.500 (2.394 below average)
+  offensive_efficiency: 37.037 (1.701 below average)
+  points_per_game: 13.000 (4.667 below average)
+  scoring_margin: 6.680 (5.139 above average)
+  saves_per_game: 12.000 (0.023 below average)
+  rpi: 0.495 (0.004 below average)
+  scoring_defense: 10.500 (0.774 below average)
   clearing_percentage: 0.625 (0.218 below average)
-  possession_value_index: 0.033 (0.136 below average)
+  face_off_winning_percentage: 0.833 (0.331 above average)
+  ground_balls_per_game: 28.500 (2.435 below average)
+  possession_value_index: 0.033 (0.134 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 40 of 72
   Avg opponent win %: 0.500
   Model schedule difficulty rank: 40 of 72
-  Schedule difficulty score: 0.500
+  Schedule difficulty score: 0.501

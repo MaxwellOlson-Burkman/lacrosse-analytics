@@ -2,19 +2,24 @@ Team: Penn
 Season: 2014 D1
 Record: 11-4
 Winning %: 0.733
-Predicted Winning %: 0.668
+Predicted Winning %: 0.733
 
 Stat Comparison vs League Average:
-  points_per_game: 16.470 (1.171 below average)
-  scoring_defense: 9.270 (1.966 below average)
+  Win % (from schedule): 0.733 (0.246 above average)
+  caused_turnovers_per_game: 6.870 (1.141 below average)
+  man_up_offense: 0.349 (0.008 above average)
+  defensive_efficiency: 17.730 (2.058 above average)
   scoring_offense: 10.600 (0.713 below average)
-  defensive_efficiency: 17.730 (2.027 above average)
-  scoring_margin: 1.330 (0.400 below average)
-  saves_per_game: 11.000 (0.987 below average)
-  Win % (from schedule): 0.733 (0.235 above average)
-  ground_balls_per_game: 30.670 (0.224 below average)
+  offensive_efficiency: 36.426 (2.312 below average)
+  points_per_game: 16.470 (1.197 below average)
+  scoring_margin: 1.330 (0.211 below average)
+  saves_per_game: 11.000 (1.023 below average)
+  rpi: 0.618 (0.119 above average)
+  scoring_defense: 9.270 (2.004 below average)
   clearing_percentage: 0.873 (0.030 above average)
-  possession_value_index: 0.141 (0.029 below average)
+  face_off_winning_percentage: 0.484 (0.018 below average)
+  ground_balls_per_game: 30.670 (0.265 below average)
+  possession_value_index: 0.141 (0.026 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 2 of 67

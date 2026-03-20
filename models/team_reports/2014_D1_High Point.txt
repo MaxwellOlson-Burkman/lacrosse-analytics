@@ -2,19 +2,24 @@ Team: High Point
 Season: 2014 D1
 Record: 9-7
 Winning %: 0.563
-Predicted Winning %: 0.536
+Predicted Winning %: 0.563
 
 Stat Comparison vs League Average:
-  points_per_game: 15.310 (2.331 below average)
-  scoring_defense: 9.440 (1.796 below average)
+  Win % (from schedule): 0.562 (0.075 above average)
+  caused_turnovers_per_game: 8.060 (0.049 above average)
+  man_up_offense: 0.241 (0.100 below average)
+  defensive_efficiency: 18.630 (2.958 above average)
   scoring_offense: 9.630 (1.683 below average)
-  defensive_efficiency: 18.630 (2.927 above average)
-  scoring_margin: 0.190 (1.540 below average)
-  saves_per_game: 14.000 (2.013 above average)
-  Win % (from schedule): 0.562 (0.064 above average)
-  ground_balls_per_game: 31.250 (0.356 above average)
+  offensive_efficiency: 34.640 (4.098 below average)
+  points_per_game: 15.310 (2.357 below average)
+  scoring_margin: 0.190 (1.351 below average)
+  saves_per_game: 14.000 (1.977 above average)
+  rpi: 0.476 (0.023 below average)
+  scoring_defense: 9.440 (1.834 below average)
   clearing_percentage: 0.843 (0.000 below average)
-  possession_value_index: 0.202 (0.032 above average)
+  face_off_winning_percentage: 0.581 (0.079 above average)
+  ground_balls_per_game: 31.250 (0.315 above average)
+  possession_value_index: 0.202 (0.035 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 51 of 67

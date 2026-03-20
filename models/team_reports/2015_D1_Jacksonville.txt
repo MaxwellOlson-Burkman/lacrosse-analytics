@@ -2,22 +2,27 @@ Team: Jacksonville
 Season: 2015 D1
 Record: 4-8
 Winning %: 0.333
-Predicted Winning %: 0.317
+Predicted Winning %: 0.333
 
 Stat Comparison vs League Average:
-  points_per_game: 14.920 (2.721 below average)
-  scoring_defense: 12.330 (1.094 above average)
+  Win % (from schedule): 0.333 (0.154 below average)
+  caused_turnovers_per_game: 5.830 (2.181 below average)
+  man_up_offense: 0.315 (0.026 below average)
+  defensive_efficiency: 14.710 (0.962 below average)
   scoring_offense: 9.080 (2.233 below average)
-  defensive_efficiency: 14.710 (0.993 below average)
-  scoring_margin: -3.250 (4.980 below average)
-  saves_per_game: 13.250 (1.263 above average)
-  Win % (from schedule): 0.333 (0.165 below average)
-  ground_balls_per_game: 26.580 (4.314 below average)
+  offensive_efficiency: 33.139 (5.599 below average)
+  points_per_game: 14.920 (2.747 below average)
+  scoring_margin: -3.250 (4.791 below average)
+  saves_per_game: 13.250 (1.227 above average)
+  rpi: 0.409 (0.090 below average)
+  scoring_defense: 12.330 (1.056 above average)
   clearing_percentage: 0.870 (0.027 above average)
-  possession_value_index: 0.215 (0.045 above average)
+  face_off_winning_percentage: 0.524 (0.022 above average)
+  ground_balls_per_game: 26.580 (4.355 below average)
+  possession_value_index: 0.215 (0.048 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 66 of 68
   Avg opponent win %: 0.411
-  Model schedule difficulty rank: 65 of 68
-  Schedule difficulty score: 0.411
+  Model schedule difficulty rank: 66 of 68
+  Schedule difficulty score: 0.410

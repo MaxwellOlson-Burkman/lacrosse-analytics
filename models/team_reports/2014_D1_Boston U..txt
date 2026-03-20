@@ -2,19 +2,24 @@ Team: Boston U.
 Season: 2014 D1
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.210
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 11.790 (5.851 below average)
-  scoring_defense: 11.000 (0.236 below average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 7.500 (0.511 below average)
+  man_up_offense: 0.407 (0.066 above average)
+  defensive_efficiency: 15.783 (0.111 above average)
   scoring_offense: 7.210 (4.103 below average)
-  defensive_efficiency: 15.783 (0.080 above average)
-  scoring_margin: -3.790 (5.520 below average)
-  saves_per_game: 12.360 (0.373 above average)
-  Win % (from schedule): 0.143 (0.356 below average)
-  ground_balls_per_game: 26.210 (4.684 below average)
+  offensive_efficiency: 32.922 (5.816 below average)
+  points_per_game: 11.790 (5.877 below average)
+  scoring_margin: -3.790 (5.331 below average)
+  saves_per_game: 12.360 (0.337 above average)
+  rpi: 0.401 (0.098 below average)
+  scoring_defense: 11.000 (0.274 below average)
   clearing_percentage: 0.769 (0.074 below average)
-  possession_value_index: 0.133 (0.036 below average)
+  face_off_winning_percentage: 0.548 (0.046 above average)
+  ground_balls_per_game: 26.210 (4.725 below average)
+  possession_value_index: 0.133 (0.034 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 32 of 67

@@ -2,20 +2,27 @@ Team: VMI
 Season: 2017 D1
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.198
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 12.500 (5.141 below average)
-  scoring_defense: 12.860 (1.624 above average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 6.140 (1.871 below average)
+  man_up_offense: 0.188 (0.153 below average)
+  defensive_efficiency: 14.787 (0.885 below average)
   scoring_offense: 7.640 (3.673 below average)
-  defensive_efficiency: 14.787 (0.916 below average)
-  scoring_margin: -5.210 (6.940 below average)
-  saves_per_game: 12.640 (0.653 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 25.570 (5.324 below average)
+  offensive_efficiency: 26.620 (12.118 below average)
+  points_per_game: 12.500 (5.167 below average)
+  scoring_margin: -5.210 (6.751 below average)
+  saves_per_game: 12.640 (0.617 above average)
+  rpi: 0.355 (0.144 below average)
+  scoring_defense: 12.860 (1.586 above average)
   clearing_percentage: 0.852 (0.009 above average)
-  possession_value_index: 0.188 (0.019 above average)
+  face_off_winning_percentage: 0.440 (0.062 below average)
+  ground_balls_per_game: 25.570 (5.365 below average)
+  possession_value_index: 0.188 (0.021 above average)
 
 Strength of schedule:
-  Model schedule difficulty rank: 1 of 70
-  Schedule difficulty score: 0.495
+  Stats-based SOS rank: 61 of 70
+  Avg opponent win %: 0.425
+  Model schedule difficulty rank: 60 of 70
+  Schedule difficulty score: 0.425

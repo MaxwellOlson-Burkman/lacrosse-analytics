@@ -2,22 +2,27 @@ Team: Adelphi
 Season: 2022 D2
 Record: 15-2
 Winning %: 0.882
-Predicted Winning %: 0.748
+Predicted Winning %: 0.882
 
 Stat Comparison vs League Average:
-  points_per_game: 19.290 (1.649 above average)
-  scoring_defense: 7.590 (3.646 below average)
+  Win % (from schedule): 0.882 (0.395 above average)
+  caused_turnovers_per_game: 8.940 (0.929 above average)
+  man_up_offense: 0.321 (0.020 below average)
+  defensive_efficiency: 19.215 (3.543 above average)
   scoring_offense: 12.470 (1.157 above average)
-  defensive_efficiency: 19.215 (3.512 above average)
-  scoring_margin: 4.880 (3.150 above average)
-  saves_per_game: 10.650 (1.337 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.470 (1.576 above average)
+  offensive_efficiency: 41.846 (3.108 above average)
+  points_per_game: 19.290 (1.623 above average)
+  scoring_margin: 4.880 (3.339 above average)
+  saves_per_game: 10.650 (1.373 below average)
+  rpi: 0.624 (0.125 above average)
+  scoring_defense: 7.590 (3.684 below average)
   clearing_percentage: 0.845 (0.002 above average)
-  possession_value_index: 0.149 (0.021 below average)
+  face_off_winning_percentage: 0.595 (0.093 above average)
+  ground_balls_per_game: 32.470 (1.535 above average)
+  possession_value_index: 0.149 (0.019 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 34 of 74
   Avg opponent win %: 0.495
   Model schedule difficulty rank: 34 of 74
-  Schedule difficulty score: 0.495
+  Schedule difficulty score: 0.494

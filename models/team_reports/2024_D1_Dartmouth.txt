@@ -2,22 +2,27 @@ Team: Dartmouth
 Season: 2024 D1
 Record: 3-10
 Winning %: 0.231
-Predicted Winning %: 0.264
+Predicted Winning %: 0.231
 
 Stat Comparison vs League Average:
-  points_per_game: 16.310 (1.331 below average)
-  scoring_defense: 13.770 (2.534 above average)
+  Win % (from schedule): 0.231 (0.256 below average)
+  caused_turnovers_per_game: 8.380 (0.369 above average)
+  man_up_offense: 0.393 (0.052 above average)
+  defensive_efficiency: 13.200 (2.472 below average)
   scoring_offense: 10.080 (1.233 below average)
-  defensive_efficiency: 13.200 (2.503 below average)
-  scoring_margin: -3.690 (5.420 below average)
-  saves_per_game: 13.150 (1.163 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 35.150 (4.256 above average)
+  offensive_efficiency: 35.618 (3.120 below average)
+  points_per_game: 16.310 (1.357 below average)
+  scoring_margin: -3.690 (5.231 below average)
+  saves_per_game: 13.150 (1.127 above average)
+  rpi: 0.442 (0.057 below average)
+  scoring_defense: 13.770 (2.496 above average)
   clearing_percentage: 0.831 (0.012 below average)
-  possession_value_index: 0.124 (0.045 below average)
+  face_off_winning_percentage: 0.525 (0.023 above average)
+  ground_balls_per_game: 35.150 (4.215 above average)
+  possession_value_index: 0.124 (0.043 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 32 of 73
   Avg opponent win %: 0.506
   Model schedule difficulty rank: 32 of 73
-  Schedule difficulty score: 0.506
+  Schedule difficulty score: 0.505

@@ -1,0 +1,28 @@
+Team: Lenoir-Rhyne
+Season: 2025 D2
+Record: 14-4
+Winning %: 0.778
+Predicted Winning %: 0.778
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.778 (0.291 above average)
+  caused_turnovers_per_game: 10.440 (2.429 above average)
+  man_up_offense: 0.549 (0.208 above average)
+  defensive_efficiency: 14.530 (1.142 below average)
+  scoring_offense: 16.220 (4.907 above average)
+  offensive_efficiency: 52.323 (13.585 above average)
+  points_per_game: 25.220 (7.553 above average)
+  scoring_margin: 5.890 (4.349 above average)
+  saves_per_game: 7.500 (4.523 below average)
+  rpi: 0.601 (0.102 above average)
+  scoring_defense: 10.330 (0.944 below average)
+  clearing_percentage: 0.907 (0.064 above average)
+  face_off_winning_percentage: 0.644 (0.142 above average)
+  ground_balls_per_game: 37.330 (6.395 above average)
+  possession_value_index: 0.332 (0.165 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 31 of 78
+  Avg opponent win %: 0.517
+  Model schedule difficulty rank: 29 of 78
+  Schedule difficulty score: 0.518

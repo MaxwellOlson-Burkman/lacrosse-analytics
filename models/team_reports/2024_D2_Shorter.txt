@@ -2,22 +2,27 @@ Team: Shorter
 Season: 2024 D2
 Record: 8-8
 Winning %: 0.500
-Predicted Winning %: 0.239
+Predicted Winning %: 0.500
 
 Stat Comparison vs League Average:
-  points_per_game: 15.750 (1.891 below average)
-  scoring_defense: 15.060 (3.824 above average)
+  Win % (from schedule): 0.500 (0.013 above average)
+  caused_turnovers_per_game: 6.560 (1.451 below average)
+  man_up_offense: 0.330 (0.011 below average)
+  defensive_efficiency: 13.639 (2.033 below average)
   scoring_offense: 10.810 (0.503 below average)
-  defensive_efficiency: 13.639 (2.064 below average)
-  scoring_margin: -4.250 (5.980 below average)
-  saves_per_game: 17.880 (5.893 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.190 (0.704 below average)
+  offensive_efficiency: 36.397 (2.341 below average)
+  points_per_game: 15.750 (1.917 below average)
+  scoring_margin: -4.250 (5.791 below average)
+  saves_per_game: 17.880 (5.857 above average)
+  rpi: 0.456 (0.043 below average)
+  scoring_defense: 15.060 (3.786 above average)
   clearing_percentage: 0.770 (0.073 below average)
-  possession_value_index: 0.028 (0.142 below average)
+  face_off_winning_percentage: 0.394 (0.108 below average)
+  ground_balls_per_game: 30.190 (0.745 below average)
+  possession_value_index: 0.028 (0.139 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 71 of 79
   Avg opponent win %: 0.418
-  Model schedule difficulty rank: 71 of 79
-  Schedule difficulty score: 0.419
+  Model schedule difficulty rank: 70 of 79
+  Schedule difficulty score: 0.421

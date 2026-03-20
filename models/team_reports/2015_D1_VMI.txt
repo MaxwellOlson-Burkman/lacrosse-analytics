@@ -2,19 +2,24 @@ Team: VMI
 Season: 2015 D1
 Record: 1-14
 Winning %: 0.067
-Predicted Winning %: 0.044
+Predicted Winning %: 0.067
 
 Stat Comparison vs League Average:
-  points_per_game: 7.070 (10.571 below average)
-  scoring_defense: 15.400 (4.164 above average)
+  Win % (from schedule): 0.067 (0.421 below average)
+  caused_turnovers_per_game: 6.870 (1.141 below average)
+  man_up_offense: 0.209 (0.132 below average)
+  defensive_efficiency: 10.695 (4.977 below average)
   scoring_offense: 5.200 (6.113 below average)
-  defensive_efficiency: 10.695 (5.008 below average)
-  scoring_margin: -10.200 (11.930 below average)
-  saves_per_game: 11.400 (0.587 below average)
-  Win % (from schedule): 0.067 (0.432 below average)
-  ground_balls_per_game: 26.730 (4.164 below average)
+  offensive_efficiency: 28.108 (10.630 below average)
+  points_per_game: 7.070 (10.597 below average)
+  scoring_margin: -10.200 (11.741 below average)
+  saves_per_game: 11.400 (0.623 below average)
+  rpi: 0.365 (0.134 below average)
+  scoring_defense: 15.400 (4.126 above average)
   clearing_percentage: 0.748 (0.095 below average)
-  possession_value_index: 0.114 (0.055 below average)
+  face_off_winning_percentage: 0.466 (0.036 below average)
+  ground_balls_per_game: 26.730 (4.205 below average)
+  possession_value_index: 0.114 (0.053 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 45 of 68

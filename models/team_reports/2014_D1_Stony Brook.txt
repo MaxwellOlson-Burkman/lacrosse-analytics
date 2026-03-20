@@ -2,19 +2,24 @@ Team: Stony Brook
 Season: 2014 D1
 Record: 6-10
 Winning %: 0.375
-Predicted Winning %: 0.432
+Predicted Winning %: 0.375
 
 Stat Comparison vs League Average:
-  points_per_game: 18.940 (1.299 above average)
-  scoring_defense: 12.190 (0.954 above average)
+  Win % (from schedule): 0.375 (0.112 below average)
+  caused_turnovers_per_game: 3.630 (4.381 below average)
+  man_up_offense: 0.491 (0.150 above average)
+  defensive_efficiency: 14.387 (1.285 below average)
   scoring_offense: 11.630 (0.317 above average)
-  defensive_efficiency: 14.387 (1.316 below average)
-  scoring_margin: -0.560 (2.290 below average)
-  saves_per_game: 10.440 (1.547 below average)
-  Win % (from schedule): 0.375 (0.123 below average)
-  ground_balls_per_game: 33.060 (2.166 above average)
+  offensive_efficiency: 31.180 (7.558 below average)
+  points_per_game: 18.940 (1.273 above average)
+  scoring_margin: -0.560 (2.101 below average)
+  saves_per_game: 10.440 (1.583 below average)
+  rpi: 0.470 (0.029 below average)
+  scoring_defense: 12.190 (0.916 above average)
   clearing_percentage: 0.839 (0.004 below average)
-  possession_value_index: 0.253 (0.084 above average)
+  face_off_winning_percentage: 0.610 (0.108 above average)
+  ground_balls_per_game: 33.060 (2.125 above average)
+  possession_value_index: 0.253 (0.086 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 30 of 67

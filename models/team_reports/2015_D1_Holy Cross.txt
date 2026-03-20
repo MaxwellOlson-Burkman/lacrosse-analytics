@@ -2,19 +2,24 @@ Team: Holy Cross
 Season: 2015 D1
 Record: 6-7
 Winning %: 0.462
-Predicted Winning %: 0.343
+Predicted Winning %: 0.462
 
 Stat Comparison vs League Average:
-  points_per_game: 14.080 (3.561 below average)
-  scoring_defense: 11.850 (0.614 above average)
+  Win % (from schedule): 0.462 (0.026 below average)
+  caused_turnovers_per_game: 5.230 (2.781 below average)
+  man_up_offense: 0.367 (0.026 above average)
+  defensive_efficiency: 14.098 (1.574 below average)
   scoring_offense: 9.230 (2.083 below average)
-  defensive_efficiency: 14.098 (1.605 below average)
-  scoring_margin: -2.620 (4.350 below average)
-  saves_per_game: 9.460 (2.527 below average)
-  Win % (from schedule): 0.462 (0.037 below average)
-  ground_balls_per_game: 25.690 (5.204 below average)
+  offensive_efficiency: 30.262 (8.476 below average)
+  points_per_game: 14.080 (3.587 below average)
+  scoring_margin: -2.620 (4.161 below average)
+  saves_per_game: 9.460 (2.563 below average)
+  rpi: 0.479 (0.020 below average)
+  scoring_defense: 11.850 (0.576 above average)
   clearing_percentage: 0.806 (0.037 below average)
-  possession_value_index: 0.212 (0.042 above average)
+  face_off_winning_percentage: 0.468 (0.034 below average)
+  ground_balls_per_game: 25.690 (5.245 below average)
+  possession_value_index: 0.212 (0.045 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 41 of 68

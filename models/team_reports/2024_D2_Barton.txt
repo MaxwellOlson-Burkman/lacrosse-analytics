@@ -2,19 +2,24 @@ Team: Barton
 Season: 2024 D2
 Record: 7-10
 Winning %: 0.412
-Predicted Winning %: 0.546
+Predicted Winning %: 0.412
 
 Stat Comparison vs League Average:
-  points_per_game: 19.760 (2.119 above average)
-  scoring_defense: 11.240 (0.004 above average)
+  Win % (from schedule): 0.412 (0.075 below average)
+  caused_turnovers_per_game: 9.000 (0.989 above average)
+  man_up_offense: 0.194 (0.147 below average)
+  defensive_efficiency: 15.511 (0.161 below average)
   scoring_offense: 11.940 (0.627 above average)
-  defensive_efficiency: 15.511 (0.192 below average)
-  scoring_margin: 0.710 (1.020 below average)
-  saves_per_game: 11.120 (0.867 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.650 (1.756 above average)
+  offensive_efficiency: 43.105 (4.367 above average)
+  points_per_game: 19.760 (2.093 above average)
+  scoring_margin: 0.710 (0.831 below average)
+  saves_per_game: 11.120 (0.903 below average)
+  rpi: 0.489 (0.010 below average)
+  scoring_defense: 11.240 (0.034 below average)
   clearing_percentage: 0.863 (0.020 above average)
-  possession_value_index: 0.163 (0.007 below average)
+  face_off_winning_percentage: 0.465 (0.037 below average)
+  ground_balls_per_game: 32.650 (1.715 above average)
+  possession_value_index: 0.163 (0.004 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 34 of 79

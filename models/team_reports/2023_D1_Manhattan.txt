@@ -2,22 +2,27 @@ Team: Manhattan
 Season: 2023 D1
 Record: 10-5
 Winning %: 0.667
-Predicted Winning %: 0.594
+Predicted Winning %: 0.667
 
 Stat Comparison vs League Average:
-  points_per_game: 15.070 (2.571 below average)
-  scoring_defense: 8.000 (3.236 below average)
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 6.730 (1.281 below average)
+  man_up_offense: 0.298 (0.043 below average)
+  defensive_efficiency: 18.969 (3.297 above average)
   scoring_offense: 9.470 (1.843 below average)
-  defensive_efficiency: 18.969 (3.266 above average)
-  scoring_margin: 1.470 (0.260 below average)
-  saves_per_game: 10.730 (1.257 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 26.530 (4.364 below average)
+  offensive_efficiency: 37.431 (1.307 below average)
+  points_per_game: 15.070 (2.597 below average)
+  scoring_margin: 1.470 (0.071 below average)
+  saves_per_game: 10.730 (1.293 below average)
+  rpi: 0.485 (0.014 below average)
+  scoring_defense: 8.000 (3.274 below average)
   clearing_percentage: 0.919 (0.076 above average)
-  possession_value_index: 0.198 (0.028 above average)
+  face_off_winning_percentage: 0.526 (0.024 above average)
+  ground_balls_per_game: 26.530 (4.405 below average)
+  possession_value_index: 0.198 (0.031 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 68 of 72
   Avg opponent win %: 0.395
   Model schedule difficulty rank: 68 of 72
-  Schedule difficulty score: 0.396
+  Schedule difficulty score: 0.394

@@ -1,0 +1,28 @@
+Team: Davis & Elkins
+Season: 2025 D2
+Record: 2-15
+Winning %: 0.118
+Predicted Winning %: 0.111
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.118 (0.370 below average)
+  caused_turnovers_per_game: 8.120 (0.109 above average)
+  man_up_offense: 0.144 (0.197 below average)
+  defensive_efficiency: 7.389 (8.283 below average)
+  scoring_offense: 6.650 (4.663 below average)
+  offensive_efficiency: 26.285 (12.453 below average)
+  points_per_game: 10.650 (7.017 below average)
+  scoring_margin: -14.650 (16.191 below average)
+  saves_per_game: 19.880 (7.857 above average)
+  rpi: 0.344 (0.155 below average)
+  scoring_defense: 21.290 (10.016 above average)
+  clearing_percentage: 0.746 (0.097 below average)
+  face_off_winning_percentage: 0.282 (0.220 below average)
+  ground_balls_per_game: 26.470 (4.465 below average)
+  possession_value_index: N/A (league average 0.167)
+
+Strength of schedule:
+  Stats-based SOS rank: 70 of 78
+  Avg opponent win %: 0.417
+  Model schedule difficulty rank: 70 of 78
+  Schedule difficulty score: 0.416

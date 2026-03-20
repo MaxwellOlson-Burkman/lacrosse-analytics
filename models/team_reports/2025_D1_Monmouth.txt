@@ -1,0 +1,28 @@
+Team: Monmouth
+Season: 2025 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.357
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 7.360 (0.651 below average)
+  man_up_offense: 0.396 (0.055 above average)
+  defensive_efficiency: 15.851 (0.179 above average)
+  scoring_offense: 10.930 (0.383 below average)
+  offensive_efficiency: 37.690 (1.048 below average)
+  points_per_game: 16.430 (1.237 below average)
+  scoring_margin: 0.210 (1.331 below average)
+  saves_per_game: 11.570 (0.453 below average)
+  rpi: 0.430 (0.069 below average)
+  scoring_defense: 10.710 (0.564 below average)
+  clearing_percentage: 0.841 (0.002 below average)
+  face_off_winning_percentage: 0.429 (0.073 below average)
+  ground_balls_per_game: 26.500 (4.435 below average)
+  possession_value_index: 0.164 (0.003 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 55 of 74
+  Avg opponent win %: 0.454
+  Model schedule difficulty rank: 55 of 74
+  Schedule difficulty score: 0.455

@@ -2,19 +2,24 @@ Team: Quinnipiac
 Season: 2015 D1
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.399
+Predicted Winning %: 0.467
 
 Stat Comparison vs League Average:
-  points_per_game: 16.600 (1.041 below average)
-  scoring_defense: 11.730 (0.494 above average)
+  Win % (from schedule): 0.467 (0.021 below average)
+  caused_turnovers_per_game: 7.200 (0.811 below average)
+  man_up_offense: 0.396 (0.055 above average)
+  defensive_efficiency: 15.265 (0.407 below average)
   scoring_offense: 9.870 (1.443 below average)
-  defensive_efficiency: 15.265 (0.438 below average)
-  scoring_margin: -1.870 (3.600 below average)
-  saves_per_game: 12.200 (0.213 above average)
-  Win % (from schedule): 0.467 (0.032 below average)
-  ground_balls_per_game: 29.000 (1.894 below average)
+  offensive_efficiency: 34.632 (4.106 below average)
+  points_per_game: 16.600 (1.067 below average)
+  scoring_margin: -1.870 (3.411 below average)
+  saves_per_game: 12.200 (0.177 above average)
+  rpi: 0.466 (0.033 below average)
+  scoring_defense: 11.730 (0.456 above average)
   clearing_percentage: 0.867 (0.024 above average)
-  possession_value_index: 0.198 (0.028 above average)
+  face_off_winning_percentage: 0.424 (0.078 below average)
+  ground_balls_per_game: 29.000 (1.935 below average)
+  possession_value_index: 0.198 (0.031 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 60 of 68

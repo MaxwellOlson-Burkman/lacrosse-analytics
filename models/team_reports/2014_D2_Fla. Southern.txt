@@ -2,19 +2,24 @@ Team: Fla. Southern
 Season: 2014 D2
 Record: 11-4
 Winning %: 0.733
-Predicted Winning %: 0.719
+Predicted Winning %: 0.733
 
 Stat Comparison vs League Average:
-  points_per_game: 22.470 (4.829 above average)
-  scoring_defense: 7.995 (3.241 below average)
+  Win % (from schedule): 0.733 (0.246 above average)
+  caused_turnovers_per_game: 7.800 (0.211 below average)
+  man_up_offense: 0.406 (0.065 above average)
+  defensive_efficiency: 19.427 (3.755 above average)
   scoring_offense: 14.530 (3.217 above average)
-  defensive_efficiency: 19.427 (3.724 above average)
-  scoring_margin: 5.270 (3.540 above average)
-  saves_per_game: 12.740 (0.753 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 36.600 (5.706 above average)
+  offensive_efficiency: 44.846 (6.108 above average)
+  points_per_game: 22.470 (4.803 above average)
+  scoring_margin: 5.270 (3.729 above average)
+  saves_per_game: 12.740 (0.717 above average)
+  rpi: 0.596 (0.097 above average)
+  scoring_defense: 7.995 (3.279 below average)
   clearing_percentage: 0.896 (0.053 above average)
-  possession_value_index: 0.216 (0.046 above average)
+  face_off_winning_percentage: 0.595 (0.093 above average)
+  ground_balls_per_game: 36.600 (5.665 above average)
+  possession_value_index: 0.216 (0.049 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 22 of 53

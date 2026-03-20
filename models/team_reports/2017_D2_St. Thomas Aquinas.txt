@@ -2,22 +2,27 @@ Team: St. Thomas Aquinas
 Season: 2017 D2
 Record: 5-10
 Winning %: 0.333
-Predicted Winning %: 0.320
+Predicted Winning %: 0.333
 
 Stat Comparison vs League Average:
-  points_per_game: 16.700 (0.941 below average)
-  scoring_defense: 10.930 (0.306 below average)
+  Win % (from schedule): 0.333 (0.154 below average)
+  caused_turnovers_per_game: 6.270 (1.741 below average)
+  man_up_offense: 0.182 (0.159 below average)
+  defensive_efficiency: 16.784 (1.112 above average)
   scoring_offense: 7.670 (3.643 below average)
-  defensive_efficiency: 16.784 (1.081 above average)
-  scoring_margin: 5.035 (3.305 above average)
-  saves_per_game: 12.730 (0.743 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 26.730 (4.164 below average)
+  offensive_efficiency: 30.927 (7.810 below average)
+  points_per_game: 16.700 (0.967 below average)
+  scoring_margin: 5.035 (3.494 above average)
+  saves_per_game: 12.730 (0.707 above average)
+  rpi: 0.417 (0.082 below average)
+  scoring_defense: 10.930 (0.344 below average)
   clearing_percentage: 0.809 (0.034 below average)
-  possession_value_index: 0.179 (0.010 above average)
+  face_off_winning_percentage: 0.520 (0.019 above average)
+  ground_balls_per_game: 26.730 (4.205 below average)
+  possession_value_index: 0.179 (0.012 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 58 of 65
   Avg opponent win %: 0.422
   Model schedule difficulty rank: 58 of 65
-  Schedule difficulty score: 0.423
+  Schedule difficulty score: 0.421

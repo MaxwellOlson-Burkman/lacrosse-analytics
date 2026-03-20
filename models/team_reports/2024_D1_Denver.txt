@@ -2,22 +2,27 @@ Team: Denver
 Season: 2024 D1
 Record: 13-4
 Winning %: 0.765
-Predicted Winning %: 0.617
+Predicted Winning %: 0.765
 
 Stat Comparison vs League Average:
-  points_per_game: 18.760 (1.119 above average)
-  scoring_defense: 9.410 (1.826 below average)
+  Win % (from schedule): 0.765 (0.277 above average)
+  caused_turnovers_per_game: 8.760 (0.749 above average)
+  man_up_offense: 0.465 (0.124 above average)
+  defensive_efficiency: 17.653 (1.981 above average)
   scoring_offense: 11.820 (0.507 above average)
-  defensive_efficiency: 17.653 (1.950 above average)
-  scoring_margin: 2.410 (0.680 above average)
-  saves_per_game: 9.410 (2.577 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.820 (1.074 below average)
+  offensive_efficiency: 38.882 (0.144 above average)
+  points_per_game: 18.760 (1.093 above average)
+  scoring_margin: 2.410 (0.869 above average)
+  saves_per_game: 9.410 (2.613 below average)
+  rpi: 0.633 (0.134 above average)
+  scoring_defense: 9.410 (1.864 below average)
   clearing_percentage: 0.875 (0.032 above average)
-  possession_value_index: 0.210 (0.040 above average)
+  face_off_winning_percentage: 0.571 (0.069 above average)
+  ground_balls_per_game: 29.820 (1.115 below average)
+  possession_value_index: 0.210 (0.043 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 7 of 73
   Avg opponent win %: 0.600
   Model schedule difficulty rank: 7 of 73
-  Schedule difficulty score: 0.600
+  Schedule difficulty score: 0.599

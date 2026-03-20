@@ -2,22 +2,27 @@ Team: Montevallo
 Season: 2022 D2
 Record: 11-7
 Winning %: 0.611
-Predicted Winning %: 0.642
+Predicted Winning %: 0.611
 
 Stat Comparison vs League Average:
-  points_per_game: 24.110 (6.469 above average)
-  scoring_defense: 10.670 (0.566 below average)
+  Win % (from schedule): 0.611 (0.124 above average)
+  caused_turnovers_per_game: 10.390 (2.379 above average)
+  man_up_offense: 0.313 (0.028 below average)
+  defensive_efficiency: 17.441 (1.769 above average)
   scoring_offense: 14.830 (3.517 above average)
-  defensive_efficiency: 17.441 (1.738 above average)
-  scoring_margin: 4.170 (2.440 above average)
-  saves_per_game: 14.720 (2.733 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.780 (1.886 above average)
+  offensive_efficiency: 45.631 (6.893 above average)
+  points_per_game: 24.110 (6.443 above average)
+  scoring_margin: 4.170 (2.629 above average)
+  saves_per_game: 14.720 (2.697 above average)
+  rpi: 0.477 (0.022 below average)
+  scoring_defense: 10.670 (0.604 below average)
   clearing_percentage: 0.886 (0.043 above average)
-  possession_value_index: 0.106 (0.063 below average)
+  face_off_winning_percentage: 0.557 (0.055 above average)
+  ground_balls_per_game: 32.780 (1.845 above average)
+  possession_value_index: 0.106 (0.061 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 66 of 74
   Avg opponent win %: 0.404
   Model schedule difficulty rank: 66 of 74
-  Schedule difficulty score: 0.405
+  Schedule difficulty score: 0.406

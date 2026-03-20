@@ -2,22 +2,27 @@ Team: Wagner
 Season: 2023 D1
 Record: 3-11
 Winning %: 0.214
-Predicted Winning %: 0.240
+Predicted Winning %: 0.214
 
 Stat Comparison vs League Average:
-  points_per_game: 10.790 (6.851 below average)
-  scoring_defense: 11.710 (0.474 above average)
+  Win % (from schedule): 0.214 (0.273 below average)
+  caused_turnovers_per_game: 5.930 (2.081 below average)
+  man_up_offense: 0.154 (0.187 below average)
+  defensive_efficiency: 15.957 (0.285 above average)
   scoring_offense: 7.710 (3.603 below average)
-  defensive_efficiency: 15.957 (0.254 above average)
-  scoring_margin: -4.000 (5.730 below average)
-  saves_per_game: 14.290 (2.303 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 22.290 (8.604 below average)
+  offensive_efficiency: 36.540 (2.198 below average)
+  points_per_game: 10.790 (6.877 below average)
+  scoring_margin: -4.000 (5.541 below average)
+  saves_per_game: 14.290 (2.267 above average)
+  rpi: 0.384 (0.115 below average)
+  scoring_defense: 11.710 (0.436 above average)
   clearing_percentage: 0.825 (0.018 below average)
-  possession_value_index: 0.134 (0.035 below average)
+  face_off_winning_percentage: 0.401 (0.101 below average)
+  ground_balls_per_game: 22.290 (8.645 below average)
+  possession_value_index: 0.134 (0.033 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 62 of 72
   Avg opponent win %: 0.440
   Model schedule difficulty rank: 62 of 72
-  Schedule difficulty score: 0.441
+  Schedule difficulty score: 0.440

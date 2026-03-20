@@ -1,0 +1,28 @@
+Team: Adelphi
+Season: 2025 D2
+Record: 19-1
+Winning %: 0.950
+Predicted Winning %: 0.947
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.950 (0.463 above average)
+  caused_turnovers_per_game: 11.950 (3.939 above average)
+  man_up_offense: 0.269 (0.072 below average)
+  defensive_efficiency: 19.320 (3.648 above average)
+  scoring_offense: 17.150 (5.837 above average)
+  offensive_efficiency: 48.039 (9.301 above average)
+  points_per_game: 28.100 (10.433 above average)
+  scoring_margin: 10.600 (9.059 above average)
+  saves_per_game: 10.050 (1.973 below average)
+  rpi: 0.668 (0.169 above average)
+  scoring_defense: 6.550 (4.724 below average)
+  clearing_percentage: 0.900 (0.057 above average)
+  face_off_winning_percentage: 0.549 (0.047 above average)
+  ground_balls_per_game: 33.250 (2.315 above average)
+  possession_value_index: 0.225 (0.058 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 19 of 78
+  Avg opponent win %: 0.539
+  Model schedule difficulty rank: 19 of 78
+  Schedule difficulty score: 0.539

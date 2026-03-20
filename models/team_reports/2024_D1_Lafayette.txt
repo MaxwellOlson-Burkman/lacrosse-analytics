@@ -2,22 +2,27 @@ Team: Lafayette
 Season: 2024 D1
 Record: 6-7
 Winning %: 0.462
-Predicted Winning %: 0.483
+Predicted Winning %: 0.462
 
 Stat Comparison vs League Average:
-  points_per_game: 18.310 (0.669 above average)
-  scoring_defense: 11.690 (0.454 above average)
+  Win % (from schedule): 0.462 (0.026 below average)
+  caused_turnovers_per_game: 7.460 (0.551 below average)
+  man_up_offense: 0.343 (0.002 above average)
+  defensive_efficiency: 14.526 (1.146 below average)
   scoring_offense: 12.080 (0.767 above average)
-  defensive_efficiency: 14.526 (1.177 below average)
-  scoring_margin: 0.380 (1.350 below average)
-  saves_per_game: 11.920 (0.067 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.000 (0.894 below average)
+  offensive_efficiency: 39.868 (1.130 above average)
+  points_per_game: 18.310 (0.643 above average)
+  scoring_margin: 0.380 (1.161 below average)
+  saves_per_game: 11.920 (0.103 below average)
+  rpi: 0.468 (0.031 below average)
+  scoring_defense: 11.690 (0.416 above average)
   clearing_percentage: 0.844 (0.001 above average)
-  possession_value_index: 0.158 (0.012 below average)
+  face_off_winning_percentage: 0.517 (0.015 above average)
+  ground_balls_per_game: 30.000 (0.935 below average)
+  possession_value_index: 0.158 (0.009 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 57 of 73
   Avg opponent win %: 0.456
   Model schedule difficulty rank: 57 of 73
-  Schedule difficulty score: 0.455
+  Schedule difficulty score: 0.456

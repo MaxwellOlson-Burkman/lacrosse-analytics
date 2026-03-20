@@ -2,22 +2,27 @@ Team: Chowan
 Season: 2020 D2
 Record: 5-3
 Winning %: 0.625
-Predicted Winning %: 0.676
+Predicted Winning %: 0.625
 
 Stat Comparison vs League Average:
-  points_per_game: 23.500 (5.859 above average)
-  scoring_defense: 9.380 (1.856 below average)
+  Win % (from schedule): 0.625 (0.138 above average)
+  caused_turnovers_per_game: 13.500 (5.489 above average)
+  man_up_offense: 0.300 (0.041 below average)
+  defensive_efficiency: 18.250 (2.578 above average)
   scoring_offense: 14.000 (2.687 above average)
-  defensive_efficiency: 18.250 (2.547 above average)
-  scoring_margin: 4.630 (2.900 above average)
-  saves_per_game: 12.250 (0.263 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 35.880 (4.986 above average)
+  offensive_efficiency: 42.169 (3.431 above average)
+  points_per_game: 23.500 (5.833 above average)
+  scoring_margin: 4.630 (3.089 above average)
+  saves_per_game: 12.250 (0.227 above average)
+  rpi: 0.468 (0.031 below average)
+  scoring_defense: 9.380 (1.894 below average)
   clearing_percentage: 0.827 (0.016 below average)
-  possession_value_index: 0.122 (0.047 below average)
+  face_off_winning_percentage: 0.395 (0.107 below average)
+  ground_balls_per_game: 35.880 (4.945 above average)
+  possession_value_index: 0.122 (0.045 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 63 of 72
   Avg opponent win %: 0.360
   Model schedule difficulty rank: 63 of 72
-  Schedule difficulty score: 0.360
+  Schedule difficulty score: 0.361

@@ -2,19 +2,24 @@ Team: Richmond
 Season: 2014 D1
 Record: 6-11
 Winning %: 0.353
-Predicted Winning %: 0.371
+Predicted Winning %: 0.353
 
 Stat Comparison vs League Average:
-  points_per_game: 14.000 (3.641 below average)
-  scoring_defense: 10.470 (0.766 below average)
+  Win % (from schedule): 0.353 (0.134 below average)
+  caused_turnovers_per_game: 8.760 (0.749 above average)
+  man_up_offense: 0.288 (0.053 below average)
+  defensive_efficiency: 15.830 (0.158 above average)
   scoring_offense: 9.000 (2.313 below average)
-  defensive_efficiency: 15.830 (0.127 above average)
-  scoring_margin: -1.470 (3.200 below average)
-  saves_per_game: 10.350 (1.637 below average)
-  Win % (from schedule): 0.353 (0.145 below average)
-  ground_balls_per_game: 29.290 (1.604 below average)
+  offensive_efficiency: 33.088 (5.650 below average)
+  points_per_game: 14.000 (3.667 below average)
+  scoring_margin: -1.470 (3.011 below average)
+  saves_per_game: 10.350 (1.673 below average)
+  rpi: 0.421 (0.078 below average)
+  scoring_defense: 10.470 (0.804 below average)
   clearing_percentage: 0.878 (0.035 above average)
-  possession_value_index: 0.113 (0.056 below average)
+  face_off_winning_percentage: 0.362 (0.140 below average)
+  ground_balls_per_game: 29.290 (1.645 below average)
+  possession_value_index: 0.113 (0.054 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 56 of 67

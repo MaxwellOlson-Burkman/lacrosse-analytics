@@ -2,19 +2,24 @@ Team: Dartmouth
 Season: 2014 D1
 Record: 2-10
 Winning %: 0.167
-Predicted Winning %: 0.165
+Predicted Winning %: 0.167
 
 Stat Comparison vs League Average:
-  points_per_game: 12.250 (5.391 below average)
-  scoring_defense: 13.330 (2.094 above average)
+  Win % (from schedule): 0.167 (0.321 below average)
+  caused_turnovers_per_game: 9.580 (1.569 above average)
+  man_up_offense: 0.238 (0.103 below average)
+  defensive_efficiency: 12.154 (3.518 below average)
   scoring_offense: 8.250 (3.063 below average)
-  defensive_efficiency: 12.154 (3.549 below average)
-  scoring_margin: -5.080 (6.810 below average)
-  saves_per_game: 11.080 (0.907 below average)
-  Win % (from schedule): 0.167 (0.332 below average)
-  ground_balls_per_game: 31.580 (0.686 above average)
+  offensive_efficiency: 37.500 (1.238 below average)
+  points_per_game: 12.250 (5.417 below average)
+  scoring_margin: -5.080 (6.621 below average)
+  saves_per_game: 11.080 (0.943 below average)
+  rpi: 0.433 (0.066 below average)
+  scoring_defense: 13.330 (2.056 above average)
   clearing_percentage: 0.800 (0.043 below average)
-  possession_value_index: 0.126 (0.044 below average)
+  face_off_winning_percentage: 0.405 (0.097 below average)
+  ground_balls_per_game: 31.580 (0.645 above average)
+  possession_value_index: 0.126 (0.041 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 18 of 67

@@ -2,19 +2,24 @@ Team: Wingate
 Season: 2018 D2
 Record: 11-5
 Winning %: 0.688
-Predicted Winning %: 0.565
+Predicted Winning %: 0.688
 
 Stat Comparison vs League Average:
-  points_per_game: 16.310 (1.331 below average)
-  scoring_defense: 9.130 (2.106 below average)
+  Win % (from schedule): 0.688 (0.200 above average)
+  caused_turnovers_per_game: 5.190 (2.821 below average)
+  man_up_offense: 0.276 (0.065 below average)
+  defensive_efficiency: 17.345 (1.673 above average)
   scoring_offense: 10.250 (1.063 below average)
-  defensive_efficiency: 17.345 (1.642 above average)
-  scoring_margin: 5.195 (3.465 above average)
-  saves_per_game: 9.500 (2.487 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.560 (3.334 below average)
+  offensive_efficiency: 35.223 (3.515 below average)
+  points_per_game: 16.310 (1.357 below average)
+  scoring_margin: 5.195 (3.654 above average)
+  saves_per_game: 9.500 (2.523 below average)
+  rpi: 0.589 (0.090 above average)
+  scoring_defense: 9.130 (2.144 below average)
   clearing_percentage: 0.850 (0.007 above average)
-  possession_value_index: 0.248 (0.079 above average)
+  face_off_winning_percentage: 0.517 (0.015 above average)
+  ground_balls_per_game: 27.560 (3.375 below average)
+  possession_value_index: 0.248 (0.081 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 22 of 68

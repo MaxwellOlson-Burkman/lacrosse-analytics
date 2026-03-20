@@ -2,22 +2,27 @@ Team: Rockhurst
 Season: 2024 D2
 Record: 10-5
 Winning %: 0.667
-Predicted Winning %: 0.671
+Predicted Winning %: 0.667
 
 Stat Comparison vs League Average:
-  points_per_game: 21.870 (4.229 above average)
-  scoring_defense: 10.270 (0.966 below average)
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 9.730 (1.719 above average)
+  man_up_offense: 0.455 (0.114 above average)
+  defensive_efficiency: 16.424 (0.752 above average)
   scoring_offense: 14.130 (2.817 above average)
-  defensive_efficiency: 16.424 (0.721 above average)
-  scoring_margin: 3.870 (2.140 above average)
-  saves_per_game: 10.330 (1.657 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 34.200 (3.306 above average)
+  offensive_efficiency: 47.576 (8.838 above average)
+  points_per_game: 21.870 (4.203 above average)
+  scoring_margin: 3.870 (2.329 above average)
+  saves_per_game: 10.330 (1.693 below average)
+  rpi: 0.562 (0.063 above average)
+  scoring_defense: 10.270 (1.004 below average)
   clearing_percentage: 0.899 (0.056 above average)
-  possession_value_index: 0.210 (0.040 above average)
+  face_off_winning_percentage: 0.601 (0.099 above average)
+  ground_balls_per_game: 34.200 (3.265 above average)
+  possession_value_index: 0.210 (0.043 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 28 of 79
   Avg opponent win %: 0.527
   Model schedule difficulty rank: 28 of 79
-  Schedule difficulty score: 0.528
+  Schedule difficulty score: 0.526

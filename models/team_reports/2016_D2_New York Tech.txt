@@ -2,22 +2,27 @@ Team: New York Tech
 Season: 2016 D2
 Record: 13-5
 Winning %: 0.722
-Predicted Winning %: 0.747
+Predicted Winning %: 0.722
 
 Stat Comparison vs League Average:
-  points_per_game: 21.440 (3.799 above average)
-  scoring_defense: 8.060 (3.176 below average)
+  Win % (from schedule): 0.722 (0.235 above average)
+  caused_turnovers_per_game: 7.500 (0.511 below average)
+  man_up_offense: 0.357 (0.016 above average)
+  defensive_efficiency: 19.384 (3.712 above average)
   scoring_offense: 13.330 (2.017 above average)
-  defensive_efficiency: 19.384 (3.681 above average)
-  scoring_margin: 5.280 (3.550 above average)
-  saves_per_game: 11.280 (0.707 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.170 (3.724 below average)
+  offensive_efficiency: 42.588 (3.850 above average)
+  points_per_game: 21.440 (3.773 above average)
+  scoring_margin: 5.280 (3.739 above average)
+  saves_per_game: 11.280 (0.743 below average)
+  rpi: 0.578 (0.079 above average)
+  scoring_defense: 8.060 (3.214 below average)
   clearing_percentage: 0.885 (0.042 above average)
-  possession_value_index: 0.239 (0.070 above average)
+  face_off_winning_percentage: 0.441 (0.061 below average)
+  ground_balls_per_game: 27.170 (3.765 below average)
+  possession_value_index: 0.239 (0.072 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 20 of 63
   Avg opponent win %: 0.518
   Model schedule difficulty rank: 20 of 63
-  Schedule difficulty score: 0.519
+  Schedule difficulty score: 0.518

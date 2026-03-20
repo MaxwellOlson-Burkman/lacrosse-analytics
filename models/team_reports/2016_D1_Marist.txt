@@ -2,22 +2,27 @@ Team: Marist
 Season: 2016 D1
 Record: 9-7
 Winning %: 0.563
-Predicted Winning %: 0.589
+Predicted Winning %: 0.563
 
 Stat Comparison vs League Average:
-  points_per_game: 15.380 (2.261 below average)
-  scoring_defense: 8.560 (2.676 below average)
+  Win % (from schedule): 0.562 (0.075 above average)
+  caused_turnovers_per_game: 6.560 (1.451 below average)
+  man_up_offense: 0.607 (0.266 above average)
+  defensive_efficiency: 18.459 (2.787 above average)
   scoring_offense: 9.630 (1.683 below average)
-  defensive_efficiency: 18.459 (2.756 above average)
-  scoring_margin: 1.060 (0.670 below average)
-  saves_per_game: 11.880 (0.107 below average)
-  Win % (from schedule): 0.562 (0.064 above average)
-  ground_balls_per_game: 21.060 (9.834 below average)
+  offensive_efficiency: 32.315 (6.422 below average)
+  points_per_game: 15.380 (2.287 below average)
+  scoring_margin: 1.060 (0.481 below average)
+  saves_per_game: 11.880 (0.143 below average)
+  rpi: 0.480 (0.019 below average)
+  scoring_defense: 8.560 (2.714 below average)
   clearing_percentage: 0.861 (0.018 above average)
-  possession_value_index: 0.159 (0.010 below average)
+  face_off_winning_percentage: 0.308 (0.194 below average)
+  ground_balls_per_game: 21.060 (9.875 below average)
+  possession_value_index: 0.159 (0.008 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 64 of 68
   Avg opponent win %: 0.417
   Model schedule difficulty rank: 64 of 68
-  Schedule difficulty score: 0.419
+  Schedule difficulty score: 0.416

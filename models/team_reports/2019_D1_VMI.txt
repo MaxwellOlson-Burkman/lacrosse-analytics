@@ -2,19 +2,24 @@ Team: VMI
 Season: 2019 D1
 Record: 4-9
 Winning %: 0.308
-Predicted Winning %: 0.209
+Predicted Winning %: 0.308
 
 Stat Comparison vs League Average:
-  points_per_game: 14.920 (2.721 below average)
-  scoring_defense: 14.460 (3.224 above average)
+  Win % (from schedule): 0.308 (0.180 below average)
+  caused_turnovers_per_game: 10.620 (2.609 above average)
+  man_up_offense: 0.222 (0.119 below average)
+  defensive_efficiency: 12.169 (3.503 below average)
   scoring_offense: 9.850 (1.463 below average)
-  defensive_efficiency: 12.169 (3.534 below average)
-  scoring_margin: -4.620 (6.350 below average)
-  saves_per_game: 13.380 (1.393 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.310 (1.416 above average)
+  offensive_efficiency: 42.826 (4.088 above average)
+  points_per_game: 14.920 (2.747 below average)
+  scoring_margin: -4.620 (6.161 below average)
+  saves_per_game: 13.380 (1.357 above average)
+  rpi: 0.411 (0.089 below average)
+  scoring_defense: 14.460 (3.186 above average)
   clearing_percentage: 0.862 (0.019 above average)
-  possession_value_index: 0.096 (0.074 below average)
+  face_off_winning_percentage: 0.380 (0.122 below average)
+  ground_balls_per_game: 32.310 (1.375 above average)
+  possession_value_index: 0.096 (0.071 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 54 of 73

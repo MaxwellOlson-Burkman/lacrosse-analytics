@@ -2,22 +2,27 @@ Team: Shorter
 Season: 2019 D2
 Record: 0-13
 Winning %: 0.000
-Predicted Winning %: 0.026
+Predicted Winning %: 0.000
 
 Stat Comparison vs League Average:
-  points_per_game: 7.620 (10.021 below average)
-  scoring_defense: 20.850 (9.614 above average)
+  Win % (from schedule): 0.000 (0.487 below average)
+  caused_turnovers_per_game: 6.540 (1.471 below average)
+  man_up_offense: 0.206 (0.135 below average)
+  defensive_efficiency: 8.457 (7.215 below average)
   scoring_offense: 5.770 (5.543 below average)
-  defensive_efficiency: 8.457 (7.246 below average)
-  scoring_margin: 5.430 (3.700 above average)
-  saves_per_game: 19.690 (7.703 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 23.460 (7.434 below average)
+  offensive_efficiency: 22.806 (15.932 below average)
+  points_per_game: 7.620 (10.047 below average)
+  scoring_margin: 5.430 (3.889 above average)
+  saves_per_game: 19.690 (7.667 above average)
+  rpi: 0.357 (0.142 below average)
+  scoring_defense: 20.850 (9.576 above average)
   clearing_percentage: 0.682 (0.161 below average)
-  possession_value_index: 0.004 (0.166 below average)
+  face_off_winning_percentage: 0.258 (0.244 below average)
+  ground_balls_per_game: 23.460 (7.475 below average)
+  possession_value_index: 0.004 (0.163 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 45 of 70
   Avg opponent win %: 0.471
   Model schedule difficulty rank: 45 of 70
-  Schedule difficulty score: 0.472
+  Schedule difficulty score: 0.471

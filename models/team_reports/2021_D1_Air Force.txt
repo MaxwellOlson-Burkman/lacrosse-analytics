@@ -2,22 +2,27 @@ Team: Air Force
 Season: 2021 D1
 Record: 4-9
 Winning %: 0.308
-Predicted Winning %: 0.283
+Predicted Winning %: 0.308
 
 Stat Comparison vs League Average:
-  points_per_game: 13.920 (3.721 below average)
-  scoring_defense: 12.150 (0.914 above average)
+  Win % (from schedule): 0.308 (0.180 below average)
+  caused_turnovers_per_game: 8.540 (0.529 above average)
+  man_up_offense: 0.225 (0.116 below average)
+  defensive_efficiency: 13.426 (2.246 below average)
   scoring_offense: 8.620 (2.693 below average)
-  defensive_efficiency: 13.426 (2.277 below average)
-  scoring_margin: -3.540 (5.270 below average)
-  saves_per_game: 11.770 (0.217 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.920 (2.974 below average)
+  offensive_efficiency: 39.361 (0.623 above average)
+  points_per_game: 13.920 (3.747 below average)
+  scoring_margin: -3.540 (5.081 below average)
+  saves_per_game: 11.770 (0.253 below average)
+  rpi: 0.473 (0.026 below average)
+  scoring_defense: 12.150 (0.876 above average)
   clearing_percentage: 0.793 (0.050 below average)
-  possession_value_index: 0.150 (0.019 below average)
+  face_off_winning_percentage: 0.479 (0.023 below average)
+  ground_balls_per_game: 27.920 (3.015 below average)
+  possession_value_index: 0.150 (0.017 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 15 of 64
   Avg opponent win %: 0.537
-  Model schedule difficulty rank: 15 of 64
+  Model schedule difficulty rank: 14 of 64
   Schedule difficulty score: 0.537

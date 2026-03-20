@@ -2,19 +2,24 @@ Team: Lincoln Memorial
 Season: 2020 D2
 Record: 2-4
 Winning %: 0.333
-Predicted Winning %: 0.301
+Predicted Winning %: 0.333
 
 Stat Comparison vs League Average:
-  points_per_game: 16.500 (1.141 below average)
-  scoring_defense: 13.830 (2.594 above average)
+  Win % (from schedule): 0.333 (0.154 below average)
+  caused_turnovers_per_game: 6.000 (2.011 below average)
+  man_up_offense: 0.222 (0.119 below average)
+  defensive_efficiency: 13.705 (1.967 below average)
   scoring_offense: 10.330 (0.983 below average)
-  defensive_efficiency: 13.705 (1.998 below average)
-  scoring_margin: 6.680 (4.950 above average)
-  saves_per_game: 15.000 (3.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.170 (0.276 above average)
+  offensive_efficiency: 30.653 (8.085 below average)
+  points_per_game: 16.500 (1.167 below average)
+  scoring_margin: 6.680 (5.139 above average)
+  saves_per_game: 15.000 (2.977 above average)
+  rpi: 0.474 (0.026 below average)
+  scoring_defense: 13.830 (2.556 above average)
   clearing_percentage: 0.788 (0.055 below average)
-  possession_value_index: 0.050 (0.120 below average)
+  face_off_winning_percentage: 0.573 (0.071 above average)
+  ground_balls_per_game: 31.170 (0.235 above average)
+  possession_value_index: 0.050 (0.117 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 36 of 72

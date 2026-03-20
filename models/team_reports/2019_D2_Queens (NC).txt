@@ -2,22 +2,27 @@ Team: Queens (NC)
 Season: 2019 D2
 Record: 13-5
 Winning %: 0.722
-Predicted Winning %: 0.727
+Predicted Winning %: 0.722
 
 Stat Comparison vs League Average:
-  points_per_game: 21.330 (3.689 above average)
-  scoring_defense: 9.060 (2.176 below average)
+  Win % (from schedule): 0.722 (0.235 above average)
+  caused_turnovers_per_game: 7.000 (1.011 below average)
+  man_up_offense: 0.258 (0.083 below average)
+  defensive_efficiency: 18.003 (2.331 above average)
   scoring_offense: 13.780 (2.467 above average)
-  defensive_efficiency: 18.003 (2.300 above average)
-  scoring_margin: 4.720 (2.990 above average)
-  saves_per_game: 11.110 (0.877 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.220 (0.674 below average)
+  offensive_efficiency: 41.506 (2.768 above average)
+  points_per_game: 21.330 (3.663 above average)
+  scoring_margin: 4.720 (3.179 above average)
+  saves_per_game: 11.110 (0.913 below average)
+  rpi: 0.601 (0.102 above average)
+  scoring_defense: 9.060 (2.214 below average)
   clearing_percentage: 0.872 (0.029 above average)
-  possession_value_index: 0.204 (0.034 above average)
+  face_off_winning_percentage: 0.549 (0.047 above average)
+  ground_balls_per_game: 30.220 (0.715 below average)
+  possession_value_index: 0.204 (0.037 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 6 of 70
   Avg opponent win %: 0.572
   Model schedule difficulty rank: 6 of 70
-  Schedule difficulty score: 0.569
+  Schedule difficulty score: 0.571

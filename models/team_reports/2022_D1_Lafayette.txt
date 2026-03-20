@@ -2,22 +2,27 @@ Team: Lafayette
 Season: 2022 D1
 Record: 4-11
 Winning %: 0.267
-Predicted Winning %: 0.344
+Predicted Winning %: 0.267
 
 Stat Comparison vs League Average:
-  points_per_game: 18.530 (0.889 above average)
-  scoring_defense: 14.670 (3.434 above average)
+  Win % (from schedule): 0.267 (0.221 below average)
+  caused_turnovers_per_game: 7.330 (0.681 below average)
+  man_up_offense: 0.429 (0.088 above average)
+  defensive_efficiency: 11.421 (4.251 below average)
   scoring_offense: 12.070 (0.757 above average)
-  defensive_efficiency: 11.421 (4.282 below average)
-  scoring_margin: -2.600 (4.330 below average)
-  saves_per_game: 9.470 (2.517 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.930 (1.964 below average)
+  offensive_efficiency: 37.837 (0.901 below average)
+  points_per_game: 18.530 (0.863 above average)
+  scoring_margin: -2.600 (4.141 below average)
+  saves_per_game: 9.470 (2.553 below average)
+  rpi: 0.428 (0.071 below average)
+  scoring_defense: 14.670 (3.396 above average)
   clearing_percentage: 0.890 (0.047 above average)
-  possession_value_index: 0.185 (0.016 above average)
+  face_off_winning_percentage: 0.429 (0.073 below average)
+  ground_balls_per_game: 28.930 (2.005 below average)
+  possession_value_index: 0.185 (0.018 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 39 of 72
   Avg opponent win %: 0.474
   Model schedule difficulty rank: 39 of 72
-  Schedule difficulty score: 0.474
+  Schedule difficulty score: 0.473

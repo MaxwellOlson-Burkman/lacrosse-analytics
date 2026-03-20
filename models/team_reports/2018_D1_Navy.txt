@@ -2,22 +2,27 @@ Team: Navy
 Season: 2018 D1
 Record: 9-5
 Winning %: 0.643
-Predicted Winning %: 0.525
+Predicted Winning %: 0.643
 
 Stat Comparison vs League Average:
-  points_per_game: 14.430 (3.211 below average)
-  scoring_defense: 8.930 (2.306 below average)
+  Win % (from schedule): 0.643 (0.156 above average)
+  caused_turnovers_per_game: 6.000 (2.011 below average)
+  man_up_offense: 0.259 (0.082 below average)
+  defensive_efficiency: 16.998 (1.326 above average)
   scoring_offense: 9.000 (2.313 below average)
-  defensive_efficiency: 16.998 (1.295 above average)
-  scoring_margin: 0.070 (1.660 below average)
-  saves_per_game: 8.860 (3.127 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.860 (2.034 below average)
+  offensive_efficiency: 32.847 (5.891 below average)
+  points_per_game: 14.430 (3.237 below average)
+  scoring_margin: 0.070 (1.471 below average)
+  saves_per_game: 8.860 (3.163 below average)
+  rpi: 0.549 (0.050 above average)
+  scoring_defense: 8.930 (2.344 below average)
   clearing_percentage: 0.853 (0.010 above average)
-  possession_value_index: 0.223 (0.053 above average)
+  face_off_winning_percentage: 0.553 (0.051 above average)
+  ground_balls_per_game: 28.860 (2.075 below average)
+  possession_value_index: 0.223 (0.056 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 30 of 71
   Avg opponent win %: 0.509
   Model schedule difficulty rank: 30 of 71
-  Schedule difficulty score: 0.509
+  Schedule difficulty score: 0.508

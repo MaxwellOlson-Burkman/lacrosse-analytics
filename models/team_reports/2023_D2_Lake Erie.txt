@@ -2,22 +2,27 @@ Team: Lake Erie
 Season: 2023 D2
 Record: 7-9
 Winning %: 0.438
-Predicted Winning %: 0.476
+Predicted Winning %: 0.438
 
 Stat Comparison vs League Average:
-  points_per_game: 20.440 (2.799 above average)
-  scoring_defense: 12.750 (1.514 above average)
+  Win % (from schedule): 0.438 (0.050 below average)
+  caused_turnovers_per_game: 6.190 (1.821 below average)
+  man_up_offense: 0.213 (0.128 below average)
+  defensive_efficiency: 15.079 (0.593 below average)
   scoring_offense: 13.560 (2.247 above average)
-  defensive_efficiency: 15.079 (0.624 below average)
-  scoring_margin: 0.810 (0.920 below average)
-  saves_per_game: 12.130 (0.143 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.250 (2.356 above average)
+  offensive_efficiency: 46.122 (7.385 above average)
+  points_per_game: 20.440 (2.773 above average)
+  scoring_margin: 0.810 (0.731 below average)
+  saves_per_game: 12.130 (0.107 above average)
+  rpi: 0.492 (0.007 below average)
+  scoring_defense: 12.750 (1.476 above average)
   clearing_percentage: 0.806 (0.037 below average)
-  possession_value_index: 0.149 (0.021 below average)
+  face_off_winning_percentage: 0.654 (0.152 above average)
+  ground_balls_per_game: 33.250 (2.315 above average)
+  possession_value_index: 0.149 (0.018 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 44 of 74
   Avg opponent win %: 0.484
-  Model schedule difficulty rank: 43 of 74
+  Model schedule difficulty rank: 44 of 74
   Schedule difficulty score: 0.484

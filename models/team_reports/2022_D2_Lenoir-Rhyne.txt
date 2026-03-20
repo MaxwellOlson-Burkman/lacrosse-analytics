@@ -2,22 +2,27 @@ Team: Lenoir-Rhyne
 Season: 2022 D2
 Record: 15-4
 Winning %: 0.789
-Predicted Winning %: 0.754
+Predicted Winning %: 0.789
 
 Stat Comparison vs League Average:
-  points_per_game: 22.890 (5.249 above average)
-  scoring_defense: 8.790 (2.446 below average)
+  Win % (from schedule): 0.789 (0.302 above average)
+  caused_turnovers_per_game: 9.530 (1.519 above average)
+  man_up_offense: 0.389 (0.048 above average)
+  defensive_efficiency: 17.973 (2.301 above average)
   scoring_offense: 14.420 (3.107 above average)
-  defensive_efficiency: 17.973 (2.270 above average)
-  scoring_margin: 5.630 (3.900 above average)
-  saves_per_game: 11.160 (0.827 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.320 (2.426 above average)
+  offensive_efficiency: 46.218 (7.480 above average)
+  points_per_game: 22.890 (5.223 above average)
+  scoring_margin: 5.630 (4.089 above average)
+  saves_per_game: 11.160 (0.863 below average)
+  rpi: 0.646 (0.147 above average)
+  scoring_defense: 8.790 (2.484 below average)
   clearing_percentage: 0.890 (0.047 above average)
-  possession_value_index: 0.210 (0.041 above average)
+  face_off_winning_percentage: 0.561 (0.059 above average)
+  ground_balls_per_game: 33.320 (2.385 above average)
+  possession_value_index: 0.210 (0.043 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 7 of 74
   Avg opponent win %: 0.568
   Model schedule difficulty rank: 6 of 74
-  Schedule difficulty score: 0.568
+  Schedule difficulty score: 0.569

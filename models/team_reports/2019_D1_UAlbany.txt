@@ -2,19 +2,24 @@ Team: UAlbany
 Season: 2019 D1
 Record: 5-9
 Winning %: 0.357
-Predicted Winning %: 0.460
+Predicted Winning %: 0.357
 
 Stat Comparison vs League Average:
-  points_per_game: 17.140 (0.501 below average)
-  scoring_defense: 11.640 (0.404 above average)
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 7.140 (0.871 below average)
+  man_up_offense: 0.346 (0.005 above average)
+  defensive_efficiency: 14.922 (0.750 below average)
   scoring_offense: 10.570 (0.743 below average)
-  defensive_efficiency: 14.922 (0.781 below average)
-  scoring_margin: -1.070 (2.800 below average)
-  saves_per_game: 12.290 (0.303 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.070 (2.824 below average)
+  offensive_efficiency: 39.737 (0.999 above average)
+  points_per_game: 17.140 (0.527 below average)
+  scoring_margin: -1.070 (2.611 below average)
+  saves_per_game: 12.290 (0.267 above average)
+  rpi: 0.471 (0.028 below average)
+  scoring_defense: 11.640 (0.366 above average)
   clearing_percentage: 0.863 (0.020 above average)
-  possession_value_index: 0.178 (0.009 above average)
+  face_off_winning_percentage: 0.439 (0.063 below average)
+  ground_balls_per_game: 28.070 (2.865 below average)
+  possession_value_index: 0.178 (0.011 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 29 of 73

@@ -2,19 +2,24 @@ Team: Coker
 Season: 2014 D2
 Record: 6-8
 Winning %: 0.429
-Predicted Winning %: 0.463
+Predicted Winning %: 0.429
 
 Stat Comparison vs League Average:
-  points_per_game: 19.070 (1.429 above average)
-  scoring_defense: 7.995 (3.241 below average)
+  Win % (from schedule): 0.429 (0.059 below average)
+  caused_turnovers_per_game: 8.375 (0.364 above average)
+  man_up_offense: 0.407 (0.067 above average)
+  defensive_efficiency: 19.997 (4.325 above average)
   scoring_offense: 11.640 (0.327 above average)
-  defensive_efficiency: 19.997 (4.295 above average)
-  scoring_margin: 4.920 (3.190 above average)
-  saves_per_game: 14.000 (2.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.730 (0.836 above average)
+  offensive_efficiency: 34.336 (4.402 below average)
+  points_per_game: 19.070 (1.403 above average)
+  scoring_margin: 4.920 (3.379 above average)
+  saves_per_game: 14.000 (1.977 above average)
+  rpi: 0.484 (0.016 below average)
+  scoring_defense: 7.995 (3.279 below average)
   clearing_percentage: 0.898 (0.055 above average)
-  possession_value_index: 0.227 (0.057 above average)
+  face_off_winning_percentage: 0.588 (0.086 above average)
+  ground_balls_per_game: 31.730 (0.795 above average)
+  possession_value_index: 0.227 (0.060 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 34 of 53

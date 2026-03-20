@@ -1,0 +1,28 @@
+Team: Loyola Maryland
+Season: 2025 D1
+Record: 3-11
+Winning %: 0.214
+Predicted Winning %: 0.214
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.214 (0.273 below average)
+  caused_turnovers_per_game: 7.640 (0.371 below average)
+  man_up_offense: 0.419 (0.078 above average)
+  defensive_efficiency: 16.050 (0.378 above average)
+  scoring_offense: 9.290 (2.023 below average)
+  offensive_efficiency: 34.407 (4.330 below average)
+  points_per_game: 15.500 (2.167 below average)
+  scoring_margin: -2.430 (3.971 below average)
+  saves_per_game: 14.500 (2.477 above average)
+  rpi: 0.459 (0.040 below average)
+  scoring_defense: 11.710 (0.436 above average)
+  clearing_percentage: 0.813 (0.030 below average)
+  face_off_winning_percentage: 0.443 (0.059 below average)
+  ground_balls_per_game: 29.710 (1.225 below average)
+  possession_value_index: 0.154 (0.013 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 18 of 74
+  Avg opponent win %: 0.549
+  Model schedule difficulty rank: 18 of 74
+  Schedule difficulty score: 0.548

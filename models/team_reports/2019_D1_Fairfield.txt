@@ -2,22 +2,27 @@ Team: Fairfield
 Season: 2019 D1
 Record: 5-9
 Winning %: 0.357
-Predicted Winning %: 0.310
+Predicted Winning %: 0.357
 
 Stat Comparison vs League Average:
-  points_per_game: 17.290 (0.351 below average)
-  scoring_defense: 13.500 (2.264 above average)
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 7.360 (0.651 below average)
+  man_up_offense: 0.244 (0.097 below average)
+  defensive_efficiency: 12.149 (3.523 below average)
   scoring_offense: 10.070 (1.243 below average)
-  defensive_efficiency: 12.149 (3.554 below average)
-  scoring_margin: -3.430 (5.160 below average)
-  saves_per_game: 11.430 (0.557 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.790 (1.104 below average)
+  offensive_efficiency: 39.336 (0.598 above average)
+  points_per_game: 17.290 (0.377 below average)
+  scoring_margin: -3.430 (4.971 below average)
+  saves_per_game: 11.430 (0.593 below average)
+  rpi: 0.456 (0.044 below average)
+  scoring_defense: 13.500 (2.226 above average)
   clearing_percentage: 0.771 (0.072 below average)
-  possession_value_index: 0.170 (0.000 above average)
+  face_off_winning_percentage: 0.464 (0.038 below average)
+  ground_balls_per_game: 29.790 (1.145 below average)
+  possession_value_index: 0.170 (0.003 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 39 of 73
   Avg opponent win %: 0.486
-  Model schedule difficulty rank: 38 of 73
+  Model schedule difficulty rank: 37 of 73
   Schedule difficulty score: 0.487

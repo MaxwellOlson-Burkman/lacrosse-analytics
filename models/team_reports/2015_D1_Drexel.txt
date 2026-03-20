@@ -2,22 +2,27 @@ Team: Drexel
 Season: 2015 D1
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.443
+Predicted Winning %: 0.467
 
 Stat Comparison vs League Average:
-  points_per_game: 13.470 (4.171 below average)
-  scoring_defense: 9.800 (1.436 below average)
+  Win % (from schedule): 0.467 (0.021 below average)
+  caused_turnovers_per_game: 6.330 (1.681 below average)
+  man_up_offense: 0.364 (0.023 above average)
+  defensive_efficiency: 16.401 (0.729 above average)
   scoring_offense: 8.670 (2.643 below average)
-  defensive_efficiency: 16.401 (0.698 above average)
-  scoring_margin: -1.130 (2.860 below average)
-  saves_per_game: 9.470 (2.517 below average)
-  Win % (from schedule): 0.467 (0.032 below average)
-  ground_balls_per_game: 27.730 (3.164 below average)
+  offensive_efficiency: 38.533 (0.205 below average)
+  points_per_game: 13.470 (4.197 below average)
+  scoring_margin: -1.130 (2.671 below average)
+  saves_per_game: 9.470 (2.553 below average)
+  rpi: 0.501 (0.002 above average)
+  scoring_defense: 9.800 (1.474 below average)
   clearing_percentage: 0.875 (0.032 above average)
-  possession_value_index: 0.238 (0.068 above average)
+  face_off_winning_percentage: 0.540 (0.038 above average)
+  ground_balls_per_game: 27.730 (3.205 below average)
+  possession_value_index: 0.238 (0.071 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 32 of 68
   Avg opponent win %: 0.501
   Model schedule difficulty rank: 32 of 68
-  Schedule difficulty score: 0.502
+  Schedule difficulty score: 0.501

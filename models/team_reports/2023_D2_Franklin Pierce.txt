@@ -2,19 +2,24 @@ Team: Franklin Pierce
 Season: 2023 D2
 Record: 5-9
 Winning %: 0.357
-Predicted Winning %: 0.298
+Predicted Winning %: 0.357
 
 Stat Comparison vs League Average:
-  points_per_game: 17.000 (0.641 below average)
-  scoring_defense: 14.360 (3.124 above average)
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 7.210 (0.801 below average)
+  man_up_offense: 0.320 (0.021 below average)
+  defensive_efficiency: 12.526 (3.146 below average)
   scoring_offense: 11.000 (0.313 below average)
-  defensive_efficiency: 12.526 (3.177 below average)
-  scoring_margin: -3.360 (5.090 below average)
-  saves_per_game: 15.070 (3.083 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.430 (3.464 below average)
+  offensive_efficiency: 36.913 (1.825 below average)
+  points_per_game: 17.000 (0.667 below average)
+  scoring_margin: -3.360 (4.901 below average)
+  saves_per_game: 15.070 (3.047 above average)
+  rpi: 0.459 (0.040 below average)
+  scoring_defense: 14.360 (3.086 above average)
   clearing_percentage: 0.866 (0.023 above average)
-  possession_value_index: 0.096 (0.073 below average)
+  face_off_winning_percentage: 0.321 (0.181 below average)
+  ground_balls_per_game: 27.430 (3.505 below average)
+  possession_value_index: 0.096 (0.071 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 51 of 74

@@ -2,19 +2,24 @@ Team: Rockhurst
 Season: 2021 D2
 Record: 8-5
 Winning %: 0.615
-Predicted Winning %: 0.597
+Predicted Winning %: 0.615
 
 Stat Comparison vs League Average:
-  points_per_game: 17.310 (0.331 below average)
-  scoring_defense: 8.540 (2.696 below average)
+  Win % (from schedule): 0.615 (0.128 above average)
+  caused_turnovers_per_game: 10.380 (2.369 above average)
+  man_up_offense: 0.327 (0.014 below average)
+  defensive_efficiency: 18.249 (2.577 above average)
   scoring_offense: 10.540 (0.773 below average)
-  defensive_efficiency: 18.249 (2.546 above average)
-  scoring_margin: 6.375 (4.645 above average)
-  saves_per_game: 12.380 (0.393 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.080 (0.814 below average)
+  offensive_efficiency: 42.672 (3.934 above average)
+  points_per_game: 17.310 (0.357 below average)
+  scoring_margin: 6.375 (4.834 above average)
+  saves_per_game: 12.380 (0.357 above average)
+  rpi: 0.510 (0.011 above average)
+  scoring_defense: 8.540 (2.734 below average)
   clearing_percentage: 0.851 (0.008 above average)
-  possession_value_index: 0.084 (0.085 below average)
+  face_off_winning_percentage: 0.610 (0.108 above average)
+  ground_balls_per_game: 30.080 (0.855 below average)
+  possession_value_index: 0.084 (0.083 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 55 of 69

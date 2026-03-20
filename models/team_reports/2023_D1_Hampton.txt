@@ -2,22 +2,27 @@ Team: Hampton
 Season: 2023 D1
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.126
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 11.140 (6.501 below average)
-  scoring_defense: 16.790 (5.554 above average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 9.710 (1.699 above average)
+  man_up_offense: 0.395 (0.054 above average)
+  defensive_efficiency: 9.853 (5.819 below average)
   scoring_offense: 7.430 (3.883 below average)
-  defensive_efficiency: 9.853 (5.850 below average)
-  scoring_margin: -9.360 (11.090 below average)
-  saves_per_game: 12.210 (0.223 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.290 (0.604 below average)
+  offensive_efficiency: 29.720 (9.018 below average)
+  points_per_game: 11.140 (6.527 below average)
+  scoring_margin: -9.360 (10.901 below average)
+  saves_per_game: 12.210 (0.187 above average)
+  rpi: 0.387 (0.113 below average)
+  scoring_defense: 16.790 (5.516 above average)
   clearing_percentage: 0.755 (0.088 below average)
-  possession_value_index: 0.025 (0.145 below average)
+  face_off_winning_percentage: 0.456 (0.046 below average)
+  ground_balls_per_game: 30.290 (0.645 below average)
+  possession_value_index: 0.025 (0.142 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 51 of 72
   Avg opponent win %: 0.466
   Model schedule difficulty rank: 51 of 72
-  Schedule difficulty score: 0.467
+  Schedule difficulty score: 0.468

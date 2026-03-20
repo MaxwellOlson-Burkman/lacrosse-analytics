@@ -2,22 +2,27 @@ Team: Mercy
 Season: 2017 D2
 Record: 12-5
 Winning %: 0.706
-Predicted Winning %: 0.662
+Predicted Winning %: 0.706
 
 Stat Comparison vs League Average:
-  points_per_game: 18.000 (0.359 above average)
-  scoring_defense: 8.290 (2.946 below average)
+  Win % (from schedule): 0.706 (0.219 above average)
+  caused_turnovers_per_game: 6.880 (1.131 below average)
+  man_up_offense: 0.319 (0.022 below average)
+  defensive_efficiency: 18.507 (2.835 above average)
   scoring_offense: 11.820 (0.507 above average)
-  defensive_efficiency: 18.507 (2.804 above average)
-  scoring_margin: 3.530 (1.800 above average)
-  saves_per_game: 10.940 (1.047 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.410 (0.516 above average)
+  offensive_efficiency: 34.561 (4.176 below average)
+  points_per_game: 18.000 (0.333 above average)
+  scoring_margin: 3.530 (1.989 above average)
+  saves_per_game: 10.940 (1.083 below average)
+  rpi: 0.558 (0.059 above average)
+  scoring_defense: 8.290 (2.984 below average)
   clearing_percentage: 0.840 (0.003 below average)
-  possession_value_index: 0.215 (0.045 above average)
+  face_off_winning_percentage: 0.567 (0.065 above average)
+  ground_balls_per_game: 31.410 (0.475 above average)
+  possession_value_index: 0.215 (0.048 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 37 of 65
   Avg opponent win %: 0.482
   Model schedule difficulty rank: 37 of 65
-  Schedule difficulty score: 0.482
+  Schedule difficulty score: 0.481

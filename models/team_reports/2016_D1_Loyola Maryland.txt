@@ -2,22 +2,27 @@ Team: Loyola Maryland
 Season: 2016 D1
 Record: 14-4
 Winning %: 0.778
-Predicted Winning %: 0.738
+Predicted Winning %: 0.778
 
 Stat Comparison vs League Average:
-  points_per_game: 17.110 (0.531 below average)
-  scoring_defense: 8.610 (2.626 below average)
+  Win % (from schedule): 0.778 (0.291 above average)
+  caused_turnovers_per_game: 7.330 (0.681 below average)
+  man_up_offense: 0.432 (0.091 above average)
+  defensive_efficiency: 17.559 (1.887 above average)
   scoring_offense: 10.940 (0.373 below average)
-  defensive_efficiency: 17.559 (1.856 above average)
-  scoring_margin: 2.330 (0.600 above average)
-  saves_per_game: 9.830 (2.157 below average)
-  Win % (from schedule): 0.778 (0.279 above average)
-  ground_balls_per_game: 29.830 (1.064 below average)
+  offensive_efficiency: 40.221 (1.483 above average)
+  points_per_game: 17.110 (0.557 below average)
+  scoring_margin: 2.330 (0.789 above average)
+  saves_per_game: 9.830 (2.193 below average)
+  rpi: 0.590 (0.091 above average)
+  scoring_defense: 8.610 (2.664 below average)
   clearing_percentage: 0.898 (0.055 above average)
-  possession_value_index: 0.277 (0.108 above average)
+  face_off_winning_percentage: 0.511 (0.009 above average)
+  ground_balls_per_game: 29.830 (1.105 below average)
+  possession_value_index: 0.277 (0.110 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 40 of 68
   Avg opponent win %: 0.491
   Model schedule difficulty rank: 40 of 68
-  Schedule difficulty score: 0.492
+  Schedule difficulty score: 0.491

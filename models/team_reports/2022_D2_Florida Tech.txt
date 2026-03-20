@@ -2,22 +2,27 @@ Team: Florida Tech
 Season: 2022 D2
 Record: 10-6
 Winning %: 0.625
-Predicted Winning %: 0.593
+Predicted Winning %: 0.625
 
 Stat Comparison vs League Average:
-  points_per_game: 21.190 (3.549 above average)
-  scoring_defense: 12.060 (0.824 above average)
+  Win % (from schedule): 0.625 (0.138 above average)
+  caused_turnovers_per_game: 12.810 (4.799 above average)
+  man_up_offense: 0.400 (0.059 above average)
+  defensive_efficiency: 15.464 (0.208 below average)
   scoring_offense: 13.440 (2.127 above average)
-  defensive_efficiency: 15.464 (0.239 below average)
-  scoring_margin: 1.380 (0.350 below average)
-  saves_per_game: 12.630 (0.643 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 37.690 (6.796 above average)
+  offensive_efficiency: 44.950 (6.212 above average)
+  points_per_game: 21.190 (3.523 above average)
+  scoring_margin: 1.380 (0.161 below average)
+  saves_per_game: 12.630 (0.607 above average)
+  rpi: 0.621 (0.122 above average)
+  scoring_defense: 12.060 (0.786 above average)
   clearing_percentage: 0.872 (0.029 above average)
-  possession_value_index: 0.139 (0.031 below average)
+  face_off_winning_percentage: 0.447 (0.055 below average)
+  ground_balls_per_game: 37.690 (6.755 above average)
+  possession_value_index: 0.139 (0.028 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 2 of 74
   Avg opponent win %: 0.586
   Model schedule difficulty rank: 2 of 74
-  Schedule difficulty score: 0.586
+  Schedule difficulty score: 0.585

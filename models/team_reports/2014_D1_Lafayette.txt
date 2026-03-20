@@ -2,19 +2,24 @@ Team: Lafayette
 Season: 2014 D1
 Record: 2-11
 Winning %: 0.154
-Predicted Winning %: 0.163
+Predicted Winning %: 0.154
 
 Stat Comparison vs League Average:
-  points_per_game: 9.000 (8.641 below average)
-  scoring_defense: 11.380 (0.144 above average)
+  Win % (from schedule): 0.154 (0.333 below average)
+  caused_turnovers_per_game: 6.230 (1.781 below average)
+  man_up_offense: 0.204 (0.137 below average)
+  defensive_efficiency: 15.369 (0.303 below average)
   scoring_offense: 6.150 (5.163 below average)
-  defensive_efficiency: 15.369 (0.334 below average)
-  scoring_margin: -5.230 (6.960 below average)
-  saves_per_game: 10.380 (1.607 below average)
-  Win % (from schedule): 0.154 (0.345 below average)
-  ground_balls_per_game: 25.690 (5.204 below average)
+  offensive_efficiency: 31.061 (7.677 below average)
+  points_per_game: 9.000 (8.667 below average)
+  scoring_margin: -5.230 (6.771 below average)
+  saves_per_game: 10.380 (1.643 below average)
+  rpi: 0.369 (0.130 below average)
+  scoring_defense: 11.380 (0.106 above average)
   clearing_percentage: 0.774 (0.069 below average)
-  possession_value_index: 0.159 (0.011 below average)
+  face_off_winning_percentage: 0.394 (0.108 below average)
+  ground_balls_per_game: 25.690 (5.245 below average)
+  possession_value_index: 0.159 (0.008 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 58 of 67

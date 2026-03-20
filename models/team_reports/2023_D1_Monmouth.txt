@@ -2,22 +2,27 @@ Team: Monmouth
 Season: 2023 D1
 Record: 5-9
 Winning %: 0.357
-Predicted Winning %: 0.361
+Predicted Winning %: 0.357
 
 Stat Comparison vs League Average:
-  points_per_game: 14.210 (3.431 below average)
-  scoring_defense: 12.000 (0.764 above average)
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 6.860 (1.151 below average)
+  man_up_offense: 0.215 (0.126 below average)
+  defensive_efficiency: 14.602 (1.070 below average)
   scoring_offense: 9.210 (2.103 below average)
-  defensive_efficiency: 14.602 (1.101 below average)
-  scoring_margin: -2.790 (4.520 below average)
-  saves_per_game: 10.640 (1.347 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.290 (0.396 above average)
+  offensive_efficiency: 36.693 (2.045 below average)
+  points_per_game: 14.210 (3.457 below average)
+  scoring_margin: -2.790 (4.331 below average)
+  saves_per_game: 10.640 (1.383 below average)
+  rpi: 0.432 (0.067 below average)
+  scoring_defense: 12.000 (0.726 above average)
   clearing_percentage: 0.853 (0.010 above average)
-  possession_value_index: 0.205 (0.035 above average)
+  face_off_winning_percentage: 0.556 (0.054 above average)
+  ground_balls_per_game: 31.290 (0.355 above average)
+  possession_value_index: 0.205 (0.038 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 57 of 72
   Avg opponent win %: 0.449
-  Model schedule difficulty rank: 56 of 72
-  Schedule difficulty score: 0.450
+  Model schedule difficulty rank: 57 of 72
+  Schedule difficulty score: 0.449

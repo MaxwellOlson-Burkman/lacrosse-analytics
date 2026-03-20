@@ -2,19 +2,24 @@ Team: Davis & Elkins
 Season: 2022 D2
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.177
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 15.000 (2.641 below average)
-  scoring_defense: 16.500 (5.264 above average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 5.930 (2.081 below average)
+  man_up_offense: 0.232 (0.109 below average)
+  defensive_efficiency: 12.898 (2.774 below average)
   scoring_offense: 9.360 (1.953 below average)
-  defensive_efficiency: 12.898 (2.805 below average)
-  scoring_margin: -7.140 (8.870 below average)
-  saves_per_game: 19.210 (7.223 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 20.930 (9.964 below average)
+  offensive_efficiency: 27.940 (10.798 below average)
+  points_per_game: 15.000 (2.667 below average)
+  scoring_margin: -7.140 (8.681 below average)
+  saves_per_game: 19.210 (7.187 above average)
+  rpi: 0.320 (0.179 below average)
+  scoring_defense: 16.500 (5.226 above average)
   clearing_percentage: 0.658 (0.185 below average)
-  possession_value_index: 0.008 (0.162 below average)
+  face_off_winning_percentage: 0.305 (0.197 below average)
+  ground_balls_per_game: 20.930 (10.005 below average)
+  possession_value_index: 0.008 (0.159 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 73 of 74

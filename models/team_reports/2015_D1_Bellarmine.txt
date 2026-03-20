@@ -2,19 +2,24 @@ Team: Bellarmine
 Season: 2015 D1
 Record: 4-8
 Winning %: 0.333
-Predicted Winning %: 0.426
+Predicted Winning %: 0.333
 
 Stat Comparison vs League Average:
-  points_per_game: 15.330 (2.311 below average)
-  scoring_defense: 9.670 (1.566 below average)
+  Win % (from schedule): 0.333 (0.154 below average)
+  caused_turnovers_per_game: 7.250 (0.761 below average)
+  man_up_offense: 0.217 (0.124 below average)
+  defensive_efficiency: 17.279 (1.607 above average)
   scoring_offense: 9.920 (1.393 below average)
-  defensive_efficiency: 17.279 (1.576 above average)
-  scoring_margin: 0.250 (1.480 below average)
-  saves_per_game: 10.830 (1.157 below average)
-  Win % (from schedule): 0.333 (0.165 below average)
-  ground_balls_per_game: 26.670 (4.224 below average)
+  offensive_efficiency: 33.857 (4.881 below average)
+  points_per_game: 15.330 (2.337 below average)
+  scoring_margin: 0.250 (1.291 below average)
+  saves_per_game: 10.830 (1.193 below average)
+  rpi: 0.424 (0.075 below average)
+  scoring_defense: 9.670 (1.604 below average)
   clearing_percentage: 0.859 (0.016 above average)
-  possession_value_index: 0.209 (0.039 above average)
+  face_off_winning_percentage: 0.478 (0.024 below average)
+  ground_balls_per_game: 26.670 (4.265 below average)
+  possession_value_index: 0.209 (0.042 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 57 of 68

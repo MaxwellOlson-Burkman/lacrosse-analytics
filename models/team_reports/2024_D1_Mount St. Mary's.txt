@@ -2,22 +2,27 @@ Team: Mount St. Mary's
 Season: 2024 D1
 Record: 1-14
 Winning %: 0.067
-Predicted Winning %: 0.214
+Predicted Winning %: 0.067
 
 Stat Comparison vs League Average:
-  points_per_game: 12.730 (4.911 below average)
-  scoring_defense: 13.330 (2.094 above average)
+  Win % (from schedule): 0.067 (0.421 below average)
+  caused_turnovers_per_game: 8.200 (0.189 above average)
+  man_up_offense: 0.333 (0.008 below average)
+  defensive_efficiency: 13.145 (2.527 below average)
   scoring_offense: 7.870 (3.443 below average)
-  defensive_efficiency: 13.145 (2.558 below average)
-  scoring_margin: -5.470 (7.200 below average)
-  saves_per_game: 12.000 (0.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.270 (1.376 above average)
+  offensive_efficiency: 34.367 (4.371 below average)
+  points_per_game: 12.730 (4.937 below average)
+  scoring_margin: -5.470 (7.011 below average)
+  saves_per_game: 12.000 (0.023 below average)
+  rpi: 0.381 (0.119 below average)
+  scoring_defense: 13.330 (2.056 above average)
   clearing_percentage: 0.880 (0.037 above average)
-  possession_value_index: 0.132 (0.037 below average)
+  face_off_winning_percentage: 0.439 (0.063 below average)
+  ground_balls_per_game: 32.270 (1.335 above average)
+  possession_value_index: 0.132 (0.035 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 31 of 73
   Avg opponent win %: 0.508
   Model schedule difficulty rank: 31 of 73
-  Schedule difficulty score: 0.508
+  Schedule difficulty score: 0.507

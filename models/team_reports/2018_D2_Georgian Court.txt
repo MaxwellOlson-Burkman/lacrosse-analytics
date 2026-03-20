@@ -2,22 +2,27 @@ Team: Georgian Court
 Season: 2018 D2
 Record: 11-6
 Winning %: 0.647
-Predicted Winning %: 0.604
+Predicted Winning %: 0.647
 
 Stat Comparison vs League Average:
-  points_per_game: 18.120 (0.479 above average)
-  scoring_defense: 8.410 (2.826 below average)
+  Win % (from schedule): 0.647 (0.160 above average)
+  caused_turnovers_per_game: 7.590 (0.421 below average)
+  man_up_offense: 0.360 (0.019 above average)
+  defensive_efficiency: 19.193 (3.521 above average)
   scoring_offense: 11.180 (0.133 below average)
-  defensive_efficiency: 19.193 (3.490 above average)
-  scoring_margin: 5.195 (3.465 above average)
-  saves_per_game: 13.710 (1.723 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.880 (2.986 above average)
+  offensive_efficiency: 36.417 (2.321 below average)
+  points_per_game: 18.120 (0.453 above average)
+  scoring_margin: 5.195 (3.654 above average)
+  saves_per_game: 13.710 (1.687 above average)
+  rpi: 0.446 (0.053 below average)
+  scoring_defense: 8.410 (2.864 below average)
   clearing_percentage: 0.870 (0.027 above average)
-  possession_value_index: 0.131 (0.038 below average)
+  face_off_winning_percentage: 0.443 (0.059 below average)
+  ground_balls_per_game: 33.880 (2.945 above average)
+  possession_value_index: 0.131 (0.036 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 68 of 68
   Avg opponent win %: 0.339
   Model schedule difficulty rank: 68 of 68
-  Schedule difficulty score: 0.341
+  Schedule difficulty score: 0.339

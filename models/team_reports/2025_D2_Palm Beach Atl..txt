@@ -1,0 +1,28 @@
+Team: Palm Beach Atl.
+Season: 2025 D2
+Record: 4-7
+Winning %: 0.364
+Predicted Winning %: 0.364
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.364 (0.124 below average)
+  caused_turnovers_per_game: 8.640 (0.629 above average)
+  man_up_offense: 0.472 (0.131 above average)
+  defensive_efficiency: 13.800 (1.872 below average)
+  scoring_offense: 11.730 (0.417 above average)
+  offensive_efficiency: 39.763 (1.025 above average)
+  points_per_game: 16.550 (1.117 below average)
+  scoring_margin: -1.270 (2.811 below average)
+  saves_per_game: 11.550 (0.473 below average)
+  rpi: 0.507 (0.008 above average)
+  scoring_defense: 13.000 (1.726 above average)
+  clearing_percentage: 0.801 (0.042 below average)
+  face_off_winning_percentage: 0.511 (0.009 above average)
+  ground_balls_per_game: 29.360 (1.575 below average)
+  possession_value_index: 0.199 (0.032 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 16 of 78
+  Avg opponent win %: 0.545
+  Model schedule difficulty rank: 16 of 78
+  Schedule difficulty score: 0.545

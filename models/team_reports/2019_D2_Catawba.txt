@@ -2,22 +2,27 @@ Team: Catawba
 Season: 2019 D2
 Record: 9-6
 Winning %: 0.600
-Predicted Winning %: 0.466
+Predicted Winning %: 0.600
 
 Stat Comparison vs League Average:
-  points_per_game: 16.670 (0.971 below average)
-  scoring_defense: 11.070 (0.166 below average)
+  Win % (from schedule): 0.600 (0.113 above average)
+  caused_turnovers_per_game: 10.070 (2.059 above average)
+  man_up_offense: 0.228 (0.113 below average)
+  defensive_efficiency: 16.151 (0.479 above average)
   scoring_offense: 10.730 (0.583 below average)
-  defensive_efficiency: 16.151 (0.448 above average)
-  scoring_margin: 5.430 (3.700 above average)
-  saves_per_game: 12.470 (0.483 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.130 (1.236 above average)
+  offensive_efficiency: 39.888 (1.151 above average)
+  points_per_game: 16.670 (0.997 below average)
+  scoring_margin: 5.430 (3.889 above average)
+  saves_per_game: 12.470 (0.447 above average)
+  rpi: 0.567 (0.068 above average)
+  scoring_defense: 11.070 (0.204 below average)
   clearing_percentage: 0.893 (0.050 above average)
-  possession_value_index: 0.091 (0.079 below average)
+  face_off_winning_percentage: 0.455 (0.047 below average)
+  ground_balls_per_game: 32.130 (1.195 above average)
+  possession_value_index: 0.091 (0.076 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 11 of 70
   Avg opponent win %: 0.562
   Model schedule difficulty rank: 11 of 70
-  Schedule difficulty score: 0.559
+  Schedule difficulty score: 0.560

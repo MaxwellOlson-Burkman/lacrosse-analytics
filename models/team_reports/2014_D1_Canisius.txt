@@ -2,19 +2,24 @@ Team: Canisius
 Season: 2014 D1
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.463
+Predicted Winning %: 0.467
 
 Stat Comparison vs League Average:
-  points_per_game: 13.670 (3.971 below average)
-  scoring_defense: 9.470 (1.766 below average)
+  Win % (from schedule): 0.467 (0.021 below average)
+  caused_turnovers_per_game: 4.870 (3.141 below average)
+  man_up_offense: 0.298 (0.043 below average)
+  defensive_efficiency: 16.104 (0.432 above average)
   scoring_offense: 8.600 (2.713 below average)
-  defensive_efficiency: 16.104 (0.401 above average)
-  scoring_margin: -0.870 (2.600 below average)
-  saves_per_game: 10.530 (1.457 below average)
-  Win % (from schedule): 0.467 (0.032 below average)
-  ground_balls_per_game: 26.070 (4.824 below average)
+  offensive_efficiency: 33.463 (5.275 below average)
+  points_per_game: 13.670 (3.997 below average)
+  scoring_margin: -0.870 (2.411 below average)
+  saves_per_game: 10.530 (1.493 below average)
+  rpi: 0.465 (0.034 below average)
+  scoring_defense: 9.470 (1.804 below average)
   clearing_percentage: 0.879 (0.036 above average)
-  possession_value_index: 0.253 (0.083 above average)
+  face_off_winning_percentage: 0.551 (0.049 above average)
+  ground_balls_per_game: 26.070 (4.865 below average)
+  possession_value_index: 0.253 (0.086 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 55 of 67

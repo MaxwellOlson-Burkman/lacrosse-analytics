@@ -2,22 +2,27 @@ Team: Mercy
 Season: 2016 D2
 Record: 9-6
 Winning %: 0.600
-Predicted Winning %: 0.650
+Predicted Winning %: 0.600
 
 Stat Comparison vs League Average:
-  points_per_game: 17.330 (0.311 below average)
-  scoring_defense: 7.730 (3.506 below average)
+  Win % (from schedule): 0.600 (0.113 above average)
+  caused_turnovers_per_game: 8.600 (0.589 above average)
+  man_up_offense: 0.328 (0.013 below average)
+  defensive_efficiency: 18.814 (3.142 above average)
   scoring_offense: 11.200 (0.113 below average)
-  defensive_efficiency: 18.814 (3.111 above average)
-  scoring_margin: 3.470 (1.740 above average)
-  saves_per_game: 10.130 (1.857 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.730 (2.164 below average)
+  offensive_efficiency: 34.462 (4.276 below average)
+  points_per_game: 17.330 (0.337 below average)
+  scoring_margin: 3.470 (1.929 above average)
+  saves_per_game: 10.130 (1.893 below average)
+  rpi: 0.491 (0.008 below average)
+  scoring_defense: 7.730 (3.544 below average)
   clearing_percentage: 0.819 (0.024 below average)
-  possession_value_index: 0.199 (0.030 above average)
+  face_off_winning_percentage: 0.464 (0.038 below average)
+  ground_balls_per_game: 28.730 (2.205 below average)
+  possession_value_index: 0.199 (0.032 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 59 of 63
   Avg opponent win %: 0.408
   Model schedule difficulty rank: 59 of 63
-  Schedule difficulty score: 0.411
+  Schedule difficulty score: 0.408

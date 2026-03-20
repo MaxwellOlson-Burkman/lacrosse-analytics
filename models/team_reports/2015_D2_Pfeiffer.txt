@@ -2,22 +2,27 @@ Team: Pfeiffer
 Season: 2015 D2
 Record: 10-5
 Winning %: 0.667
-Predicted Winning %: 0.714
+Predicted Winning %: 0.667
 
 Stat Comparison vs League Average:
-  points_per_game: 22.200 (4.559 above average)
-  scoring_defense: 10.130 (1.106 below average)
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 9.470 (1.459 above average)
+  man_up_offense: 0.545 (0.204 above average)
+  defensive_efficiency: 16.521 (0.849 above average)
   scoring_offense: 14.070 (2.757 above average)
-  defensive_efficiency: 16.521 (0.818 above average)
-  scoring_margin: 3.930 (2.200 above average)
-  saves_per_game: 10.470 (1.517 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.870 (0.976 above average)
+  offensive_efficiency: 41.382 (2.644 above average)
+  points_per_game: 22.200 (4.533 above average)
+  scoring_margin: 3.930 (2.389 above average)
+  saves_per_game: 10.470 (1.553 below average)
+  rpi: 0.555 (0.056 above average)
+  scoring_defense: 10.130 (1.144 below average)
   clearing_percentage: 0.871 (0.028 above average)
-  possession_value_index: 0.191 (0.022 above average)
+  face_off_winning_percentage: 0.484 (0.018 below average)
+  ground_balls_per_game: 31.870 (0.935 above average)
+  possession_value_index: 0.191 (0.024 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 28 of 59
   Avg opponent win %: 0.501
   Model schedule difficulty rank: 28 of 59
-  Schedule difficulty score: 0.502
+  Schedule difficulty score: 0.501

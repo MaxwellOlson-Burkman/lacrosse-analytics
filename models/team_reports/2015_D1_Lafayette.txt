@@ -2,19 +2,24 @@ Team: Lafayette
 Season: 2015 D1
 Record: 4-10
 Winning %: 0.286
-Predicted Winning %: 0.290
+Predicted Winning %: 0.286
 
 Stat Comparison vs League Average:
-  points_per_game: 13.860 (3.781 below average)
-  scoring_defense: 12.210 (0.974 above average)
+  Win % (from schedule): 0.286 (0.202 below average)
+  caused_turnovers_per_game: 7.430 (0.581 below average)
+  man_up_offense: 0.346 (0.005 above average)
+  defensive_efficiency: 14.556 (1.116 below average)
   scoring_offense: 9.070 (2.243 below average)
-  defensive_efficiency: 14.556 (1.147 below average)
-  scoring_margin: -3.140 (4.870 below average)
-  saves_per_game: 11.070 (0.917 below average)
-  Win % (from schedule): 0.286 (0.213 below average)
-  ground_balls_per_game: 26.790 (4.104 below average)
+  offensive_efficiency: 34.618 (4.120 below average)
+  points_per_game: 13.860 (3.807 below average)
+  scoring_margin: -3.140 (4.681 below average)
+  saves_per_game: 11.070 (0.953 below average)
+  rpi: 0.417 (0.082 below average)
+  scoring_defense: 12.210 (0.936 above average)
   clearing_percentage: 0.815 (0.028 below average)
-  possession_value_index: 0.154 (0.016 below average)
+  face_off_winning_percentage: 0.390 (0.112 below average)
+  ground_balls_per_game: 26.790 (4.145 below average)
+  possession_value_index: 0.154 (0.013 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 54 of 68

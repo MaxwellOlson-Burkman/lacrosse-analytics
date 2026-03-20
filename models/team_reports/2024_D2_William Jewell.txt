@@ -2,22 +2,27 @@ Team: William Jewell
 Season: 2024 D2
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.432
+Predicted Winning %: 0.467
 
 Stat Comparison vs League Average:
-  points_per_game: 15.330 (2.311 below average)
-  scoring_defense: 11.130 (0.106 below average)
+  Win % (from schedule): 0.467 (0.021 below average)
+  caused_turnovers_per_game: 9.000 (0.989 above average)
+  man_up_offense: 0.235 (0.106 below average)
+  defensive_efficiency: 16.729 (1.057 above average)
   scoring_offense: 9.800 (1.513 below average)
-  defensive_efficiency: 16.729 (1.026 above average)
-  scoring_margin: -1.330 (3.060 below average)
-  saves_per_game: 14.530 (2.543 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.600 (1.706 above average)
+  offensive_efficiency: 34.146 (4.592 below average)
+  points_per_game: 15.330 (2.337 below average)
+  scoring_margin: -1.330 (2.871 below average)
+  saves_per_game: 14.530 (2.507 above average)
+  rpi: 0.484 (0.015 below average)
+  scoring_defense: 11.130 (0.144 below average)
   clearing_percentage: 0.863 (0.020 above average)
-  possession_value_index: 0.040 (0.130 below average)
+  face_off_winning_percentage: 0.500 (0.002 below average)
+  ground_balls_per_game: 32.600 (1.665 above average)
+  possession_value_index: 0.040 (0.127 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 57 of 79
   Avg opponent win %: 0.467
   Model schedule difficulty rank: 55 of 79
-  Schedule difficulty score: 0.467
+  Schedule difficulty score: 0.468

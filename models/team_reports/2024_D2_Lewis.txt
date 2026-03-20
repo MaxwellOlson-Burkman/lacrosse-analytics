@@ -2,22 +2,27 @@ Team: Lewis
 Season: 2024 D2
 Record: 14-5
 Winning %: 0.737
-Predicted Winning %: 0.736
+Predicted Winning %: 0.737
 
 Stat Comparison vs League Average:
-  points_per_game: 23.890 (6.249 above average)
-  scoring_defense: 9.320 (1.916 below average)
+  Win % (from schedule): 0.737 (0.250 above average)
+  caused_turnovers_per_game: 8.000 (0.011 below average)
+  man_up_offense: 0.421 (0.080 above average)
+  defensive_efficiency: 18.825 (3.153 above average)
   scoring_offense: 14.260 (2.947 above average)
-  defensive_efficiency: 18.825 (3.122 above average)
-  scoring_margin: 4.950 (3.220 above average)
-  saves_per_game: 15.050 (3.063 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.000 (1.106 above average)
+  offensive_efficiency: 43.742 (5.004 above average)
+  points_per_game: 23.890 (6.223 above average)
+  scoring_margin: 4.950 (3.409 above average)
+  saves_per_game: 15.050 (3.027 above average)
+  rpi: 0.615 (0.116 above average)
+  scoring_defense: 9.320 (1.954 below average)
   clearing_percentage: 0.944 (0.101 above average)
-  possession_value_index: 0.210 (0.041 above average)
+  face_off_winning_percentage: 0.609 (0.107 above average)
+  ground_balls_per_game: 32.000 (1.065 above average)
+  possession_value_index: 0.210 (0.043 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 19 of 79
   Avg opponent win %: 0.552
   Model schedule difficulty rank: 19 of 79
-  Schedule difficulty score: 0.551
+  Schedule difficulty score: 0.552

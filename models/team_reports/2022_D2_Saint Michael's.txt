@@ -2,19 +2,24 @@ Team: Saint Michael's
 Season: 2022 D2
 Record: 3-12
 Winning %: 0.200
-Predicted Winning %: 0.263
+Predicted Winning %: 0.200
 
 Stat Comparison vs League Average:
-  points_per_game: 14.800 (2.841 below average)
-  scoring_defense: 13.270 (2.034 above average)
+  Win % (from schedule): 0.200 (0.287 below average)
+  caused_turnovers_per_game: 9.270 (1.259 above average)
+  man_up_offense: 0.460 (0.119 above average)
+  defensive_efficiency: 15.019 (0.653 below average)
   scoring_offense: 9.400 (1.913 below average)
-  defensive_efficiency: 15.019 (0.684 below average)
-  scoring_margin: -3.870 (5.600 below average)
-  saves_per_game: 16.930 (4.943 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.670 (2.224 below average)
+  offensive_efficiency: 38.525 (0.213 below average)
+  points_per_game: 14.800 (2.867 below average)
+  scoring_margin: -3.870 (5.411 below average)
+  saves_per_game: 16.930 (4.907 above average)
+  rpi: 0.454 (0.045 below average)
+  scoring_defense: 13.270 (1.996 above average)
   clearing_percentage: 0.777 (0.066 below average)
-  possession_value_index: 0.103 (0.067 below average)
+  face_off_winning_percentage: 0.385 (0.117 below average)
+  ground_balls_per_game: 28.670 (2.265 below average)
+  possession_value_index: 0.103 (0.064 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 15 of 74

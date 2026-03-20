@@ -2,22 +2,27 @@ Team: Alderson Broaddus
 Season: 2019 D2
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.181
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 12.360 (5.281 below average)
-  scoring_defense: 13.860 (2.624 above average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 7.930 (0.081 below average)
+  man_up_offense: 0.321 (0.020 below average)
+  defensive_efficiency: 14.355 (1.317 below average)
   scoring_offense: 7.500 (3.813 below average)
-  defensive_efficiency: 14.355 (1.348 below average)
-  scoring_margin: 5.430 (3.700 above average)
-  saves_per_game: 16.000 (4.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 24.210 (6.684 below average)
+  offensive_efficiency: 33.784 (4.954 below average)
+  points_per_game: 12.360 (5.307 below average)
+  scoring_margin: 5.430 (3.889 above average)
+  saves_per_game: 16.000 (3.977 above average)
+  rpi: 0.375 (0.124 below average)
+  scoring_defense: 13.860 (2.586 above average)
   clearing_percentage: 0.741 (0.102 below average)
-  possession_value_index: 0.089 (0.081 below average)
+  face_off_winning_percentage: 0.379 (0.123 below average)
+  ground_balls_per_game: 24.210 (6.725 below average)
+  possession_value_index: 0.089 (0.078 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 58 of 70
   Avg opponent win %: 0.436
-  Model schedule difficulty rank: 57 of 70
+  Model schedule difficulty rank: 56 of 70
   Schedule difficulty score: 0.437

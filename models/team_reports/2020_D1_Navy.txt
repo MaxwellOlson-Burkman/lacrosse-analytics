@@ -2,22 +2,27 @@ Team: Navy
 Season: 2020 D1
 Record: 3-2
 Winning %: 0.600
-Predicted Winning %: 0.664
+Predicted Winning %: 0.600
 
 Stat Comparison vs League Average:
-  points_per_game: 20.000 (2.359 above average)
-  scoring_defense: 9.400 (1.836 below average)
+  Win % (from schedule): 0.600 (0.113 above average)
+  caused_turnovers_per_game: 9.000 (0.989 above average)
+  man_up_offense: 0.667 (0.326 above average)
+  defensive_efficiency: 17.590 (1.918 above average)
   scoring_offense: 11.800 (0.487 above average)
-  defensive_efficiency: 17.590 (1.887 above average)
-  scoring_margin: 2.400 (0.670 above average)
-  saves_per_game: 10.200 (1.787 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 37.200 (6.306 above average)
+  offensive_efficiency: 36.420 (2.318 below average)
+  points_per_game: 20.000 (2.333 above average)
+  scoring_margin: 2.400 (0.859 above average)
+  saves_per_game: 10.200 (1.823 below average)
+  rpi: 0.488 (0.011 below average)
+  scoring_defense: 9.400 (1.874 below average)
   clearing_percentage: 0.796 (0.047 below average)
-  possession_value_index: 0.163 (0.007 below average)
+  face_off_winning_percentage: 0.508 (0.006 above average)
+  ground_balls_per_game: 37.200 (6.265 above average)
+  possession_value_index: 0.163 (0.004 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 61 of 74
   Avg opponent win %: 0.409
-  Model schedule difficulty rank: 59 of 74
-  Schedule difficulty score: 0.411
+  Model schedule difficulty rank: 61 of 74
+  Schedule difficulty score: 0.410

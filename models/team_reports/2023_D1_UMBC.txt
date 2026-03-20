@@ -2,19 +2,24 @@ Team: UMBC
 Season: 2023 D1
 Record: 8-5
 Winning %: 0.615
-Predicted Winning %: 0.617
+Predicted Winning %: 0.615
 
 Stat Comparison vs League Average:
-  points_per_game: 17.150 (0.491 below average)
-  scoring_defense: 9.620 (1.616 below average)
+  Win % (from schedule): 0.615 (0.128 above average)
+  caused_turnovers_per_game: 8.460 (0.449 above average)
+  man_up_offense: 0.257 (0.084 below average)
+  defensive_efficiency: 16.505 (0.833 above average)
   scoring_offense: 11.850 (0.537 above average)
-  defensive_efficiency: 16.505 (0.802 above average)
-  scoring_margin: 2.230 (0.500 above average)
-  saves_per_game: 10.000 (1.987 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.850 (3.044 below average)
+  offensive_efficiency: 42.171 (3.433 above average)
+  points_per_game: 17.150 (0.517 below average)
+  scoring_margin: 2.230 (0.689 above average)
+  saves_per_game: 10.000 (2.023 below average)
+  rpi: 0.495 (0.004 below average)
+  scoring_defense: 9.620 (1.654 below average)
   clearing_percentage: 0.868 (0.025 above average)
-  possession_value_index: 0.188 (0.018 above average)
+  face_off_winning_percentage: 0.459 (0.043 below average)
+  ground_balls_per_game: 27.850 (3.085 below average)
+  possession_value_index: 0.188 (0.021 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 64 of 72

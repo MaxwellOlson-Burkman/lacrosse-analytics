@@ -2,22 +2,27 @@ Team: Newberry
 Season: 2021 D2
 Record: 7-5
 Winning %: 0.583
-Predicted Winning %: 0.654
+Predicted Winning %: 0.583
 
 Stat Comparison vs League Average:
-  points_per_game: 23.170 (5.529 above average)
-  scoring_defense: 10.750 (0.486 below average)
+  Win % (from schedule): 0.583 (0.096 above average)
+  caused_turnovers_per_game: 10.170 (2.159 above average)
+  man_up_offense: 0.370 (0.029 above average)
+  defensive_efficiency: 16.631 (0.959 above average)
   scoring_offense: 14.330 (3.017 above average)
-  defensive_efficiency: 16.631 (0.928 above average)
-  scoring_margin: 3.580 (1.850 above average)
-  saves_per_game: 10.920 (1.067 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 40.920 (10.026 above average)
+  offensive_efficiency: 42.776 (4.038 above average)
+  points_per_game: 23.170 (5.503 above average)
+  scoring_margin: 3.580 (2.039 above average)
+  saves_per_game: 10.920 (1.103 below average)
+  rpi: 0.520 (0.021 above average)
+  scoring_defense: 10.750 (0.524 below average)
   clearing_percentage: 0.865 (0.022 above average)
-  possession_value_index: 0.192 (0.023 above average)
+  face_off_winning_percentage: 0.549 (0.047 above average)
+  ground_balls_per_game: 40.920 (9.985 above average)
+  possession_value_index: 0.192 (0.025 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 37 of 69
   Avg opponent win %: 0.490
-  Model schedule difficulty rank: 36 of 69
-  Schedule difficulty score: 0.492
+  Model schedule difficulty rank: 37 of 69
+  Schedule difficulty score: 0.490

@@ -2,22 +2,27 @@ Team: Notre Dame de Namur
 Season: 2015 D2
 Record: 1-8
 Winning %: 0.111
-Predicted Winning %: 0.171
+Predicted Winning %: 0.111
 
 Stat Comparison vs League Average:
-  points_per_game: 16.215 (1.426 below average)
-  scoring_defense: 13.780 (2.544 above average)
+  Win % (from schedule): 0.111 (0.376 below average)
+  caused_turnovers_per_game: 8.000 (0.011 below average)
+  man_up_offense: 0.244 (0.097 below average)
+  defensive_efficiency: 13.736 (1.936 below average)
   scoring_offense: 7.110 (4.203 below average)
-  defensive_efficiency: 13.736 (1.967 below average)
-  scoring_margin: 4.130 (2.400 above average)
-  saves_per_game: 13.220 (1.233 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.000 (2.894 below average)
+  offensive_efficiency: 31.883 (6.854 below average)
+  points_per_game: 16.215 (1.452 below average)
+  scoring_margin: 4.130 (2.589 above average)
+  saves_per_game: 13.220 (1.197 above average)
+  rpi: 0.332 (0.168 below average)
+  scoring_defense: 13.780 (2.506 above average)
   clearing_percentage: 0.843 (0.000 above average)
-  possession_value_index: 0.010 (0.159 below average)
+  face_off_winning_percentage: 0.457 (0.045 below average)
+  ground_balls_per_game: 28.000 (2.935 below average)
+  possession_value_index: 0.010 (0.157 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 55 of 59
   Avg opponent win %: 0.379
   Model schedule difficulty rank: 55 of 59
-  Schedule difficulty score: 0.378
+  Schedule difficulty score: 0.380

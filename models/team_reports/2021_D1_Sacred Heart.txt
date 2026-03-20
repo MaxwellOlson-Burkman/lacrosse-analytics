@@ -2,22 +2,27 @@ Team: Sacred Heart
 Season: 2021 D1
 Record: 1-11
 Winning %: 0.083
-Predicted Winning %: 0.212
+Predicted Winning %: 0.083
 
 Stat Comparison vs League Average:
-  points_per_game: 14.920 (2.721 below average)
-  scoring_defense: 14.080 (2.844 above average)
+  Win % (from schedule): 0.077 (0.410 below average)
+  caused_turnovers_per_game: 5.420 (2.591 below average)
+  man_up_offense: 0.250 (0.091 below average)
+  defensive_efficiency: 13.956 (1.716 below average)
   scoring_offense: 9.750 (1.563 below average)
-  defensive_efficiency: 13.956 (1.747 below average)
-  scoring_margin: -4.330 (6.060 below average)
-  saves_per_game: 14.670 (2.683 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 26.500 (4.394 below average)
+  offensive_efficiency: 41.667 (2.929 above average)
+  points_per_game: 14.920 (2.747 below average)
+  scoring_margin: -4.330 (5.871 below average)
+  saves_per_game: 14.670 (2.647 above average)
+  rpi: 0.367 (0.132 below average)
+  scoring_defense: 14.080 (2.806 above average)
   clearing_percentage: 0.901 (0.058 above average)
-  possession_value_index: 0.161 (0.008 below average)
+  face_off_winning_percentage: 0.384 (0.118 below average)
+  ground_balls_per_game: 26.500 (4.435 below average)
+  possession_value_index: 0.161 (0.006 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 43 of 64
   Avg opponent win %: 0.456
-  Model schedule difficulty rank: 43 of 64
-  Schedule difficulty score: 0.455
+  Model schedule difficulty rank: 42 of 64
+  Schedule difficulty score: 0.456

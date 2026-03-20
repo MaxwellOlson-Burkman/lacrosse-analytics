@@ -2,22 +2,27 @@ Team: Villanova
 Season: 2021 D1
 Record: 7-5
 Winning %: 0.583
-Predicted Winning %: 0.632
+Predicted Winning %: 0.583
 
 Stat Comparison vs League Average:
-  points_per_game: 20.330 (2.689 above average)
-  scoring_defense: 10.500 (0.736 below average)
+  Win % (from schedule): 0.583 (0.096 above average)
+  caused_turnovers_per_game: 8.500 (0.489 above average)
+  man_up_offense: 0.478 (0.137 above average)
+  defensive_efficiency: 16.169 (0.497 above average)
   scoring_offense: 13.170 (1.857 above average)
-  defensive_efficiency: 16.169 (0.466 above average)
-  scoring_margin: 2.670 (0.940 above average)
-  saves_per_game: 10.330 (1.657 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 24.830 (6.064 below average)
+  offensive_efficiency: 43.609 (4.871 above average)
+  points_per_game: 20.330 (2.663 above average)
+  scoring_margin: 2.670 (1.129 above average)
+  saves_per_game: 10.330 (1.693 below average)
+  rpi: 0.524 (0.025 above average)
+  scoring_defense: 10.500 (0.774 below average)
   clearing_percentage: 0.860 (0.017 above average)
-  possession_value_index: 0.225 (0.055 above average)
+  face_off_winning_percentage: 0.492 (0.010 below average)
+  ground_balls_per_game: 24.830 (6.105 below average)
+  possession_value_index: 0.225 (0.058 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 20 of 64
   Avg opponent win %: 0.514
-  Model schedule difficulty rank: 19 of 64
-  Schedule difficulty score: 0.514
+  Model schedule difficulty rank: 20 of 64
+  Schedule difficulty score: 0.513

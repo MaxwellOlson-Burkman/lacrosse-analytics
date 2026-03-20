@@ -2,22 +2,27 @@ Team: Assumption
 Season: 2017 D2
 Record: 6-7
 Winning %: 0.462
-Predicted Winning %: 0.446
+Predicted Winning %: 0.462
 
 Stat Comparison vs League Average:
-  points_per_game: 14.690 (2.951 below average)
-  scoring_defense: 9.380 (1.856 below average)
+  Win % (from schedule): 0.462 (0.026 below average)
+  caused_turnovers_per_game: 7.965 (0.046 below average)
+  man_up_offense: 0.313 (0.028 below average)
+  defensive_efficiency: 18.669 (2.997 above average)
   scoring_offense: 9.080 (2.233 below average)
-  defensive_efficiency: 18.669 (2.966 above average)
-  scoring_margin: 5.035 (3.305 above average)
-  saves_per_game: 13.230 (1.243 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.690 (2.204 below average)
+  offensive_efficiency: 29.967 (8.771 below average)
+  points_per_game: 14.690 (2.977 below average)
+  scoring_margin: 5.035 (3.494 above average)
+  saves_per_game: 13.230 (1.207 above average)
+  rpi: 0.499 (0.000 below average)
+  scoring_defense: 9.380 (1.894 below average)
   clearing_percentage: 0.807 (0.036 below average)
-  possession_value_index: 0.212 (0.043 above average)
+  face_off_winning_percentage: 0.539 (0.037 above average)
+  ground_balls_per_game: 28.690 (2.245 below average)
+  possession_value_index: 0.212 (0.045 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 24 of 65
   Avg opponent win %: 0.509
   Model schedule difficulty rank: 23 of 65
-  Schedule difficulty score: 0.509
+  Schedule difficulty score: 0.508

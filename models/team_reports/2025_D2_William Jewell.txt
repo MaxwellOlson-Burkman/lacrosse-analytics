@@ -1,0 +1,28 @@
+Team: William Jewell
+Season: 2025 D2
+Record: 2-12
+Winning %: 0.143
+Predicted Winning %: 0.143
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 8.930 (0.919 above average)
+  man_up_offense: 0.262 (0.079 below average)
+  defensive_efficiency: 14.948 (0.724 below average)
+  scoring_offense: 7.500 (3.813 below average)
+  offensive_efficiency: 31.780 (6.958 below average)
+  points_per_game: 11.360 (6.307 below average)
+  scoring_margin: -5.930 (7.471 below average)
+  saves_per_game: 15.360 (3.337 above average)
+  rpi: 0.386 (0.113 below average)
+  scoring_defense: 13.430 (2.156 above average)
+  clearing_percentage: 0.838 (0.005 below average)
+  face_off_winning_percentage: 0.338 (0.164 below average)
+  ground_balls_per_game: 30.210 (0.725 below average)
+  possession_value_index: 0.029 (0.138 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 57 of 78
+  Avg opponent win %: 0.452
+  Model schedule difficulty rank: 57 of 78
+  Schedule difficulty score: 0.452

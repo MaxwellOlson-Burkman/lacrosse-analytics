@@ -2,19 +2,24 @@ Team: Alabama Huntsville
 Season: 2022 D2
 Record: 10-7
 Winning %: 0.588
-Predicted Winning %: 0.614
+Predicted Winning %: 0.588
 
 Stat Comparison vs League Average:
-  points_per_game: 19.180 (1.539 above average)
-  scoring_defense: 10.060 (1.176 below average)
+  Win % (from schedule): 0.588 (0.101 above average)
+  caused_turnovers_per_game: 9.710 (1.699 above average)
+  man_up_offense: 0.271 (0.070 below average)
+  defensive_efficiency: 16.522 (0.850 above average)
   scoring_offense: 12.530 (1.217 above average)
-  defensive_efficiency: 16.522 (0.819 above average)
-  scoring_margin: 2.470 (0.740 above average)
-  saves_per_game: 11.290 (0.697 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.880 (0.986 above average)
+  offensive_efficiency: 45.564 (6.826 above average)
+  points_per_game: 19.180 (1.513 above average)
+  scoring_margin: 2.470 (0.929 above average)
+  saves_per_game: 11.290 (0.733 below average)
+  rpi: 0.480 (0.019 below average)
+  scoring_defense: 10.060 (1.214 below average)
   clearing_percentage: 0.833 (0.010 below average)
-  possession_value_index: 0.130 (0.039 below average)
+  face_off_winning_percentage: 0.548 (0.046 above average)
+  ground_balls_per_game: 31.880 (0.945 above average)
+  possession_value_index: 0.130 (0.037 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 58 of 74

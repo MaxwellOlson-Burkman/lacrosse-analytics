@@ -2,22 +2,27 @@ Team: Wagner
 Season: 2019 D1
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.198
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 11.290 (6.351 below average)
-  scoring_defense: 12.070 (0.834 above average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 8.640 (0.629 above average)
+  man_up_offense: 0.265 (0.076 below average)
+  defensive_efficiency: 15.486 (0.186 below average)
   scoring_offense: 7.430 (3.883 below average)
-  defensive_efficiency: 15.486 (0.217 below average)
-  scoring_margin: -4.640 (6.370 below average)
-  saves_per_game: 14.070 (2.083 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 26.790 (4.104 below average)
+  offensive_efficiency: 33.170 (5.568 below average)
+  points_per_game: 11.290 (6.377 below average)
+  scoring_margin: -4.640 (6.181 below average)
+  saves_per_game: 14.070 (2.047 above average)
+  rpi: 0.343 (0.156 below average)
+  scoring_defense: 12.070 (0.796 above average)
   clearing_percentage: 0.757 (0.086 below average)
-  possession_value_index: 0.110 (0.059 below average)
+  face_off_winning_percentage: 0.455 (0.047 below average)
+  ground_balls_per_game: 26.790 (4.145 below average)
+  possession_value_index: 0.110 (0.057 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 70 of 73
   Avg opponent win %: 0.394
   Model schedule difficulty rank: 70 of 73
-  Schedule difficulty score: 0.393
+  Schedule difficulty score: 0.394

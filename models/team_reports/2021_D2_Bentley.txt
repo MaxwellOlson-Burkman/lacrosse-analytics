@@ -2,19 +2,24 @@ Team: Bentley
 Season: 2021 D2
 Record: 6-4
 Winning %: 0.600
-Predicted Winning %: 0.699
+Predicted Winning %: 0.600
 
 Stat Comparison vs League Average:
-  points_per_game: 20.300 (2.659 above average)
-  scoring_defense: 8.500 (2.736 below average)
+  Win % (from schedule): 0.600 (0.113 above average)
+  caused_turnovers_per_game: 8.100 (0.089 above average)
+  man_up_offense: 0.256 (0.085 below average)
+  defensive_efficiency: 18.485 (2.813 above average)
   scoring_offense: 13.000 (1.687 above average)
-  defensive_efficiency: 18.485 (2.782 above average)
-  scoring_margin: 4.500 (2.770 above average)
-  saves_per_game: 13.100 (1.113 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.300 (2.406 above average)
+  offensive_efficiency: 41.534 (2.796 above average)
+  points_per_game: 20.300 (2.633 above average)
+  scoring_margin: 4.500 (2.959 above average)
+  saves_per_game: 13.100 (1.077 above average)
+  rpi: 0.495 (0.004 below average)
+  scoring_defense: 8.500 (2.774 below average)
   clearing_percentage: 0.871 (0.028 above average)
-  possession_value_index: 0.180 (0.011 above average)
+  face_off_winning_percentage: 0.571 (0.069 above average)
+  ground_balls_per_game: 33.300 (2.365 above average)
+  possession_value_index: 0.180 (0.013 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 57 of 69

@@ -2,19 +2,24 @@ Team: Navy
 Season: 2016 D1
 Record: 11-5
 Winning %: 0.688
-Predicted Winning %: 0.706
+Predicted Winning %: 0.688
 
 Stat Comparison vs League Average:
-  points_per_game: 15.190 (2.451 below average)
-  scoring_defense: 7.380 (3.856 below average)
+  Win % (from schedule): 0.688 (0.200 above average)
+  caused_turnovers_per_game: 7.810 (0.201 below average)
+  man_up_offense: 0.364 (0.023 above average)
+  defensive_efficiency: 18.495 (2.823 above average)
   scoring_offense: 9.880 (1.433 below average)
-  defensive_efficiency: 18.495 (2.792 above average)
-  scoring_margin: 2.500 (0.770 above average)
-  saves_per_game: 9.750 (2.237 below average)
-  Win % (from schedule): 0.688 (0.189 above average)
-  ground_balls_per_game: 29.630 (1.264 below average)
+  offensive_efficiency: 35.412 (3.326 below average)
+  points_per_game: 15.190 (2.477 below average)
+  scoring_margin: 2.500 (0.959 above average)
+  saves_per_game: 9.750 (2.273 below average)
+  rpi: 0.570 (0.071 above average)
+  scoring_defense: 7.380 (3.894 below average)
   clearing_percentage: 0.869 (0.026 above average)
-  possession_value_index: 0.263 (0.094 above average)
+  face_off_winning_percentage: 0.566 (0.064 above average)
+  ground_balls_per_game: 29.630 (1.305 below average)
+  possession_value_index: 0.263 (0.096 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 15 of 68

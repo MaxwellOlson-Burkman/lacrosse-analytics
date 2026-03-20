@@ -2,19 +2,24 @@ Team: Bucknell
 Season: 2023 D1
 Record: 3-10
 Winning %: 0.231
-Predicted Winning %: 0.360
+Predicted Winning %: 0.231
 
 Stat Comparison vs League Average:
-  points_per_game: 18.310 (0.669 above average)
-  scoring_defense: 12.460 (1.224 above average)
+  Win % (from schedule): 0.231 (0.256 below average)
+  caused_turnovers_per_game: 11.460 (3.449 above average)
+  man_up_offense: 0.453 (0.112 above average)
+  defensive_efficiency: 13.854 (1.818 below average)
   scoring_offense: 11.310 (0.003 below average)
-  defensive_efficiency: 13.854 (1.849 below average)
-  scoring_margin: -1.150 (2.880 below average)
-  saves_per_game: 11.230 (0.757 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.770 (1.124 below average)
+  offensive_efficiency: 41.581 (2.843 above average)
+  points_per_game: 18.310 (0.643 above average)
+  scoring_margin: -1.150 (2.691 below average)
+  saves_per_game: 11.230 (0.793 below average)
+  rpi: 0.425 (0.074 below average)
+  scoring_defense: 12.460 (1.186 above average)
   clearing_percentage: 0.823 (0.020 below average)
-  possession_value_index: 0.120 (0.049 below average)
+  face_off_winning_percentage: 0.399 (0.103 below average)
+  ground_balls_per_game: 29.770 (1.165 below average)
+  possession_value_index: 0.120 (0.047 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 38 of 72

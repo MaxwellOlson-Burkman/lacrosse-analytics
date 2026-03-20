@@ -2,19 +2,24 @@ Team: Manhattan
 Season: 2016 D1
 Record: 3-12
 Winning %: 0.200
-Predicted Winning %: 0.150
+Predicted Winning %: 0.200
 
 Stat Comparison vs League Average:
-  points_per_game: 10.530 (7.111 below average)
-  scoring_defense: 12.270 (1.034 above average)
+  Win % (from schedule): 0.200 (0.287 below average)
+  caused_turnovers_per_game: 4.470 (3.541 below average)
+  man_up_offense: 0.250 (0.091 below average)
+  defensive_efficiency: 14.859 (0.813 below average)
   scoring_offense: 6.870 (4.443 below average)
-  defensive_efficiency: 14.859 (0.844 below average)
-  scoring_margin: -5.400 (7.130 below average)
-  saves_per_game: 13.530 (1.543 above average)
-  Win % (from schedule): 0.200 (0.298 below average)
-  ground_balls_per_game: 23.400 (7.494 below average)
+  offensive_efficiency: 26.322 (12.416 below average)
+  points_per_game: 10.530 (7.137 below average)
+  scoring_margin: -5.400 (6.941 below average)
+  saves_per_game: 13.530 (1.507 above average)
+  rpi: 0.399 (0.100 below average)
+  scoring_defense: 12.270 (0.996 above average)
   clearing_percentage: 0.791 (0.052 below average)
-  possession_value_index: 0.095 (0.074 below average)
+  face_off_winning_percentage: 0.368 (0.134 below average)
+  ground_balls_per_game: 23.400 (7.535 below average)
+  possession_value_index: 0.095 (0.072 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 46 of 68

@@ -2,19 +2,24 @@ Team: Army West Point
 Season: 2020 D1
 Record: 6-2
 Winning %: 0.750
-Predicted Winning %: 0.809
+Predicted Winning %: 0.750
 
 Stat Comparison vs League Average:
-  points_per_game: 23.130 (5.489 above average)
-  scoring_defense: 7.250 (3.986 below average)
+  Win % (from schedule): 0.750 (0.263 above average)
+  caused_turnovers_per_game: 10.630 (2.619 above average)
+  man_up_offense: 0.308 (0.033 below average)
+  defensive_efficiency: 20.084 (4.412 above average)
   scoring_offense: 13.750 (2.437 above average)
-  defensive_efficiency: 20.084 (4.381 above average)
-  scoring_margin: 6.500 (4.770 above average)
-  saves_per_game: 11.630 (0.357 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 35.880 (4.986 above average)
+  offensive_efficiency: 40.923 (2.185 above average)
+  points_per_game: 23.130 (5.463 above average)
+  scoring_margin: 6.500 (4.959 above average)
+  saves_per_game: 11.630 (0.393 below average)
+  rpi: 0.547 (0.048 above average)
+  scoring_defense: 7.250 (4.024 below average)
   clearing_percentage: 0.847 (0.004 above average)
-  possession_value_index: 0.146 (0.023 below average)
+  face_off_winning_percentage: 0.451 (0.051 below average)
+  ground_balls_per_game: 35.880 (4.945 above average)
+  possession_value_index: 0.146 (0.021 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 54 of 74

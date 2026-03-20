@@ -2,22 +2,27 @@ Team: Navy
 Season: 2024 D1
 Record: 9-7
 Winning %: 0.563
-Predicted Winning %: 0.528
+Predicted Winning %: 0.563
 
 Stat Comparison vs League Average:
-  points_per_game: 17.250 (0.391 below average)
-  scoring_defense: 10.750 (0.486 below average)
+  Win % (from schedule): 0.562 (0.075 above average)
+  caused_turnovers_per_game: 6.750 (1.261 below average)
+  man_up_offense: 0.365 (0.024 above average)
+  defensive_efficiency: 16.199 (0.527 above average)
   scoring_offense: 10.880 (0.433 below average)
-  defensive_efficiency: 16.199 (0.496 above average)
-  scoring_margin: 0.130 (1.600 below average)
-  saves_per_game: 12.380 (0.393 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.130 (2.236 above average)
+  offensive_efficiency: 40.749 (2.011 above average)
+  points_per_game: 17.250 (0.417 below average)
+  scoring_margin: 0.130 (1.411 below average)
+  saves_per_game: 12.380 (0.357 above average)
+  rpi: 0.523 (0.024 above average)
+  scoring_defense: 10.750 (0.524 below average)
   clearing_percentage: 0.845 (0.002 above average)
-  possession_value_index: 0.177 (0.007 above average)
+  face_off_winning_percentage: 0.571 (0.069 above average)
+  ground_balls_per_game: 33.130 (2.195 above average)
+  possession_value_index: 0.177 (0.010 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 35 of 73
   Avg opponent win %: 0.502
   Model schedule difficulty rank: 35 of 73
-  Schedule difficulty score: 0.503
+  Schedule difficulty score: 0.502

@@ -2,22 +2,27 @@ Team: Chestnut Hill
 Season: 2021 D2
 Record: 10-2
 Winning %: 0.833
-Predicted Winning %: 0.814
+Predicted Winning %: 0.833
 
 Stat Comparison vs League Average:
-  points_per_game: 27.170 (9.529 above average)
-  scoring_defense: 9.920 (1.316 below average)
+  Win % (from schedule): 0.833 (0.346 above average)
+  caused_turnovers_per_game: 8.330 (0.319 above average)
+  man_up_offense: 0.472 (0.131 above average)
+  defensive_efficiency: 16.645 (0.973 above average)
   scoring_offense: 16.080 (4.767 above average)
-  defensive_efficiency: 16.645 (0.942 above average)
-  scoring_margin: 6.170 (4.440 above average)
-  saves_per_game: 12.500 (0.513 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 40.750 (9.856 above average)
+  offensive_efficiency: 47.574 (8.836 above average)
+  points_per_game: 27.170 (9.503 above average)
+  scoring_margin: 6.170 (4.629 above average)
+  saves_per_game: 12.500 (0.477 above average)
+  rpi: 0.551 (0.052 above average)
+  scoring_defense: 9.920 (1.354 below average)
   clearing_percentage: 0.886 (0.043 above average)
-  possession_value_index: 0.188 (0.018 above average)
+  face_off_winning_percentage: 0.713 (0.211 above average)
+  ground_balls_per_game: 40.750 (9.815 above average)
+  possession_value_index: 0.188 (0.021 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 61 of 69
   Avg opponent win %: 0.410
   Model schedule difficulty rank: 61 of 69
-  Schedule difficulty score: 0.411
+  Schedule difficulty score: 0.410

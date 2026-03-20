@@ -2,19 +2,24 @@ Team: Marquette
 Season: 2015 D1
 Record: 10-6
 Winning %: 0.625
-Predicted Winning %: 0.518
+Predicted Winning %: 0.625
 
 Stat Comparison vs League Average:
-  points_per_game: 15.440 (2.201 below average)
-  scoring_defense: 10.500 (0.736 below average)
+  Win % (from schedule): 0.625 (0.138 above average)
+  caused_turnovers_per_game: 6.060 (1.951 below average)
+  man_up_offense: 0.385 (0.044 above average)
+  defensive_efficiency: 15.854 (0.182 above average)
   scoring_offense: 10.190 (1.123 below average)
-  defensive_efficiency: 15.854 (0.151 above average)
-  scoring_margin: -0.310 (2.040 below average)
-  saves_per_game: 10.630 (1.357 below average)
-  Win % (from schedule): 0.625 (0.127 above average)
-  ground_balls_per_game: 24.880 (6.014 below average)
+  offensive_efficiency: 33.742 (4.996 below average)
+  points_per_game: 15.440 (2.227 below average)
+  scoring_margin: -0.310 (1.851 below average)
+  saves_per_game: 10.630 (1.393 below average)
+  rpi: 0.547 (0.048 above average)
+  scoring_defense: 10.500 (0.774 below average)
   clearing_percentage: 0.869 (0.026 above average)
-  possession_value_index: 0.237 (0.067 above average)
+  face_off_winning_percentage: 0.432 (0.070 below average)
+  ground_balls_per_game: 24.880 (6.055 below average)
+  possession_value_index: 0.237 (0.070 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 27 of 68

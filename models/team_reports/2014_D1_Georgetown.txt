@@ -2,22 +2,27 @@ Team: Georgetown
 Season: 2014 D1
 Record: 4-10
 Winning %: 0.286
-Predicted Winning %: 0.321
+Predicted Winning %: 0.286
 
 Stat Comparison vs League Average:
-  points_per_game: 13.710 (3.931 below average)
-  scoring_defense: 10.790 (0.446 below average)
+  Win % (from schedule): 0.286 (0.202 below average)
+  caused_turnovers_per_game: 5.860 (2.151 below average)
+  man_up_offense: 0.368 (0.027 above average)
+  defensive_efficiency: 15.546 (0.126 below average)
   scoring_offense: 8.640 (2.673 below average)
-  defensive_efficiency: 15.546 (0.157 below average)
-  scoring_margin: -2.140 (3.870 below average)
-  saves_per_game: 10.570 (1.417 below average)
-  Win % (from schedule): 0.286 (0.213 below average)
-  ground_balls_per_game: 33.070 (2.176 above average)
+  offensive_efficiency: 35.265 (3.473 below average)
+  points_per_game: 13.710 (3.957 below average)
+  scoring_margin: -2.140 (3.681 below average)
+  saves_per_game: 10.570 (1.453 below average)
+  rpi: 0.438 (0.061 below average)
+  scoring_defense: 10.790 (0.484 below average)
   clearing_percentage: 0.829 (0.014 below average)
-  possession_value_index: 0.237 (0.067 above average)
+  face_off_winning_percentage: 0.653 (0.151 above average)
+  ground_balls_per_game: 33.070 (2.135 above average)
+  possession_value_index: 0.237 (0.070 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 41 of 67
   Avg opponent win %: 0.478
   Model schedule difficulty rank: 41 of 67
-  Schedule difficulty score: 0.479
+  Schedule difficulty score: 0.478

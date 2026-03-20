@@ -2,22 +2,27 @@ Team: Alabama Huntsville
 Season: 2016 D2
 Record: 3-9
 Winning %: 0.250
-Predicted Winning %: 0.191
+Predicted Winning %: 0.250
 
 Stat Comparison vs League Average:
-  points_per_game: 16.595 (1.046 below average)
-  scoring_defense: 15.000 (3.764 above average)
+  Win % (from schedule): 0.250 (0.237 below average)
+  caused_turnovers_per_game: 7.500 (0.511 below average)
+  man_up_offense: 0.323 (0.018 below average)
+  defensive_efficiency: 12.686 (2.986 below average)
   scoring_offense: 7.000 (4.313 below average)
-  defensive_efficiency: 12.686 (3.017 below average)
-  scoring_margin: 4.030 (2.300 above average)
-  saves_per_game: 13.920 (1.933 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.765 (1.129 below average)
+  offensive_efficiency: 25.926 (12.812 below average)
+  points_per_game: 16.595 (1.072 below average)
+  scoring_margin: 4.030 (2.489 above average)
+  saves_per_game: 13.920 (1.897 above average)
+  rpi: 0.337 (0.163 below average)
+  scoring_defense: 15.000 (3.726 above average)
   clearing_percentage: 0.752 (0.091 below average)
-  possession_value_index: 0.171 (0.001 above average)
+  face_off_winning_percentage: 0.504 (0.002 above average)
+  ground_balls_per_game: 29.765 (1.170 below average)
+  possession_value_index: 0.171 (0.004 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 62 of 63
   Avg opponent win %: 0.321
   Model schedule difficulty rank: 62 of 63
-  Schedule difficulty score: 0.324
+  Schedule difficulty score: 0.320

@@ -2,19 +2,24 @@ Team: Towson
 Season: 2015 D1
 Record: 12-6
 Winning %: 0.667
-Predicted Winning %: 0.644
+Predicted Winning %: 0.667
 
 Stat Comparison vs League Average:
-  points_per_game: 12.780 (4.861 below average)
-  scoring_defense: 7.720 (3.516 below average)
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 5.780 (2.231 below average)
+  man_up_offense: 0.367 (0.026 above average)
+  defensive_efficiency: 18.907 (3.235 above average)
   scoring_offense: 8.560 (2.753 below average)
-  defensive_efficiency: 18.907 (3.204 above average)
-  scoring_margin: 0.830 (0.900 below average)
-  saves_per_game: 9.940 (2.047 below average)
-  Win % (from schedule): 0.667 (0.168 above average)
-  ground_balls_per_game: 27.110 (3.784 below average)
+  offensive_efficiency: 35.082 (3.656 below average)
+  points_per_game: 12.780 (4.887 below average)
+  scoring_margin: 0.830 (0.711 below average)
+  saves_per_game: 9.940 (2.083 below average)
+  rpi: 0.542 (0.043 above average)
+  scoring_defense: 7.720 (3.554 below average)
   clearing_percentage: 0.869 (0.026 above average)
-  possession_value_index: 0.294 (0.124 above average)
+  face_off_winning_percentage: 0.510 (0.008 above average)
+  ground_balls_per_game: 27.110 (3.825 below average)
+  possession_value_index: 0.294 (0.127 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 34 of 68

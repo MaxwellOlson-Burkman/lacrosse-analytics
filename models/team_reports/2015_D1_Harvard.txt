@@ -2,19 +2,24 @@ Team: Harvard
 Season: 2015 D1
 Record: 7-7
 Winning %: 0.500
-Predicted Winning %: 0.438
+Predicted Winning %: 0.500
 
 Stat Comparison vs League Average:
-  points_per_game: 19.000 (1.359 above average)
-  scoring_defense: 12.290 (1.054 above average)
+  Win % (from schedule): 0.500 (0.013 above average)
+  caused_turnovers_per_game: 8.930 (0.919 above average)
+  man_up_offense: 0.365 (0.024 above average)
+  defensive_efficiency: 14.818 (0.854 below average)
   scoring_offense: 12.290 (0.977 above average)
-  defensive_efficiency: 14.818 (0.885 below average)
-  scoring_margin: 0.000 (1.730 below average)
-  saves_per_game: 13.210 (1.223 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.930 (0.036 above average)
+  offensive_efficiency: 38.892 (0.155 above average)
+  points_per_game: 19.000 (1.333 above average)
+  scoring_margin: 0.000 (1.541 below average)
+  saves_per_game: 13.210 (1.187 above average)
+  rpi: 0.538 (0.038 above average)
+  scoring_defense: 12.290 (1.016 above average)
   clearing_percentage: 0.836 (0.007 below average)
-  possession_value_index: 0.155 (0.014 below average)
+  face_off_winning_percentage: 0.425 (0.077 below average)
+  ground_balls_per_game: 30.930 (0.005 below average)
+  possession_value_index: 0.155 (0.012 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 8 of 68

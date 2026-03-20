@@ -2,19 +2,24 @@ Team: Canisius
 Season: 2015 D1
 Record: 3-12
 Winning %: 0.200
-Predicted Winning %: 0.228
+Predicted Winning %: 0.200
 
 Stat Comparison vs League Average:
-  points_per_game: 12.000 (5.641 below average)
-  scoring_defense: 11.000 (0.236 below average)
+  Win % (from schedule): 0.200 (0.287 below average)
+  caused_turnovers_per_game: 6.330 (1.681 below average)
+  man_up_offense: 0.340 (0.001 below average)
+  defensive_efficiency: 14.609 (1.063 below average)
   scoring_offense: 7.870 (3.443 below average)
-  defensive_efficiency: 14.609 (1.094 below average)
-  scoring_margin: -3.130 (4.860 below average)
-  saves_per_game: 10.130 (1.857 below average)
-  Win % (from schedule): 0.200 (0.298 below average)
-  ground_balls_per_game: 25.270 (5.624 below average)
+  offensive_efficiency: 32.656 (6.082 below average)
+  points_per_game: 12.000 (5.667 below average)
+  scoring_margin: -3.130 (4.671 below average)
+  saves_per_game: 10.130 (1.893 below average)
+  rpi: 0.391 (0.108 below average)
+  scoring_defense: 11.000 (0.274 below average)
   clearing_percentage: 0.821 (0.022 below average)
-  possession_value_index: 0.189 (0.020 above average)
+  face_off_winning_percentage: 0.452 (0.050 below average)
+  ground_balls_per_game: 25.270 (5.665 below average)
+  possession_value_index: 0.189 (0.022 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 56 of 68

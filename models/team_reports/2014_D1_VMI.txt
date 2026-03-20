@@ -2,19 +2,24 @@ Team: VMI
 Season: 2014 D1
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.087
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 8.860 (8.781 below average)
-  scoring_defense: 12.430 (1.194 above average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 9.070 (1.059 above average)
+  man_up_offense: 0.256 (0.085 below average)
+  defensive_efficiency: 14.065 (1.607 below average)
   scoring_offense: 6.210 (5.103 below average)
-  defensive_efficiency: 14.065 (1.638 below average)
-  scoring_margin: -6.210 (7.940 below average)
-  saves_per_game: 11.500 (0.487 below average)
-  Win % (from schedule): 0.143 (0.356 below average)
-  ground_balls_per_game: 29.500 (1.394 below average)
+  offensive_efficiency: 28.884 (9.854 below average)
+  points_per_game: 8.860 (8.807 below average)
+  scoring_margin: -6.210 (7.751 below average)
+  saves_per_game: 11.500 (0.523 below average)
+  rpi: 0.366 (0.134 below average)
+  scoring_defense: 12.430 (1.156 above average)
   clearing_percentage: 0.801 (0.042 below average)
-  possession_value_index: 0.119 (0.051 below average)
+  face_off_winning_percentage: 0.442 (0.060 below average)
+  ground_balls_per_game: 29.500 (1.435 below average)
+  possession_value_index: 0.119 (0.048 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 54 of 67

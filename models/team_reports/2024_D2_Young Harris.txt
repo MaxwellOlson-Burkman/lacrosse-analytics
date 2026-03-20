@@ -2,22 +2,27 @@ Team: Young Harris
 Season: 2024 D2
 Record: 6-9
 Winning %: 0.400
-Predicted Winning %: 0.265
+Predicted Winning %: 0.400
 
 Stat Comparison vs League Average:
-  points_per_game: 15.600 (2.041 below average)
-  scoring_defense: 14.200 (2.964 above average)
+  Win % (from schedule): 0.400 (0.087 below average)
+  caused_turnovers_per_game: 8.530 (0.519 above average)
+  man_up_offense: 0.230 (0.111 below average)
+  defensive_efficiency: 12.709 (2.963 below average)
   scoring_offense: 10.130 (1.183 below average)
-  defensive_efficiency: 12.709 (2.994 below average)
-  scoring_margin: -4.070 (5.800 below average)
-  saves_per_game: 11.330 (0.657 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.000 (2.106 above average)
+  offensive_efficiency: 35.544 (3.194 below average)
+  points_per_game: 15.600 (2.067 below average)
+  scoring_margin: -4.070 (5.611 below average)
+  saves_per_game: 11.330 (0.693 below average)
+  rpi: 0.433 (0.067 below average)
+  scoring_defense: 14.200 (2.926 above average)
   clearing_percentage: 0.813 (0.030 below average)
-  possession_value_index: 0.062 (0.107 below average)
+  face_off_winning_percentage: 0.498 (0.004 below average)
+  ground_balls_per_game: 33.000 (2.065 above average)
+  possession_value_index: 0.062 (0.105 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 70 of 79
   Avg opponent win %: 0.420
   Model schedule difficulty rank: 70 of 79
-  Schedule difficulty score: 0.420
+  Schedule difficulty score: 0.421

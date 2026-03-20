@@ -2,22 +2,27 @@ Team: Davenport
 Season: 2022 D2
 Record: 5-8
 Winning %: 0.385
-Predicted Winning %: 0.370
+Predicted Winning %: 0.385
 
 Stat Comparison vs League Average:
-  points_per_game: 15.150 (2.491 below average)
-  scoring_defense: 11.460 (0.224 above average)
+  Win % (from schedule): 0.385 (0.103 below average)
+  caused_turnovers_per_game: 8.000 (0.011 below average)
+  man_up_offense: 0.366 (0.025 above average)
+  defensive_efficiency: 15.706 (0.034 above average)
   scoring_offense: 9.620 (1.693 below average)
-  defensive_efficiency: 15.706 (0.003 above average)
-  scoring_margin: -1.850 (3.580 below average)
-  saves_per_game: 11.770 (0.217 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.620 (1.274 below average)
+  offensive_efficiency: 33.058 (5.679 below average)
+  points_per_game: 15.150 (2.517 below average)
+  scoring_margin: -1.850 (3.391 below average)
+  saves_per_game: 11.770 (0.253 below average)
+  rpi: 0.451 (0.048 below average)
+  scoring_defense: 11.460 (0.186 above average)
   clearing_percentage: 0.842 (0.001 below average)
-  possession_value_index: 0.104 (0.065 below average)
+  face_off_winning_percentage: 0.490 (0.012 below average)
+  ground_balls_per_game: 29.620 (1.315 below average)
+  possession_value_index: 0.104 (0.063 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 52 of 74
   Avg opponent win %: 0.449
   Model schedule difficulty rank: 52 of 74
-  Schedule difficulty score: 0.450
+  Schedule difficulty score: 0.449

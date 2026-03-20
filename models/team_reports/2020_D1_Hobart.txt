@@ -2,19 +2,24 @@ Team: Hobart
 Season: 2020 D1
 Record: 4-1
 Winning %: 0.800
-Predicted Winning %: 0.785
+Predicted Winning %: 0.800
 
 Stat Comparison vs League Average:
-  points_per_game: 29.200 (11.559 above average)
-  scoring_defense: 12.000 (0.764 above average)
+  Win % (from schedule): 0.800 (0.313 above average)
+  caused_turnovers_per_game: 7.600 (0.411 below average)
+  man_up_offense: 0.619 (0.278 above average)
+  defensive_efficiency: 15.655 (0.017 below average)
   scoring_offense: 19.600 (8.287 above average)
-  defensive_efficiency: 15.655 (0.048 below average)
-  scoring_margin: 7.600 (5.870 above average)
-  saves_per_game: 15.200 (3.213 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 37.000 (6.106 above average)
+  offensive_efficiency: 53.406 (14.668 above average)
+  points_per_game: 29.200 (11.533 above average)
+  scoring_margin: 7.600 (6.059 above average)
+  saves_per_game: 15.200 (3.177 above average)
+  rpi: 0.497 (0.002 below average)
+  scoring_defense: 12.000 (0.726 above average)
   clearing_percentage: 0.838 (0.005 below average)
-  possession_value_index: 0.192 (0.022 above average)
+  face_off_winning_percentage: 0.557 (0.055 above average)
+  ground_balls_per_game: 37.000 (6.065 above average)
+  possession_value_index: 0.192 (0.025 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 72 of 74

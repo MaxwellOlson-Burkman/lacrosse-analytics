@@ -2,20 +2,27 @@ Team: Monmouth
 Season: 2017 D1
 Record: 14-4
 Winning %: 0.778
-Predicted Winning %: 0.680
+Predicted Winning %: 0.778
 
 Stat Comparison vs League Average:
-  points_per_game: 14.500 (3.141 below average)
-  scoring_defense: 7.390 (3.846 below average)
+  Win % (from schedule): 0.778 (0.291 above average)
+  caused_turnovers_per_game: 9.000 (0.989 above average)
+  man_up_offense: 0.352 (0.011 above average)
+  defensive_efficiency: 18.927 (3.255 above average)
   scoring_offense: 9.720 (1.593 below average)
-  defensive_efficiency: 18.927 (3.224 above average)
-  scoring_margin: 2.330 (0.600 above average)
-  saves_per_game: 10.390 (1.597 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 26.060 (4.834 below average)
+  offensive_efficiency: 36.958 (1.780 below average)
+  points_per_game: 14.500 (3.167 below average)
+  scoring_margin: 2.330 (0.789 above average)
+  saves_per_game: 10.390 (1.633 below average)
+  rpi: 0.499 (0.000 above average)
+  scoring_defense: 7.390 (3.884 below average)
   clearing_percentage: 0.906 (0.063 above average)
-  possession_value_index: 0.271 (0.102 above average)
+  face_off_winning_percentage: 0.477 (0.025 below average)
+  ground_balls_per_game: 26.060 (4.875 below average)
+  possession_value_index: 0.271 (0.104 above average)
 
 Strength of schedule:
-  Model schedule difficulty rank: 1 of 70
-  Schedule difficulty score: 0.495
+  Stats-based SOS rank: 69 of 70
+  Avg opponent win %: 0.366
+  Model schedule difficulty rank: 69 of 70
+  Schedule difficulty score: 0.367

@@ -2,22 +2,27 @@ Team: Air Force
 Season: 2016 D1
 Record: 15-3
 Winning %: 0.833
-Predicted Winning %: 0.776
+Predicted Winning %: 0.833
 
 Stat Comparison vs League Average:
-  points_per_game: 15.220 (2.421 below average)
-  scoring_defense: 7.720 (3.516 below average)
+  Win % (from schedule): 0.833 (0.346 above average)
+  caused_turnovers_per_game: 6.940 (1.071 below average)
+  man_up_offense: 0.325 (0.016 below average)
+  defensive_efficiency: 18.642 (2.970 above average)
   scoring_offense: 10.060 (1.253 below average)
-  defensive_efficiency: 18.642 (2.939 above average)
-  scoring_margin: 2.330 (0.600 above average)
-  saves_per_game: 9.440 (2.547 below average)
-  Win % (from schedule): 0.833 (0.335 above average)
-  ground_balls_per_game: 24.390 (6.504 below average)
+  offensive_efficiency: 32.662 (6.076 below average)
+  points_per_game: 15.220 (2.447 below average)
+  scoring_margin: 2.330 (0.789 above average)
+  saves_per_game: 9.440 (2.583 below average)
+  rpi: 0.553 (0.054 above average)
+  scoring_defense: 7.720 (3.554 below average)
   clearing_percentage: 0.871 (0.028 above average)
-  possession_value_index: 0.223 (0.054 above average)
+  face_off_winning_percentage: 0.512 (0.010 above average)
+  ground_balls_per_game: 24.390 (6.545 below average)
+  possession_value_index: 0.223 (0.056 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 63 of 68
   Avg opponent win %: 0.424
   Model schedule difficulty rank: 63 of 68
-  Schedule difficulty score: 0.424
+  Schedule difficulty score: 0.425

@@ -1,0 +1,28 @@
+Team: Quincy
+Season: 2025 D2
+Record: 4-7
+Winning %: 0.364
+Predicted Winning %: 0.364
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.364 (0.124 below average)
+  caused_turnovers_per_game: 8.730 (0.719 above average)
+  man_up_offense: 0.226 (0.115 below average)
+  defensive_efficiency: 16.084 (0.412 above average)
+  scoring_offense: 9.180 (2.133 below average)
+  offensive_efficiency: 35.859 (2.879 below average)
+  points_per_game: 15.180 (2.487 below average)
+  scoring_margin: -4.180 (5.721 below average)
+  saves_per_game: 19.730 (7.707 above average)
+  rpi: 0.445 (0.054 below average)
+  scoring_defense: 13.360 (2.086 above average)
+  clearing_percentage: 0.814 (0.029 below average)
+  face_off_winning_percentage: 0.229 (0.273 below average)
+  ground_balls_per_game: 31.270 (0.335 above average)
+  possession_value_index: 0.040 (0.127 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 63 of 78
+  Avg opponent win %: 0.438
+  Model schedule difficulty rank: 63 of 78
+  Schedule difficulty score: 0.439

@@ -2,19 +2,24 @@ Team: Ohio St.
 Season: 2019 D1
 Record: 8-4
 Winning %: 0.667
-Predicted Winning %: 0.568
+Predicted Winning %: 0.667
 
 Stat Comparison vs League Average:
-  points_per_game: 17.670 (0.029 above average)
-  scoring_defense: 10.750 (0.486 below average)
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 4.920 (3.091 below average)
+  man_up_offense: 0.256 (0.085 below average)
+  defensive_efficiency: 15.625 (0.047 below average)
   scoring_offense: 11.750 (0.437 above average)
-  defensive_efficiency: 15.625 (0.078 below average)
-  scoring_margin: 1.000 (0.730 below average)
-  saves_per_game: 10.750 (1.237 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.000 (1.106 above average)
+  offensive_efficiency: 38.525 (0.213 below average)
+  points_per_game: 17.670 (0.003 above average)
+  scoring_margin: 1.000 (0.541 below average)
+  saves_per_game: 10.750 (1.273 below average)
+  rpi: 0.571 (0.072 above average)
+  scoring_defense: 10.750 (0.524 below average)
   clearing_percentage: 0.892 (0.049 above average)
-  possession_value_index: 0.243 (0.074 above average)
+  face_off_winning_percentage: 0.619 (0.117 above average)
+  ground_balls_per_game: 32.000 (1.065 above average)
+  possession_value_index: 0.243 (0.076 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 16 of 73

@@ -2,22 +2,27 @@ Team: Le Moyne
 Season: 2014 D2
 Record: 13-3
 Winning %: 0.813
-Predicted Winning %: 0.828
+Predicted Winning %: 0.813
 
 Stat Comparison vs League Average:
-  points_per_game: 22.060 (4.419 above average)
-  scoring_defense: 6.810 (4.426 below average)
+  Win % (from schedule): 0.812 (0.325 above average)
+  caused_turnovers_per_game: 8.130 (0.119 above average)
+  man_up_offense: 0.447 (0.106 above average)
+  defensive_efficiency: 20.805 (5.132 above average)
   scoring_offense: 13.500 (2.187 above average)
-  defensive_efficiency: 20.805 (5.102 above average)
-  scoring_margin: 6.690 (4.960 above average)
-  saves_per_game: 12.740 (0.753 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.250 (0.356 above average)
+  offensive_efficiency: 40.541 (1.803 above average)
+  points_per_game: 22.060 (4.393 above average)
+  scoring_margin: 6.690 (5.149 above average)
+  saves_per_game: 12.740 (0.717 above average)
+  rpi: 0.611 (0.112 above average)
+  scoring_defense: 6.810 (4.464 below average)
   clearing_percentage: 0.898 (0.055 above average)
-  possession_value_index: 0.214 (0.045 above average)
+  face_off_winning_percentage: 0.560 (0.058 above average)
+  ground_balls_per_game: 31.250 (0.315 above average)
+  possession_value_index: 0.214 (0.047 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 16 of 53
   Avg opponent win %: 0.535
   Model schedule difficulty rank: 16 of 53
-  Schedule difficulty score: 0.536
+  Schedule difficulty score: 0.535

@@ -2,22 +2,27 @@ Team: Cleveland St.
 Season: 2023 D1
 Record: 6-7
 Winning %: 0.462
-Predicted Winning %: 0.421
+Predicted Winning %: 0.462
 
 Stat Comparison vs League Average:
-  points_per_game: 18.080 (0.439 above average)
-  scoring_defense: 12.920 (1.684 above average)
+  Win % (from schedule): 0.462 (0.026 below average)
+  caused_turnovers_per_game: 5.850 (2.161 below average)
+  man_up_offense: 0.486 (0.145 above average)
+  defensive_efficiency: 14.437 (1.235 below average)
   scoring_offense: 11.540 (0.227 above average)
-  defensive_efficiency: 14.437 (1.266 below average)
-  scoring_margin: -1.380 (3.110 below average)
-  saves_per_game: 12.690 (0.703 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.460 (2.434 below average)
+  offensive_efficiency: 35.839 (2.899 below average)
+  points_per_game: 18.080 (0.413 above average)
+  scoring_margin: -1.380 (2.921 below average)
+  saves_per_game: 12.690 (0.667 above average)
+  rpi: 0.484 (0.015 below average)
+  scoring_defense: 12.920 (1.646 above average)
   clearing_percentage: 0.867 (0.024 above average)
-  possession_value_index: 0.131 (0.038 below average)
+  face_off_winning_percentage: 0.468 (0.034 below average)
+  ground_balls_per_game: 28.460 (2.475 below average)
+  possession_value_index: 0.131 (0.036 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 47 of 72
   Avg opponent win %: 0.474
-  Model schedule difficulty rank: 47 of 72
+  Model schedule difficulty rank: 46 of 72
   Schedule difficulty score: 0.474

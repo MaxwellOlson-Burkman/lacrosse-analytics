@@ -1,0 +1,28 @@
+Team: Fairfield
+Season: 2025 D1
+Record: 12-3
+Winning %: 0.800
+Predicted Winning %: 0.800
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.800 (0.313 above average)
+  caused_turnovers_per_game: 11.600 (3.589 above average)
+  man_up_offense: 0.375 (0.034 above average)
+  defensive_efficiency: 17.459 (1.787 above average)
+  scoring_offense: 13.930 (2.617 above average)
+  offensive_efficiency: 46.279 (7.541 above average)
+  points_per_game: 22.130 (4.463 above average)
+  scoring_margin: 4.670 (3.129 above average)
+  saves_per_game: 9.930 (2.093 below average)
+  rpi: 0.534 (0.034 above average)
+  scoring_defense: 9.270 (2.004 below average)
+  clearing_percentage: 0.878 (0.035 above average)
+  face_off_winning_percentage: 0.562 (0.060 above average)
+  ground_balls_per_game: 34.200 (3.265 above average)
+  possession_value_index: 0.199 (0.032 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 64 of 74
+  Avg opponent win %: 0.420
+  Model schedule difficulty rank: 64 of 74
+  Schedule difficulty score: 0.421

@@ -2,22 +2,27 @@ Team: Notre Dame de Namur
 Season: 2016 D2
 Record: 0-8
 Winning %: 0.000
-Predicted Winning %: 0.139
+Predicted Winning %: 0.000
 
 Stat Comparison vs League Average:
-  points_per_game: 11.380 (6.261 below average)
-  scoring_defense: 10.440 (0.796 below average)
+  Win % (from schedule): 0.000 (0.487 below average)
+  caused_turnovers_per_game: 7.750 (0.261 below average)
+  man_up_offense: 0.385 (0.044 above average)
+  defensive_efficiency: 16.648 (0.975 above average)
   scoring_offense: 7.750 (3.563 below average)
-  defensive_efficiency: 16.648 (0.945 above average)
-  scoring_margin: 4.030 (2.300 above average)
-  saves_per_game: 12.000 (0.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 25.630 (5.264 below average)
+  offensive_efficiency: 26.007 (12.731 below average)
+  points_per_game: 11.380 (6.287 below average)
+  scoring_margin: 4.030 (2.489 above average)
+  saves_per_game: 12.000 (0.023 below average)
+  rpi: 0.322 (0.177 below average)
+  scoring_defense: 10.440 (0.834 below average)
   clearing_percentage: 0.744 (0.099 below average)
-  possession_value_index: 0.140 (0.030 below average)
+  face_off_winning_percentage: 0.465 (0.037 below average)
+  ground_balls_per_game: 25.630 (5.305 below average)
+  possession_value_index: 0.140 (0.028 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 56 of 63
   Avg opponent win %: 0.429
-  Model schedule difficulty rank: 54 of 63
-  Schedule difficulty score: 0.430
+  Model schedule difficulty rank: 55 of 63
+  Schedule difficulty score: 0.429

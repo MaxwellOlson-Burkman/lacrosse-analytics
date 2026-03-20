@@ -2,22 +2,27 @@ Team: Hofstra
 Season: 2021 D1
 Record: 8-6
 Winning %: 0.571
-Predicted Winning %: 0.615
+Predicted Winning %: 0.571
 
 Stat Comparison vs League Average:
-  points_per_game: 19.210 (1.569 above average)
-  scoring_defense: 11.640 (0.404 above average)
+  Win % (from schedule): 0.571 (0.084 above average)
+  caused_turnovers_per_game: 6.430 (1.581 below average)
+  man_up_offense: 0.368 (0.027 above average)
+  defensive_efficiency: 14.946 (0.726 below average)
   scoring_offense: 13.000 (1.687 above average)
-  defensive_efficiency: 14.946 (0.757 below average)
-  scoring_margin: 1.360 (0.370 below average)
-  saves_per_game: 10.570 (1.417 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.430 (0.536 above average)
+  offensive_efficiency: 39.039 (0.301 above average)
+  points_per_game: 19.210 (1.543 above average)
+  scoring_margin: 1.360 (0.181 below average)
+  saves_per_game: 10.570 (1.453 below average)
+  rpi: 0.482 (0.017 below average)
+  scoring_defense: 11.640 (0.366 above average)
   clearing_percentage: 0.904 (0.061 above average)
-  possession_value_index: 0.215 (0.045 above average)
+  face_off_winning_percentage: 0.637 (0.135 above average)
+  ground_balls_per_game: 31.430 (0.495 above average)
+  possession_value_index: 0.215 (0.048 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 61 of 64
   Avg opponent win %: 0.366
   Model schedule difficulty rank: 61 of 64
-  Schedule difficulty score: 0.369
+  Schedule difficulty score: 0.367

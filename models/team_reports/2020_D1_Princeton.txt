@@ -2,19 +2,24 @@ Team: Princeton
 Season: 2020 D1
 Record: 5-0
 Winning %: 1.000
-Predicted Winning %: 0.878
+Predicted Winning %: 1.000
 
 Stat Comparison vs League Average:
-  points_per_game: 27.800 (10.159 above average)
-  scoring_defense: 10.800 (0.436 below average)
+  Win % (from schedule): 1.000 (0.513 above average)
+  caused_turnovers_per_game: 10.000 (1.989 above average)
+  man_up_offense: 0.304 (0.037 below average)
+  defensive_efficiency: 14.565 (1.107 below average)
   scoring_offense: 18.000 (6.687 above average)
-  defensive_efficiency: 14.565 (1.138 below average)
-  scoring_margin: 7.200 (5.470 above average)
-  saves_per_game: 12.000 (0.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 38.400 (7.506 above average)
+  offensive_efficiency: 45.570 (6.832 above average)
+  points_per_game: 27.800 (10.133 above average)
+  scoring_margin: 7.200 (5.659 above average)
+  saves_per_game: 12.000 (0.023 below average)
+  rpi: 0.583 (0.084 above average)
+  scoring_defense: 10.800 (0.474 below average)
   clearing_percentage: 0.824 (0.019 below average)
-  possession_value_index: 0.187 (0.017 above average)
+  face_off_winning_percentage: 0.497 (0.005 below average)
+  ground_balls_per_game: 38.400 (7.465 above average)
+  possession_value_index: 0.187 (0.020 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 70 of 74

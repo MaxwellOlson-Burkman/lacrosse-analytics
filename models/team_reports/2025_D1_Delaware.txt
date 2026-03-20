@@ -1,0 +1,28 @@
+Team: Delaware
+Season: 2025 D1
+Record: 7-6
+Winning %: 0.538
+Predicted Winning %: 0.538
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.538 (0.051 above average)
+  caused_turnovers_per_game: 7.380 (0.631 below average)
+  man_up_offense: 0.294 (0.047 below average)
+  defensive_efficiency: 14.974 (0.698 below average)
+  scoring_offense: 12.150 (0.837 above average)
+  offensive_efficiency: 46.023 (7.285 above average)
+  points_per_game: 18.690 (1.023 above average)
+  scoring_margin: 0.850 (0.691 below average)
+  saves_per_game: 12.380 (0.357 above average)
+  rpi: 0.491 (0.008 below average)
+  scoring_defense: 11.310 (0.036 above average)
+  clearing_percentage: 0.877 (0.034 above average)
+  face_off_winning_percentage: 0.643 (0.141 above average)
+  ground_balls_per_game: 32.850 (1.915 above average)
+  possession_value_index: 0.279 (0.112 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 51 of 74
+  Avg opponent win %: 0.462
+  Model schedule difficulty rank: 51 of 74
+  Schedule difficulty score: 0.462

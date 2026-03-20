@@ -2,22 +2,27 @@ Team: Towson
 Season: 2016 D1
 Record: 16-3
 Winning %: 0.842
-Predicted Winning %: 0.810
+Predicted Winning %: 0.842
 
 Stat Comparison vs League Average:
-  points_per_game: 16.260 (1.381 below average)
-  scoring_defense: 7.260 (3.976 below average)
+  Win % (from schedule): 0.842 (0.355 above average)
+  caused_turnovers_per_game: 6.630 (1.381 below average)
+  man_up_offense: 0.426 (0.085 above average)
+  defensive_efficiency: 18.496 (2.824 above average)
   scoring_offense: 10.890 (0.423 below average)
-  defensive_efficiency: 18.496 (2.793 above average)
-  scoring_margin: 3.630 (1.900 above average)
-  saves_per_game: 8.470 (3.517 below average)
-  Win % (from schedule): 0.842 (0.344 above average)
-  ground_balls_per_game: 25.890 (5.004 below average)
+  offensive_efficiency: 37.295 (1.443 below average)
+  points_per_game: 16.260 (1.407 below average)
+  scoring_margin: 3.630 (2.089 above average)
+  saves_per_game: 8.470 (3.553 below average)
+  rpi: 0.573 (0.073 above average)
+  scoring_defense: 7.260 (4.014 below average)
   clearing_percentage: 0.892 (0.049 above average)
-  possession_value_index: 0.282 (0.113 above average)
+  face_off_winning_percentage: 0.481 (0.021 below average)
+  ground_balls_per_game: 25.890 (5.045 below average)
+  possession_value_index: 0.282 (0.115 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 57 of 68
   Avg opponent win %: 0.440
-  Model schedule difficulty rank: 56 of 68
-  Schedule difficulty score: 0.439
+  Model schedule difficulty rank: 57 of 68
+  Schedule difficulty score: 0.440

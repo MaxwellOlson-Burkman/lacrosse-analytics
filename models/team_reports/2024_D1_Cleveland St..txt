@@ -2,22 +2,27 @@ Team: Cleveland St.
 Season: 2024 D1
 Record: 9-8
 Winning %: 0.529
-Predicted Winning %: 0.283
+Predicted Winning %: 0.529
 
 Stat Comparison vs League Average:
-  points_per_game: 14.820 (2.821 below average)
-  scoring_defense: 12.590 (1.354 above average)
+  Win % (from schedule): 0.529 (0.042 above average)
+  caused_turnovers_per_game: 6.590 (1.421 below average)
+  man_up_offense: 0.362 (0.021 above average)
+  defensive_efficiency: 14.053 (1.619 below average)
   scoring_offense: 9.820 (1.493 below average)
-  defensive_efficiency: 14.053 (1.650 below average)
-  scoring_margin: -2.760 (4.490 below average)
-  saves_per_game: 12.060 (0.073 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.710 (2.184 below average)
+  offensive_efficiency: 34.947 (3.791 below average)
+  points_per_game: 14.820 (2.847 below average)
+  scoring_margin: -2.760 (4.301 below average)
+  saves_per_game: 12.060 (0.037 above average)
+  rpi: 0.503 (0.004 above average)
+  scoring_defense: 12.590 (1.316 above average)
   clearing_percentage: 0.854 (0.011 above average)
-  possession_value_index: 0.124 (0.046 below average)
+  face_off_winning_percentage: 0.470 (0.032 below average)
+  ground_balls_per_game: 28.710 (2.225 below average)
+  possession_value_index: 0.124 (0.043 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 49 of 73
   Avg opponent win %: 0.476
-  Model schedule difficulty rank: 48 of 73
+  Model schedule difficulty rank: 49 of 73
   Schedule difficulty score: 0.476

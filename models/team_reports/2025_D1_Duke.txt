@@ -1,0 +1,28 @@
+Team: Duke
+Season: 2025 D1
+Record: 12-6
+Winning %: 0.667
+Predicted Winning %: 0.667
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 8.720 (0.709 above average)
+  man_up_offense: 0.426 (0.085 above average)
+  defensive_efficiency: 16.423 (0.751 above average)
+  scoring_offense: 12.000 (0.687 above average)
+  offensive_efficiency: 38.585 (0.153 below average)
+  points_per_game: 19.000 (1.333 above average)
+  scoring_margin: 2.220 (0.679 above average)
+  saves_per_game: 11.110 (0.913 below average)
+  rpi: 0.602 (0.103 above average)
+  scoring_defense: 9.780 (1.494 below average)
+  clearing_percentage: 0.838 (0.005 below average)
+  face_off_winning_percentage: 0.502 (0.000 above average)
+  ground_balls_per_game: 30.720 (0.215 below average)
+  possession_value_index: 0.204 (0.037 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 11 of 74
+  Avg opponent win %: 0.585
+  Model schedule difficulty rank: 10 of 74
+  Schedule difficulty score: 0.585

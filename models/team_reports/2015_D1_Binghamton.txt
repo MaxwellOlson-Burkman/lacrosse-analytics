@@ -2,19 +2,24 @@ Team: Binghamton
 Season: 2015 D1
 Record: 4-9
 Winning %: 0.308
-Predicted Winning %: 0.376
+Predicted Winning %: 0.308
 
 Stat Comparison vs League Average:
-  points_per_game: 16.770 (0.871 below average)
-  scoring_defense: 10.770 (0.466 below average)
+  Win % (from schedule): 0.308 (0.180 below average)
+  caused_turnovers_per_game: 5.150 (2.861 below average)
+  man_up_offense: 0.344 (0.003 above average)
+  defensive_efficiency: 14.786 (0.886 below average)
   scoring_offense: 10.770 (0.543 below average)
-  defensive_efficiency: 14.786 (0.917 below average)
-  scoring_margin: 0.000 (1.730 below average)
-  saves_per_game: 9.920 (2.067 below average)
-  Win % (from schedule): 0.308 (0.191 below average)
-  ground_balls_per_game: 25.850 (5.044 below average)
+  offensive_efficiency: 34.968 (3.770 below average)
+  points_per_game: 16.770 (0.897 below average)
+  scoring_margin: 0.000 (1.541 below average)
+  saves_per_game: 9.920 (2.103 below average)
+  rpi: 0.463 (0.036 below average)
+  scoring_defense: 10.770 (0.504 below average)
   clearing_percentage: 0.890 (0.047 above average)
-  possession_value_index: 0.250 (0.080 above average)
+  face_off_winning_percentage: 0.530 (0.028 above average)
+  ground_balls_per_game: 25.850 (5.085 below average)
+  possession_value_index: 0.250 (0.082 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 19 of 68

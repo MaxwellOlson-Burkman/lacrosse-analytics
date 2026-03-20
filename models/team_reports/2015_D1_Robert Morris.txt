@@ -2,22 +2,27 @@ Team: Robert Morris
 Season: 2015 D1
 Record: 3-11
 Winning %: 0.214
-Predicted Winning %: 0.306
+Predicted Winning %: 0.214
 
 Stat Comparison vs League Average:
-  points_per_game: 14.570 (3.071 below average)
-  scoring_defense: 11.290 (0.054 above average)
+  Win % (from schedule): 0.214 (0.273 below average)
+  caused_turnovers_per_game: 6.140 (1.871 below average)
+  man_up_offense: 0.366 (0.025 above average)
+  defensive_efficiency: 14.947 (0.725 below average)
   scoring_offense: 9.500 (1.813 below average)
-  defensive_efficiency: 14.947 (0.756 below average)
-  scoring_margin: -1.790 (3.520 below average)
-  saves_per_game: 10.790 (1.197 below average)
-  Win % (from schedule): 0.214 (0.284 below average)
-  ground_balls_per_game: 26.640 (4.254 below average)
+  offensive_efficiency: 36.260 (2.478 below average)
+  points_per_game: 14.570 (3.097 below average)
+  scoring_margin: -1.790 (3.331 below average)
+  saves_per_game: 10.790 (1.233 below average)
+  rpi: 0.413 (0.086 below average)
+  scoring_defense: 11.290 (0.016 above average)
   clearing_percentage: 0.872 (0.029 above average)
-  possession_value_index: 0.242 (0.073 above average)
+  face_off_winning_percentage: 0.456 (0.046 below average)
+  ground_balls_per_game: 26.640 (4.295 below average)
+  possession_value_index: 0.242 (0.075 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 39 of 68
   Avg opponent win %: 0.488
-  Model schedule difficulty rank: 39 of 68
-  Schedule difficulty score: 0.487
+  Model schedule difficulty rank: 38 of 68
+  Schedule difficulty score: 0.488

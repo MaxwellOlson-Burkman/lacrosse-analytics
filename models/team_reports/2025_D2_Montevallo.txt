@@ -1,0 +1,28 @@
+Team: Montevallo
+Season: 2025 D2
+Record: 10-6
+Winning %: 0.625
+Predicted Winning %: 0.625
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.625 (0.138 above average)
+  caused_turnovers_per_game: 11.440 (3.429 above average)
+  man_up_offense: 0.420 (0.079 above average)
+  defensive_efficiency: 17.660 (1.988 above average)
+  scoring_offense: 15.060 (3.747 above average)
+  offensive_efficiency: 45.090 (6.352 above average)
+  points_per_game: 24.500 (6.833 above average)
+  scoring_margin: 4.310 (2.769 above average)
+  saves_per_game: 15.750 (3.727 above average)
+  rpi: 0.536 (0.037 above average)
+  scoring_defense: 10.750 (0.524 below average)
+  clearing_percentage: 0.836 (0.007 below average)
+  face_off_winning_percentage: 0.665 (0.163 above average)
+  ground_balls_per_game: 44.940 (14.005 above average)
+  possession_value_index: N/A (league average 0.167)
+
+Strength of schedule:
+  Stats-based SOS rank: 48 of 78
+  Avg opponent win %: 0.482
+  Model schedule difficulty rank: 48 of 78
+  Schedule difficulty score: 0.481

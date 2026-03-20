@@ -2,19 +2,24 @@ Team: Hofstra
 Season: 2019 D1
 Record: 5-9
 Winning %: 0.357
-Predicted Winning %: 0.405
+Predicted Winning %: 0.357
 
 Stat Comparison vs League Average:
-  points_per_game: 13.000 (4.641 below average)
-  scoring_defense: 10.290 (0.946 below average)
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 6.070 (1.941 below average)
+  man_up_offense: 0.327 (0.014 below average)
+  defensive_efficiency: 16.001 (0.329 above average)
   scoring_offense: 9.000 (2.313 below average)
-  defensive_efficiency: 16.001 (0.298 above average)
-  scoring_margin: -1.290 (3.020 below average)
-  saves_per_game: 11.070 (0.917 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.790 (1.104 below average)
+  offensive_efficiency: 37.657 (1.081 below average)
+  points_per_game: 13.000 (4.667 below average)
+  scoring_margin: -1.290 (2.831 below average)
+  saves_per_game: 11.070 (0.953 below average)
+  rpi: 0.480 (0.019 below average)
+  scoring_defense: 10.290 (0.984 below average)
   clearing_percentage: 0.881 (0.038 above average)
-  possession_value_index: 0.202 (0.033 above average)
+  face_off_winning_percentage: 0.558 (0.056 above average)
+  ground_balls_per_game: 29.790 (1.145 below average)
+  possession_value_index: 0.202 (0.035 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 25 of 73

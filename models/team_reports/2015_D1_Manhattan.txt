@@ -2,22 +2,27 @@ Team: Manhattan
 Season: 2015 D1
 Record: 1-14
 Winning %: 0.067
-Predicted Winning %: 0.047
+Predicted Winning %: 0.067
 
 Stat Comparison vs League Average:
-  points_per_game: 7.800 (9.841 below average)
-  scoring_defense: 14.530 (3.294 above average)
+  Win % (from schedule): 0.067 (0.421 below average)
+  caused_turnovers_per_game: 4.000 (4.011 below average)
+  man_up_offense: 0.203 (0.138 below average)
+  defensive_efficiency: 12.406 (3.266 below average)
   scoring_offense: 4.930 (6.383 below average)
-  defensive_efficiency: 12.406 (3.297 below average)
-  scoring_margin: -9.600 (11.330 below average)
-  saves_per_game: 11.670 (0.317 below average)
-  Win % (from schedule): 0.067 (0.432 below average)
-  ground_balls_per_game: 22.470 (8.424 below average)
+  offensive_efficiency: 28.011 (10.727 below average)
+  points_per_game: 7.800 (9.867 below average)
+  scoring_margin: -9.600 (11.141 below average)
+  saves_per_game: 11.670 (0.353 below average)
+  rpi: 0.380 (0.120 below average)
+  scoring_defense: 14.530 (3.256 above average)
   clearing_percentage: 0.756 (0.087 below average)
-  possession_value_index: 0.142 (0.027 below average)
+  face_off_winning_percentage: 0.401 (0.101 below average)
+  ground_balls_per_game: 22.470 (8.465 below average)
+  possession_value_index: 0.142 (0.025 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 36 of 68
   Avg opponent win %: 0.490
   Model schedule difficulty rank: 36 of 68
-  Schedule difficulty score: 0.489
+  Schedule difficulty score: 0.490

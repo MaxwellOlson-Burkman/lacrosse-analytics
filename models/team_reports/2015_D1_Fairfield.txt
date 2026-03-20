@@ -2,19 +2,24 @@ Team: Fairfield
 Season: 2015 D1
 Record: 9-6
 Winning %: 0.600
-Predicted Winning %: 0.654
+Predicted Winning %: 0.600
 
 Stat Comparison vs League Average:
-  points_per_game: 14.870 (2.771 below average)
-  scoring_defense: 7.470 (3.766 below average)
+  Win % (from schedule): 0.600 (0.113 above average)
+  caused_turnovers_per_game: 6.070 (1.941 below average)
+  man_up_offense: 0.302 (0.039 below average)
+  defensive_efficiency: 18.871 (3.199 above average)
   scoring_offense: 9.600 (1.713 below average)
-  defensive_efficiency: 18.871 (3.168 above average)
-  scoring_margin: 2.130 (0.400 above average)
-  saves_per_game: 10.470 (1.517 below average)
-  Win % (from schedule): 0.600 (0.102 above average)
-  ground_balls_per_game: 28.470 (2.424 below average)
+  offensive_efficiency: 34.286 (4.452 below average)
+  points_per_game: 14.870 (2.797 below average)
+  scoring_margin: 2.130 (0.589 above average)
+  saves_per_game: 10.470 (1.553 below average)
+  rpi: 0.508 (0.009 above average)
+  scoring_defense: 7.470 (3.804 below average)
   clearing_percentage: 0.839 (0.004 below average)
-  possession_value_index: 0.232 (0.063 above average)
+  face_off_winning_percentage: 0.562 (0.060 above average)
+  ground_balls_per_game: 28.470 (2.465 below average)
+  possession_value_index: 0.232 (0.065 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 44 of 68

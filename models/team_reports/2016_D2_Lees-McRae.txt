@@ -2,22 +2,27 @@ Team: Lees-McRae
 Season: 2016 D2
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.145
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 12.430 (5.211 below average)
-  scoring_defense: 10.440 (0.796 below average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 6.790 (1.221 below average)
+  man_up_offense: 0.210 (0.131 below average)
+  defensive_efficiency: 17.736 (2.064 above average)
   scoring_offense: 7.570 (3.743 below average)
-  defensive_efficiency: 17.736 (2.033 above average)
-  scoring_margin: 4.030 (2.300 above average)
-  saves_per_game: 17.570 (5.583 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 25.930 (4.964 below average)
+  offensive_efficiency: 25.403 (13.335 below average)
+  points_per_game: 12.430 (5.237 below average)
+  scoring_margin: 4.030 (2.489 above average)
+  saves_per_game: 17.570 (5.547 above average)
+  rpi: 0.406 (0.093 below average)
+  scoring_defense: 10.440 (0.834 below average)
   clearing_percentage: 0.849 (0.006 above average)
-  possession_value_index: 0.111 (0.059 below average)
+  face_off_winning_percentage: 0.504 (0.002 above average)
+  ground_balls_per_game: 25.930 (5.005 below average)
+  possession_value_index: 0.111 (0.056 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 36 of 63
   Avg opponent win %: 0.495
-  Model schedule difficulty rank: 35 of 63
+  Model schedule difficulty rank: 36 of 63
   Schedule difficulty score: 0.495

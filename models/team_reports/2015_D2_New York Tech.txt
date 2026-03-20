@@ -2,19 +2,24 @@ Team: New York Tech
 Season: 2015 D2
 Record: 12-4
 Winning %: 0.750
-Predicted Winning %: 0.744
+Predicted Winning %: 0.750
 
 Stat Comparison vs League Average:
-  points_per_game: 21.940 (4.299 above average)
-  scoring_defense: 8.000 (3.236 below average)
+  Win % (from schedule): 0.750 (0.263 above average)
+  caused_turnovers_per_game: 10.630 (2.619 above average)
+  man_up_offense: 0.517 (0.176 above average)
+  defensive_efficiency: 18.798 (3.126 above average)
   scoring_offense: 13.380 (2.067 above average)
-  defensive_efficiency: 18.798 (3.095 above average)
-  scoring_margin: 5.380 (3.650 above average)
-  saves_per_game: 8.810 (3.177 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.690 (2.204 below average)
+  offensive_efficiency: 37.167 (1.571 below average)
+  points_per_game: 21.940 (4.273 above average)
+  scoring_margin: 5.380 (3.839 above average)
+  saves_per_game: 8.810 (3.213 below average)
+  rpi: 0.581 (0.082 above average)
+  scoring_defense: 8.000 (3.274 below average)
   clearing_percentage: 0.835 (0.008 below average)
-  possession_value_index: 0.180 (0.010 above average)
+  face_off_winning_percentage: 0.452 (0.050 below average)
+  ground_balls_per_game: 28.690 (2.245 below average)
+  possession_value_index: 0.180 (0.013 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 24 of 59

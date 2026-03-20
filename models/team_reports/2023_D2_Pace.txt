@@ -2,19 +2,24 @@ Team: Pace
 Season: 2023 D2
 Record: 11-4
 Winning %: 0.733
-Predicted Winning %: 0.690
+Predicted Winning %: 0.733
 
 Stat Comparison vs League Average:
-  points_per_game: 19.870 (2.229 above average)
-  scoring_defense: 9.800 (1.436 below average)
+  Win % (from schedule): 0.733 (0.246 above average)
+  caused_turnovers_per_game: 12.070 (4.059 above average)
+  man_up_offense: 0.382 (0.041 above average)
+  defensive_efficiency: 16.899 (1.227 above average)
   scoring_offense: 12.930 (1.617 above average)
-  defensive_efficiency: 16.899 (1.196 above average)
-  scoring_margin: 3.130 (1.400 above average)
-  saves_per_game: 10.930 (1.057 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 34.870 (3.976 above average)
+  offensive_efficiency: 43.244 (4.506 above average)
+  points_per_game: 19.870 (2.203 above average)
+  scoring_margin: 3.130 (1.589 above average)
+  saves_per_game: 10.930 (1.093 below average)
+  rpi: 0.579 (0.079 above average)
+  scoring_defense: 9.800 (1.474 below average)
   clearing_percentage: 0.864 (0.021 above average)
-  possession_value_index: 0.161 (0.008 below average)
+  face_off_winning_percentage: 0.570 (0.068 above average)
+  ground_balls_per_game: 34.870 (3.935 above average)
+  possession_value_index: 0.161 (0.006 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 33 of 74

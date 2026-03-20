@@ -2,22 +2,27 @@ Team: Detroit Mercy
 Season: 2019 D1
 Record: 8-7
 Winning %: 0.533
-Predicted Winning %: 0.449
+Predicted Winning %: 0.533
 
 Stat Comparison vs League Average:
-  points_per_game: 16.600 (1.041 below average)
-  scoring_defense: 11.930 (0.694 above average)
+  Win % (from schedule): 0.533 (0.046 above average)
+  caused_turnovers_per_game: 8.000 (0.011 below average)
+  man_up_offense: 0.379 (0.038 above average)
+  defensive_efficiency: 15.149 (0.523 below average)
   scoring_offense: 10.470 (0.843 below average)
-  defensive_efficiency: 15.149 (0.554 below average)
-  scoring_margin: -1.470 (3.200 below average)
-  saves_per_game: 12.730 (0.743 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.130 (1.236 above average)
+  offensive_efficiency: 36.996 (1.741 below average)
+  points_per_game: 16.600 (1.067 below average)
+  scoring_margin: -1.470 (3.011 below average)
+  saves_per_game: 12.730 (0.707 above average)
+  rpi: 0.469 (0.030 below average)
+  scoring_defense: 11.930 (0.656 above average)
   clearing_percentage: 0.806 (0.037 below average)
-  possession_value_index: 0.089 (0.081 below average)
+  face_off_winning_percentage: 0.585 (0.083 above average)
+  ground_balls_per_game: 32.130 (1.195 above average)
+  possession_value_index: 0.089 (0.078 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 58 of 73
   Avg opponent win %: 0.431
   Model schedule difficulty rank: 58 of 73
-  Schedule difficulty score: 0.430
+  Schedule difficulty score: 0.431

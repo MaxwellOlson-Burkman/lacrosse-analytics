@@ -2,19 +2,24 @@ Team: Walsh
 Season: 2019 D2
 Record: 4-10
 Winning %: 0.286
-Predicted Winning %: 0.269
+Predicted Winning %: 0.286
 
 Stat Comparison vs League Average:
-  points_per_game: 15.140 (2.501 below average)
-  scoring_defense: 13.570 (2.334 above average)
+  Win % (from schedule): 0.286 (0.202 below average)
+  caused_turnovers_per_game: 6.930 (1.081 below average)
+  man_up_offense: 0.226 (0.115 below average)
+  defensive_efficiency: 13.544 (2.128 below average)
   scoring_offense: 9.930 (1.383 below average)
-  defensive_efficiency: 13.544 (2.159 below average)
-  scoring_margin: 5.430 (3.700 above average)
-  saves_per_game: 11.930 (0.057 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.570 (1.324 below average)
+  offensive_efficiency: 31.827 (6.911 below average)
+  points_per_game: 15.140 (2.527 below average)
+  scoring_margin: 5.430 (3.889 above average)
+  saves_per_game: 11.930 (0.093 below average)
+  rpi: 0.438 (0.062 below average)
+  scoring_defense: 13.570 (2.296 above average)
   clearing_percentage: 0.821 (0.022 below average)
-  possession_value_index: 0.073 (0.096 below average)
+  face_off_winning_percentage: 0.534 (0.032 above average)
+  ground_balls_per_game: 29.570 (1.365 below average)
+  possession_value_index: 0.073 (0.094 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 46 of 70

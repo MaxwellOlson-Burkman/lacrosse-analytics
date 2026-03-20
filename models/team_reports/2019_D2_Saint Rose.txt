@@ -2,22 +2,27 @@ Team: Saint Rose
 Season: 2019 D2
 Record: 5-9
 Winning %: 0.357
-Predicted Winning %: 0.318
+Predicted Winning %: 0.357
 
 Stat Comparison vs League Average:
-  points_per_game: 15.290 (2.351 below average)
-  scoring_defense: 13.640 (2.404 above average)
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 5.790 (2.221 below average)
+  man_up_offense: 0.396 (0.055 above average)
+  defensive_efficiency: 13.680 (1.992 below average)
   scoring_offense: 10.500 (0.813 below average)
-  defensive_efficiency: 13.680 (2.023 below average)
-  scoring_margin: 5.430 (3.700 above average)
-  saves_per_game: 12.500 (0.513 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 37.000 (6.106 above average)
+  offensive_efficiency: 41.016 (2.278 above average)
+  points_per_game: 15.290 (2.377 below average)
+  scoring_margin: 5.430 (3.889 above average)
+  saves_per_game: 12.500 (0.477 above average)
+  rpi: 0.480 (0.019 below average)
+  scoring_defense: 13.640 (2.366 above average)
   clearing_percentage: 0.784 (0.059 below average)
-  possession_value_index: 0.179 (0.009 above average)
+  face_off_winning_percentage: 0.680 (0.178 above average)
+  ground_balls_per_game: 37.000 (6.065 above average)
+  possession_value_index: 0.179 (0.012 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 23 of 70
   Avg opponent win %: 0.528
   Model schedule difficulty rank: 23 of 70
-  Schedule difficulty score: 0.528
+  Schedule difficulty score: 0.527

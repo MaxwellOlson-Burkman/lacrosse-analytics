@@ -2,22 +2,27 @@ Team: Felician
 Season: 2023 D2
 Record: 3-9
 Winning %: 0.250
-Predicted Winning %: 0.193
+Predicted Winning %: 0.250
 
 Stat Comparison vs League Average:
-  points_per_game: 11.580 (6.061 below average)
-  scoring_defense: 14.500 (3.264 above average)
+  Win % (from schedule): 0.250 (0.237 below average)
+  caused_turnovers_per_game: 6.500 (1.511 below average)
+  man_up_offense: 0.196 (0.145 below average)
+  defensive_efficiency: 12.719 (2.953 below average)
   scoring_offense: 8.080 (3.233 below average)
-  defensive_efficiency: 12.719 (2.984 below average)
-  scoring_margin: -6.420 (8.150 below average)
-  saves_per_game: 12.830 (0.843 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.170 (1.276 above average)
+  offensive_efficiency: 39.223 (0.485 above average)
+  points_per_game: 11.580 (6.087 below average)
+  scoring_margin: -6.420 (7.961 below average)
+  saves_per_game: 12.830 (0.807 above average)
+  rpi: 0.366 (0.133 below average)
+  scoring_defense: 14.500 (3.226 above average)
   clearing_percentage: 0.809 (0.034 below average)
-  possession_value_index: 0.115 (0.055 below average)
+  face_off_winning_percentage: 0.465 (0.037 below average)
+  ground_balls_per_game: 32.170 (1.235 above average)
+  possession_value_index: 0.115 (0.052 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 71 of 74
   Avg opponent win %: 0.387
   Model schedule difficulty rank: 71 of 74
-  Schedule difficulty score: 0.388
+  Schedule difficulty score: 0.386

@@ -2,19 +2,24 @@ Team: Wagner
 Season: 2016 D1
 Record: 6-9
 Winning %: 0.400
-Predicted Winning %: 0.359
+Predicted Winning %: 0.400
 
 Stat Comparison vs League Average:
-  points_per_game: 13.470 (4.171 below average)
-  scoring_defense: 10.330 (0.906 below average)
+  Win % (from schedule): 0.400 (0.087 below average)
+  caused_turnovers_per_game: 7.470 (0.541 below average)
+  man_up_offense: 0.311 (0.030 below average)
+  defensive_efficiency: 16.164 (0.492 above average)
   scoring_offense: 8.800 (2.513 below average)
-  defensive_efficiency: 16.164 (0.461 above average)
-  scoring_margin: -1.530 (3.260 below average)
-  saves_per_game: 10.530 (1.457 below average)
-  Win % (from schedule): 0.400 (0.098 below average)
-  ground_balls_per_game: 28.530 (2.364 below average)
+  offensive_efficiency: 33.977 (4.761 below average)
+  points_per_game: 13.470 (4.197 below average)
+  scoring_margin: -1.530 (3.071 below average)
+  saves_per_game: 10.530 (1.493 below average)
+  rpi: 0.405 (0.094 below average)
+  scoring_defense: 10.330 (0.944 below average)
   clearing_percentage: 0.770 (0.073 below average)
-  possession_value_index: 0.150 (0.019 below average)
+  face_off_winning_percentage: 0.451 (0.051 below average)
+  ground_balls_per_game: 28.530 (2.405 below average)
+  possession_value_index: 0.150 (0.017 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 66 of 68

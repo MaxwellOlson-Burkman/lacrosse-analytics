@@ -1,0 +1,28 @@
+Team: Ohio St.
+Season: 2025 D1
+Record: 14-3
+Winning %: 0.824
+Predicted Winning %: 0.823
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.824 (0.336 above average)
+  caused_turnovers_per_game: 9.180 (1.169 above average)
+  man_up_offense: 0.389 (0.048 above average)
+  defensive_efficiency: 17.868 (2.196 above average)
+  scoring_offense: 12.290 (0.977 above average)
+  offensive_efficiency: 38.050 (0.688 below average)
+  points_per_game: 19.180 (1.513 above average)
+  scoring_margin: 3.180 (1.639 above average)
+  saves_per_game: 12.760 (0.737 above average)
+  rpi: 0.613 (0.114 above average)
+  scoring_defense: 9.120 (2.154 below average)
+  clearing_percentage: 0.864 (0.021 above average)
+  face_off_winning_percentage: 0.484 (0.018 below average)
+  ground_balls_per_game: 31.060 (0.125 above average)
+  possession_value_index: 0.155 (0.012 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 28 of 74
+  Avg opponent win %: 0.517
+  Model schedule difficulty rank: 26 of 74
+  Schedule difficulty score: 0.518

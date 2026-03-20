@@ -2,19 +2,24 @@ Team: Notre Dame
 Season: 2018 D1
 Record: 9-6
 Winning %: 0.600
-Predicted Winning %: 0.612
+Predicted Winning %: 0.600
 
 Stat Comparison vs League Average:
-  points_per_game: 14.800 (2.841 below average)
-  scoring_defense: 8.600 (2.636 below average)
+  Win % (from schedule): 0.600 (0.113 above average)
+  caused_turnovers_per_game: 5.730 (2.281 below average)
+  man_up_offense: 0.315 (0.026 below average)
+  defensive_efficiency: 16.696 (1.024 above average)
   scoring_offense: 10.070 (1.243 below average)
-  defensive_efficiency: 16.696 (0.993 above average)
-  scoring_margin: 1.470 (0.260 below average)
-  saves_per_game: 7.470 (4.517 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.270 (3.624 below average)
+  offensive_efficiency: 32.801 (5.937 below average)
+  points_per_game: 14.800 (2.867 below average)
+  scoring_margin: 1.470 (0.071 below average)
+  saves_per_game: 7.470 (4.553 below average)
+  rpi: 0.598 (0.099 above average)
+  scoring_defense: 8.600 (2.674 below average)
   clearing_percentage: 0.919 (0.076 above average)
-  possession_value_index: 0.238 (0.069 above average)
+  face_off_winning_percentage: 0.526 (0.024 above average)
+  ground_balls_per_game: 27.270 (3.665 below average)
+  possession_value_index: 0.238 (0.071 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 2 of 71

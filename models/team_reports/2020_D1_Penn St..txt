@@ -2,22 +2,27 @@ Team: Penn St.
 Season: 2020 D1
 Record: 5-2
 Winning %: 0.714
-Predicted Winning %: 0.749
+Predicted Winning %: 0.714
 
 Stat Comparison vs League Average:
-  points_per_game: 27.000 (9.359 above average)
-  scoring_defense: 11.000 (0.236 below average)
+  Win % (from schedule): 0.714 (0.227 above average)
+  caused_turnovers_per_game: 6.710 (1.301 below average)
+  man_up_offense: 0.579 (0.238 above average)
+  defensive_efficiency: 14.997 (0.675 below average)
   scoring_offense: 17.290 (5.977 above average)
-  defensive_efficiency: 14.997 (0.706 below average)
-  scoring_margin: 6.290 (4.560 above average)
-  saves_per_game: 12.140 (0.153 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 37.430 (6.536 above average)
+  offensive_efficiency: 43.117 (4.379 above average)
+  points_per_game: 27.000 (9.333 above average)
+  scoring_margin: 6.290 (4.749 above average)
+  saves_per_game: 12.140 (0.117 above average)
+  rpi: 0.586 (0.087 above average)
+  scoring_defense: 11.000 (0.274 below average)
   clearing_percentage: 0.831 (0.012 below average)
-  possession_value_index: 0.167 (0.003 below average)
+  face_off_winning_percentage: 0.550 (0.048 above average)
+  ground_balls_per_game: 37.430 (6.495 above average)
+  possession_value_index: 0.167 (0.000 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 29 of 74
   Avg opponent win %: 0.511
   Model schedule difficulty rank: 28 of 74
-  Schedule difficulty score: 0.512
+  Schedule difficulty score: 0.511

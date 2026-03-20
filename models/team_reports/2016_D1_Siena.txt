@@ -2,22 +2,27 @@ Team: Siena
 Season: 2016 D1
 Record: 3-10
 Winning %: 0.231
-Predicted Winning %: 0.252
+Predicted Winning %: 0.231
 
 Stat Comparison vs League Average:
-  points_per_game: 14.000 (3.641 below average)
-  scoring_defense: 12.080 (0.844 above average)
+  Win % (from schedule): 0.231 (0.256 below average)
+  caused_turnovers_per_game: 5.850 (2.161 below average)
+  man_up_offense: 0.342 (0.001 above average)
+  defensive_efficiency: 13.780 (1.892 below average)
   scoring_offense: 8.770 (2.543 below average)
-  defensive_efficiency: 13.780 (1.923 below average)
-  scoring_margin: -3.310 (5.040 below average)
-  saves_per_game: 9.150 (2.837 below average)
-  Win % (from schedule): 0.231 (0.268 below average)
-  ground_balls_per_game: 26.620 (4.274 below average)
+  offensive_efficiency: 37.639 (1.098 below average)
+  points_per_game: 14.000 (3.667 below average)
+  scoring_margin: -3.310 (4.851 below average)
+  saves_per_game: 9.150 (2.873 below average)
+  rpi: 0.415 (0.084 below average)
+  scoring_defense: 12.080 (0.806 above average)
   clearing_percentage: 0.913 (0.070 above average)
-  possession_value_index: 0.216 (0.046 above average)
+  face_off_winning_percentage: 0.450 (0.052 below average)
+  ground_balls_per_game: 26.620 (4.315 below average)
+  possession_value_index: 0.216 (0.049 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 45 of 68
   Avg opponent win %: 0.475
   Model schedule difficulty rank: 45 of 68
-  Schedule difficulty score: 0.475
+  Schedule difficulty score: 0.474

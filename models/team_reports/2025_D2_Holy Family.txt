@@ -1,0 +1,28 @@
+Team: Holy Family
+Season: 2025 D2
+Record: 9-7
+Winning %: 0.563
+Predicted Winning %: 0.563
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.562 (0.075 above average)
+  caused_turnovers_per_game: 11.690 (3.679 above average)
+  man_up_offense: 0.338 (0.003 below average)
+  defensive_efficiency: 15.315 (0.357 below average)
+  scoring_offense: 13.940 (2.627 above average)
+  offensive_efficiency: 47.254 (8.516 above average)
+  points_per_game: 22.500 (4.833 above average)
+  scoring_margin: 1.690 (0.149 above average)
+  saves_per_game: 14.250 (2.227 above average)
+  rpi: 0.430 (0.069 below average)
+  scoring_defense: 12.250 (0.976 above average)
+  clearing_percentage: 0.797 (0.046 below average)
+  face_off_winning_percentage: 0.404 (0.098 below average)
+  ground_balls_per_game: 37.000 (6.065 above average)
+  possession_value_index: 0.012 (0.155 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 76 of 78
+  Avg opponent win %: 0.353
+  Model schedule difficulty rank: 76 of 78
+  Schedule difficulty score: 0.356

@@ -5,19 +5,24 @@ Winning %: 0.667
 Predicted Winning %: 0.667
 
 Stat Comparison vs League Average:
-  points_per_game: 22.530 (4.889 above average)
-  scoring_defense: 11.530 (0.294 above average)
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 9.670 (1.659 above average)
+  man_up_offense: 0.444 (0.103 above average)
+  defensive_efficiency: 14.741 (0.931 below average)
   scoring_offense: 13.730 (2.417 above average)
-  defensive_efficiency: 14.741 (0.962 below average)
-  scoring_margin: 2.200 (0.470 above average)
-  saves_per_game: 11.870 (0.117 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 37.330 (6.436 above average)
+  offensive_efficiency: 40.146 (1.408 above average)
+  points_per_game: 22.530 (4.863 above average)
+  scoring_margin: 2.200 (0.659 above average)
+  saves_per_game: 11.870 (0.153 below average)
+  rpi: 0.536 (0.037 above average)
+  scoring_defense: 11.530 (0.256 above average)
   clearing_percentage: 0.824 (0.019 below average)
-  possession_value_index: 0.157 (0.012 below average)
+  face_off_winning_percentage: 0.634 (0.132 above average)
+  ground_balls_per_game: 37.330 (6.395 above average)
+  possession_value_index: 0.157 (0.010 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 44 of 72
   Avg opponent win %: 0.481
   Model schedule difficulty rank: 44 of 72
-  Schedule difficulty score: 0.480
+  Schedule difficulty score: 0.481

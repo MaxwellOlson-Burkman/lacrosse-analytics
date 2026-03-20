@@ -2,19 +2,24 @@ Team: Lynn
 Season: 2023 D2
 Record: 7-9
 Winning %: 0.438
-Predicted Winning %: 0.507
+Predicted Winning %: 0.438
 
 Stat Comparison vs League Average:
-  points_per_game: 20.310 (2.669 above average)
-  scoring_defense: 11.940 (0.704 above average)
+  Win % (from schedule): 0.438 (0.050 below average)
+  caused_turnovers_per_game: 7.940 (0.071 below average)
+  man_up_offense: 0.274 (0.067 below average)
+  defensive_efficiency: 15.428 (0.244 below average)
   scoring_offense: 12.630 (1.317 above average)
-  defensive_efficiency: 15.428 (0.275 below average)
-  scoring_margin: 0.690 (1.040 below average)
-  saves_per_game: 12.060 (0.073 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.560 (2.666 above average)
+  offensive_efficiency: 38.742 (0.004 above average)
+  points_per_game: 20.310 (2.643 above average)
+  scoring_margin: 0.690 (0.851 below average)
+  saves_per_game: 12.060 (0.037 above average)
+  rpi: 0.498 (0.001 below average)
+  scoring_defense: 11.940 (0.666 above average)
   clearing_percentage: 0.882 (0.039 above average)
-  possession_value_index: 0.159 (0.010 below average)
+  face_off_winning_percentage: 0.517 (0.015 above average)
+  ground_balls_per_game: 33.560 (2.625 above average)
+  possession_value_index: 0.159 (0.008 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 34 of 74

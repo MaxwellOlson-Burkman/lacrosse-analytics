@@ -2,19 +2,24 @@ Team: Alabama Huntsville
 Season: 2020 D2
 Record: 4-2
 Winning %: 0.667
-Predicted Winning %: 0.709
+Predicted Winning %: 0.667
 
 Stat Comparison vs League Average:
-  points_per_game: 21.330 (3.689 above average)
-  scoring_defense: 8.830 (2.406 below average)
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 7.500 (0.511 below average)
+  man_up_offense: 0.333 (0.008 below average)
+  defensive_efficiency: 19.384 (3.712 above average)
   scoring_offense: 13.000 (1.687 above average)
-  defensive_efficiency: 19.384 (3.681 above average)
-  scoring_margin: 6.680 (4.950 above average)
-  saves_per_game: 13.830 (1.843 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.830 (1.064 below average)
+  offensive_efficiency: 42.763 (4.025 above average)
+  points_per_game: 21.330 (3.663 above average)
+  scoring_margin: 6.680 (5.139 above average)
+  saves_per_game: 13.830 (1.807 above average)
+  rpi: 0.553 (0.054 above average)
+  scoring_defense: 8.830 (2.444 below average)
   clearing_percentage: 0.806 (0.037 below average)
-  possession_value_index: 0.116 (0.053 below average)
+  face_off_winning_percentage: 0.397 (0.105 below average)
+  ground_balls_per_game: 29.830 (1.105 below average)
+  possession_value_index: 0.116 (0.051 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 35 of 72

@@ -2,22 +2,27 @@ Team: Cornell
 Season: 2018 D1
 Record: 13-5
 Winning %: 0.722
-Predicted Winning %: 0.736
+Predicted Winning %: 0.722
 
 Stat Comparison vs League Average:
-  points_per_game: 23.110 (5.469 above average)
-  scoring_defense: 9.220 (2.016 below average)
+  Win % (from schedule): 0.722 (0.235 above average)
+  caused_turnovers_per_game: 7.110 (0.901 below average)
+  man_up_offense: 0.375 (0.034 above average)
+  defensive_efficiency: 17.553 (1.881 above average)
   scoring_offense: 13.560 (2.247 above average)
-  defensive_efficiency: 17.553 (1.850 above average)
-  scoring_margin: 4.330 (2.600 above average)
-  saves_per_game: 11.560 (0.427 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.830 (2.064 below average)
+  offensive_efficiency: 34.859 (3.879 below average)
+  points_per_game: 23.110 (5.443 above average)
+  scoring_margin: 4.330 (2.789 above average)
+  saves_per_game: 11.560 (0.463 below average)
+  rpi: 0.579 (0.080 above average)
+  scoring_defense: 9.220 (2.054 below average)
   clearing_percentage: 0.860 (0.017 above average)
-  possession_value_index: 0.241 (0.072 above average)
+  face_off_winning_percentage: 0.443 (0.059 below average)
+  ground_balls_per_game: 28.830 (2.105 below average)
+  possession_value_index: 0.241 (0.074 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 26 of 71
   Avg opponent win %: 0.513
-  Model schedule difficulty rank: 26 of 71
+  Model schedule difficulty rank: 25 of 71
   Schedule difficulty score: 0.513

@@ -2,22 +2,27 @@ Team: Syracuse
 Season: 2020 D1
 Record: 5-0
 Winning %: 1.000
-Predicted Winning %: 0.895
+Predicted Winning %: 1.000
 
 Stat Comparison vs League Average:
-  points_per_game: 25.200 (7.559 above average)
-  scoring_defense: 9.400 (1.836 below average)
+  Win % (from schedule): 1.000 (0.513 above average)
+  caused_turnovers_per_game: 9.800 (1.789 above average)
+  man_up_offense: 0.417 (0.076 above average)
+  defensive_efficiency: 17.440 (1.768 above average)
   scoring_offense: 16.600 (5.287 above average)
-  defensive_efficiency: 17.440 (1.737 above average)
-  scoring_margin: 7.200 (5.470 above average)
-  saves_per_game: 12.800 (0.813 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 41.200 (10.306 above average)
+  offensive_efficiency: 51.393 (12.655 above average)
+  points_per_game: 25.200 (7.533 above average)
+  scoring_margin: 7.200 (5.659 above average)
+  saves_per_game: 12.800 (0.777 above average)
+  rpi: 0.598 (0.099 above average)
+  scoring_defense: 9.400 (1.874 below average)
   clearing_percentage: 0.910 (0.067 above average)
-  possession_value_index: 0.306 (0.136 above average)
+  face_off_winning_percentage: 0.671 (0.169 above average)
+  ground_balls_per_game: 41.200 (10.265 above average)
+  possession_value_index: 0.306 (0.139 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 59 of 74
   Avg opponent win %: 0.410
-  Model schedule difficulty rank: 59 of 74
-  Schedule difficulty score: 0.411
+  Model schedule difficulty rank: 58 of 74
+  Schedule difficulty score: 0.410

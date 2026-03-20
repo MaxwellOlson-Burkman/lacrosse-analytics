@@ -1,0 +1,28 @@
+Team: Emory & Henry
+Season: 2025 D2
+Record: 0-14
+Winning %: 0.000
+Predicted Winning %: 0.000
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.000 (0.487 below average)
+  caused_turnovers_per_game: 8.930 (0.919 above average)
+  man_up_offense: 0.063 (0.278 below average)
+  defensive_efficiency: 5.959 (9.713 below average)
+  scoring_offense: 3.500 (7.813 below average)
+  offensive_efficiency: 20.833 (17.905 below average)
+  points_per_game: 4.860 (12.807 below average)
+  scoring_margin: -18.640 (20.181 below average)
+  saves_per_game: 18.430 (6.407 above average)
+  rpi: 0.395 (0.104 below average)
+  scoring_defense: 22.140 (10.866 above average)
+  clearing_percentage: 0.604 (0.239 below average)
+  face_off_winning_percentage: 0.352 (0.150 below average)
+  ground_balls_per_game: 26.210 (4.725 below average)
+  possession_value_index: N/A (league average 0.167)
+
+Strength of schedule:
+  Stats-based SOS rank: 13 of 78
+  Avg opponent win %: 0.550
+  Model schedule difficulty rank: 13 of 78
+  Schedule difficulty score: 0.549

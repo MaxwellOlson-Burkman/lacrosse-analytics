@@ -2,19 +2,24 @@ Team: Furman
 Season: 2015 D1
 Record: 4-9
 Winning %: 0.308
-Predicted Winning %: 0.326
+Predicted Winning %: 0.308
 
 Stat Comparison vs League Average:
-  points_per_game: 10.920 (6.721 below average)
-  scoring_defense: 9.230 (2.006 below average)
+  Win % (from schedule): 0.308 (0.180 below average)
+  caused_turnovers_per_game: 6.690 (1.321 below average)
+  man_up_offense: 0.184 (0.157 below average)
+  defensive_efficiency: 18.219 (2.547 above average)
   scoring_offense: 7.230 (4.083 below average)
-  defensive_efficiency: 18.219 (2.516 above average)
-  scoring_margin: -2.000 (3.730 below average)
-  saves_per_game: 12.230 (0.243 above average)
-  Win % (from schedule): 0.308 (0.191 below average)
-  ground_balls_per_game: 21.690 (9.204 below average)
+  offensive_efficiency: 34.265 (4.472 below average)
+  points_per_game: 10.920 (6.747 below average)
+  scoring_margin: -2.000 (3.541 below average)
+  saves_per_game: 12.230 (0.207 above average)
+  rpi: 0.436 (0.063 below average)
+  scoring_defense: 9.230 (2.044 below average)
   clearing_percentage: 0.879 (0.036 above average)
-  possession_value_index: 0.174 (0.005 above average)
+  face_off_winning_percentage: 0.420 (0.082 below average)
+  ground_balls_per_game: 21.690 (9.245 below average)
+  possession_value_index: 0.174 (0.007 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 47 of 68

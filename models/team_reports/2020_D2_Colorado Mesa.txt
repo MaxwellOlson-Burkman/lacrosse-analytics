@@ -2,19 +2,24 @@ Team: Colorado Mesa
 Season: 2020 D2
 Record: 7-0
 Winning %: 1.000
-Predicted Winning %: 0.951
+Predicted Winning %: 1.000
 
 Stat Comparison vs League Average:
-  points_per_game: 28.430 (10.789 above average)
-  scoring_defense: 6.860 (4.376 below average)
+  Win % (from schedule): 1.000 (0.513 above average)
+  caused_turnovers_per_game: 9.430 (1.419 above average)
+  man_up_offense: 0.386 (0.045 above average)
+  defensive_efficiency: 20.238 (4.566 above average)
   scoring_offense: 17.710 (6.397 above average)
-  defensive_efficiency: 20.238 (4.535 above average)
-  scoring_margin: 10.860 (9.130 above average)
-  saves_per_game: 9.860 (2.127 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 43.710 (12.816 above average)
+  offensive_efficiency: 59.630 (20.892 above average)
+  points_per_game: 28.430 (10.763 above average)
+  scoring_margin: 10.860 (9.319 above average)
+  saves_per_game: 9.860 (2.163 below average)
+  rpi: 0.556 (0.057 above average)
+  scoring_defense: 6.860 (4.414 below average)
   clearing_percentage: 0.892 (0.049 above average)
-  possession_value_index: 0.221 (0.052 above average)
+  face_off_winning_percentage: 0.759 (0.257 above average)
+  ground_balls_per_game: 43.710 (12.775 above average)
+  possession_value_index: 0.221 (0.054 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 66 of 72

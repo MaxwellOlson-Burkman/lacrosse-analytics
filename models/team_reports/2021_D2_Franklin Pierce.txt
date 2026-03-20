@@ -2,22 +2,27 @@ Team: Franklin Pierce
 Season: 2021 D2
 Record: 5-7
 Winning %: 0.417
-Predicted Winning %: 0.402
+Predicted Winning %: 0.417
 
 Stat Comparison vs League Average:
-  points_per_game: 14.670 (2.971 below average)
-  scoring_defense: 10.250 (0.986 below average)
+  Win % (from schedule): 0.417 (0.071 below average)
+  caused_turnovers_per_game: 8.170 (0.159 above average)
+  man_up_offense: 0.233 (0.108 below average)
+  defensive_efficiency: 17.355 (1.683 above average)
   scoring_offense: 9.750 (1.563 below average)
-  defensive_efficiency: 17.355 (1.652 above average)
-  scoring_margin: 6.375 (4.645 above average)
-  saves_per_game: 13.000 (1.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 25.250 (5.644 below average)
+  offensive_efficiency: 37.791 (0.947 below average)
+  points_per_game: 14.670 (2.997 below average)
+  scoring_margin: 6.375 (4.834 above average)
+  saves_per_game: 13.000 (0.977 above average)
+  rpi: 0.456 (0.043 below average)
+  scoring_defense: 10.250 (1.024 below average)
   clearing_percentage: 0.807 (0.036 below average)
-  possession_value_index: 0.101 (0.068 below average)
+  face_off_winning_percentage: 0.327 (0.175 below average)
+  ground_balls_per_game: 25.250 (5.685 below average)
+  possession_value_index: 0.101 (0.066 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 50 of 69
   Avg opponent win %: 0.447
   Model schedule difficulty rank: 49 of 69
-  Schedule difficulty score: 0.447
+  Schedule difficulty score: 0.446

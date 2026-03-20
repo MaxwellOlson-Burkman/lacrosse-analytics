@@ -1,0 +1,28 @@
+Team: Shorter
+Season: 2025 D2
+Record: 0-3
+Winning %: 0.000
+Predicted Winning %: 0.000
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.000 (0.487 below average)
+  caused_turnovers_per_game: 3.670 (4.341 below average)
+  man_up_offense: 0.150 (0.191 below average)
+  defensive_efficiency: 14.205 (1.467 below average)
+  scoring_offense: 3.000 (8.313 below average)
+  offensive_efficiency: 20.000 (18.738 below average)
+  points_per_game: 5.330 (12.337 below average)
+  scoring_margin: -10.330 (11.871 below average)
+  saves_per_game: 14.000 (1.977 above average)
+  rpi: 0.163 (0.336 below average)
+  scoring_defense: 13.330 (2.056 above average)
+  clearing_percentage: 0.754 (0.089 below average)
+  face_off_winning_percentage: 0.569 (0.067 above average)
+  ground_balls_per_game: 22.670 (8.265 below average)
+  possession_value_index: N/A (league average 0.167)
+
+Strength of schedule:
+  Stats-based SOS rank: 78 of 78
+  Avg opponent win %: 0.118
+  Model schedule difficulty rank: 78 of 78
+  Schedule difficulty score: 0.126

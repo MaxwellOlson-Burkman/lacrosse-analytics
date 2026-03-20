@@ -2,19 +2,24 @@ Team: Virginia
 Season: 2016 D1
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.497
+Predicted Winning %: 0.467
 
 Stat Comparison vs League Average:
-  points_per_game: 15.930 (1.711 below average)
-  scoring_defense: 10.330 (0.906 below average)
+  Win % (from schedule): 0.467 (0.021 below average)
+  caused_turnovers_per_game: 7.600 (0.411 below average)
+  man_up_offense: 0.450 (0.109 above average)
+  defensive_efficiency: 15.154 (0.518 below average)
   scoring_offense: 10.600 (0.713 below average)
-  defensive_efficiency: 15.154 (0.549 below average)
-  scoring_margin: 0.270 (1.460 below average)
-  saves_per_game: 9.730 (2.257 below average)
-  Win % (from schedule): 0.467 (0.032 below average)
-  ground_balls_per_game: 35.200 (4.306 above average)
+  offensive_efficiency: 40.000 (1.262 above average)
+  points_per_game: 15.930 (1.737 below average)
+  scoring_margin: 0.270 (1.271 below average)
+  saves_per_game: 9.730 (2.293 below average)
+  rpi: 0.535 (0.035 above average)
+  scoring_defense: 10.330 (0.944 below average)
   clearing_percentage: 0.859 (0.016 above average)
-  possession_value_index: 0.291 (0.122 above average)
+  face_off_winning_percentage: 0.552 (0.050 above average)
+  ground_balls_per_game: 35.200 (4.265 above average)
+  possession_value_index: 0.291 (0.124 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 6 of 68

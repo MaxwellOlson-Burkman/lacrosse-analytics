@@ -2,22 +2,27 @@ Team: UIndy
 Season: 2017 D2
 Record: 7-6
 Winning %: 0.538
-Predicted Winning %: 0.682
+Predicted Winning %: 0.538
 
 Stat Comparison vs League Average:
-  points_per_game: 17.770 (0.129 above average)
-  scoring_defense: 7.000 (4.236 below average)
+  Win % (from schedule): 0.538 (0.051 above average)
+  caused_turnovers_per_game: 8.540 (0.529 above average)
+  man_up_offense: 0.327 (0.014 below average)
+  defensive_efficiency: 19.811 (4.139 above average)
   scoring_offense: 10.770 (0.543 below average)
-  defensive_efficiency: 19.811 (4.108 above average)
-  scoring_margin: 3.770 (2.040 above average)
-  saves_per_game: 10.620 (1.367 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.460 (1.434 below average)
+  offensive_efficiency: 37.789 (0.948 below average)
+  points_per_game: 17.770 (0.103 above average)
+  scoring_margin: 3.770 (2.229 above average)
+  saves_per_game: 10.620 (1.403 below average)
+  rpi: 0.516 (0.017 above average)
+  scoring_defense: 7.000 (4.274 below average)
   clearing_percentage: 0.880 (0.037 above average)
-  possession_value_index: 0.241 (0.072 above average)
+  face_off_winning_percentage: 0.581 (0.079 above average)
+  ground_balls_per_game: 29.460 (1.475 below average)
+  possession_value_index: 0.241 (0.074 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 32 of 65
   Avg opponent win %: 0.498
-  Model schedule difficulty rank: 32 of 65
+  Model schedule difficulty rank: 30 of 65
   Schedule difficulty score: 0.498

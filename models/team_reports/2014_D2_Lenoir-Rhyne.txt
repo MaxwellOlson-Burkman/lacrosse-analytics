@@ -2,22 +2,27 @@ Team: Lenoir-Rhyne
 Season: 2014 D2
 Record: 10-4
 Winning %: 0.714
-Predicted Winning %: 0.807
+Predicted Winning %: 0.714
 
 Stat Comparison vs League Average:
-  points_per_game: 24.290 (6.649 above average)
-  scoring_defense: 8.070 (3.166 below average)
+  Win % (from schedule): 0.714 (0.227 above average)
+  caused_turnovers_per_game: 8.375 (0.364 above average)
+  man_up_offense: 0.383 (0.042 above average)
+  defensive_efficiency: 19.544 (3.872 above average)
   scoring_offense: 15.140 (3.827 above average)
-  defensive_efficiency: 19.544 (3.842 above average)
-  scoring_margin: 7.070 (5.340 above average)
-  saves_per_game: 12.740 (0.753 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.860 (0.034 below average)
+  offensive_efficiency: 39.427 (0.689 above average)
+  points_per_game: 24.290 (6.623 above average)
+  scoring_margin: 7.070 (5.529 above average)
+  saves_per_game: 12.740 (0.717 above average)
+  rpi: 0.549 (0.050 above average)
+  scoring_defense: 8.070 (3.204 below average)
   clearing_percentage: 0.898 (0.055 above average)
-  possession_value_index: 0.282 (0.113 above average)
+  face_off_winning_percentage: 0.588 (0.086 above average)
+  ground_balls_per_game: 30.860 (0.075 below average)
+  possession_value_index: 0.282 (0.115 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 42 of 53
   Avg opponent win %: 0.461
   Model schedule difficulty rank: 42 of 53
-  Schedule difficulty score: 0.461
+  Schedule difficulty score: 0.462

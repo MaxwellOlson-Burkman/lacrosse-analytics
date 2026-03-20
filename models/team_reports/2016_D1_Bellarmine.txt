@@ -2,22 +2,27 @@ Team: Bellarmine
 Season: 2016 D1
 Record: 6-9
 Winning %: 0.400
-Predicted Winning %: 0.442
+Predicted Winning %: 0.400
 
 Stat Comparison vs League Average:
-  points_per_game: 13.270 (4.371 below average)
-  scoring_defense: 9.130 (2.106 below average)
+  Win % (from schedule): 0.400 (0.087 below average)
+  caused_turnovers_per_game: 5.330 (2.681 below average)
+  man_up_offense: 0.342 (0.001 above average)
+  defensive_efficiency: 16.779 (1.107 above average)
   scoring_offense: 8.600 (2.713 below average)
-  defensive_efficiency: 16.779 (1.076 above average)
-  scoring_margin: -0.530 (2.260 below average)
-  saves_per_game: 9.130 (2.857 below average)
-  Win % (from schedule): 0.400 (0.098 below average)
-  ground_balls_per_game: 24.930 (5.964 below average)
+  offensive_efficiency: 31.502 (7.236 below average)
+  points_per_game: 13.270 (4.397 below average)
+  scoring_margin: -0.530 (2.071 below average)
+  saves_per_game: 9.130 (2.893 below average)
+  rpi: 0.474 (0.025 below average)
+  scoring_defense: 9.130 (2.144 below average)
   clearing_percentage: 0.872 (0.029 above average)
-  possession_value_index: 0.238 (0.069 above average)
+  face_off_winning_percentage: 0.545 (0.043 above average)
+  ground_balls_per_game: 24.930 (6.005 below average)
+  possession_value_index: 0.238 (0.071 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 43 of 68
   Avg opponent win %: 0.480
-  Model schedule difficulty rank: 42 of 68
-  Schedule difficulty score: 0.480
+  Model schedule difficulty rank: 43 of 68
+  Schedule difficulty score: 0.481

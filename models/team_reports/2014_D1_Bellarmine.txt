@@ -2,22 +2,27 @@ Team: Bellarmine
 Season: 2014 D1
 Record: 7-5
 Winning %: 0.583
-Predicted Winning %: 0.605
+Predicted Winning %: 0.583
 
 Stat Comparison vs League Average:
-  points_per_game: 15.170 (2.471 below average)
-  scoring_defense: 8.580 (2.656 below average)
+  Win % (from schedule): 0.583 (0.096 above average)
+  caused_turnovers_per_game: 8.920 (0.909 above average)
+  man_up_offense: 0.267 (0.074 below average)
+  defensive_efficiency: 17.656 (1.984 above average)
   scoring_offense: 9.420 (1.893 below average)
-  defensive_efficiency: 17.656 (1.953 above average)
-  scoring_margin: 0.830 (0.900 below average)
-  saves_per_game: 9.920 (2.067 below average)
-  Win % (from schedule): 0.583 (0.085 above average)
-  ground_balls_per_game: 24.420 (6.474 below average)
+  offensive_efficiency: 38.293 (0.445 below average)
+  points_per_game: 15.170 (2.497 below average)
+  scoring_margin: 0.830 (0.711 below average)
+  saves_per_game: 9.920 (2.103 below average)
+  rpi: 0.490 (0.009 below average)
+  scoring_defense: 8.580 (2.694 below average)
   clearing_percentage: 0.921 (0.078 above average)
-  possession_value_index: 0.166 (0.003 below average)
+  face_off_winning_percentage: 0.402 (0.100 below average)
+  ground_balls_per_game: 24.420 (6.515 below average)
+  possession_value_index: 0.166 (0.001 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 52 of 67
   Avg opponent win %: 0.448
   Model schedule difficulty rank: 52 of 67
-  Schedule difficulty score: 0.447
+  Schedule difficulty score: 0.449

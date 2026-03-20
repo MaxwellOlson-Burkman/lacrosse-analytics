@@ -2,22 +2,27 @@ Team: Dist. Columbia
 Season: 2016 D2
 Record: 4-8
 Winning %: 0.333
-Predicted Winning %: 0.314
+Predicted Winning %: 0.333
 
 Stat Comparison vs League Average:
-  points_per_game: 13.830 (3.811 below average)
-  scoring_defense: 13.250 (2.014 above average)
+  Win % (from schedule): 0.333 (0.154 below average)
+  caused_turnovers_per_game: 7.750 (0.261 below average)
+  man_up_offense: 0.383 (0.042 above average)
+  defensive_efficiency: 13.796 (1.876 below average)
   scoring_offense: 10.250 (1.063 below average)
-  defensive_efficiency: 13.796 (1.907 below average)
-  scoring_margin: 4.030 (2.300 above average)
-  saves_per_game: 12.670 (0.683 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 35.250 (4.356 above average)
+  offensive_efficiency: 42.887 (4.149 above average)
+  points_per_game: 13.830 (3.837 below average)
+  scoring_margin: 4.030 (2.489 above average)
+  saves_per_game: 12.670 (0.647 above average)
+  rpi: 0.416 (0.083 below average)
+  scoring_defense: 13.250 (1.976 above average)
   clearing_percentage: 0.815 (0.028 below average)
-  possession_value_index: 0.109 (0.060 below average)
+  face_off_winning_percentage: 0.546 (0.044 above average)
+  ground_balls_per_game: 35.250 (4.315 above average)
+  possession_value_index: 0.109 (0.058 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 55 of 63
   Avg opponent win %: 0.429
-  Model schedule difficulty rank: 54 of 63
-  Schedule difficulty score: 0.430
+  Model schedule difficulty rank: 55 of 63
+  Schedule difficulty score: 0.429

@@ -2,19 +2,24 @@ Team: Ohio Valley
 Season: 2018 D2
 Record: 3-9
 Winning %: 0.250
-Predicted Winning %: 0.238
+Predicted Winning %: 0.250
 
 Stat Comparison vs League Average:
-  points_per_game: 12.580 (5.061 below average)
-  scoring_defense: 12.330 (1.094 above average)
+  Win % (from schedule): 0.250 (0.237 below average)
+  caused_turnovers_per_game: 4.580 (3.431 below average)
+  man_up_offense: 0.132 (0.209 below average)
+  defensive_efficiency: 14.996 (0.676 below average)
   scoring_offense: 7.920 (3.393 below average)
-  defensive_efficiency: 14.996 (0.707 below average)
-  scoring_margin: 5.195 (3.465 above average)
-  saves_per_game: 11.920 (0.067 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 22.000 (8.894 below average)
+  offensive_efficiency: 29.442 (9.296 below average)
+  points_per_game: 12.580 (5.087 below average)
+  scoring_margin: 5.195 (3.654 above average)
+  saves_per_game: 11.920 (0.103 below average)
+  rpi: 0.400 (0.099 below average)
+  scoring_defense: 12.330 (1.056 above average)
   clearing_percentage: 0.846 (0.003 above average)
-  possession_value_index: 0.159 (0.010 below average)
+  face_off_winning_percentage: 0.346 (0.156 below average)
+  ground_balls_per_game: 22.000 (8.935 below average)
+  possession_value_index: 0.159 (0.008 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 57 of 68

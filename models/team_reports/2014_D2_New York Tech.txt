@@ -2,19 +2,24 @@ Team: New York Tech
 Season: 2014 D2
 Record: 12-4
 Winning %: 0.750
-Predicted Winning %: 0.749
+Predicted Winning %: 0.750
 
 Stat Comparison vs League Average:
-  points_per_game: 19.250 (1.609 above average)
-  scoring_defense: 7.130 (4.106 below average)
+  Win % (from schedule): 0.750 (0.263 above average)
+  caused_turnovers_per_game: 10.500 (2.489 above average)
+  man_up_offense: 0.444 (0.103 above average)
+  defensive_efficiency: 20.388 (4.716 above average)
   scoring_offense: 11.630 (0.317 above average)
-  defensive_efficiency: 20.388 (4.685 above average)
-  scoring_margin: 4.500 (2.770 above average)
-  saves_per_game: 11.060 (0.927 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.310 (0.416 above average)
+  offensive_efficiency: 37.395 (1.342 below average)
+  points_per_game: 19.250 (1.583 above average)
+  scoring_margin: 4.500 (2.959 above average)
+  saves_per_game: 11.060 (0.963 below average)
+  rpi: 0.595 (0.096 above average)
+  scoring_defense: 7.130 (4.144 below average)
   clearing_percentage: 0.898 (0.055 above average)
-  possession_value_index: 0.213 (0.043 above average)
+  face_off_winning_percentage: 0.551 (0.049 above average)
+  ground_balls_per_game: 31.310 (0.375 above average)
+  possession_value_index: 0.213 (0.046 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 11 of 53

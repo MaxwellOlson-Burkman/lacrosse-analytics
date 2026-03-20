@@ -2,22 +2,27 @@ Team: Jacksonville
 Season: 2020 D1
 Record: 3-3
 Winning %: 0.500
-Predicted Winning %: 0.549
+Predicted Winning %: 0.500
 
 Stat Comparison vs League Average:
-  points_per_game: 20.330 (2.689 above average)
-  scoring_defense: 11.000 (0.236 below average)
+  Win % (from schedule): 0.500 (0.013 above average)
+  caused_turnovers_per_game: 10.000 (1.989 above average)
+  man_up_offense: 0.133 (0.208 below average)
+  defensive_efficiency: 15.501 (0.171 below average)
   scoring_offense: 12.830 (1.517 above average)
-  defensive_efficiency: 15.501 (0.202 below average)
-  scoring_margin: 1.830 (0.100 above average)
-  saves_per_game: 9.670 (2.317 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.000 (1.106 above average)
+  offensive_efficiency: 42.204 (3.466 above average)
+  points_per_game: 20.330 (2.663 above average)
+  scoring_margin: 1.830 (0.289 above average)
+  saves_per_game: 9.670 (2.353 below average)
+  rpi: 0.462 (0.037 below average)
+  scoring_defense: 11.000 (0.274 below average)
   clearing_percentage: 0.935 (0.092 above average)
-  possession_value_index: 0.155 (0.014 below average)
+  face_off_winning_percentage: 0.439 (0.063 below average)
+  ground_balls_per_game: 32.000 (1.065 above average)
+  possession_value_index: 0.155 (0.012 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 44 of 74
   Avg opponent win %: 0.458
   Model schedule difficulty rank: 44 of 74
-  Schedule difficulty score: 0.458
+  Schedule difficulty score: 0.456

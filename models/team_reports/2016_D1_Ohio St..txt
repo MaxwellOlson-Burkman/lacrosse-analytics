@@ -2,22 +2,27 @@ Team: Ohio St.
 Season: 2016 D1
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.517
+Predicted Winning %: 0.467
 
 Stat Comparison vs League Average:
-  points_per_game: 14.000 (3.641 below average)
-  scoring_defense: 9.070 (2.166 below average)
+  Win % (from schedule): 0.467 (0.021 below average)
+  caused_turnovers_per_game: 5.130 (2.881 below average)
+  man_up_offense: 0.342 (0.001 above average)
+  defensive_efficiency: 16.985 (1.313 above average)
   scoring_offense: 9.400 (1.913 below average)
-  defensive_efficiency: 16.985 (1.282 above average)
-  scoring_margin: 0.330 (1.400 below average)
-  saves_per_game: 9.400 (2.587 below average)
-  Win % (from schedule): 0.467 (0.032 below average)
-  ground_balls_per_game: 26.070 (4.824 below average)
+  offensive_efficiency: 33.935 (4.803 below average)
+  points_per_game: 14.000 (3.667 below average)
+  scoring_margin: 0.330 (1.211 below average)
+  saves_per_game: 9.400 (2.623 below average)
+  rpi: 0.510 (0.011 above average)
+  scoring_defense: 9.070 (2.204 below average)
   clearing_percentage: 0.917 (0.074 above average)
-  possession_value_index: 0.337 (0.168 above average)
+  face_off_winning_percentage: 0.599 (0.097 above average)
+  ground_balls_per_game: 26.070 (4.865 below average)
+  possession_value_index: 0.337 (0.170 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 21 of 68
   Avg opponent win %: 0.522
   Model schedule difficulty rank: 20 of 68
-  Schedule difficulty score: 0.521
+  Schedule difficulty score: 0.522

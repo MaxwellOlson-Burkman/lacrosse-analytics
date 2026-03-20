@@ -2,19 +2,24 @@ Team: Wilmington (DE)
 Season: 2018 D2
 Record: 4-9
 Winning %: 0.308
-Predicted Winning %: 0.291
+Predicted Winning %: 0.308
 
 Stat Comparison vs League Average:
-  points_per_game: 11.690 (5.951 below average)
-  scoring_defense: 11.850 (0.614 above average)
+  Win % (from schedule): 0.308 (0.180 below average)
+  caused_turnovers_per_game: 10.310 (2.299 above average)
+  man_up_offense: 0.288 (0.053 below average)
+  defensive_efficiency: 14.829 (0.843 below average)
   scoring_offense: 8.000 (3.313 below average)
-  defensive_efficiency: 14.829 (0.874 below average)
-  scoring_margin: 5.195 (3.465 above average)
-  saves_per_game: 12.380 (0.393 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.540 (0.646 above average)
+  offensive_efficiency: 31.873 (6.865 below average)
+  points_per_game: 11.690 (5.977 below average)
+  scoring_margin: 5.195 (3.654 above average)
+  saves_per_game: 12.380 (0.357 above average)
+  rpi: 0.367 (0.132 below average)
+  scoring_defense: 11.850 (0.576 above average)
   clearing_percentage: 0.745 (0.098 below average)
-  possession_value_index: 0.094 (0.076 below average)
+  face_off_winning_percentage: 0.397 (0.105 below average)
+  ground_balls_per_game: 31.540 (0.605 above average)
+  possession_value_index: 0.094 (0.073 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 66 of 68

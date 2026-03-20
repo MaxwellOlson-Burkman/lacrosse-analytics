@@ -2,22 +2,27 @@ Team: Merrimack
 Season: 2015 D2
 Record: 13-3
 Winning %: 0.813
-Predicted Winning %: 0.802
+Predicted Winning %: 0.813
 
 Stat Comparison vs League Average:
-  points_per_game: 19.940 (2.299 above average)
-  scoring_defense: 7.500 (3.736 below average)
+  Win % (from schedule): 0.812 (0.325 above average)
+  caused_turnovers_per_game: 7.440 (0.571 below average)
+  man_up_offense: 0.326 (0.015 below average)
+  defensive_efficiency: 19.107 (3.435 above average)
   scoring_offense: 13.060 (1.747 above average)
-  defensive_efficiency: 19.107 (3.404 above average)
-  scoring_margin: 5.560 (3.830 above average)
-  saves_per_game: 11.190 (0.797 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.130 (1.236 above average)
+  offensive_efficiency: 45.505 (6.767 above average)
+  points_per_game: 19.940 (2.273 above average)
+  scoring_margin: 5.560 (4.019 above average)
+  saves_per_game: 11.190 (0.833 below average)
+  rpi: 0.615 (0.116 above average)
+  scoring_defense: 7.500 (3.774 below average)
   clearing_percentage: 0.877 (0.034 above average)
-  possession_value_index: 0.204 (0.034 above average)
+  face_off_winning_percentage: 0.471 (0.031 below average)
+  ground_balls_per_game: 32.130 (1.195 above average)
+  possession_value_index: 0.204 (0.037 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 33 of 59
   Avg opponent win %: 0.492
-  Model schedule difficulty rank: 33 of 59
-  Schedule difficulty score: 0.492
+  Model schedule difficulty rank: 32 of 59
+  Schedule difficulty score: 0.491

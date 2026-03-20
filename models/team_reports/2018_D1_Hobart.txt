@@ -2,19 +2,24 @@ Team: Hobart
 Season: 2018 D1
 Record: 4-10
 Winning %: 0.286
-Predicted Winning %: 0.435
+Predicted Winning %: 0.286
 
 Stat Comparison vs League Average:
-  points_per_game: 15.570 (2.071 below average)
-  scoring_defense: 10.710 (0.526 below average)
+  Win % (from schedule): 0.286 (0.202 below average)
+  caused_turnovers_per_game: 6.790 (1.221 below average)
+  man_up_offense: 0.294 (0.047 below average)
+  defensive_efficiency: 15.307 (0.365 below average)
   scoring_offense: 10.070 (1.243 below average)
-  defensive_efficiency: 15.307 (0.396 below average)
-  scoring_margin: -0.640 (2.370 below average)
-  saves_per_game: 8.790 (3.197 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.430 (2.464 below average)
+  offensive_efficiency: 40.442 (1.704 above average)
+  points_per_game: 15.570 (2.097 below average)
+  scoring_margin: -0.640 (2.181 below average)
+  saves_per_game: 8.790 (3.233 below average)
+  rpi: 0.444 (0.056 below average)
+  scoring_defense: 10.710 (0.564 below average)
   clearing_percentage: 0.908 (0.065 above average)
-  possession_value_index: 0.292 (0.122 above average)
+  face_off_winning_percentage: 0.619 (0.117 above average)
+  ground_balls_per_game: 28.430 (2.505 below average)
+  possession_value_index: 0.292 (0.125 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 33 of 71

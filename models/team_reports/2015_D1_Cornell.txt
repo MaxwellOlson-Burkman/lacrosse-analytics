@@ -2,22 +2,27 @@ Team: Cornell
 Season: 2015 D1
 Record: 10-6
 Winning %: 0.625
-Predicted Winning %: 0.629
+Predicted Winning %: 0.625
 
 Stat Comparison vs League Average:
-  points_per_game: 17.130 (0.511 below average)
-  scoring_defense: 9.940 (1.296 below average)
+  Win % (from schedule): 0.625 (0.138 above average)
+  caused_turnovers_per_game: 7.250 (0.761 below average)
+  man_up_offense: 0.382 (0.041 above average)
+  defensive_efficiency: 16.058 (0.386 above average)
   scoring_offense: 11.500 (0.187 above average)
-  defensive_efficiency: 16.058 (0.355 above average)
-  scoring_margin: 1.560 (0.170 below average)
-  saves_per_game: 9.060 (2.927 below average)
-  Win % (from schedule): 0.625 (0.127 above average)
-  ground_balls_per_game: 35.810 (4.916 above average)
+  offensive_efficiency: 43.726 (4.988 above average)
+  points_per_game: 17.130 (0.537 below average)
+  scoring_margin: 1.560 (0.019 above average)
+  saves_per_game: 9.060 (2.963 below average)
+  rpi: 0.573 (0.074 above average)
+  scoring_defense: 9.940 (1.334 below average)
   clearing_percentage: 0.831 (0.012 below average)
-  possession_value_index: 0.276 (0.106 above average)
+  face_off_winning_percentage: 0.657 (0.155 above average)
+  ground_balls_per_game: 35.810 (4.875 above average)
+  possession_value_index: 0.276 (0.109 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 13 of 68
   Avg opponent win %: 0.547
-  Model schedule difficulty rank: 13 of 68
-  Schedule difficulty score: 0.547
+  Model schedule difficulty rank: 11 of 68
+  Schedule difficulty score: 0.546

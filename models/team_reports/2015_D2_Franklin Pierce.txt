@@ -2,22 +2,27 @@ Team: Franklin Pierce
 Season: 2015 D2
 Record: 12-4
 Winning %: 0.750
-Predicted Winning %: 0.599
+Predicted Winning %: 0.750
 
 Stat Comparison vs League Average:
-  points_per_game: 15.880 (1.761 below average)
-  scoring_defense: 8.500 (2.736 below average)
+  Win % (from schedule): 0.750 (0.263 above average)
+  caused_turnovers_per_game: 8.250 (0.239 above average)
+  man_up_offense: 0.250 (0.091 below average)
+  defensive_efficiency: 19.143 (3.471 above average)
   scoring_offense: 10.440 (0.873 below average)
-  defensive_efficiency: 19.143 (3.440 above average)
-  scoring_margin: 4.130 (2.400 above average)
-  saves_per_game: 12.560 (0.573 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.250 (3.644 below average)
+  offensive_efficiency: 36.632 (2.106 below average)
+  points_per_game: 15.880 (1.787 below average)
+  scoring_margin: 4.130 (2.589 above average)
+  saves_per_game: 12.560 (0.537 above average)
+  rpi: 0.541 (0.042 above average)
+  scoring_defense: 8.500 (2.774 below average)
   clearing_percentage: 0.818 (0.025 below average)
-  possession_value_index: 0.122 (0.047 below average)
+  face_off_winning_percentage: 0.404 (0.098 below average)
+  ground_balls_per_game: 27.250 (3.685 below average)
+  possession_value_index: 0.122 (0.045 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 52 of 59
   Avg opponent win %: 0.419
   Model schedule difficulty rank: 52 of 59
-  Schedule difficulty score: 0.419
+  Schedule difficulty score: 0.421

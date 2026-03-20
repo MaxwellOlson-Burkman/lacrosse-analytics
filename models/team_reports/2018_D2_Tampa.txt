@@ -2,22 +2,27 @@ Team: Tampa
 Season: 2018 D2
 Record: 15-5
 Winning %: 0.750
-Predicted Winning %: 0.785
+Predicted Winning %: 0.750
 
 Stat Comparison vs League Average:
-  points_per_game: 20.150 (2.509 above average)
-  scoring_defense: 8.250 (2.986 below average)
+  Win % (from schedule): 0.750 (0.263 above average)
+  caused_turnovers_per_game: 6.600 (1.411 below average)
+  man_up_offense: 0.240 (0.101 below average)
+  defensive_efficiency: 18.145 (2.473 above average)
   scoring_offense: 13.750 (2.437 above average)
-  defensive_efficiency: 18.145 (2.442 above average)
-  scoring_margin: 5.500 (3.770 above average)
-  saves_per_game: 10.100 (1.887 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 36.100 (5.206 above average)
+  offensive_efficiency: 39.855 (1.117 above average)
+  points_per_game: 20.150 (2.483 above average)
+  scoring_margin: 5.500 (3.959 above average)
+  saves_per_game: 10.100 (1.923 below average)
+  rpi: 0.626 (0.127 above average)
+  scoring_defense: 8.250 (3.024 below average)
   clearing_percentage: 0.900 (0.057 above average)
-  possession_value_index: 0.289 (0.120 above average)
+  face_off_winning_percentage: 0.730 (0.228 above average)
+  ground_balls_per_game: 36.100 (5.165 above average)
+  possession_value_index: 0.289 (0.122 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 13 of 68
   Avg opponent win %: 0.562
   Model schedule difficulty rank: 13 of 68
-  Schedule difficulty score: 0.559
+  Schedule difficulty score: 0.560

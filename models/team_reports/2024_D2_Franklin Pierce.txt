@@ -2,22 +2,27 @@ Team: Franklin Pierce
 Season: 2024 D2
 Record: 3-10
 Winning %: 0.231
-Predicted Winning %: 0.237
+Predicted Winning %: 0.231
 
 Stat Comparison vs League Average:
-  points_per_game: 11.380 (6.261 below average)
-  scoring_defense: 12.310 (1.074 above average)
+  Win % (from schedule): 0.231 (0.256 below average)
+  caused_turnovers_per_game: 9.380 (1.369 above average)
+  man_up_offense: 0.283 (0.058 below average)
+  defensive_efficiency: 15.219 (0.453 below average)
   scoring_offense: 7.690 (3.623 below average)
-  defensive_efficiency: 15.219 (0.484 below average)
-  scoring_margin: -4.620 (6.350 below average)
-  saves_per_game: 13.230 (1.243 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 25.770 (5.124 below average)
+  offensive_efficiency: 30.884 (7.854 below average)
+  points_per_game: 11.380 (6.287 below average)
+  scoring_margin: -4.620 (6.161 below average)
+  saves_per_game: 13.230 (1.207 above average)
+  rpi: 0.444 (0.055 below average)
+  scoring_defense: 12.310 (1.036 above average)
   clearing_percentage: 0.802 (0.041 below average)
-  possession_value_index: 0.049 (0.121 below average)
+  face_off_winning_percentage: 0.312 (0.190 below average)
+  ground_balls_per_game: 25.770 (5.165 below average)
+  possession_value_index: 0.049 (0.118 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 35 of 79
   Avg opponent win %: 0.511
   Model schedule difficulty rank: 35 of 79
-  Schedule difficulty score: 0.512
+  Schedule difficulty score: 0.511

@@ -2,22 +2,27 @@ Team: Adelphi
 Season: 2015 D2
 Record: 15-3
 Winning %: 0.833
-Predicted Winning %: 0.795
+Predicted Winning %: 0.833
 
 Stat Comparison vs League Average:
-  points_per_game: 23.940 (6.299 above average)
-  scoring_defense: 8.890 (2.346 below average)
+  Win % (from schedule): 0.833 (0.346 above average)
+  caused_turnovers_per_game: 8.940 (0.929 above average)
+  man_up_offense: 0.414 (0.073 above average)
+  defensive_efficiency: 18.127 (2.455 above average)
   scoring_offense: 15.000 (3.687 above average)
-  defensive_efficiency: 18.127 (2.424 above average)
-  scoring_margin: 6.110 (4.380 above average)
-  saves_per_game: 10.890 (1.097 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 38.280 (7.386 above average)
+  offensive_efficiency: 47.619 (8.881 above average)
+  points_per_game: 23.940 (6.273 above average)
+  scoring_margin: 6.110 (4.569 above average)
+  saves_per_game: 10.890 (1.133 below average)
+  rpi: 0.624 (0.124 above average)
+  scoring_defense: 8.890 (2.384 below average)
   clearing_percentage: 0.843 (0.000 below average)
-  possession_value_index: 0.225 (0.055 above average)
+  face_off_winning_percentage: 0.688 (0.186 above average)
+  ground_balls_per_game: 38.280 (7.345 above average)
+  possession_value_index: 0.225 (0.058 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 21 of 59
   Avg opponent win %: 0.509
   Model schedule difficulty rank: 21 of 59
-  Schedule difficulty score: 0.509
+  Schedule difficulty score: 0.508

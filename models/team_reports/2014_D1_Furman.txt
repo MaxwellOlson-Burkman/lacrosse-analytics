@@ -2,19 +2,24 @@ Team: Furman
 Season: 2014 D1
 Record: 1-12
 Winning %: 0.077
-Predicted Winning %: 0.112
+Predicted Winning %: 0.077
 
 Stat Comparison vs League Average:
-  points_per_game: 11.080 (6.561 below average)
-  scoring_defense: 13.850 (2.614 above average)
+  Win % (from schedule): 0.077 (0.410 below average)
+  caused_turnovers_per_game: 4.230 (3.781 below average)
+  man_up_offense: 0.226 (0.115 below average)
+  defensive_efficiency: 13.072 (2.600 below average)
   scoring_offense: 7.310 (4.003 below average)
-  defensive_efficiency: 13.072 (2.631 below average)
-  scoring_margin: -6.540 (8.270 below average)
-  saves_per_game: 11.540 (0.447 below average)
-  Win % (from schedule): 0.077 (0.421 below average)
-  ground_balls_per_game: 24.310 (6.584 below average)
+  offensive_efficiency: 33.227 (5.511 below average)
+  points_per_game: 11.080 (6.587 below average)
+  scoring_margin: -6.540 (8.081 below average)
+  saves_per_game: 11.540 (0.483 below average)
+  rpi: 0.390 (0.110 below average)
+  scoring_defense: 13.850 (2.576 above average)
   clearing_percentage: 0.822 (0.021 below average)
-  possession_value_index: 0.152 (0.017 below average)
+  face_off_winning_percentage: 0.533 (0.031 above average)
+  ground_balls_per_game: 24.310 (6.625 below average)
+  possession_value_index: 0.152 (0.015 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 28 of 67

@@ -2,19 +2,24 @@ Team: Notre Dame
 Season: 2014 D1
 Record: 12-6
 Winning %: 0.667
-Predicted Winning %: 0.664
+Predicted Winning %: 0.667
 
 Stat Comparison vs League Average:
-  points_per_game: 17.890 (0.249 above average)
-  scoring_defense: 9.560 (1.676 below average)
+  Win % (from schedule): 0.667 (0.179 above average)
+  caused_turnovers_per_game: 6.830 (1.181 below average)
+  man_up_offense: 0.522 (0.181 above average)
+  defensive_efficiency: 16.152 (0.480 above average)
   scoring_offense: 11.830 (0.517 above average)
-  defensive_efficiency: 16.152 (0.449 above average)
-  scoring_margin: 2.280 (0.550 above average)
-  saves_per_game: 9.440 (2.547 below average)
-  Win % (from schedule): 0.667 (0.168 above average)
-  ground_balls_per_game: 30.720 (0.174 below average)
+  offensive_efficiency: 37.085 (1.653 below average)
+  points_per_game: 17.890 (0.223 above average)
+  scoring_margin: 2.280 (0.739 above average)
+  saves_per_game: 9.440 (2.583 below average)
+  rpi: 0.622 (0.123 above average)
+  scoring_defense: 9.560 (1.714 below average)
   clearing_percentage: 0.868 (0.025 above average)
-  possession_value_index: 0.236 (0.066 above average)
+  face_off_winning_percentage: 0.552 (0.050 above average)
+  ground_balls_per_game: 30.720 (0.215 below average)
+  possession_value_index: 0.236 (0.069 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 3 of 67

@@ -1,0 +1,28 @@
+Team: Hobart
+Season: 2025 D1
+Record: 5-9
+Winning %: 0.357
+Predicted Winning %: 0.357
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 5.430 (2.581 below average)
+  man_up_offense: 0.321 (0.020 below average)
+  defensive_efficiency: 12.327 (3.345 below average)
+  scoring_offense: 11.640 (0.327 above average)
+  offensive_efficiency: 43.925 (5.187 above average)
+  points_per_game: 18.430 (0.763 above average)
+  scoring_margin: -2.640 (4.181 below average)
+  saves_per_game: 11.640 (0.383 below average)
+  rpi: 0.487 (0.012 below average)
+  scoring_defense: 14.290 (3.016 above average)
+  clearing_percentage: 0.825 (0.018 below average)
+  face_off_winning_percentage: 0.629 (0.127 above average)
+  ground_balls_per_game: 33.640 (2.705 above average)
+  possession_value_index: 0.181 (0.014 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 21 of 74
+  Avg opponent win %: 0.540
+  Model schedule difficulty rank: 21 of 74
+  Schedule difficulty score: 0.540

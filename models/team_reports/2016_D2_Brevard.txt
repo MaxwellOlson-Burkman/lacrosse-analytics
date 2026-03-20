@@ -2,19 +2,24 @@ Team: Brevard
 Season: 2016 D2
 Record: 2-13
 Winning %: 0.133
-Predicted Winning %: 0.216
+Predicted Winning %: 0.133
 
 Stat Comparison vs League Average:
-  points_per_game: 13.200 (4.441 below average)
-  scoring_defense: 13.600 (2.364 above average)
+  Win % (from schedule): 0.133 (0.354 below average)
+  caused_turnovers_per_game: 7.470 (0.541 below average)
+  man_up_offense: 0.323 (0.018 below average)
+  defensive_efficiency: 13.734 (1.938 below average)
   scoring_offense: 9.270 (2.043 below average)
-  defensive_efficiency: 13.734 (1.969 below average)
-  scoring_margin: 4.030 (2.300 above average)
-  saves_per_game: 13.330 (1.343 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.530 (1.364 below average)
+  offensive_efficiency: 31.107 (7.631 below average)
+  points_per_game: 13.200 (4.467 below average)
+  scoring_margin: 4.030 (2.489 above average)
+  saves_per_game: 13.330 (1.307 above average)
+  rpi: 0.376 (0.123 below average)
+  scoring_defense: 13.600 (2.326 above average)
   clearing_percentage: 0.781 (0.062 below average)
-  possession_value_index: 0.121 (0.049 below average)
+  face_off_winning_percentage: 0.419 (0.083 below average)
+  ground_balls_per_game: 29.530 (1.405 below average)
+  possession_value_index: 0.121 (0.046 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 49 of 63

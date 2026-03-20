@@ -2,22 +2,27 @@ Team: Davenport
 Season: 2020 D2
 Record: 1-5
 Winning %: 0.167
-Predicted Winning %: 0.159
+Predicted Winning %: 0.167
 
 Stat Comparison vs League Average:
-  points_per_game: 13.330 (4.311 below average)
-  scoring_defense: 15.670 (4.434 above average)
+  Win % (from schedule): 0.167 (0.321 below average)
+  caused_turnovers_per_game: 7.500 (0.511 below average)
+  man_up_offense: 0.259 (0.082 below average)
+  defensive_efficiency: 11.710 (3.962 below average)
   scoring_offense: 9.000 (2.313 below average)
-  defensive_efficiency: 11.710 (3.993 below average)
-  scoring_margin: 6.680 (4.950 above average)
-  saves_per_game: 15.000 (3.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 24.830 (6.064 below average)
+  offensive_efficiency: 33.210 (5.528 below average)
+  points_per_game: 13.330 (4.337 below average)
+  scoring_margin: 6.680 (5.139 above average)
+  saves_per_game: 15.000 (2.977 above average)
+  rpi: 0.429 (0.070 below average)
+  scoring_defense: 15.670 (4.396 above average)
   clearing_percentage: 0.752 (0.091 below average)
-  possession_value_index: 0.082 (0.088 below average)
+  face_off_winning_percentage: 0.395 (0.107 below average)
+  ground_balls_per_game: 24.830 (6.105 below average)
+  possession_value_index: 0.082 (0.085 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 28 of 72
   Avg opponent win %: 0.549
   Model schedule difficulty rank: 27 of 72
-  Schedule difficulty score: 0.550
+  Schedule difficulty score: 0.549

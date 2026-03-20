@@ -2,22 +2,27 @@ Team: High Point
 Season: 2021 D1
 Record: 8-6
 Winning %: 0.571
-Predicted Winning %: 0.494
+Predicted Winning %: 0.571
 
 Stat Comparison vs League Average:
-  points_per_game: 20.570 (2.929 above average)
-  scoring_defense: 13.860 (2.624 above average)
+  Win % (from schedule): 0.571 (0.084 above average)
+  caused_turnovers_per_game: 7.070 (0.941 below average)
+  man_up_offense: 0.412 (0.071 above average)
+  defensive_efficiency: 12.240 (3.432 below average)
   scoring_offense: 13.360 (2.047 above average)
-  defensive_efficiency: 12.240 (3.463 below average)
-  scoring_margin: -0.500 (2.230 below average)
-  saves_per_game: 12.000 (0.013 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 28.500 (2.394 below average)
+  offensive_efficiency: 37.528 (1.210 below average)
+  points_per_game: 20.570 (2.903 above average)
+  scoring_margin: -0.500 (2.041 below average)
+  saves_per_game: 12.000 (0.023 below average)
+  rpi: 0.552 (0.053 above average)
+  scoring_defense: 13.860 (2.586 above average)
   clearing_percentage: 0.859 (0.016 above average)
-  possession_value_index: 0.147 (0.022 below average)
+  face_off_winning_percentage: 0.465 (0.037 below average)
+  ground_balls_per_game: 28.500 (2.435 below average)
+  possession_value_index: 0.147 (0.020 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 22 of 64
   Avg opponent win %: 0.511
   Model schedule difficulty rank: 22 of 64
-  Schedule difficulty score: 0.510
+  Schedule difficulty score: 0.511

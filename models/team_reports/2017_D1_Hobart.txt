@@ -2,20 +2,27 @@ Team: Hobart
 Season: 2017 D1
 Record: 9-7
 Winning %: 0.563
-Predicted Winning %: 0.534
+Predicted Winning %: 0.563
 
 Stat Comparison vs League Average:
-  points_per_game: 17.690 (0.049 above average)
-  scoring_defense: 11.130 (0.106 below average)
+  Win % (from schedule): 0.562 (0.075 above average)
+  caused_turnovers_per_game: 6.500 (1.511 below average)
+  man_up_offense: 0.239 (0.102 below average)
+  defensive_efficiency: 15.192 (0.480 below average)
   scoring_offense: 11.940 (0.627 above average)
-  defensive_efficiency: 15.192 (0.511 below average)
-  scoring_margin: 0.810 (0.920 below average)
-  saves_per_game: 11.690 (0.297 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 27.500 (3.394 below average)
+  offensive_efficiency: 42.796 (4.058 above average)
+  points_per_game: 17.690 (0.023 above average)
+  scoring_margin: 0.810 (0.731 below average)
+  saves_per_game: 11.690 (0.333 below average)
+  rpi: 0.509 (0.010 above average)
+  scoring_defense: 11.130 (0.144 below average)
   clearing_percentage: 0.859 (0.016 above average)
-  possession_value_index: 0.245 (0.076 above average)
+  face_off_winning_percentage: 0.524 (0.022 above average)
+  ground_balls_per_game: 27.500 (3.435 below average)
+  possession_value_index: 0.245 (0.078 above average)
 
 Strength of schedule:
-  Model schedule difficulty rank: 1 of 70
-  Schedule difficulty score: 0.495
+  Stats-based SOS rank: 46 of 70
+  Avg opponent win %: 0.477
+  Model schedule difficulty rank: 46 of 70
+  Schedule difficulty score: 0.478

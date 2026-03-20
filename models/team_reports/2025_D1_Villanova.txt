@@ -1,0 +1,28 @@
+Team: Villanova
+Season: 2025 D1
+Record: 8-7
+Winning %: 0.533
+Predicted Winning %: 0.533
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.533 (0.046 above average)
+  caused_turnovers_per_game: 9.530 (1.519 above average)
+  man_up_offense: 0.349 (0.008 above average)
+  defensive_efficiency: 14.445 (1.227 below average)
+  scoring_offense: 9.930 (1.383 below average)
+  offensive_efficiency: 41.723 (2.985 above average)
+  points_per_game: 15.000 (2.667 below average)
+  scoring_margin: -1.670 (3.211 below average)
+  saves_per_game: 9.600 (2.423 below average)
+  rpi: 0.509 (0.010 above average)
+  scoring_defense: 11.600 (0.326 above average)
+  clearing_percentage: 0.805 (0.038 below average)
+  face_off_winning_percentage: 0.573 (0.071 above average)
+  ground_balls_per_game: 31.330 (0.395 above average)
+  possession_value_index: 0.116 (0.051 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 49 of 74
+  Avg opponent win %: 0.464
+  Model schedule difficulty rank: 48 of 74
+  Schedule difficulty score: 0.465

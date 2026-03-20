@@ -2,22 +2,27 @@ Team: Belmont Abbey
 Season: 2016 D2
 Record: 12-4
 Winning %: 0.750
-Predicted Winning %: 0.777
+Predicted Winning %: 0.750
 
 Stat Comparison vs League Average:
-  points_per_game: 22.940 (5.299 above average)
-  scoring_defense: 8.630 (2.606 below average)
+  Win % (from schedule): 0.750 (0.263 above average)
+  caused_turnovers_per_game: 10.440 (2.429 above average)
+  man_up_offense: 0.439 (0.098 above average)
+  defensive_efficiency: 18.215 (2.543 above average)
   scoring_offense: 14.500 (3.187 above average)
-  defensive_efficiency: 18.215 (2.513 above average)
-  scoring_margin: 5.880 (4.150 above average)
-  saves_per_game: 11.835 (0.152 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 29.190 (1.704 below average)
+  offensive_efficiency: 43.544 (4.806 above average)
+  points_per_game: 22.940 (5.273 above average)
+  scoring_margin: 5.880 (4.339 above average)
+  saves_per_game: 11.835 (0.188 below average)
+  rpi: 0.571 (0.071 above average)
+  scoring_defense: 8.630 (2.644 below average)
   clearing_percentage: 0.887 (0.044 above average)
-  possession_value_index: 0.192 (0.023 above average)
+  face_off_winning_percentage: 0.469 (0.033 below average)
+  ground_balls_per_game: 29.190 (1.745 below average)
+  possession_value_index: 0.192 (0.025 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 40 of 63
   Avg opponent win %: 0.489
-  Model schedule difficulty rank: 39 of 63
-  Schedule difficulty score: 0.489
+  Model schedule difficulty rank: 40 of 63
+  Schedule difficulty score: 0.488

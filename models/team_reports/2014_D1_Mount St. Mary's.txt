@@ -2,19 +2,24 @@ Team: Mount St. Mary's
 Season: 2014 D1
 Record: 1-15
 Winning %: 0.063
-Predicted Winning %: 0.117
+Predicted Winning %: 0.063
 
 Stat Comparison vs League Average:
-  points_per_game: 8.380 (9.261 below average)
-  scoring_defense: 12.000 (0.764 above average)
+  Win % (from schedule): 0.062 (0.425 below average)
+  caused_turnovers_per_game: 6.630 (1.381 below average)
+  man_up_offense: 0.311 (0.030 below average)
+  defensive_efficiency: 14.192 (1.480 below average)
   scoring_offense: 5.690 (5.623 below average)
-  defensive_efficiency: 14.192 (1.511 below average)
-  scoring_margin: -6.310 (8.040 below average)
-  saves_per_game: 12.690 (0.703 above average)
-  Win % (from schedule): 0.062 (0.436 below average)
-  ground_balls_per_game: 26.380 (4.514 below average)
+  offensive_efficiency: 27.756 (10.982 below average)
+  points_per_game: 8.380 (9.287 below average)
+  scoring_margin: -6.310 (7.851 below average)
+  saves_per_game: 12.690 (0.667 above average)
+  rpi: 0.391 (0.108 below average)
+  scoring_defense: 12.000 (0.726 above average)
   clearing_percentage: 0.776 (0.067 below average)
-  possession_value_index: 0.128 (0.041 below average)
+  face_off_winning_percentage: 0.470 (0.032 below average)
+  ground_balls_per_game: 26.380 (4.555 below average)
+  possession_value_index: 0.128 (0.039 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 27 of 67

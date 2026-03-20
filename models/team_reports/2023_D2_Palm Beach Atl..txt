@@ -2,22 +2,27 @@ Team: Palm Beach Atl.
 Season: 2023 D2
 Record: 2-12
 Winning %: 0.143
-Predicted Winning %: 0.202
+Predicted Winning %: 0.143
 
 Stat Comparison vs League Average:
-  points_per_game: 15.360 (2.281 below average)
-  scoring_defense: 17.070 (5.834 above average)
+  Win % (from schedule): 0.143 (0.344 below average)
+  caused_turnovers_per_game: 9.000 (0.989 above average)
+  man_up_offense: 0.200 (0.141 below average)
+  defensive_efficiency: 9.719 (5.953 below average)
   scoring_offense: 10.710 (0.603 below average)
-  defensive_efficiency: 9.719 (5.984 below average)
-  scoring_margin: -6.360 (8.090 below average)
-  saves_per_game: 11.430 (0.557 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 31.430 (0.536 above average)
+  offensive_efficiency: 38.250 (0.488 below average)
+  points_per_game: 15.360 (2.307 below average)
+  scoring_margin: -6.360 (7.901 below average)
+  saves_per_game: 11.430 (0.593 below average)
+  rpi: 0.456 (0.043 below average)
+  scoring_defense: 17.070 (5.796 above average)
   clearing_percentage: 0.831 (0.012 below average)
-  possession_value_index: 0.080 (0.090 below average)
+  face_off_winning_percentage: 0.497 (0.005 below average)
+  ground_balls_per_game: 31.430 (0.495 above average)
+  possession_value_index: 0.080 (0.088 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 9 of 74
   Avg opponent win %: 0.584
   Model schedule difficulty rank: 9 of 74
-  Schedule difficulty score: 0.583
+  Schedule difficulty score: 0.582

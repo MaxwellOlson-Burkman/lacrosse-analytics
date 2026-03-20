@@ -1,0 +1,28 @@
+Team: UMBC
+Season: 2025 D1
+Record: 7-5
+Winning %: 0.583
+Predicted Winning %: 0.583
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.583 (0.096 above average)
+  caused_turnovers_per_game: 8.000 (0.011 below average)
+  man_up_offense: 0.290 (0.051 below average)
+  defensive_efficiency: 16.371 (0.699 above average)
+  scoring_offense: 11.080 (0.233 below average)
+  offensive_efficiency: 39.014 (0.276 above average)
+  points_per_game: 16.670 (0.997 below average)
+  scoring_margin: 1.080 (0.461 below average)
+  saves_per_game: 9.670 (2.353 below average)
+  rpi: 0.491 (0.009 below average)
+  scoring_defense: 10.000 (1.274 below average)
+  clearing_percentage: 0.908 (0.065 above average)
+  face_off_winning_percentage: 0.549 (0.047 above average)
+  ground_balls_per_game: 26.670 (4.265 below average)
+  possession_value_index: 0.199 (0.032 above average)
+
+Strength of schedule:
+  Stats-based SOS rank: 60 of 74
+  Avg opponent win %: 0.440
+  Model schedule difficulty rank: 60 of 74
+  Schedule difficulty score: 0.440

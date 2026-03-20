@@ -2,19 +2,24 @@ Team: Wagner
 Season: 2018 D1
 Record: 4-10
 Winning %: 0.286
-Predicted Winning %: 0.273
+Predicted Winning %: 0.286
 
 Stat Comparison vs League Average:
-  points_per_game: 10.860 (6.781 below average)
-  scoring_defense: 10.000 (1.236 below average)
+  Win % (from schedule): 0.286 (0.202 below average)
+  caused_turnovers_per_game: 9.070 (1.059 above average)
+  man_up_offense: 0.375 (0.034 above average)
+  defensive_efficiency: 17.983 (2.311 above average)
   scoring_offense: 6.930 (4.383 below average)
-  defensive_efficiency: 17.983 (2.280 above average)
-  scoring_margin: -3.070 (4.800 below average)
-  saves_per_game: 13.360 (1.373 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 25.570 (5.324 below average)
+  offensive_efficiency: 29.118 (9.620 below average)
+  points_per_game: 10.860 (6.807 below average)
+  scoring_margin: -3.070 (4.611 below average)
+  saves_per_game: 13.360 (1.337 above average)
+  rpi: 0.370 (0.130 below average)
+  scoring_defense: 10.000 (1.274 below average)
   clearing_percentage: 0.805 (0.038 below average)
-  possession_value_index: 0.143 (0.026 below average)
+  face_off_winning_percentage: 0.411 (0.091 below average)
+  ground_balls_per_game: 25.570 (5.365 below average)
+  possession_value_index: 0.143 (0.024 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 67 of 71

@@ -2,22 +2,27 @@ Team: St. Bonaventure
 Season: 2023 D1
 Record: 1-13
 Winning %: 0.071
-Predicted Winning %: 0.102
+Predicted Winning %: 0.071
 
 Stat Comparison vs League Average:
-  points_per_game: 11.710 (5.931 below average)
-  scoring_defense: 15.640 (4.404 above average)
+  Win % (from schedule): 0.071 (0.416 below average)
+  caused_turnovers_per_game: 6.640 (1.371 below average)
+  man_up_offense: 0.184 (0.157 below average)
+  defensive_efficiency: 10.879 (4.793 below average)
   scoring_offense: 7.710 (3.603 below average)
-  defensive_efficiency: 10.879 (4.824 below average)
-  scoring_margin: -7.930 (9.660 below average)
-  saves_per_game: 12.430 (0.443 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 26.500 (4.394 below average)
+  offensive_efficiency: 33.522 (5.216 below average)
+  points_per_game: 11.710 (5.957 below average)
+  scoring_margin: -7.930 (9.471 below average)
+  saves_per_game: 12.430 (0.407 above average)
+  rpi: 0.393 (0.106 below average)
+  scoring_defense: 15.640 (4.366 above average)
   clearing_percentage: 0.748 (0.095 below average)
-  possession_value_index: 0.135 (0.034 below average)
+  face_off_winning_percentage: 0.469 (0.033 below average)
+  ground_balls_per_game: 26.500 (4.435 below average)
+  possession_value_index: 0.135 (0.032 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 29 of 72
   Avg opponent win %: 0.514
   Model schedule difficulty rank: 29 of 72
-  Schedule difficulty score: 0.514
+  Schedule difficulty score: 0.515

@@ -2,22 +2,27 @@ Team: Felician
 Season: 2019 D2
 Record: 0-13
 Winning %: 0.000
-Predicted Winning %: 0.022
+Predicted Winning %: 0.000
 
 Stat Comparison vs League Average:
-  points_per_game: 6.770 (10.871 below average)
-  scoring_defense: 20.310 (9.074 above average)
+  Win % (from schedule): 0.000 (0.487 below average)
+  caused_turnovers_per_game: 6.310 (1.701 below average)
+  man_up_offense: 0.160 (0.181 below average)
+  defensive_efficiency: 8.010 (7.662 below average)
   scoring_offense: 5.000 (6.313 below average)
-  defensive_efficiency: 8.010 (7.693 below average)
-  scoring_margin: 5.430 (3.700 above average)
-  saves_per_game: 17.850 (5.863 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 26.920 (3.974 below average)
+  offensive_efficiency: 26.455 (12.283 below average)
+  points_per_game: 6.770 (10.897 below average)
+  scoring_margin: 5.430 (3.889 above average)
+  saves_per_game: 17.850 (5.827 above average)
+  rpi: 0.294 (0.205 below average)
+  scoring_defense: 20.310 (9.036 above average)
   clearing_percentage: 0.562 (0.281 below average)
-  possession_value_index: 0.000 (0.170 below average)
+  face_off_winning_percentage: 0.447 (0.055 below average)
+  ground_balls_per_game: 26.920 (4.015 below average)
+  possession_value_index: N/A (league average 0.167)
 
 Strength of schedule:
   Stats-based SOS rank: 67 of 70
   Avg opponent win %: 0.377
   Model schedule difficulty rank: 67 of 70
-  Schedule difficulty score: 0.378
+  Schedule difficulty score: 0.377

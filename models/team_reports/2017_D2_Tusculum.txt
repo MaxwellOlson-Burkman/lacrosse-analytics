@@ -2,19 +2,24 @@ Team: Tusculum
 Season: 2017 D2
 Record: 11-4
 Winning %: 0.733
-Predicted Winning %: 0.735
+Predicted Winning %: 0.733
 
 Stat Comparison vs League Average:
-  points_per_game: 22.600 (4.959 above average)
-  scoring_defense: 8.530 (2.706 below average)
+  Win % (from schedule): 0.733 (0.246 above average)
+  caused_turnovers_per_game: 7.870 (0.141 below average)
+  man_up_offense: 0.458 (0.117 above average)
+  defensive_efficiency: 19.000 (3.328 above average)
   scoring_offense: 13.670 (2.357 above average)
-  defensive_efficiency: 19.000 (3.297 above average)
-  scoring_margin: 5.130 (3.400 above average)
-  saves_per_game: 11.400 (0.587 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.600 (1.706 above average)
+  offensive_efficiency: 40.444 (1.706 above average)
+  points_per_game: 22.600 (4.933 above average)
+  scoring_margin: 5.130 (3.589 above average)
+  saves_per_game: 11.400 (0.623 below average)
+  rpi: 0.541 (0.041 above average)
+  scoring_defense: 8.530 (2.744 below average)
   clearing_percentage: 0.837 (0.006 below average)
-  possession_value_index: 0.196 (0.027 above average)
+  face_off_winning_percentage: 0.454 (0.048 below average)
+  ground_balls_per_game: 32.600 (1.665 above average)
+  possession_value_index: 0.196 (0.029 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 57 of 65

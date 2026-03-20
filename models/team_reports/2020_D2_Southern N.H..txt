@@ -2,22 +2,27 @@ Team: Southern N.H.
 Season: 2020 D2
 Record: 1-2
 Winning %: 0.333
-Predicted Winning %: 0.477
+Predicted Winning %: 0.333
 
 Stat Comparison vs League Average:
-  points_per_game: 17.330 (0.311 below average)
-  scoring_defense: 10.000 (1.236 below average)
+  Win % (from schedule): 0.333 (0.154 below average)
+  caused_turnovers_per_game: 7.330 (0.681 below average)
+  man_up_offense: 0.200 (0.141 below average)
+  defensive_efficiency: 16.440 (0.768 above average)
   scoring_offense: 10.670 (0.643 below average)
-  defensive_efficiency: 16.440 (0.737 above average)
-  scoring_margin: 6.680 (4.950 above average)
-  saves_per_game: 10.000 (1.987 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 34.000 (3.106 above average)
+  offensive_efficiency: 48.063 (9.325 above average)
+  points_per_game: 17.330 (0.337 below average)
+  scoring_margin: 6.680 (5.139 above average)
+  saves_per_game: 10.000 (2.023 below average)
+  rpi: 0.373 (0.126 below average)
+  scoring_defense: 10.000 (1.274 below average)
   clearing_percentage: 0.860 (0.017 above average)
-  possession_value_index: 0.122 (0.047 below average)
+  face_off_winning_percentage: 0.611 (0.109 above average)
+  ground_balls_per_game: 34.000 (3.065 above average)
+  possession_value_index: 0.122 (0.045 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 68 of 72
   Avg opponent win %: 0.307
   Model schedule difficulty rank: 68 of 72
-  Schedule difficulty score: 0.307
+  Schedule difficulty score: 0.309

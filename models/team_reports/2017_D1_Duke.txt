@@ -2,20 +2,27 @@ Team: Duke
 Season: 2017 D1
 Record: 13-5
 Winning %: 0.722
-Predicted Winning %: 0.741
+Predicted Winning %: 0.722
 
 Stat Comparison vs League Average:
-  points_per_game: 20.890 (3.249 above average)
-  scoring_defense: 8.390 (2.846 below average)
+  Win % (from schedule): 0.722 (0.235 above average)
+  caused_turnovers_per_game: 6.170 (1.841 below average)
+  man_up_offense: 0.500 (0.159 above average)
+  defensive_efficiency: 17.807 (2.135 above average)
   scoring_offense: 13.060 (1.747 above average)
-  defensive_efficiency: 17.807 (2.104 above average)
-  scoring_margin: 4.670 (2.940 above average)
-  saves_per_game: 9.440 (2.547 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.890 (0.004 below average)
+  offensive_efficiency: 37.637 (1.101 below average)
+  points_per_game: 20.890 (3.223 above average)
+  scoring_margin: 4.670 (3.129 above average)
+  saves_per_game: 9.440 (2.583 below average)
+  rpi: 0.591 (0.092 above average)
+  scoring_defense: 8.390 (2.884 below average)
   clearing_percentage: 0.872 (0.029 above average)
-  possession_value_index: 0.271 (0.101 above average)
+  face_off_winning_percentage: 0.549 (0.047 above average)
+  ground_balls_per_game: 30.890 (0.045 below average)
+  possession_value_index: 0.271 (0.104 above average)
 
 Strength of schedule:
-  Model schedule difficulty rank: 1 of 70
-  Schedule difficulty score: 0.495
+  Stats-based SOS rank: 14 of 70
+  Avg opponent win %: 0.544
+  Model schedule difficulty rank: 14 of 70
+  Schedule difficulty score: 0.544

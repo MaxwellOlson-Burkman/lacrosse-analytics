@@ -2,19 +2,24 @@ Team: Maryland
 Season: 2015 D1
 Record: 15-4
 Winning %: 0.789
-Predicted Winning %: 0.799
+Predicted Winning %: 0.789
 
 Stat Comparison vs League Average:
-  points_per_game: 14.890 (2.751 below average)
-  scoring_defense: 7.050 (4.186 below average)
+  Win % (from schedule): 0.789 (0.302 above average)
+  caused_turnovers_per_game: 6.050 (1.961 below average)
+  man_up_offense: 0.419 (0.078 above average)
+  defensive_efficiency: 19.364 (3.692 above average)
   scoring_offense: 10.210 (1.103 below average)
-  defensive_efficiency: 19.364 (3.661 above average)
-  scoring_margin: 3.160 (1.430 above average)
-  saves_per_game: 9.680 (2.307 below average)
-  Win % (from schedule): 0.789 (0.291 above average)
-  ground_balls_per_game: 26.680 (4.214 below average)
+  offensive_efficiency: 38.969 (0.232 above average)
+  points_per_game: 14.890 (2.777 below average)
+  scoring_margin: 3.160 (1.619 above average)
+  saves_per_game: 9.680 (2.343 below average)
+  rpi: 0.616 (0.117 above average)
+  scoring_defense: 7.050 (4.224 below average)
   clearing_percentage: 0.866 (0.023 above average)
-  possession_value_index: 0.298 (0.129 above average)
+  face_off_winning_percentage: 0.523 (0.021 above average)
+  ground_balls_per_game: 26.680 (4.255 below average)
+  possession_value_index: 0.298 (0.131 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 20 of 68

@@ -2,22 +2,27 @@ Team: Lynn
 Season: 2022 D2
 Record: 5-10
 Winning %: 0.333
-Predicted Winning %: 0.369
+Predicted Winning %: 0.333
 
 Stat Comparison vs League Average:
-  points_per_game: 17.400 (0.241 below average)
-  scoring_defense: 13.130 (1.894 above average)
+  Win % (from schedule): 0.333 (0.154 below average)
+  caused_turnovers_per_game: 10.600 (2.589 above average)
+  man_up_offense: 0.292 (0.049 below average)
+  defensive_efficiency: 14.294 (1.378 below average)
   scoring_offense: 11.600 (0.287 above average)
-  defensive_efficiency: 14.294 (1.409 below average)
-  scoring_margin: -1.530 (3.260 below average)
-  saves_per_game: 13.130 (1.143 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 26.800 (4.094 below average)
+  offensive_efficiency: 37.419 (1.319 below average)
+  points_per_game: 17.400 (0.267 below average)
+  scoring_margin: -1.530 (3.071 below average)
+  saves_per_game: 13.130 (1.107 above average)
+  rpi: 0.525 (0.026 above average)
+  scoring_defense: 13.130 (1.856 above average)
   clearing_percentage: 0.833 (0.010 below average)
-  possession_value_index: 0.152 (0.018 below average)
+  face_off_winning_percentage: 0.398 (0.104 below average)
+  ground_balls_per_game: 26.800 (4.135 below average)
+  possession_value_index: 0.152 (0.015 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 10 of 74
   Avg opponent win %: 0.566
-  Model schedule difficulty rank: 10 of 74
+  Model schedule difficulty rank: 8 of 74
   Schedule difficulty score: 0.565

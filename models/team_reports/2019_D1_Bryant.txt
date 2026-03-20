@@ -2,19 +2,24 @@ Team: Bryant
 Season: 2019 D1
 Record: 3-11
 Winning %: 0.214
-Predicted Winning %: 0.343
+Predicted Winning %: 0.214
 
 Stat Comparison vs League Average:
-  points_per_game: 13.790 (3.851 below average)
-  scoring_defense: 10.790 (0.446 below average)
+  Win % (from schedule): 0.214 (0.273 below average)
+  caused_turnovers_per_game: 7.000 (1.011 below average)
+  man_up_offense: 0.297 (0.044 below average)
+  defensive_efficiency: 16.113 (0.441 above average)
   scoring_offense: 9.070 (2.243 below average)
-  defensive_efficiency: 16.113 (0.410 above average)
-  scoring_margin: -1.710 (3.440 below average)
-  saves_per_game: 12.710 (0.723 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 30.930 (0.036 above average)
+  offensive_efficiency: 35.019 (3.719 below average)
+  points_per_game: 13.790 (3.877 below average)
+  scoring_margin: -1.710 (3.251 below average)
+  saves_per_game: 12.710 (0.687 above average)
+  rpi: 0.400 (0.099 below average)
+  scoring_defense: 10.790 (0.484 below average)
   clearing_percentage: 0.786 (0.057 below average)
-  possession_value_index: 0.160 (0.010 below average)
+  face_off_winning_percentage: 0.537 (0.035 above average)
+  ground_balls_per_game: 30.930 (0.005 below average)
+  possession_value_index: 0.160 (0.007 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 50 of 73

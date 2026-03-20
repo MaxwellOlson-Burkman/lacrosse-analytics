@@ -2,22 +2,27 @@ Team: Duke
 Season: 2022 D1
 Record: 11-6
 Winning %: 0.647
-Predicted Winning %: 0.683
+Predicted Winning %: 0.647
 
 Stat Comparison vs League Average:
-  points_per_game: 23.760 (6.119 above average)
-  scoring_defense: 11.180 (0.056 below average)
+  Win % (from schedule): 0.647 (0.160 above average)
+  caused_turnovers_per_game: 7.240 (0.771 below average)
+  man_up_offense: 0.600 (0.259 above average)
+  defensive_efficiency: 15.952 (0.280 above average)
   scoring_offense: 15.410 (4.097 above average)
-  defensive_efficiency: 15.952 (0.249 above average)
-  scoring_margin: 4.240 (2.510 above average)
-  saves_per_game: 13.590 (1.603 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 34.590 (3.696 above average)
+  offensive_efficiency: 44.155 (5.417 above average)
+  points_per_game: 23.760 (6.093 above average)
+  scoring_margin: 4.240 (2.699 above average)
+  saves_per_game: 13.590 (1.567 above average)
+  rpi: 0.593 (0.094 above average)
+  scoring_defense: 11.180 (0.094 below average)
   clearing_percentage: 0.855 (0.012 above average)
-  possession_value_index: 0.212 (0.043 above average)
+  face_off_winning_percentage: 0.546 (0.044 above average)
+  ground_balls_per_game: 34.590 (3.655 above average)
+  possession_value_index: 0.212 (0.045 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 5 of 72
   Avg opponent win %: 0.597
   Model schedule difficulty rank: 5 of 72
-  Schedule difficulty score: 0.596
+  Schedule difficulty score: 0.597

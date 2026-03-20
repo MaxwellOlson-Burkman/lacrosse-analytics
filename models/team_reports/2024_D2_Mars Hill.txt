@@ -2,22 +2,27 @@ Team: Mars Hill
 Season: 2024 D2
 Record: 5-10
 Winning %: 0.333
-Predicted Winning %: 0.269
+Predicted Winning %: 0.333
 
 Stat Comparison vs League Average:
-  points_per_game: 14.530 (3.111 below average)
-  scoring_defense: 13.930 (2.694 above average)
+  Win % (from schedule): 0.333 (0.154 below average)
+  caused_turnovers_per_game: 5.670 (2.341 below average)
+  man_up_offense: 0.309 (0.032 below average)
+  defensive_efficiency: 13.979 (1.693 below average)
   scoring_offense: 9.400 (1.913 below average)
-  defensive_efficiency: 13.979 (1.724 below average)
-  scoring_margin: -4.530 (6.260 below average)
-  saves_per_game: 15.330 (3.343 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 33.530 (2.636 above average)
+  offensive_efficiency: 33.813 (4.925 below average)
+  points_per_game: 14.530 (3.137 below average)
+  scoring_margin: -4.530 (6.071 below average)
+  saves_per_game: 15.330 (3.307 above average)
+  rpi: 0.460 (0.039 below average)
+  scoring_defense: 13.930 (2.656 above average)
   clearing_percentage: 0.795 (0.048 below average)
-  possession_value_index: 0.035 (0.134 below average)
+  face_off_winning_percentage: 0.577 (0.075 above average)
+  ground_balls_per_game: 33.530 (2.595 above average)
+  possession_value_index: 0.035 (0.132 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 41 of 79
   Avg opponent win %: 0.501
   Model schedule difficulty rank: 41 of 79
-  Schedule difficulty score: 0.502
+  Schedule difficulty score: 0.501

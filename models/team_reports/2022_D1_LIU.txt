@@ -2,19 +2,24 @@ Team: LIU
 Season: 2022 D1
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.540
+Predicted Winning %: 0.467
 
 Stat Comparison vs League Average:
-  points_per_game: 18.070 (0.429 above average)
-  scoring_defense: 10.730 (0.506 below average)
+  Win % (from schedule): 0.467 (0.021 below average)
+  caused_turnovers_per_game: 7.400 (0.611 below average)
+  man_up_offense: 0.358 (0.017 above average)
+  defensive_efficiency: 16.629 (0.957 above average)
   scoring_offense: 11.130 (0.183 below average)
-  defensive_efficiency: 16.629 (0.926 above average)
-  scoring_margin: 0.400 (1.330 below average)
-  saves_per_game: 13.330 (1.343 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 35.600 (4.706 above average)
+  offensive_efficiency: 35.333 (3.405 below average)
+  points_per_game: 18.070 (0.403 above average)
+  scoring_margin: 0.400 (1.141 below average)
+  saves_per_game: 13.330 (1.307 above average)
+  rpi: 0.477 (0.022 below average)
+  scoring_defense: 10.730 (0.544 below average)
   clearing_percentage: 0.864 (0.021 above average)
-  possession_value_index: 0.125 (0.044 below average)
+  face_off_winning_percentage: 0.515 (0.013 above average)
+  ground_balls_per_game: 35.600 (4.665 above average)
+  possession_value_index: 0.125 (0.042 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 44 of 72

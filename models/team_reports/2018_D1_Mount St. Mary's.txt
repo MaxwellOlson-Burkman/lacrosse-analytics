@@ -2,19 +2,24 @@ Team: Mount St. Mary's
 Season: 2018 D1
 Record: 5-9
 Winning %: 0.357
-Predicted Winning %: 0.389
+Predicted Winning %: 0.357
 
 Stat Comparison vs League Average:
-  points_per_game: 18.000 (0.359 above average)
-  scoring_defense: 12.500 (1.264 above average)
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 8.290 (0.279 above average)
+  man_up_offense: 0.250 (0.091 below average)
+  defensive_efficiency: 13.987 (1.685 below average)
   scoring_offense: 11.210 (0.103 below average)
-  defensive_efficiency: 13.987 (1.716 below average)
-  scoring_margin: -1.290 (3.020 below average)
-  saves_per_game: 10.140 (1.847 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.290 (1.396 above average)
+  offensive_efficiency: 39.472 (0.734 above average)
+  points_per_game: 18.000 (0.333 above average)
+  scoring_margin: -1.290 (2.831 below average)
+  saves_per_game: 10.140 (1.883 below average)
+  rpi: 0.450 (0.050 below average)
+  scoring_defense: 12.500 (1.226 above average)
   clearing_percentage: 0.847 (0.004 above average)
-  possession_value_index: 0.178 (0.009 above average)
+  face_off_winning_percentage: 0.538 (0.036 above average)
+  ground_balls_per_game: 32.290 (1.355 above average)
+  possession_value_index: 0.178 (0.011 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 38 of 71

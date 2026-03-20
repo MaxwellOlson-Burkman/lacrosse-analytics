@@ -2,22 +2,27 @@ Team: Vermont
 Season: 2016 D1
 Record: 9-8
 Winning %: 0.529
-Predicted Winning %: 0.583
+Predicted Winning %: 0.529
 
 Stat Comparison vs League Average:
-  points_per_game: 20.290 (2.649 above average)
-  scoring_defense: 10.650 (0.586 below average)
+  Win % (from schedule): 0.529 (0.042 above average)
+  caused_turnovers_per_game: 6.940 (1.071 below average)
+  man_up_offense: 0.453 (0.112 above average)
+  defensive_efficiency: 16.333 (0.661 above average)
   scoring_offense: 12.350 (1.037 above average)
-  defensive_efficiency: 16.333 (0.630 above average)
-  scoring_margin: 1.710 (0.020 below average)
-  saves_per_game: 11.710 (0.277 below average)
-  Win % (from schedule): 0.529 (0.031 above average)
-  ground_balls_per_game: 29.290 (1.604 below average)
+  offensive_efficiency: 39.968 (1.230 above average)
+  points_per_game: 20.290 (2.623 above average)
+  scoring_margin: 1.710 (0.169 above average)
+  saves_per_game: 11.710 (0.313 below average)
+  rpi: 0.457 (0.042 below average)
+  scoring_defense: 10.650 (0.624 below average)
   clearing_percentage: 0.875 (0.032 above average)
-  possession_value_index: 0.204 (0.034 above average)
+  face_off_winning_percentage: 0.512 (0.010 above average)
+  ground_balls_per_game: 29.290 (1.645 below average)
+  possession_value_index: 0.204 (0.037 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 68 of 68
   Avg opponent win %: 0.360
-  Model schedule difficulty rank: 68 of 68
+  Model schedule difficulty rank: 67 of 68
   Schedule difficulty score: 0.361

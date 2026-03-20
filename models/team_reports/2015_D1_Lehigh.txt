@@ -2,22 +2,27 @@ Team: Lehigh
 Season: 2015 D1
 Record: 7-9
 Winning %: 0.438
-Predicted Winning %: 0.468
+Predicted Winning %: 0.438
 
 Stat Comparison vs League Average:
-  points_per_game: 16.060 (1.581 below average)
-  scoring_defense: 10.060 (1.176 below average)
+  Win % (from schedule): 0.438 (0.050 below average)
+  caused_turnovers_per_game: 7.690 (0.321 below average)
+  man_up_offense: 0.484 (0.143 above average)
+  defensive_efficiency: 16.165 (0.493 above average)
   scoring_offense: 10.190 (1.123 below average)
-  defensive_efficiency: 16.165 (0.462 above average)
-  scoring_margin: 0.130 (1.600 below average)
-  saves_per_game: 10.000 (1.987 below average)
-  Win % (from schedule): 0.438 (0.061 below average)
-  ground_balls_per_game: 29.440 (1.454 below average)
+  offensive_efficiency: 34.660 (4.078 below average)
+  points_per_game: 16.060 (1.607 below average)
+  scoring_margin: 0.130 (1.411 below average)
+  saves_per_game: 10.000 (2.023 below average)
+  rpi: 0.506 (0.007 above average)
+  scoring_defense: 10.060 (1.214 below average)
   clearing_percentage: 0.858 (0.015 above average)
-  possession_value_index: 0.230 (0.060 above average)
+  face_off_winning_percentage: 0.457 (0.045 below average)
+  ground_balls_per_game: 29.440 (1.495 below average)
+  possession_value_index: 0.230 (0.063 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 15 of 68
   Avg opponent win %: 0.541
   Model schedule difficulty rank: 15 of 68
-  Schedule difficulty score: 0.541
+  Schedule difficulty score: 0.540

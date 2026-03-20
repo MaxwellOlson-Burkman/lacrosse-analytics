@@ -2,22 +2,27 @@ Team: Saint Joseph's
 Season: 2024 D1
 Record: 12-4
 Winning %: 0.750
-Predicted Winning %: 0.681
+Predicted Winning %: 0.750
 
 Stat Comparison vs League Average:
-  points_per_game: 19.380 (1.739 above average)
-  scoring_defense: 10.250 (0.986 below average)
+  Win % (from schedule): 0.750 (0.263 above average)
+  caused_turnovers_per_game: 9.440 (1.429 above average)
+  man_up_offense: 0.291 (0.050 below average)
+  defensive_efficiency: 16.359 (0.687 above average)
   scoring_offense: 13.060 (1.747 above average)
-  defensive_efficiency: 16.359 (0.656 above average)
-  scoring_margin: 2.810 (1.080 above average)
-  saves_per_game: 9.380 (2.607 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.940 (2.046 above average)
+  offensive_efficiency: 44.726 (5.988 above average)
+  points_per_game: 19.380 (1.713 above average)
+  scoring_margin: 2.810 (1.269 above average)
+  saves_per_game: 9.380 (2.643 below average)
+  rpi: 0.572 (0.073 above average)
+  scoring_defense: 10.250 (1.024 below average)
   clearing_percentage: 0.883 (0.040 above average)
-  possession_value_index: 0.189 (0.020 above average)
+  face_off_winning_percentage: 0.501 (0.001 below average)
+  ground_balls_per_game: 32.940 (2.005 above average)
+  possession_value_index: 0.189 (0.022 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 34 of 73
   Avg opponent win %: 0.503
   Model schedule difficulty rank: 33 of 73
-  Schedule difficulty score: 0.503
+  Schedule difficulty score: 0.504

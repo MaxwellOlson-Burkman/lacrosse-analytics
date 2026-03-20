@@ -1,0 +1,28 @@
+Team: Jacksonville
+Season: 2025 D1
+Record: 9-5
+Winning %: 0.643
+Predicted Winning %: 0.643
+
+Stat Comparison vs League Average:
+  Win % (from schedule): 0.643 (0.156 above average)
+  caused_turnovers_per_game: 8.790 (0.779 above average)
+  man_up_offense: 0.388 (0.047 above average)
+  defensive_efficiency: 15.590 (0.082 below average)
+  scoring_offense: 13.070 (1.757 above average)
+  offensive_efficiency: 40.590 (1.852 above average)
+  points_per_game: 22.210 (4.543 above average)
+  scoring_margin: 1.290 (0.251 below average)
+  saves_per_game: 11.000 (1.023 below average)
+  rpi: 0.501 (0.002 above average)
+  scoring_defense: 11.790 (0.516 above average)
+  clearing_percentage: 0.877 (0.034 above average)
+  face_off_winning_percentage: 0.541 (0.039 above average)
+  ground_balls_per_game: 32.500 (1.565 above average)
+  possession_value_index: 0.167 (0.000 below average)
+
+Strength of schedule:
+  Stats-based SOS rank: 70 of 74
+  Avg opponent win %: 0.409
+  Model schedule difficulty rank: 70 of 74
+  Schedule difficulty score: 0.410

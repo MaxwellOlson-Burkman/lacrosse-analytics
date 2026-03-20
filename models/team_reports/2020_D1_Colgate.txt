@@ -2,22 +2,27 @@ Team: Colgate
 Season: 2020 D1
 Record: 0-6
 Winning %: 0.000
-Predicted Winning %: 0.165
+Predicted Winning %: -0.000
 
 Stat Comparison vs League Average:
-  points_per_game: 19.000 (1.359 above average)
-  scoring_defense: 18.330 (7.094 above average)
+  Win % (from schedule): 0.000 (0.487 below average)
+  caused_turnovers_per_game: 6.500 (1.511 below average)
+  man_up_offense: 0.538 (0.197 above average)
+  defensive_efficiency: 8.061 (7.611 below average)
   scoring_offense: 11.670 (0.357 above average)
-  defensive_efficiency: 8.061 (7.642 below average)
-  scoring_margin: -6.670 (8.400 below average)
-  saves_per_game: 13.670 (1.683 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 34.830 (3.936 above average)
+  offensive_efficiency: 43.063 (4.325 above average)
+  points_per_game: 19.000 (1.333 above average)
+  scoring_margin: -6.670 (8.211 below average)
+  saves_per_game: 13.670 (1.647 above average)
+  rpi: 0.502 (0.003 above average)
+  scoring_defense: 18.330 (7.056 above average)
   clearing_percentage: 0.766 (0.077 below average)
-  possession_value_index: 0.109 (0.061 below average)
+  face_off_winning_percentage: 0.510 (0.008 above average)
+  ground_balls_per_game: 34.830 (3.895 above average)
+  possession_value_index: 0.109 (0.058 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 1 of 74
   Avg opponent win %: 0.817
   Model schedule difficulty rank: 1 of 74
-  Schedule difficulty score: 0.813
+  Schedule difficulty score: 0.812

@@ -2,22 +2,27 @@ Team: Bucknell
 Season: 2014 D1
 Record: 7-8
 Winning %: 0.467
-Predicted Winning %: 0.481
+Predicted Winning %: 0.467
 
 Stat Comparison vs League Average:
-  points_per_game: 13.400 (4.241 below average)
-  scoring_defense: 8.670 (2.566 below average)
+  Win % (from schedule): 0.467 (0.021 below average)
+  caused_turnovers_per_game: 9.470 (1.459 above average)
+  man_up_offense: 0.405 (0.064 above average)
+  defensive_efficiency: 17.801 (2.129 above average)
   scoring_offense: 8.800 (2.513 below average)
-  defensive_efficiency: 17.801 (2.098 above average)
-  scoring_margin: 0.130 (1.600 below average)
-  saves_per_game: 10.870 (1.117 below average)
-  Win % (from schedule): 0.467 (0.032 below average)
-  ground_balls_per_game: 27.070 (3.824 below average)
+  offensive_efficiency: 38.428 (0.310 below average)
+  points_per_game: 13.400 (4.267 below average)
+  scoring_margin: 0.130 (1.411 below average)
+  saves_per_game: 10.870 (1.153 below average)
+  rpi: 0.484 (0.015 below average)
+  scoring_defense: 8.670 (2.604 below average)
   clearing_percentage: 0.882 (0.039 above average)
-  possession_value_index: 0.171 (0.002 above average)
+  face_off_winning_percentage: 0.342 (0.160 below average)
+  ground_balls_per_game: 27.070 (3.865 below average)
+  possession_value_index: 0.171 (0.004 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 37 of 67
   Avg opponent win %: 0.489
-  Model schedule difficulty rank: 36 of 67
-  Schedule difficulty score: 0.489
+  Model schedule difficulty rank: 37 of 67
+  Schedule difficulty score: 0.488

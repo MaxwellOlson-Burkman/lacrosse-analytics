@@ -2,19 +2,24 @@ Team: Lehigh
 Season: 2019 D1
 Record: 9-8
 Winning %: 0.529
-Predicted Winning %: 0.618
+Predicted Winning %: 0.529
 
 Stat Comparison vs League Average:
-  points_per_game: 17.240 (0.401 below average)
-  scoring_defense: 9.470 (1.766 below average)
+  Win % (from schedule): 0.529 (0.042 above average)
+  caused_turnovers_per_game: 9.180 (1.169 above average)
+  man_up_offense: 0.333 (0.008 below average)
+  defensive_efficiency: 17.707 (2.035 above average)
   scoring_offense: 10.650 (0.663 below average)
-  defensive_efficiency: 17.707 (2.004 above average)
-  scoring_margin: 1.180 (0.550 below average)
-  saves_per_game: 11.290 (0.697 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 40.410 (9.516 above average)
+  offensive_efficiency: 39.888 (1.150 above average)
+  points_per_game: 17.240 (0.427 below average)
+  scoring_margin: 1.180 (0.361 below average)
+  saves_per_game: 11.290 (0.733 below average)
+  rpi: 0.509 (0.010 above average)
+  scoring_defense: 9.470 (1.804 below average)
   clearing_percentage: 0.845 (0.002 above average)
-  possession_value_index: 0.197 (0.027 above average)
+  face_off_winning_percentage: 0.685 (0.183 above average)
+  ground_balls_per_game: 40.410 (9.475 above average)
+  possession_value_index: 0.197 (0.030 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 48 of 73

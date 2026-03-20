@@ -2,20 +2,27 @@ Team: Georgetown
 Season: 2017 D1
 Record: 4-10
 Winning %: 0.286
-Predicted Winning %: 0.428
+Predicted Winning %: 0.286
 
 Stat Comparison vs League Average:
-  points_per_game: 15.640 (2.001 below average)
-  scoring_defense: 11.210 (0.026 below average)
+  Win % (from schedule): 0.286 (0.202 below average)
+  caused_turnovers_per_game: 6.210 (1.801 below average)
+  man_up_offense: 0.271 (0.070 below average)
+  defensive_efficiency: 15.472 (0.200 below average)
   scoring_offense: 10.140 (1.173 below average)
-  defensive_efficiency: 15.472 (0.231 below average)
-  scoring_margin: -1.070 (2.800 below average)
-  saves_per_game: 11.290 (0.697 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 24.790 (6.104 below average)
+  offensive_efficiency: 37.695 (1.043 below average)
+  points_per_game: 15.640 (2.027 below average)
+  scoring_margin: -1.070 (2.611 below average)
+  saves_per_game: 11.290 (0.733 below average)
+  rpi: 0.474 (0.025 below average)
+  scoring_defense: 11.210 (0.064 below average)
   clearing_percentage: 0.861 (0.018 above average)
-  possession_value_index: 0.245 (0.076 above average)
+  face_off_winning_percentage: 0.461 (0.041 below average)
+  ground_balls_per_game: 24.790 (6.145 below average)
+  possession_value_index: 0.245 (0.078 above average)
 
 Strength of schedule:
-  Model schedule difficulty rank: 1 of 70
-  Schedule difficulty score: 0.495
+  Stats-based SOS rank: 13 of 70
+  Avg opponent win %: 0.547
+  Model schedule difficulty rank: 13 of 70
+  Schedule difficulty score: 0.546

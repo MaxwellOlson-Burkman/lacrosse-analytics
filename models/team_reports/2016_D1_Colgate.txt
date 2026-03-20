@@ -2,19 +2,24 @@ Team: Colgate
 Season: 2016 D1
 Record: 4-10
 Winning %: 0.286
-Predicted Winning %: 0.257
+Predicted Winning %: 0.286
 
 Stat Comparison vs League Average:
-  points_per_game: 11.790 (5.851 below average)
-  scoring_defense: 10.570 (0.666 below average)
+  Win % (from schedule): 0.286 (0.202 below average)
+  caused_turnovers_per_game: 5.430 (2.581 below average)
+  man_up_offense: 0.194 (0.147 below average)
+  defensive_efficiency: 15.579 (0.093 below average)
   scoring_offense: 7.640 (3.673 below average)
-  defensive_efficiency: 15.579 (0.124 below average)
-  scoring_margin: -2.930 (4.660 below average)
-  saves_per_game: 9.930 (2.057 below average)
-  Win % (from schedule): 0.286 (0.213 below average)
-  ground_balls_per_game: 24.360 (6.534 below average)
+  offensive_efficiency: 33.074 (5.664 below average)
+  points_per_game: 11.790 (5.877 below average)
+  scoring_margin: -2.930 (4.471 below average)
+  saves_per_game: 9.930 (2.093 below average)
+  rpi: 0.447 (0.052 below average)
+  scoring_defense: 10.570 (0.704 below average)
   clearing_percentage: 0.876 (0.033 above average)
-  possession_value_index: 0.210 (0.041 above average)
+  face_off_winning_percentage: 0.409 (0.093 below average)
+  ground_balls_per_game: 24.360 (6.575 below average)
+  possession_value_index: 0.210 (0.043 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 36 of 68

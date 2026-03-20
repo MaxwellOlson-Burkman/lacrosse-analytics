@@ -2,19 +2,24 @@ Team: Harvard
 Season: 2014 D1
 Record: 10-7
 Winning %: 0.588
-Predicted Winning %: 0.620
+Predicted Winning %: 0.588
 
 Stat Comparison vs League Average:
-  points_per_game: 17.530 (0.111 below average)
-  scoring_defense: 9.760 (1.476 below average)
+  Win % (from schedule): 0.588 (0.101 above average)
+  caused_turnovers_per_game: 7.530 (0.481 below average)
+  man_up_offense: 0.389 (0.048 above average)
+  defensive_efficiency: 16.322 (0.650 above average)
   scoring_offense: 10.710 (0.603 below average)
-  defensive_efficiency: 16.322 (0.619 above average)
-  scoring_margin: 0.940 (0.790 below average)
-  saves_per_game: 10.240 (1.747 below average)
-  Win % (from schedule): 0.588 (0.090 above average)
-  ground_balls_per_game: 29.650 (1.244 below average)
+  offensive_efficiency: 36.678 (2.060 below average)
+  points_per_game: 17.530 (0.137 below average)
+  scoring_margin: 0.940 (0.601 below average)
+  saves_per_game: 10.240 (1.783 below average)
+  rpi: 0.553 (0.054 above average)
+  scoring_defense: 9.760 (1.514 below average)
   clearing_percentage: 0.885 (0.042 above average)
-  possession_value_index: 0.191 (0.022 above average)
+  face_off_winning_percentage: 0.490 (0.012 below average)
+  ground_balls_per_game: 29.650 (1.285 below average)
+  possession_value_index: 0.191 (0.024 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 25 of 67

@@ -2,22 +2,27 @@ Team: Fairfield
 Season: 2023 D1
 Record: 5-9
 Winning %: 0.357
-Predicted Winning %: 0.422
+Predicted Winning %: 0.357
 
 Stat Comparison vs League Average:
-  points_per_game: 18.210 (0.569 above average)
-  scoring_defense: 12.710 (1.474 above average)
+  Win % (from schedule): 0.357 (0.130 below average)
+  caused_turnovers_per_game: 9.360 (1.349 above average)
+  man_up_offense: 0.239 (0.102 below average)
+  defensive_efficiency: 14.061 (1.611 below average)
   scoring_offense: 12.000 (0.687 above average)
-  defensive_efficiency: 14.061 (1.642 below average)
-  scoring_margin: -0.710 (2.440 below average)
-  saves_per_game: 11.570 (0.417 below average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 32.930 (2.036 above average)
+  offensive_efficiency: 40.268 (1.531 above average)
+  points_per_game: 18.210 (0.543 above average)
+  scoring_margin: -0.710 (2.251 below average)
+  saves_per_game: 11.570 (0.453 below average)
+  rpi: 0.448 (0.051 below average)
+  scoring_defense: 12.710 (1.436 above average)
   clearing_percentage: 0.864 (0.021 above average)
-  possession_value_index: 0.150 (0.020 below average)
+  face_off_winning_percentage: 0.460 (0.042 below average)
+  ground_balls_per_game: 32.930 (1.995 above average)
+  possession_value_index: 0.150 (0.017 below average)
 
 Strength of schedule:
   Stats-based SOS rank: 40 of 72
   Avg opponent win %: 0.483
   Model schedule difficulty rank: 39 of 72
-  Schedule difficulty score: 0.483
+  Schedule difficulty score: 0.484

@@ -2,19 +2,24 @@ Team: Jacksonville
 Season: 2024 D1
 Record: 13-5
 Winning %: 0.722
-Predicted Winning %: 0.723
+Predicted Winning %: 0.722
 
 Stat Comparison vs League Average:
-  points_per_game: 24.390 (6.749 above average)
-  scoring_defense: 10.000 (1.236 below average)
+  Win % (from schedule): 0.722 (0.235 above average)
+  caused_turnovers_per_game: 8.560 (0.549 above average)
+  man_up_offense: 0.508 (0.167 above average)
+  defensive_efficiency: 17.329 (1.657 above average)
   scoring_offense: 14.330 (3.017 above average)
-  defensive_efficiency: 17.329 (1.626 above average)
-  scoring_margin: 4.330 (2.600 above average)
-  saves_per_game: 12.830 (0.843 above average)
-  Win % (from schedule): 0.500 (0.002 above average)
-  ground_balls_per_game: 34.330 (3.436 above average)
+  offensive_efficiency: 44.092 (5.354 above average)
+  points_per_game: 24.390 (6.723 above average)
+  scoring_margin: 4.330 (2.789 above average)
+  saves_per_game: 12.830 (0.807 above average)
+  rpi: 0.556 (0.057 above average)
+  scoring_defense: 10.000 (1.274 below average)
   clearing_percentage: 0.881 (0.038 above average)
-  possession_value_index: 0.203 (0.034 above average)
+  face_off_winning_percentage: 0.564 (0.062 above average)
+  ground_balls_per_game: 34.330 (3.395 above average)
+  possession_value_index: 0.203 (0.036 above average)
 
 Strength of schedule:
   Stats-based SOS rank: 45 of 73
