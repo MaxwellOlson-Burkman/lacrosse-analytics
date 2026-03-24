@@ -17,95 +17,9 @@ from msdie.fetchers.sidearm_fetcher import (
     fetch_sidearm_team_stats,
     normalize_base_url,
 )
+from msdie.mapping import MSDIE_COLUMNS, map_sidearm_row_to_msdie
 
 DEFAULT_VENDORS = PROJECT_ROOT / "data" / "vendors.csv"
-
-MSDIE_COLUMNS = [
-    "team_id",
-    "season",
-    "division",
-    "conference",
-    "wins",
-    "losses",
-    "goals_for",
-    "goals_against",
-    "shots",
-    "shot_pct",
-    "faceoff_wins",
-    "faceoff_losses",
-    "faceoff_pct",
-    "ground_balls",
-    "turnovers",
-    "caused_turnovers",
-    "clears_attempted",
-    "clears_made",
-    "clear_pct",
-    "emo_goals",
-    "emo_attempts",
-    "emo_pct",
-    "save_pct",
-    "source_method",
-]
-
-# MSDIE schema ← Sidearm keys (see data/MSDIE_README.md §4)
-SIDEARM_KEY_BY_COLUMN: dict[str, str] = {
-    "team_id": "tid",
-    "season": "season",
-    "conference": "conf",
-    "wins": "w",
-    "losses": "l",
-    "goals_for": "gf",
-    "goals_against": "ga",
-    "shots": "sh",
-    "shot_pct": "sh_pct",
-    "faceoff_wins": "fow",
-    "faceoff_losses": "fol",
-    "faceoff_pct": "fo_pct",
-    "ground_balls": "gb",
-    "turnovers": "to",
-    "caused_turnovers": "ct",
-    "clears_attempted": "cl_att",
-    "clears_made": "cl_made",
-    "clear_pct": "cl_pct",
-    "emo_goals": "emo_g",
-    "emo_attempts": "emo_att",
-    "emo_pct": "emo_pct",
-    "save_pct": "sv_pct",
-}
-
-
-def _cell(value: object) -> str:
-    if value is None:
-        return ""
-    return str(value)
-
-
-def map_sidearm_row_to_msdie(
-    row: dict[str, object],
-    *,
-    season_fallback: str,
-    division_label: str,
-    conference_fallback: str,
-) -> dict[str, str]:
-    out: dict[str, str] = {}
-    for col in MSDIE_COLUMNS:
-        if col == "source_method":
-            out[col] = "conference_hub"
-            continue
-        if col == "division":
-            out[col] = division_label
-            continue
-        if col == "conference":
-            raw = row.get(SIDEARM_KEY_BY_COLUMN[col])
-            out[col] = _cell(raw) if raw not in (None, "") else conference_fallback
-            continue
-        if col == "season":
-            raw = row.get(SIDEARM_KEY_BY_COLUMN[col])
-            out[col] = _cell(raw) if raw not in (None, "") else season_fallback
-            continue
-        sk = SIDEARM_KEY_BY_COLUMN[col]
-        out[col] = _cell(row.get(sk, ""))
-    return out
 
 
 def main() -> None:
@@ -166,6 +80,9 @@ def main() -> None:
         )
         sys.exit(1)
 
+    # Big Ten frequently links from bigten.org pages while stats APIs may be
+    # hosted elsewhere (commonly big10sports.com). Keep the first pass strict
+    # to conference_url-derived host and fail loudly for discovery workflows.
     base_url = normalize_base_url(conference_url)
     season_fallback = str(args.year)
 
@@ -205,6 +122,7 @@ def main() -> None:
             season_fallback=season_fallback,
             division_label=division_label,
             conference_fallback=conf_filter,
+            source_method="conference_hub",
         )
         for raw in result["rows"]
     ]

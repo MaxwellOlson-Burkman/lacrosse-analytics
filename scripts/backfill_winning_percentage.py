@@ -3,7 +3,7 @@
 Run after the pipeline to fill winning_percentage where it's missing but record exists.
 Usage:
     python scripts/backfill_winning_percentage.py
-    python scripts/backfill_winning_percentage.py --input data/processed/team_stats_model_ready.csv
+    python scripts/backfill_winning_percentage.py --input data/processed/team/team_stats_model_ready.csv
 """
 
 from __future__ import annotations
@@ -36,7 +36,7 @@ def main() -> None:
     parser.add_argument(
         "--input",
         type=Path,
-        default=project_root / "data" / "processed" / "team_stats_model_ready.csv",
+        default=project_root / "data" / "processed" / "team" / "team_stats_model_ready.csv",
         help="Path to model-ready CSV or Parquet",
     )
     parser.add_argument("--inplace", action="store_true", help="Overwrite the file in place")

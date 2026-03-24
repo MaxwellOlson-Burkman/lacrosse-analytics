@@ -1,8 +1,8 @@
 """Combine all games and all team_stats_with_sos chunk files into single CSVs.
 
 Run from project root. Writes:
-  - data/processed/games.csv (all games from games_*_d1.csv and games_*_d2.csv)
-  - data/processed/team_stats_with_sos.csv (all team_stats_with_sos_*_d*.csv chunks)
+  - data/processed/games/games.csv (all games from games_*_d1.csv and games_*_d2.csv)
+  - data/processed/team/team_stats_with_sos.csv (all team_stats_with_sos_*_d*.csv chunks)
 
 After running, training will use team_stats_with_sos.csv when present.
 """
@@ -17,6 +17,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED = PROJECT_ROOT / "data" / "processed"
+GAMES_DIR = PROCESSED / "games"
+TEAM_DIR = PROCESSED / "team"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -29,12 +31,12 @@ def combine_games() -> Path:
     # Chunk files only: games_YYYY_d1.csv or games_YYYY_YYYY_d1.csv, same for d2
     # Exclude the output file games.csv
     pattern = "games_*_d*.csv"
-    files = sorted(PROCESSED.glob(pattern))
+    files = sorted(GAMES_DIR.glob(pattern))
     files = [f for f in files if f.name != "games.csv"]
 
     if not files:
-        logging.warning("No games_*_d*.csv files found in %s", PROCESSED)
-        return PROCESSED / "games.csv"
+        logging.warning("No games_*_d*.csv files found in %s", GAMES_DIR)
+        return GAMES_DIR / "games.csv"
 
     dfs = []
     for f in files:
@@ -49,7 +51,7 @@ def combine_games() -> Path:
     if len(combined) < before:
         logging.info("Dropped %d duplicate rows", before - len(combined))
 
-    out = PROCESSED / "games.csv"
+    out = GAMES_DIR / "games.csv"
     combined.to_csv(out, index=False)
     logging.info("Wrote %s: %d rows", out, len(combined))
     return out
@@ -60,12 +62,12 @@ def combine_team_stats_with_sos() -> Path:
     # Chunk files: team_stats_with_sos_2014_2016_d1.csv, team_stats_with_sos_2022_d2.csv, etc.
     # Exclude the combined output file team_stats_with_sos.csv
     pattern = "team_stats_with_sos_*_d*.csv"
-    files = sorted(PROCESSED.glob(pattern))
+    files = sorted(TEAM_DIR.glob(pattern))
     files = [f for f in files if f.name != "team_stats_with_sos.csv"]
 
     if not files:
-        logging.warning("No team_stats_with_sos_*_d*.csv chunk files found in %s", PROCESSED)
-        return PROCESSED / "team_stats_with_sos.csv"
+        logging.warning("No team_stats_with_sos_*_d*.csv chunk files found in %s", TEAM_DIR)
+        return TEAM_DIR / "team_stats_with_sos.csv"
 
     dfs = []
     for f in files:
@@ -79,7 +81,7 @@ def combine_team_stats_with_sos() -> Path:
     if len(combined) < before:
         logging.info("Dropped %d duplicate team-season rows", before - len(combined))
 
-    out = PROCESSED / "team_stats_with_sos.csv"
+    out = TEAM_DIR / "team_stats_with_sos.csv"
     combined.to_csv(out, index=False)
     logging.info("Wrote %s: %d rows", out, len(combined))
     return out

@@ -1,0 +1,7 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+593960,2024,D1,Big Ten,11,5,16,Virginia (3/02/24),45,,,,,44,25,14,,,,,,,,team_site_presto
+593977,2024,D1,Big Ten,11,6,16,Princeton (5/11/24),48,,,,,38,19,11,,,,,,,,team_site_presto
+594060,2024,D1,Big Ten,,,17,17,349,730,,,277-190,0,528,259,,,,,,,,team_site_presto
+593994,2024,D1,Big Ten,,,15,15,233,593,,,197-167,0,509,242,,,,,,,,team_site_presto
+593997,2024,D1,Big Ten,22,10,422,318,,0.315,,,0.444,1002,504,238,,,0.885,,,0.308,,team_site_probe_fallback
+594009,2024,D1,Big Ten,,,14,14,219,562,,,184-169,1,390,186,,,,,,,,team_site_presto

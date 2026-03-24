@@ -1,0 +1,70 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+593943,2022,D1,ACC,,,17,17,404,751,,,275-229,2,588,260,,,,,,,,team_site_presto
+593990,2022,D1,ACC,,,14,14,270,624,,,201-189,0,427,209,,,,,,,,team_site_presto
+594017,2022,D1,ACC,,,14,14,279,661,,,253-185,1,495,204,,,,,,,,team_site_presto
+593912,2022,D1,America East,5,9,18,UAlbany (3/19/22); NJIT (4/19/22),53,,,,,40,25,11,,,,,,,,team_site_presto
+593920,2022,D1,America East,8,7,22,Sacred Heart (4/16/22),57,,,,,44,24,13,,,,,,,,team_site_presto
+593992,2022,D1,America East,0,13,12,Stony Brook (4/09/22),56,,,,,37,28,11,,,,,,,,team_site_presto
+594053,2022,D1,America East,5,10,16,NJIT (4/22/22),50,,,,,42,25,12,,,,,,,,team_site_presto
+593964,2022,D1,America East,2,11,14,Quinnipiac (2/12/22); Holy Cross (4/20/22),56,,,,,40,26,12,,,,,,,,team_site_presto
+593974,2022,D1,America East,6,7,19,NJIT (4/29/22),59,,,,,39,23,11,,,,,,,,team_site_presto
+594027,2022,D1,America East,12,7,23,UMass Lowell (4/09/22),67,,,,,46,23,16,,,,,,,,team_site_presto
+594020,2022,D1,ASUN,,,15,15,254,662,,,180-187,0,433,245,,,,,,,,team_site_presto
+593910,2022,D1,ASUN,4,13,23,Hampton (2/26/22),59,,,,,41,33,17,,,,,,,,team_site_presto
+593958,2022,D1,ASUN,14,3,26,HAMPTON (4/17/22),61,,,,,51,32,23,,,,,,,,team_site_presto
+593982,2022,D1,ASUN,,,15,15,253,556,,,212-199,1,397,267,,,,,,,,team_site_presto
+594051,2022,D1,ASUN,,,14,14,314,600,,,210-184,1,443,214,,,,,,,,team_site_presto
+594040,2022,D1,Atlantic 10,7,8,25,HAMPTON (4/15/22),57,,,,,42,23,20,,,,,,,,team_site_presto
+593952,2022,D1,Atlantic 10,7,6,22,Canisius (2/12/22); LIU (4/23/22),74,,,,,48,18,14,,,,,,,,team_site_presto
+593979,2022,D1,Atlantic 10,,,14,14,255,577,,,213-155,0,460,212,,,,,,,,team_site_presto
+594005,2022,D1,Atlantic 10,,,16,16,369,694,,,228-211,1,521,245,,,,,,,,team_site_presto
+594069,2022,D1,Atlantic 10,14,4,19,Mount St. Mary&#39;s (3/19/22),62,,,,,39,23,12,,,,,,,,team_site_presto
+593908,2022,D1,Atlantic 10,11,4,21,Hampton (3/05/22),54,,,,,43,20,16,,,,,,,,team_site_presto
+593936,2022,D1,Big East,9,6,20,Canisius (2/27/22),58,,,,,37,22,12,,,,,,,,team_site_presto
+594056,2022,D1,Big East,15,2,23,St. John&#39;s (4/23/22),63,,,,,53,22,22,,,,,,,,team_site_presto
+593972,2022,D1,Big East,,,15,15,239,600,,,231-173,1,444,273,,,,,,,,team_site_presto
+594001,2022,D1,Big East,,,14,14,235,594,,,179-221,0,397,228,,,,,,,,team_site_presto
+594011,2022,D1,Big East,,,14,14,214,478,,,153-274,0,326,239,,,,,,,,team_site_presto
+594029,2022,D1,Big East,9,6,22,St. John&#39;s (4/02/22),64,,,,,39,20,12,,,,,,,,team_site_presto
+593960,2022,D1,Big Ten,7,9,18,TOWSON (2/11/22),54,,,,,40,25,12,,,,,,,,team_site_presto
+593977,2022,D1,Big Ten,18,0,24,Albany (3/12/22),53,,,,,49,22,15,,,,,,,,team_site_presto
+594060,2022,D1,Big Ten,,,15,15,340,711,,,251-179,2,487,231,,,,,,,,team_site_presto
+593994,2022,D1,Big Ten,,,7,7,145,287,,,99-89,0,222,90,,,,,,,,team_site_presto
+594009,2022,D1,Big Ten,,,19,19,425,896,,,266-295,2,609,253,,,,,,,,team_site_presto
+593934,2022,D1,CAA,,,19,19,404,807,,,241-284,2,568,259,,,,,,,,team_site_presto
+593940,2022,D1,CAA,,,14,14,275,525,,,151-248,1,411,226,,,,,,,,team_site_presto
+593946,2022,D1,CAA,7,7,19,Sacred Heart (3/01/22),54,,,,,43,22,14,,,,,,,,team_site_presto
+593948,2022,D1,CAA,0,10,8,HPU(1)~1 (4/15/22),29,,,,,30,37,13,,,,,,,,team_site_presto
+593954,2022,D1,CAA,6,9,21,Sacred Heart (2/12/22),44,,,,,43,24,14,,,,,,,,team_site_presto
+593985,2022,D1,CAA,5,7,15,NJIT (3/11/22),49,,,,,39,21,14,,,,,,,,team_site_presto
+594015,2022,D1,CAA,9,5,20,NJIT (4/09/22),55,,,,,45,22,14,,,,,,,,team_site_presto
+594071,2022,D1,CAA,7,9,18,UMASS (5/05/22),57,,,,,42,23,12,,,,,,,,team_site_presto
+593918,2022,D1,Ivy League,,,16,16,335,730,,,217-233,0,456,256,,,,,,,,team_site_presto
+593931,2022,D1,Ivy League,14,5,18,Princeton Tigers (4/30/22),56,,,,,48,21,13,,,,,,,,team_site_presto
+593933,2022,D1,Ivy League,,,13,13,194,535,,,173-149,1,419,243,,,,,,,,team_site_presto
+593949,2022,D1,Ivy League,8,5,19,Dartmouth (3/26/22); Princeton (4/23/22),51,,,,,45,23,17,,,,,,,,team_site_presto
+593999,2022,D1,Ivy League,11,5,20,Princeton Tigers (3/19/22),52,,,,,46,24,13,,,,,,,,team_site_presto
+594066,2022,D1,Ivy League,,,15,15,330,689,,,216-223,1,569,237,,,,,,,,team_site_presto
+594037,2022,D1,Ivy League,12,5,23,Dartmouth (4/09/22),62,,,,,56,22,16,,,,,,,,team_site_presto
+593925,2022,D1,MAAC,2,12,13,Hobart (2/12/22); Bellarmine (2/19/22),52,,,,,38,26,10,,,,,,,,team_site_presto
+593968,2022,D1,MAAC,8,7,14,VMI (2/16/22); Canisius (4/02/22),41,,,,,34,25,13,,,,,,,,team_site_presto
+593970,2022,D1,MAAC,7,8,17,Quinnipiac (4/02/22),56,,,,,41,21,15,,,,,,,,team_site_presto
+594042,2022,D1,MAAC,6,6,16,UML (3/05/22),47,,,,,42,21,9,,,,,,,,team_site_presto
+593988,2022,D1,MAAC,5,10,17,HAMPTON (2/19/22),60,,,,,44,28,13,,,,,,,,team_site_presto
+594003,2022,D1,MAAC,,,13,13,205,545,,,190-175,1,410,228,,,,,,,,team_site_presto
+594068,2022,D1,MAAC,,,13,13,221,476,,,148-222,1,350,214,,,,,,,,team_site_presto
+594012,2022,D1,MAAC,6,9,15,Quinnipiac (4/30/22),57,,,,,53,22,12,,,,,,,,team_site_presto
+593927,2022,D1,NEC,3,10,22,VMI (3/26/22),52,,,,,50,26,10,,,,,,,,team_site_presto
+593938,2022,D1,NEC,2,9,16,VMI (3/12/22),50,,,,,40,28,11,,,,,,,,team_site_presto
+593904,2022,D1,NEC,7,8,19,Hobart (4/23/22),47,,,,,57,31,12,,,,,,,,team_site_presto
+594007,2022,D1,NEC,10,6,23,Canisius (3/09/22),51,,,,,45,25,18,,,,,,,,team_site_presto
+594036,2022,D1,NEC,3,9,14,SHU22 (4/02/22),51,,,,,29,22,14,,,,,,,,team_site_presto
+594022,2022,D1,Patriot,,,16,16,349,746,,,244-218,3,505,239,,,,,,,,team_site_presto
+593915,2022,D1,Patriot,,,17,17,365,754,,,244-218,0,618,319,,,,,,,,team_site_presto
+593922,2022,D1,Patriot,,,15,15,330,677,,,205-215,1,557,246,,,,,,,,team_site_presto
+593929,2022,D1,Patriot,4,9,14,Lafayette (3/19/22); Holy Cross (4/29/22),46,,,,,32,22,10,,,,,,,,team_site_presto
+593956,2022,D1,Patriot,1,13,15,UMass Lowell (4/20/22),48,,,,,41,23,11,,,,,,,,team_site_presto
+593962,2022,D1,Patriot,4,11,21,Holy Cross (4/09/22),52,,,,,36,21,12,,,,,,,,team_site_presto
+594058,2022,D1,Patriot,,,15,15,271,617,,,228-138,0,516,261,,,,,,,,team_site_presto
+593966,2022,D1,Patriot,8,8,18,Navy (4/09/22),63,,,,,43,25,14,,,,,,,,team_site_presto
+594025,2022,D1,Patriot,9,6,15,Mercer (2/12/22),64,,,,,46,23,17,,,,,,,,team_site_presto

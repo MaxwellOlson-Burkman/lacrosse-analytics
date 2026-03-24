@@ -26,7 +26,7 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED = PROJECT_ROOT / "data" / "processed"
-SEASONS_PATH = PROCESSED / "team_stats_model_ready.csv"
+SEASONS_PATH = PROCESSED / "team" / "team_stats_model_ready.csv"
 
 
 def iter_year_div_combos(
@@ -96,7 +96,7 @@ def main() -> None:
     patch_commands: list[list[str]] = []
 
     for year, div in combos:
-        games_path = PROCESSED / f"games_{year}_d{div}.csv"
+        games_path = PROCESSED / "games" / f"games_{year}_d{div}.csv"
         seasons_slice = seasons[(seasons["academic_year"] == year) & (seasons["division"] == div)].copy()
 
         if seasons_slice.empty:

@@ -1,0 +1,65 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+593943,2021,D1,ACC,,,17,17,378,712,,,273-195,0,542,256,,,,,,,,team_site_presto
+593990,2021,D1,ACC,,,16,16,401,800,,,261-223,6,566,200,,,,,,,,team_site_presto
+594017,2021,D1,ACC,,,13,13,276,579,,,206-193,0,423,179,,,,,,,,team_site_presto
+593912,2021,D1,America East,5,4,11,NJIT (4/03/21); NJIT (3/06/21); UMass Lowell (5/02/21),38,,,,,38,25,13,,,,,,,,team_site_presto
+593920,2021,D1,America East,9,4,20,MER-M (3/06/21); Sacred Heart (4/24/21); LIU (4/27/21),78,,,,,49,20,12,,,,,,,,team_site_presto
+507834,2021,D1,America East,2,5,14,NJIT (4/17/21),43,,,,,35,21,14,,,,,,,,team_site_presto
+593992,2021,D1,America East,1,10,14,UMass Lowell (3/27/21),45,,,,,36,28,12,,,,,,,,team_site_presto
+594053,2021,D1,America East,8,5,19,Binghamton (3/20/21),47,,,,,55,24,18,,,,,,,,team_site_presto
+593964,2021,D1,America East,1,8,12,HARTFORD (3/13/21),47,,,,,50,26,11,,,,,,,,team_site_presto
+593974,2021,D1,America East,8,3,14,Stony Brook (4/24/21); NJIT (5/01/21),48,,,,,34,25,9,,,,,,,,team_site_presto
+594027,2021,D1,America East,9,5,21,UMass Lowell (3/03/21),76,,,,,45,25,10,,,,,,,,team_site_presto
+594020,2021,D1,ASUN,,,13,13,181,509,,,150-163,1,363,223,,,,,,,,team_site_presto
+593910,2021,D1,ASUN,5,10,12,VMI (3/09/21),43,,,,,37,23,17,,,,,,,,team_site_presto
+593958,2021,D1,ASUN,7,7,19,Bellarmine (2/10/21),46,,,,,50,27,11,,,,,,,,team_site_presto
+593982,2021,D1,ASUN,,,13,13,223,493,,,202-143,2,400,267,,,,,,,,team_site_presto
+594051,2021,D1,ASUN,,,11,11,173,400,,,136-139,0,310,191,,,,,,,,team_site_presto
+594040,2021,D1,Atlantic 10,8,6,21,Robert Morris (2/13/21),48,,,,,39,25,17,,,,,,,,team_site_presto
+593952,2021,D1,Atlantic 10,6,3,14,Merrimack (4/24/21); Sacred Heart (5/01/21),59,,,,,46,21,12,,,,,,,,team_site_presto
+593979,2021,D1,Atlantic 10,,,10,10,189,361,,,136-120,0,324,181,,,,,,,,team_site_presto
+594005,2021,D1,Atlantic 10,,,13,13,270,520,,,175-154,0,388,216,,,,,,,,team_site_presto
+594069,2021,D1,Atlantic 10,9,4,19,LIU (5/05/21),55,,,,,52,28,17,,,,,,,,team_site_presto
+593908,2021,D1,Atlantic 10,5,5,13,Quinnipiac (3/06/21),39,,,,,32,20,11,,,,,,,,team_site_presto
+593936,2021,D1,Big East,12,5,23,Providence (2/27/21),64,,,,,46,18,11,,,,,,,,team_site_presto
+594056,2021,D1,Big East,13,3,20,Marquette (3/06/21); St. John&#39;s (4/04/21),63,,,,,51,26,16,,,,,,,,team_site_presto
+593972,2021,D1,Big East,,,12,12,171,469,,,115-185,0,328,180,,,,,,,,team_site_presto
+594001,2021,D1,Big East,,,13,13,202,602,,,169-174,0,382,203,,,,,,,,team_site_presto
+594011,2021,D1,Big East,,,11,11,159,374,,,99-232,0,281,188,,,,,,,,team_site_presto
+594029,2021,D1,Big East,7,5,23,St. John&#39;s (4/17/21),59,,,,,38,21,15,,,,,,,,team_site_presto
+593960,2021,D1,Big Ten,4,9,15,Penn State (5/01/21),46,,,,,39,19,11,,,,,,,,team_site_presto
+593977,2021,D1,Big Ten,15,1,20,Michigan (2/20/21),49,,,,,44,23,14,,,,,,,,team_site_presto
+594060,2021,D1,Big Ten,,,12,12,196,457,,,183-163,1,353,176,,,,,,,,team_site_presto
+594009,2021,D1,Big Ten,,,13,13,289,576,,,148-230,1,383,163,,,,,,,,team_site_presto
+593934,2021,D1,CAA,,,13,13,274,559,,,173-173,1,446,196,,,,,,,,team_site_presto
+593940,2021,D1,CAA,,,13,13,275,591,,,170-184,3,430,199,,,,,,,,team_site_presto
+593946,2021,D1,CAA,2,9,17,Providence (3/03/21),54,,,,,37,22,11,,,,,,,,team_site_presto
+593954,2021,D1,CAA,8,6,20,Stony Brook (2/27/21),48,,,,,43,29,11,,,,,,,,team_site_presto
+593985,2021,D1,CAA,8,3,14,Manhattan (5/08/21),51,,,,,49,23,11,,,,,,,,team_site_presto
+594015,2021,D1,CAA,8,6,22,Binghamton (4/16/21),58,,,,,46,17,12,,,,,,,,team_site_presto
+594071,2021,D1,CAA,6,8,12,Fairfield (4/10/21); DELAWARE (3/20/21),49,,,,,40,26,17,,,,,,,,team_site_presto
+593918,2021,D1,Ivy League,,,1,1,18,48,,,16-5,0,34,18,,,,,,,,team_site_presto
+593933,2021,D1,Ivy League,,,1,1,16,37,,,18-10,0,34,26,,,,,,,,team_site_presto
+593999,2021,D1,Ivy League,1,0,23,Cabrini (4/23/21),48,,,,,43,26,7,,,,,,,,team_site_presto
+593925,2021,D1,MAAC,5,5,14,Marist (4/30/21),52,,,,,37,27,12,,,,,,,,team_site_presto
+593968,2021,D1,MAAC,5,5,13,Siena (4/17/21),50,,,,,34,22,11,,,,,,,,team_site_presto
+593970,2021,D1,MAAC,3,1,15,DETMERCY (3/06/21),58,,,,,32,17,11,,,,,,,,team_site_presto
+594042,2021,D1,MAAC,5,5,16,UMass Lowell (2/27/21),56,,,,,43,22,17,,,,,,,,team_site_presto
+593988,2021,D1,MAAC,4,9,20,WAGNER (5/07/21),53,,,,,48,27,13,,,,,,,,team_site_presto
+594003,2021,D1,MAAC,,,7,7,99,291,,,115-44,0,218,141,,,,,,,,team_site_presto
+594068,2021,D1,MAAC,,,13,13,192,550,,,138-212,0,349,188,,,,,,,,team_site_presto
+594012,2021,D1,MAAC,0,8,12,Manhattan (4/17/21),55,,,,,44,26,18,,,,,,,,team_site_presto
+593927,2021,D1,NEC,3,7,16,VMI (4/03/21),52,,,,,39,30,15,,,,,,,,team_site_presto
+593938,2021,D1,NEC,3,4,13,Canisius (4/02/21),49,,,,,43,23,12,,,,,,,,team_site_presto
+593904,2021,D1,NEC,6,5,19,Wagner (2/27/21),51,,,,,40,24,11,,,,,,,,team_site_presto
+594007,2021,D1,NEC,7,6,17,Bellarmine (3/02/21); Colgate (2/21/21),53,,,,,42,25,14,,,,,,,,team_site_presto
+594036,2021,D1,NEC,1,9,13,LIU (3/27/21),53,,,,,34,29,9,,,,,,,,team_site_presto
+594022,2021,D1,Patriot,,,11,11,200,468,,,125-144,0,366,159,,,,,,,,team_site_presto
+593915,2021,D1,Patriot,,,11,11,204,460,,,113-162,0,338,189,,,,,,,,team_site_presto
+593922,2021,D1,Patriot,,,8,8,135,339,,,92-122,0,268,120,,,,,,,,team_site_presto
+593929,2021,D1,Patriot,3,7,14,Robert Morris (2/21/21),43,,,,,51,21,10,,,,,,,,team_site_presto
+593956,2021,D1,Patriot,2,4,11,Sacred Heart (2/27/21); Colgate (3/06/21),40,,,,,29,25,12,,,,,,,,team_site_presto
+593962,2021,D1,Patriot,0,11,12,VMI (3/06/21),41,,,,,42,27,13,,,,,,,,team_site_presto
+594058,2021,D1,Patriot,,,12,12,272,539,,,248-84,1,503,188,,,,,,,,team_site_presto
+593966,2021,D1,Patriot,10,6,24,Bucknell (3/20/21),57,,,,,45,20,13,,,,,,,,team_site_presto
+594025,2021,D1,Patriot,6,3,14,Loyola Maryland (4/17/21); Lafayette (5/01/21),42,,,,,43,23,11,,,,,,,,team_site_presto

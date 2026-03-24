@@ -1,0 +1,67 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+594111,2023,D2,CACC,2,10,18,Dist. Columbia (2/18/23),68,,,,,45,39,16,,,,,,,,team_site_presto
+594245,2023,D2,CACC,11,4,17,Dist. Columbia (3/18/23),55,,,,,43,38,18,,,,,,,,team_site_presto
+594185,2023,D2,CACC,3,9,20,Alderson Broaddus (2/19/23),59,,,,,56,29,11,,,,,,,,team_site_presto
+594149,2023,D2,CACC,12,6,22,Dist. Columbia (3/04/23),68,,,,,61,25,21,,,,,,,,team_site_presto
+594127,2023,D2,CACC,10,6,24,Alderson Broaddus (2/25/23),59,,,,,59,23,19,,,,,,,,team_site_presto
+594192,2023,D2,Conference Carolinas,11,7,21,Young Harris (2/11/23),62,,,,,51,33,16,,,,,,,,team_site_presto
+594138,2023,D2,Conference Carolinas,10,5,21,Emmanuel (GA) (4/05/23),63,,,,,51,26,15,,,,,,,,team_site_presto
+594145,2023,D2,Conference Carolinas,4,11,25,Shorter (2/18/23),51,,,,,50,31,20,,,,,,,,team_site_presto
+594170,2023,D2,Conference Carolinas,2,13,13,Shorter (3/01/23); Belmont Abbey (4/05/23),44,,,,,36,33,12,,,,,,,,team_site_presto
+594155,2023,D2,Conference Carolinas,0,14,14,Malone (2/11/23),50,,,,,39,44,13,,,,,,,,team_site_presto
+594241,2023,D2,Conference Carolinas,7,8,22,Emmanuel (4/24/23),69,,,,,43,26,12,,,,,,,,team_site_presto
+594151,2023,D2,Conference Carolinas,10,7,24,Alderson Broaddus (3/13/23),70,,,,,48,30,20,,,,,,,,team_site_presto
+110594,2023,D2,Conference Carolinas,16,2,26,Brevard (3/21/23),78,,,,,62,25,16,,,,,,,,team_site_presto
+594165,2023,D2,Conference Carolinas,3,12,23,Warren Wilson (4/03/23),65,,,,,40,34,14,,,,,,,,team_site_presto
+594168,2023,D2,Conference Carolinas,3,13,17,Shorter (3/25/23),59,,,,,59,33,25,,,,,,,,team_site_presto
+594214,2023,D2,ECC,4,11,18,Dist. Columbia (4/08/23); Bridgeport (3/16/23),56,,,,,46,34,12,,,,,,,,team_site_presto
+594187,2023,D2,ECC,13,5,32,Alderson Broaddus (4/25/23),76,,,,,61,22,21,,,,,,,,team_site_presto
+594233,2023,D2,ECC,14,4,26,D&#39;Youville (3/26/23),62,,,,,55,24,19,,,,,,,,team_site_presto
+594096,2023,D2,ECC,9,9,30,District of Columbia (4/22/23),74,,,,,58,30,20,,,,,,,,team_site_presto
+594163,2023,D2,ECC,9,5,27,UDC (4/01/23),67,,,,,50,27,17,,,,,,,,team_site_presto
+594114,2023,D2,G-MAC,5,8,15,CSU-Pueblo (2/12/23); Quincy (4/22/23),43,,,,,50,29,13,,,,,,,,team_site_presto
+594081,2023,D2,G-MAC,3,14,22,Thomas More Universi (2/18/23); Alderson Broaddus (4/03/23),56,,,,,54,30,18,,,,,,,,team_site_presto
+594143,2023,D2,G-MAC,7,9,23,Malone (4/29/23),66,,,,,51,26,24,,,,,,,,team_site_presto
+594218,2023,D2,G-MAC,7,8,21,Thiel (3/01/23),68,,,,,46,25,15,,,,,,,,team_site_presto
+571460,2023,D2,G-MAC,16,3,28,Alderson Broaddus (3/27/23),85,,,,,61,26,17,,,,,,,,team_site_presto
+594159,2023,D2,G-MAC,12,5,31,Davis & Elkins (4/29/23),85,,,,,57,26,16,,,,,,,,team_site_presto
+594161,2023,D2,G-MAC,6,10,22,Malone (4/12/23),72,,,,,53,30,18,,,,,,,,team_site_presto
+594109,2023,D2,G-MAC,5,10,29,D&#39;Youville (3/01/23),65,,,,,35,26,13,,,,,,,,team_site_presto
+594237,2023,D2,GLVC,10,6,21,Wheeling (4/02/23),54,,,,,36,30,16,,,,,,,,team_site_presto
+594094,2023,D2,GLVC,8,6,17,Walsh (2/18/23),58,,,,,45,24,19,,,,,,,,team_site_presto
+594211,2023,D2,GLVC,8,9,30,Monmouth College (3/01/23),74,,,,,63,28,16,,,,,,,,team_site_presto
+594130,2023,D2,GLVC,10,5,22,CSU-Pueblo (2/10/23),63,,,,,45,27,20,,,,,,,,team_site_presto
+594091,2023,D2,GLVC,12,4,21,Lake Erie (2/04/23); Davenport (4/01/23),70,,,,,67,19,19,,,,,,,,team_site_presto
+594247,2023,D2,NE10,16,4,24,Georgian Court (3/01/23),58,,,,,44,26,26,,,,,,,,team_site_presto
+594196,2023,D2,NE10,2,13,17,St. Thomas Aquinas (2/18/23),52,,,,,39,29,21,,,,,,,,team_site_presto
+594199,2023,D2,NE10,4,10,28,Franklin Pierce (3/18/23),72,,,,,53,24,18,,,,,,,,team_site_presto
+594078,2023,D2,NE10,10,6,20,St. Michael&#39;s (4/19/23),60,,,,,43,25,13,,,,,,,,team_site_presto
+594089,2023,D2,NE10,5,9,24,D&#39;Youville (2/11/23),50,,,,,49,25,16,,,,,,,,team_site_presto
+546947,2023,D2,NE10,17,1,22,Franklin Pierce (4/22/23),55,,,,,43,25,12,,,,,,,,team_site_presto
+594102,2023,D2,NE10,11,4,20,Assumption (4/11/23),56,,,,,47,25,19,,,,,,,,team_site_presto
+594207,2023,D2,NE10,6,7,25,Bridgeport (3/18/23),58,,,,,58,31,21,,,,,,,,team_site_presto
+594099,2023,D2,NE10,6,6,18,Saint Rose (4/12/23),57,,,,,41,25,13,,,,,,,,team_site_presto
+594201,2023,D2,NE10,10,5,23,American Int&#39;l (4/11/23),55,,,,,47,25,14,,,,,,,,team_site_presto
+594194,2023,D2,Peach Belt,10,7,23,Shorter (4/01/23),80,,,,,54,28,24,,,,,,,,team_site_presto
+594216,2023,D2,Peach Belt,7,10,24,Shorter (4/08/23),69,,,,,45,30,20,,,,,,,,team_site_presto
+594190,2023,D2,Peach Belt,13,4,25,Tusculum (3/07/23),72,,,,,65,24,26,,,,,,,,team_site_presto
+594174,2023,D2,Peach Belt,11,7,26,Shorter (4/15/23); Shorter (4/28/23),80,,,,,61,32,15,,,,,,,,team_site_presto
+594209,2023,D2,RMAC,2,8,19,Missouri Baptist (3/20/23),57,,,,,31,26,12,,,,,,,,team_site_presto
+594244,2023,D2,RMAC,16,2,27,Adams State (4/30/23),86,,,,,64,23,14,,,,,,,,team_site_presto
+571483,2023,D2,RMAC,1,13,11,Adams State (4/01/23); Westminster College (4/07/23),39,,,,,30,30,14,,,,,,,,team_site_presto
+594172,2023,D2,RMAC,8,8,25,CSU Pueblo (4/07/23),54,,,,,58,34,10,,,,,,,,team_site_presto
+594107,2023,D2,SAC,12,6,32,CHOWAN (2/04/23),84,,,,,68,27,19,,,,,,,,team_site_presto
+110631,2023,D2,SAC,3,13,22,Spalding (2/24/23),70,,,,,66,39,17,,,,,,,,team_site_presto
+594117,2023,D2,SAC,3,10,16,Mars Hill (3/11/23),52,,,,,43,27,12,,,,,,,,team_site_presto
+594239,2023,D2,SAC,18,3,21,Mars Hill (3/01/23); Tusculum (4/08/23),64,,,,,43,22,17,,,,,,,,team_site_presto
+594123,2023,D2,SAC,7,9,22,Lees-McRae (2/04/23),64,,,,,53,29,23,,,,,,,,team_site_presto
+594183,2023,D2,SAC,11,5,22,Tusculum (4/15/23),52,,,,,50,27,17,,,,,,,,team_site_presto
+530117,2023,D2,SAC,2,12,17,Hampton (2/19/23),47,,,,,49,28,24,,,,,,,,team_site_presto
+594136,2023,D2,SAC,12,3,24,Barton (2/04/23); Coker (4/15/23),74,,,,,66,24,18,,,,,,,,team_site_presto
+594178,2023,D2,Sunshine State,5,9,18,Montevallo (2/17/23); UAH (2/19/23),52,,,,,54,22,16,,,,,,,,team_site_presto
+594087,2023,D2,Sunshine State,13,5,28,Flagler (3/17/23),82,,,,,65,25,26,,,,,,,,team_site_presto
+594085,2023,D2,Sunshine State,7,7,26,Emmanuel (GA) (3/08/23),66,,,,,54,26,17,,,,,,,,team_site_presto
+594157,2023,D2,Sunshine State,7,9,25,Davis & Elkins (3/09/23),69,,,,,61,33,18,,,,,,,,team_site_presto
+594176,2023,D2,Sunshine State,2,12,23,Quincy (3/17/23),75,,,,,47,29,15,,,,,,,,team_site_presto
+594105,2023,D2,Sunshine State,15,2,24,Saint Leo (4/15/23),55,,,,,42,23,16,,,,,,,,team_site_presto
+594204,2023,D2,Sunshine State,9,7,26,Shorter (3/15/23),62,,,,,49,36,13,,,,,,,,team_site_presto

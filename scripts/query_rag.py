@@ -40,6 +40,8 @@ def main() -> None:
         print(f"Chroma index not found at {chroma_path}. Run: python scripts/build_rag_index.py", file=sys.stderr)
         sys.exit(1)
 
+    reports_dir = PROJECT_ROOT / config.get("reports_dir", "models/team_reports")
+    team_aliases_path = PROJECT_ROOT / config.get("team_aliases_path", "config/team_aliases.yaml")
     embedding_model = config.get("embedding_model", "nomic-embed-text")
     llm_model = config.get("llm_model", "llama3.2")
     collection_name = config.get("collection_name", "lacrosse_team_reports")
@@ -47,12 +49,14 @@ def main() -> None:
 
     result = query(
         question,
-        chroma_path,
+        str(chroma_path),
         embedding_model=embedding_model,
         llm_model=llm_model,
         collection_name=collection_name,
         k=k,
         return_sources=args.sources,
+        reports_dir=reports_dir,
+        team_aliases_path=team_aliases_path,
     )
     if args.sources:
         answer, docs = result

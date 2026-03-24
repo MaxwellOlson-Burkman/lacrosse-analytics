@@ -1,0 +1,72 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+594111,2025,D2,CACC,0,12,11,American Internation (3/10/25),42,,,,,45,31,14,,,,,,,,team_site_presto
+594245,2025,D2,CACC,7,6,18,Holy Family (3/29/25),54,,,,,43,22,12,,,,,,,,team_site_presto
+594185,2025,D2,CACC,4,9,15,Dist. Columbia (2/16/25); Caldwell (4/02/25),52,,,,,45,31,16,,,,,,,,team_site_presto
+594149,2025,D2,CACC,12,7,22,Holy Family (4/25/25),53,,,,,53,32,18,,,,,,,,team_site_presto
+594073,2025,D2,CACC,9,7,22,Rosemont (2/26/25),56,,,,,55,39,20,,,,,,,,team_site_presto
+594127,2025,D2,CACC,9,7,24,Dist. Columbia (3/18/25),55,,,,,58,30,21,,,,,,,,team_site_presto
+594192,2025,D2,Conference Carolinas,5,10,23,Lees-McRae (4/05/25),62,,,,,47,26,12,,,,,,,,team_site_presto
+594138,2025,D2,Conference Carolinas,11,4,21,Lees-McRae (4/02/25),58,,,,,41,24,13,,,,,,,,team_site_presto
+594145,2025,D2,Conference Carolinas,1,11,13,TROJANM (3/19/25); Young Harris (4/05/25),41,,,,,41,31,17,,,,,,,,team_site_presto
+594170,2025,D2,Conference Carolinas,8,7,24,Davis Elkins (2/09/25),57,,,,,46,28,24,,,,,,,,team_site_presto
+594155,2025,D2,Conference Carolinas,3,10,23,Davis & Elkins (3/01/25),51,,,,,44,28,11,,,,,,,,team_site_presto
+594241,2025,D2,Conference Carolinas,7,7,25,Emmanuel (4/12/25),67,,,,,55,27,18,,,,,,,,team_site_presto
+594151,2025,D2,Conference Carolinas,12,6,30,Chowan (3/29/25),71,,,,,45,29,20,,,,,,,,team_site_presto
+110594,2025,D2,Conference Carolinas,15,4,34,Brevard (4/18/25),74,,,,,69,32,23,,,,,,,,team_site_presto
+594165,2025,D2,Conference Carolinas,0,3,4,Davis Elkins (2/08/25),25,,,,,27,30,5,,,,,,,,team_site_presto
+594168,2025,D2,Conference Carolinas,6,9,21,MONT (4/18/25),54,,,,,54,30,18,,,,,,,,team_site_presto
+594214,2025,D2,ECC,6,8,27,Davis & Elkins (2/01/25),63,,,,,58,29,22,,,,,,,,team_site_presto
+594187,2025,D2,ECC,7,9,27,Dist. Columbia (3/26/25),65,,,,,69,27,18,,,,,,,,team_site_presto
+594233,2025,D2,ECC,10,4,23,Dist. Columbia (4/05/25),55,,,,,56,27,21,,,,,,,,team_site_presto
+594096,2025,D2,ECC,16,5,29,Dist. of Columbia (4/19/25),67,,,,,72,26,24,,,,,,,,team_site_presto
+594163,2025,D2,ECC,6,8,25,Davis & Elkins (3/04/25),59,,,,,55,28,18,,,,,,,,team_site_presto
+594114,2025,D2,G-MAC,6,9,26,Davis & Elkins (4/12/25),69,,,,,54,26,12,,,,,,,,team_site_presto
+594081,2025,D2,G-MAC,2,15,13,Thomas More (4/05/25); Shorter University (2/08/25),51,,,,,49,35,17,,,,,,,,team_site_presto
+594143,2025,D2,G-MAC,7,7,20,Davis & Elkins (3/15/25),56,,,,,37,24,15,,,,,,,,team_site_presto
+594218,2025,D2,G-MAC,5,10,24,Davis & Elkins (3/08/25),64,,,,,47,33,14,,,,,,,,team_site_presto
+571460,2025,D2,G-MAC,2,11,22,Hampton (3/02/25),62,,,,,35,23,13,,,,,,,,team_site_presto
+594159,2025,D2,G-MAC,18,2,33,Davis & Elkins (3/25/25),83,,,,,67,22,26,,,,,,,,team_site_presto
+594076,2025,D2,G-MAC,3,9,15,Davis & Elkins (3/22/25),54,,,,,49,35,13,,,,,,,,team_site_presto
+594161,2025,D2,G-MAC,10,8,24,Davis & Elkins (4/16/25),73,,,,,51,29,14,,,,,,,,team_site_presto
+594109,2025,D2,G-MAC,8,7,23,Davis & Elkins (4/22/25),64,,,,,47,31,23,,,,,,,,team_site_presto
+594237,2025,D2,GLVC,12,5,23,WJC (4/19/25); Tiffin (2/25/25),66,,,,,50,27,16,,,,,,,,team_site_presto
+594094,2025,D2,GLVC,14,5,24,Davenport (2/15/25),70,,,,,55,23,21,,,,,,,,team_site_presto
+594211,2025,D2,GLVC,4,7,21,Northwood (2/11/25),55,,,,,54,31,13,,,,,,,,team_site_presto
+594130,2025,D2,GLVC,8,6,21,William Jewell (4/12/25),65,,,,,53,24,18,,,,,,,,team_site_presto
+594091,2025,D2,GLVC,7,8,19,Davenport (2/01/25),58,,,,,47,29,16,,,,,,,,team_site_presto
+594231,2025,D2,GLVC,2,12,13,Chowan (2/09/25); MALONE (2/14/25),59,,,,,57,30,14,,,,,,,,team_site_presto
+594247,2025,D2,NE10,19,1,27,Southern N.H. (3/29/25),69,,,,,54,24,18,,,,,,,,team_site_presto
+594196,2025,D2,NE10,2,11,18,Caldwell (3/10/25),52,,,,,42,27,19,,,,,,,,team_site_presto
+594199,2025,D2,NE10,10,4,27,Caldwell (2/23/25),78,,,,,51,31,18,,,,,,,,team_site_presto
+594078,2025,D2,NE10,8,7,16,Bridgeport (3/05/25); Southern N.H. (4/02/25); American Internation (4/05/25),55,,,,,42,28,13,,,,,,,,team_site_presto
+594089,2025,D2,NE10,2,10,13,American Internation (3/26/25),45,,,,,41,28,14,,,,,,,,team_site_presto
+546947,2025,D2,NE10,9,6,11,Canisius (2/18/25); Cleveland State (3/22/25),34,,,,,30,24,10,,,,,,,,team_site_presto
+594102,2025,D2,NE10,11,5,24,Georgian Court (3/05/25),67,,,,,71,24,20,,,,,,,,team_site_presto
+594207,2025,D2,NE10,7,6,23,D&#39;Youville (2/28/25),52,,,,,60,27,21,,,,,,,,team_site_presto
+594099,2025,D2,NE10,5,9,15,Felician (2/10/25); American Internation (4/19/25),53,,,,,48,29,15,,,,,,,,team_site_presto
+594201,2025,D2,NE10,14,2,19,American Int&#39;l (4/09/25),54,,,,,54,24,15,,,,,,,,team_site_presto
+594194,2025,D2,Peach Belt,2,14,17,WJC (3/18/25),59,,,,,55,29,16,,,,,,,,team_site_presto
+594216,2025,D2,Peach Belt,14,3,17,Westminster (UT) (2/23/25); UAH (4/05/25),52,,,,,41,20,27,,,,,,,,team_site_presto
+594190,2025,D2,Peach Belt,9,7,26,Emmanuel (GA) (2/05/25),57,,,,,53,27,17,,,,,,,,team_site_presto
+594174,2025,D2,Peach Belt,10,6,27,Emory & Henry (2/07/25),71,,,,,64,33,19,,,,,,,,team_site_presto
+594226,2025,D2,Peach Belt,3,11,17,Davis & Elkins (2/22/25),54,,,,,60,38,19,,,,,,,,team_site_presto
+594209,2025,D2,RMAC,0,8,13,Dominican (Cal.) (3/13/25),40,,,,,24,26,17,,,,,,,,team_site_presto
+594244,2025,D2,RMAC,13,4,22,Adams State (4/03/25); Dominican (Cal.) (4/12/25); Dominican (CA) (4/24/25),60,,,,,51,22,17,,,,,,,,team_site_presto
+594224,2025,D2,RMAC,8,7,23,Adams St. (3/30/25),61,,,,,47,23,20,,,,,,,,team_site_presto
+594228,2025,D2,RMAC,2,10,23,Adams St. (3/13/25),53,,,,,54,26,16,,,,,,,,team_site_presto
+594172,2025,D2,RMAC,7,7,22,DUC (3/30/25),54,,,,,45,34,14,,,,,,,,team_site_presto
+594107,2025,D2,SAC,13,5,31,Emory & Henry (3/01/25),89,,,,,65,24,21,,,,,,,,team_site_presto
+110631,2025,D2,SAC,2,13,14,Pitt.-Bradford (3/04/25),43,,,,,41,40,16,,,,,,,,team_site_presto
+594117,2025,D2,SAC,9,7,22,Emory & Henry (3/08/25),71,,,,,61,24,14,,,,,,,,team_site_presto
+594239,2025,D2,SAC,14,4,25,Tusculum (4/12/25),68,,,,,65,17,20,,,,,,,,team_site_presto
+594123,2025,D2,SAC,4,10,13,Mars Hill (3/01/25),50,,,,,40,24,20,,,,,,,,team_site_presto
+594183,2025,D2,SAC,10,7,27,Emory & Henry (3/15/25),73,,,,,52,25,16,,,,,,,,team_site_presto
+530117,2025,D2,SAC,3,11,15,Hampton (3/18/25),54,,,,,45,24,12,,,,,,,,team_site_presto
+594136,2025,D2,SAC,15,5,28,Tusculum (3/15/25),80,,,,,67,21,19,,,,,,,,team_site_presto
+594178,2025,D2,Sunshine State,9,7,16,Palm Beach Atl. (2/21/25),51,,,,,36,22,10,,,,,,,,team_site_presto
+594087,2025,D2,Sunshine State,3,11,16,Palm Beach Atl. (3/29/25),52,,,,,48,22,12,,,,,,,,team_site_presto
+594085,2025,D2,Sunshine State,6,10,23,Lees-McRae (2/23/25),59,,,,,41,28,14,,,,,,,,team_site_presto
+594157,2025,D2,Sunshine State,10,5,14,Rollins (3/22/25),49,,,,,33,24,18,,,,,,,,team_site_presto
+594176,2025,D2,Sunshine State,4,7,20,Embry-Riddle (FL) (2/21/25),48,,,,,45,23,16,,,,,,,,team_site_presto
+594105,2025,D2,Sunshine State,10,8,20,Florida Southern (4/02/25),57,,,,,40,23,19,,,,,,,,team_site_presto
+594204,2025,D2,Sunshine State,9,7,17,Florida Tech (4/16/25),51,,,,,48,27,15,,,,,,,,team_site_presto

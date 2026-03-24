@@ -43,19 +43,19 @@ def main() -> None:
     parser.add_argument(
         "--games",
         type=str,
-        default="data/processed/games.csv",
+        default="data/processed/games/games.csv",
         help="Path to games CSV",
     )
     parser.add_argument(
         "--seasons",
         type=str,
-        default="data/processed/team_stats_with_sos.csv",
+        default="data/processed/team/team_stats_with_sos.csv",
         help="Path to season table with SOS CSV",
     )
     parser.add_argument(
         "--out",
         type=str,
-        default="data/processed/team_stats_with_sos.csv",
+        default="data/processed/team/team_stats_with_sos.csv",
         help="Path to write updated season table",
     )
     parser.add_argument(

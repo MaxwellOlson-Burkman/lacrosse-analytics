@@ -1,4 +1,180 @@
 # Multi-Source Data Ingestion Engine (MSDIE)
+
+Scope: men's lacrosse, D1 and D2, 2021-present
+
+This README documents what exists in the repository now and what is planned next.
+Canonical strategy and implementation phases live in:
+
+- `docs/guides/msdie_ingestion_master.md`
+
+## 1) What MSDIE is for
+
+MSDIE is the ingestion layer for post-2020 lacrosse data where completeness and provenance matter.
+Legacy `stats.ncaa.org` outputs for 2014-2020 are frozen and should not be re-scraped.
+
+- Legacy (read-only): `data/processed/legacy/`
+- MSDIE outputs (active): `data/processed/msdie/`
+
+## 2) Source tiers (pragmatic policy)
+
+MSDIE uses a non-blocking tier strategy:
+
+1. Tier 1: conference hub when verified for that conference-season
+2. Tier 2: team site (default reliable path when Tier 1 fails or is incomplete)
+3. Tier 3: NCAA central only for IDs/schedule scaffolding
+
+Important:
+- Tier 1 is an optimization, not a hard requirement.
+- Tier 2 per-team loops are first-class production paths.
+- Big Ten is a known case where conference-hub-first can fail.
+
+## 3) Current implementation (exists today)
+
+### Fetchers
+- `msdie/fetchers/sidearm_fetcher.py`
+- `msdie/fetchers/presto_fetcher.py`
+
+### Mapping
+- `msdie/mapping.py` (team-season MSDIE columns + sidearm-like mapping)
+
+### Runners
+- `scripts/run_msdie_pilot.py`
+  - Conference-hub Sidearm pilot for a selected conference/year
+- `scripts/run_msdie_bigten_teams.py`
+  - Team-site loop for Big Ten fallback workflows
+- `scripts/run_msdie_team_seasons.py`
+  - Generalized team-season ingestion by year/division/conference
+- `scripts/run_msdie_player_seasons.py`
+  - Player-season cumulative ingestion by year/division/conference
+- `scripts/build_player_season_to_date.py`
+  - Aggregates in-season player-game rows to season-to-date outputs
+
+### Registry + fingerprint
+- `data/vendors.csv` (team registry and vendor metadata)
+- `data/conference_urls.yaml` / `data/team_url_hints.yaml` (URL sources for enrichment)
+- `scripts/seed_vendors_csv.py` (program seeding)
+- `scripts/enrich_vendors_urls.py` (fill `conference_url` / probe `team_url`, audit failures)
+- `scripts/fingerprint_vendor.py` (vendor signal classification)
+
+Rows with **empty** `team_url` are skipped by `run_msdie_team_seasons.py` / `run_msdie_player_seasons.py` (see `notes` on the row). Use `--continue-on-error` for division-wide runs.
+
+### Current outputs
+- Team pilot outputs:
+  - `data/processed/msdie/d1_men_{year}.csv`
+  - `data/processed/msdie/d1_men_{year}_bigten_teams.csv`
+- General team outputs:
+  - `data/processed/msdie/team/d{division}_men_{year}[_conference].csv`
+- Player-season outputs:
+  - `data/processed/msdie/players/player_seasons_d{division}_{year}[_conference].csv`
+- Player season-to-date rollups:
+  - `data/processed/msdie/players/player_season_to_date_d{division}_{year}.csv`
+
+## 4) Team-season schema (implemented)
+
+Current canonical team output columns are defined in `msdie/mapping.py`:
+
+- `team_id`
+- `season`
+- `division`
+- `conference`
+- `wins`
+- `losses`
+- `goals_for`
+- `goals_against`
+- `shots`
+- `shot_pct`
+- `faceoff_wins`
+- `faceoff_losses`
+- `faceoff_pct`
+- `ground_balls`
+- `turnovers`
+- `caused_turnovers`
+- `clears_attempted`
+- `clears_made`
+- `clear_pct`
+- `emo_goals`
+- `emo_attempts`
+- `emo_pct`
+- `save_pct`
+- `source_method`
+
+## 5) Planned datasets (not yet complete)
+
+### Player-season (2021-2025)
+- Full cumulative player stat lines per team-season
+- Separate player schema and mapping
+- Per-row provenance fields (`source_method`, `source_url`, `scraped_at_utc`)
+
+### Player-game (2026+)
+- In-season game-by-game player lines from box scores
+- Season-to-date rollups derived from player-game rows
+- Scheduled refresh cadence during active season
+
+See details in `docs/guides/msdie_ingestion_master.md`.
+For in-season flow and cadence, see `docs/guides/msdie_2026_player_game_pipeline.md`.
+
+## 6) Running currently implemented commands
+
+Conference-hub pilot:
+
+```bash
+python scripts/run_msdie_pilot.py --conference "Big Ten" --year 2024
+```
+
+Team-site Big Ten pilot:
+
+```bash
+python scripts/run_msdie_bigten_teams.py --year 2024
+```
+
+General team-season ingestion:
+
+```bash
+python scripts/run_msdie_team_seasons.py --year 2024 --division D1 --conference "Big Ten" --continue-on-error
+python scripts/run_msdie_team_seasons.py --year 2024 --division D2 --continue-on-error
+```
+
+Player-season ingestion:
+
+```bash
+python scripts/run_msdie_player_seasons.py --year 2024 --division D1 --continue-on-error
+python scripts/run_msdie_player_seasons.py --year 2024 --division D2 --continue-on-error
+```
+
+Seed vendor registry:
+
+```bash
+python scripts/seed_vendors_csv.py --division D1
+python scripts/seed_vendors_csv.py --division D2
+```
+
+Fingerprint vendor signals:
+
+```bash
+python scripts/fingerprint_vendor.py --conference "Big Ten" --probe
+```
+
+Build season-to-date from player-game rows:
+
+```bash
+python scripts/build_player_season_to_date.py --in data/processed/msdie/players/player_games_d1_2026.csv --out data/processed/msdie/players/player_season_to_date_d1_2026.csv --qa-out data/audit/player_game_goal_sums_d1_2026.csv
+```
+
+## 7) Planned commands (future or newly added tooling)
+
+If this section references scripts not present in your checkout, treat those as roadmap only.
+Do not assume an all-in-one `run_msdie.py` exists unless it is explicitly added to the repo.
+
+## 8) Agent and contributor rules
+
+1. Always consult `data/vendors.csv` first.
+2. Prefer registry metadata updates over hard-coded URL overrides.
+3. Attempt Tier 1 when verified, but do not block ingestion on Tier 1 failure.
+4. Set `source_method` for every output row.
+5. Never write MSDIE outputs into `data/processed/legacy/`.
+6. Save unresolved or failed rows to audit outputs; do not silently drop.
+
+# Multi-Source Data Ingestion Engine (MSDIE)
 ### High-Fidelity NCAA Lacrosse Data Pipeline — v2.0
 #### Scope: D1 Men | D2 Men | 2021–Present
 
@@ -66,7 +242,23 @@ Before scraping, each conference and team site must be categorized by its techno
 | **Custom/Legacy** | ~10% | BeautifulSoup HTML parsing |
 
 - Store all fingerprint results in `data/vendors.csv`
-- Columns: `team_name`, `conference`, `division`, `vendor`, `conference_url`, `team_url`
+- Locked Step 1 columns:
+  - `org_id` (required, stable team identifier from processed team stats)
+  - `team_name` (required)
+  - `conference` (required)
+  - `division` (required, `D1`/`D2`; Step 1 execution currently D1-only)
+  - `vendor` (required enum: `sidearm`, `presto`, `custom`, `unknown`)
+  - `conference_url` (optional, duplicated on each team row for same conference)
+  - `team_url` (optional, canonical team athletics URL for fallback)
+  - `vendor_confidence` (optional enum: `high`, `medium`, `low`)
+  - `last_verified_utc` (optional ISO8601 timestamp for last manual/automated validation)
+  - `notes` (optional short free text)
+- **Conference-hub strategy (locked):** keep `conference_url` on each team row in `vendors.csv` (no separate conference hubs file in Step 1).
+- **Classification heuristics (locked):**
+  - `sidearm`: HTML or scripts contain `sidearm`, `sidearmsports`, `learfieldsidearm`, or endpoint pattern `/services/responsive-stats.ashx`
+  - `presto`: HTML or scripts contain `prestosports` or endpoint pattern `/gameday`
+  - `custom`: neither Sidearm nor Presto signals are found, but site is reachable and serves custom stats pages
+  - `unknown`: URL missing/unverified or fingerprint signals are insufficient
 - **Rule for Cursor/AI Agents:** Always consult `data/vendors.csv` first. If a `conference_url` exists for a team, use it over the individual `team_url`.
 
 ### Step 2: Conference Hub Aggregation
@@ -76,6 +268,12 @@ For each conference in scope, attempt to pull the full statistical leaderboard i
 - **Sidearm endpoint pattern:** `https://{conference_domain}/services/responsive-stats.ashx?type=team&division=1`
 - **PrestoSports endpoint pattern:** `https://{conference_domain}/gameday/{sport}/stats`
 - A successful Tier 1 pull covers all teams in that conference — mark them complete in `data/vendors.csv` before proceeding
+- If a conference hub is blocked or does not expose usable stats endpoints, run a
+  Tier 2 per-team loop for that conference instead of stalling ingestion.
+  Big Ten pilot command:
+  - `python scripts/run_msdie_bigten_teams.py --year 2024`
+  - This runner fetches each school site and writes
+    `data/processed/msdie/d1_men_{year}_bigten_teams.csv`
 
 ### Step 3: Protocol-Specific Ingestion
 

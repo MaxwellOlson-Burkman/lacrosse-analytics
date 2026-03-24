@@ -1,0 +1,29 @@
+conferences:
+  # Fill this map using exact conference values from data/vendors.csv.
+  # Keep canonical men's lacrosse landing pages (not season-specific URLs).
+  # Example format: "Conference Name": "https://example.org/sports/mens-lacrosse"
+  ACC: "https://theacc.com/sports/mlax"
+  ASUN: "https://asunsports.org/sports/mlax"
+  America East: "https://americaeast.com/sports/mlax"
+  Atlantic 10: "https://atlantic10.com/sports/mlax"
+  Big East: "https://www.bigeast.com/sports/mlax"
+  Big Ten: "https://bigten.org/sports/mens-lacrosse"
+  CAA: "https://caasports.com/sports/mlax"
+  CACC: "https://caccathletics.org/sports/menslacrosse"
+  Conference Carolinas: "https://conferencecarolinas.com/sports/mlax"
+  # there are no DII Independent conferences
+  DII Independent: ""
+  ECC: "https://eccsports.org/sports/mens-lacrosse"
+  G-MAC: "https://greatmidwestsports.com/sports/mlax"
+  GLVC: "https://glvcsports.com/sports/mlax"
+  Ivy League: "https://ivyleague.com/sports/mlax"
+  MAAC: "https://maacsports.com/sports/mlax"
+  NE10: "https://northeast10.org/sports/mlax"
+  NEC: "https://necsports.com/sports/mlacrosse"
+  Patriot: "https://patriotleague.org/sports/mlax"
+  Peach Belt: "https://peachbeltconference.org/sports/mlax"
+  RMAC: "https://rmacsports.org/sports/mlax"
+  SAC: "https://www.thesac.com/sports/mlax/index"
+  # Southern Conference (Furman etc.); men's lacrosse hub
+  SoCon: "https://soconsports.com/sports/mlax"
+  Sunshine State: "https://sunshinestateconference.com/sports/mlax"

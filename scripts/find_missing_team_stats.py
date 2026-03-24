@@ -21,8 +21,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED = PROJECT_ROOT / "data" / "processed"
-BASE_PATH = PROCESSED / "team_stats_model_ready.csv"
-SOS_PATH = PROCESSED / "team_stats_with_sos.csv"
+BASE_PATH = PROCESSED / "team" / "team_stats_model_ready.csv"
+SOS_PATH = PROCESSED / "team" / "team_stats_with_sos.csv"
 
 
 def iter_year_div_combos(

@@ -1,0 +1,62 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+594111,2021,D2,CACC,5,6,15,St. Thomas Aquinas (3/13/21),51,,,,,32,25,9,,,,,,,,team_site_presto
+594245,2021,D2,CACC,10,2,25,Dominican (N.Y.) (5/06/21),66,,,,,53,26,14,,,,,,,,team_site_presto
+594185,2021,D2,CACC,2,6,16,Post (4/13/21),46,,,,,50,30,12,,,,,,,,team_site_presto
+594149,2021,D2,CACC,8,5,21,St. Thomas Aquinas (4/13/21),62,,,,,58,23,15,,,,,,,,team_site_presto
+594127,2021,D2,CACC,0,8,14,Wilmington (Del.) (4/10/21),55,,,,,47,25,13,,,,,,,,team_site_presto
+594192,2021,D2,Conference Carolinas,8,5,19,Emmanuel (Ga.) (3/27/21); Lees-McRae (4/03/21),76,,,,,55,28,18,,,,,,,,team_site_presto
+594138,2021,D2,Conference Carolinas,10,4,22,Chowan (3/13/21),57,,,,,49,27,19,,,,,,,,team_site_presto
+594145,2021,D2,Conference Carolinas,1,11,16,Wheeling (2/21/21),43,,,,,52,32,17,,,,,,,,team_site_presto
+594170,2021,D2,Conference Carolinas,4,8,19,Chowan (4/17/21),60,,,,,51,31,15,,,,,,,,team_site_presto
+594155,2021,D2,Conference Carolinas,1,11,15,Chowan (4/10/21),42,,,,,42,28,18,,,,,,,,team_site_presto
+594241,2021,D2,Conference Carolinas,11,3,21,Emmanuel College (4/10/21),61,,,,,40,26,18,,,,,,,,team_site_presto
+594151,2021,D2,Conference Carolinas,7,7,26,Chowan (3/27/21),62,,,,,48,28,13,,,,,,,,team_site_presto
+110594,2021,D2,Conference Carolinas,12,2,27,Methodist (4/17/21),61,,,,,61,26,17,,,,,,,,team_site_presto
+594165,2021,D2,Conference Carolinas,2,10,10,Montreat (N.C.) (3/01/21),42,,,,,36,39,13,,,,,,,,team_site_presto
+594187,2021,D2,ECC,6,2,21,MOLLOY (3/27/21); Alderson Broaddus (3/28/21),67,,,,,62,22,22,,,,,,,,team_site_presto
+594233,2021,D2,ECC,9,1,21,St. Thomas Aquinas (4/20/21),58,,,,,68,29,14,,,,,,,,team_site_presto
+594096,2021,D2,ECC,3,9,19,Caldwell (4/15/21),44,,,,,37,29,15,,,,,,,,team_site_presto
+594163,2021,D2,ECC,7,5,28,Alderson Broaddus (2/26/21),69,,,,,52,22,15,,,,,,,,team_site_presto
+594114,2021,D2,G-MAC,1,8,11,Quincy (3/13/21),47,,,,,32,36,15,,,,,,,,team_site_presto
+594081,2021,D2,G-MAC,3,5,19,Wheeling (4/17/21),53,,,,,53,33,16,,,,,,,,team_site_presto
+594143,2021,D2,G-MAC,5,8,23,Alderson Broaddus (4/13/21),57,,,,,52,27,17,,,,,,,,team_site_presto
+571460,2021,D2,G-MAC,12,2,30,Davis & Elkins (4/14/21),67,,,,,62,23,14,,,,,,,,team_site_presto
+594159,2021,D2,G-MAC,11,3,34,Davis & Elkins (3/09/21),78,,,,,64,22,19,,,,,,,,team_site_presto
+594161,2021,D2,G-MAC,5,8,29,Davis &amp; Elkins (3/31/21),56,,,,,59,32,18,,,,,,,,team_site_presto
+594109,2021,D2,G-MAC,1,10,11,Davis & Elkins (4/17/21),38,,,,,37,34,14,,,,,,,,team_site_presto
+594237,2021,D2,GLVC,5,7,18,Quincy (4/03/21); Davenport (4/21/21),62,,,,,52,30,17,,,,,,,,team_site_presto
+594094,2021,D2,GLVC,7,6,19,Quincy (2/27/21),53,,,,,41,24,18,,,,,,,,team_site_presto
+594211,2021,D2,GLVC,0,10,7,LEWIS (4/03/21),34,,,,,27,33,9,,,,,,,,team_site_presto
+594130,2021,D2,GLVC,8,5,16,Davenport (2/07/21); Quincy (4/06/21),64,,,,,46,30,16,,,,,,,,team_site_presto
+594091,2021,D2,GLVC,10,3,17,Quincy (3/20/21),60,,,,,42,26,15,,,,,,,,team_site_presto
+594247,2021,D2,NE10,7,3,16,AIC (3/27/21),55,,,,,47,21,15,,,,,,,,team_site_presto
+594196,2021,D2,NE10,0,11,11,Mass.-Boston (5/01/21),42,,,,,47,34,12,,,,,,,,team_site_presto
+594199,2021,D2,NE10,2,7,16,Saint Michael&#39;s (4/17/21),50,,,,,44,32,9,,,,,,,,team_site_presto
+594078,2021,D2,NE10,6,4,19,Assumption (4/03/21),64,,,,,50,31,14,,,,,,,,team_site_presto
+594089,2021,D2,NE10,5,7,17,American International (4/10/21),55,,,,,42,25,17,,,,,,,,team_site_presto
+546947,2021,D2,NE10,15,0,25,American Internation (4/03/21),57,,,,,46,22,16,,,,,,,,team_site_presto
+594102,2021,D2,NE10,6,7,21,Saint Rose (3/20/21),55,,,,,43,23,30,,,,,,,,team_site_presto
+594207,2021,D2,NE10,3,8,17,Southern N.H. (3/27/21),49,,,,,48,28,20,,,,,,,,team_site_presto
+594099,2021,D2,NE10,6,6,19,American Internation (4/28/21),54,,,,,71,31,12,,,,,,,,team_site_presto
+594201,2021,D2,NE10,13,2,29,Saint Michael&#39;s (4/03/21),76,,,,,52,26,14,,,,,,,,team_site_presto
+594194,2021,D2,Peach Belt,6,8,20,Lander (4/28/21),55,,,,,61,27,17,,,,,,,,team_site_presto
+594190,2021,D2,Peach Belt,6,5,21,Emmanuel (GA) (4/14/21),58,,,,,59,30,16,,,,,,,,team_site_presto
+594174,2021,D2,Peach Belt,10,4,29,Chowan (3/10/21),66,,,,,68,26,21,,,,,,,,team_site_presto
+594209,2021,D2,RMAC,0,9,8,Colorado College (3/06/21),34,,,,,45,28,15,,,,,,,,team_site_presto
+594244,2021,D2,RMAC,9,2,23,Adams State (4/25/21); Shorter (3/12/21),66,,,,,61,23,14,,,,,,,,team_site_presto
+571483,2021,D2,RMAC,3,5,19,Shorter (3/08/21),65,,,,,43,28,15,,,,,,,,team_site_presto
+594172,2021,D2,RMAC,7,5,21,Adams State (4/23/21),50,,,,,56,23,14,,,,,,,,team_site_presto
+594107,2021,D2,SAC,4,10,28,Mars Hill (3/06/21),62,,,,,57,26,15,,,,,,,,team_site_presto
+110631,2021,D2,SAC,0,5,13,Randolph (3/23/21),42,,,,,47,40,10,,,,,,,,team_site_presto
+594117,2021,D2,SAC,5,6,20,Lincoln Memorial (3/06/21),63,,,,,51,24,18,,,,,,,,team_site_presto
+594239,2021,D2,SAC,15,2,27,Mars Hill (4/17/21),61,,,,,53,29,22,,,,,,,,team_site_presto
+594123,2021,D2,SAC,0,9,11,Mars Hill (3/10/21),27,,,,,33,31,11,,,,,,,,team_site_presto
+594183,2021,D2,SAC,7,5,21,Lincoln Memorial (4/17/21); Mars Hill (4/10/21),61,,,,,53,21,16,,,,,,,,team_site_presto
+530117,2021,D2,SAC,7,4,22,Lincoln Memorial (4/03/21),59,,,,,51,26,11,,,,,,,,team_site_presto
+594136,2021,D2,SAC,12,3,26,Mars Hill (3/20/21),73,,,,,61,18,15,,,,,,,,team_site_presto
+594087,2021,D2,Sunshine State,2,6,27,Palm Beach Atl. (4/28/21),47,,,,,46,28,11,,,,,,,,team_site_presto
+594085,2021,D2,Sunshine State,3,5,16,Lynn (3/24/21); Saint Leo (5/08/21),54,,,,,47,28,16,,,,,,,,team_site_presto
+594157,2021,D2,Sunshine State,6,2,19,Palm Beach Atl. (3/20/21),60,,,,,52,24,16,,,,,,,,team_site_presto
+594176,2021,D2,Sunshine State,1,8,15,Florida Southern (4/28/21),51,,,,,44,27,17,,,,,,,,team_site_presto
+594105,2021,D2,Sunshine State,7,3,17,Florida Southern (4/24/21); Saint Leo (4/28/21),53,,,,,47,32,20,,,,,,,,team_site_presto
+594204,2021,D2,Sunshine State,3,7,18,Fla. Tech (3/27/21),50,,,,,44,28,13,,,,,,,,team_site_presto

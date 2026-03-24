@@ -2,7 +2,7 @@
 
 Usage:
     python scripts/data_completeness_report.py
-    python scripts/data_completeness_report.py --input data/processed/team_stats_model_ready.csv
+    python scripts/data_completeness_report.py --input data/processed/team/team_stats_model_ready.csv
 """
 
 from __future__ import annotations
@@ -34,7 +34,7 @@ FEATURE_COLS = [
 
 
 def default_input_path(project_root: Path) -> Path:
-    return project_root / "data" / "processed" / "team_stats_model_ready.csv"
+    return project_root / "data" / "processed" / "team" / "team_stats_model_ready.csv"
 
 
 def _load_file(path: Path) -> pd.DataFrame:
@@ -66,12 +66,13 @@ def load_dataset(path: Path, project_root: Path) -> tuple[pd.DataFrame, Path]:
     if path.exists():
         return _normalize_to_model_schema(_load_file(path)), path
 
-    # Fallback candidates when model-ready file does not exist yet
+    # Fallback candidates when model-ready file does not exist yet (under data/processed/team/)
+    team_dir = project_root / "data" / "processed" / "team"
     candidates = [
-        project_root / "data" / "processed" / "team_stats_model_ready.parquet",
-        project_root / "data" / "processed" / "team_stats_model_ready.csv",
-        project_root / "data" / "processed" / "team_stats.parquet",
-        project_root / "data" / "processed" / "team_stats.csv",
+        team_dir / "team_stats_model_ready.parquet",
+        team_dir / "team_stats_model_ready.csv",
+        team_dir / "team_stats.parquet",
+        team_dir / "team_stats.csv",
     ]
     for candidate in candidates:
         if candidate.exists():
@@ -79,10 +80,10 @@ def load_dataset(path: Path, project_root: Path) -> tuple[pd.DataFrame, Path]:
 
     raise FileNotFoundError(
         "No processed dataset found. Expected one of:\n"
-        f"- {project_root / 'data' / 'processed' / 'team_stats_model_ready.csv'}\n"
-        f"- {project_root / 'data' / 'processed' / 'team_stats_model_ready.parquet'}\n"
-        f"- {project_root / 'data' / 'processed' / 'team_stats.csv'}\n"
-        f"- {project_root / 'data' / 'processed' / 'team_stats.parquet'}\n\n"
+        f"- {team_dir / 'team_stats_model_ready.csv'}\n"
+        f"- {team_dir / 'team_stats_model_ready.parquet'}\n"
+        f"- {team_dir / 'team_stats.csv'}\n"
+        f"- {team_dir / 'team_stats.parquet'}\n\n"
         "Run the pipeline first:\n"
         "python run_pipeline.py --years 2014-2015"
     )
@@ -147,7 +148,7 @@ def main() -> None:
         "--input",
         type=Path,
         default=default_input_path(project_root),
-        help="Path to model-ready CSV/Parquet (default: data/processed/team_stats_model_ready.csv)",
+        help="Path to model-ready CSV/Parquet (default: data/processed/team/team_stats_model_ready.csv)",
     )
     parser.add_argument(
         "--save-dir",

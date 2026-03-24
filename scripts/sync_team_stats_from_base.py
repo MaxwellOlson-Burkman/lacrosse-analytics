@@ -3,8 +3,8 @@
 This does NOT scrape anything.
 
 It:
-  - Reads the "base" stats table: data/processed/team_stats_model_ready.csv
-  - Reads a target seasons+SOS table (default: team_stats_with_sos_full.csv)
+  - Reads the "base" stats table: data/processed/team/team_stats_model_ready.csv
+  - Reads a target seasons+SOS table (default: data/processed/team/team_stats_with_sos_full.csv)
   - For every (academic_year, division, org_id) present in the target,
     overwrites all non-key stat columns with the values from the base table.
 
@@ -15,8 +15,8 @@ model_ready stats.
 Usage (from project root):
 
   python scripts/sync_team_stats_from_base.py \
-    --target-in data/processed/team_stats_with_sos_full.csv \
-    --target-out data/processed/team_stats_with_sos_full_synced.csv
+    --target-in data/processed/team/team_stats_with_sos_full.csv \
+    --target-out data/processed/team/team_stats_with_sos_full_synced.csv
 """
 
 from __future__ import annotations
@@ -28,7 +28,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED = PROJECT_ROOT / "data" / "processed"
-BASE_PATH = PROCESSED / "team_stats_model_ready.csv"
+TEAM_DIR = PROCESSED / "team"
+BASE_PATH = TEAM_DIR / "team_stats_model_ready.csv"
 
 
 def main() -> None:
@@ -41,16 +42,16 @@ def main() -> None:
     parser.add_argument(
         "--target-in",
         type=str,
-        default="data/processed/team_stats_with_sos_full.csv",
+        default="data/processed/team/team_stats_with_sos_full.csv",
         help="Input SOS seasons CSV to update "
-        "(default: data/processed/team_stats_with_sos_full.csv).",
+        "(default: data/processed/team/team_stats_with_sos_full.csv).",
     )
     parser.add_argument(
         "--target-out",
         type=str,
-        default="data/processed/team_stats_with_sos_full_synced.csv",
+        default="data/processed/team/team_stats_with_sos_full_synced.csv",
         help="Output CSV with stats synced from base "
-        "(default: data/processed/team_stats_with_sos_full_synced.csv).",
+        "(default: data/processed/team/team_stats_with_sos_full_synced.csv).",
     )
     args = parser.parse_args()
 

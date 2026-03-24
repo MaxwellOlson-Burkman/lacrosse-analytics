@@ -13,14 +13,14 @@ Resume-friendly usage:
     python scripts/run_build_sos_all.py --start-year 2017 --start-division 2
 
 This script:
-  - Reads data/processed/team_stats_model_ready.csv to discover which
+  - Reads data/processed/team/team_stats_model_ready.csv to discover which
     (academic_year, division) combos exist.
   - For each combo, calls scripts/build_sos.py via subprocess with:
         --years <year>
         --divisions <division>
-        --seasons-path data/processed/team_stats_model_ready.csv
-        --games-out data/processed/games_<year>_d<div>.csv
-        --seasons-out data/processed/team_stats_with_sos_<year>_d<div>.csv
+        --seasons-path data/processed/team/team_stats_model_ready.csv
+        --games-out data/processed/games/games_<year>_d<div>.csv
+        --seasons-out data/processed/team/team_stats_with_sos_<year>_d<div>.csv
 
 After it finishes, you can run:
 
@@ -43,7 +43,9 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED = PROJECT_ROOT / "data" / "processed"
-SEASONS_REL = Path("data") / "processed" / "team_stats_model_ready.csv"
+TEAM_DIR = PROCESSED / "team"
+GAMES_DIR = PROCESSED / "games"
+SEASONS_REL = Path("data") / "processed" / "team" / "team_stats_model_ready.csv"
 SEASONS_PATH = PROJECT_ROOT / SEASONS_REL
 DEFAULT_PROGRESS = PROJECT_ROOT / ".build_sos_progress.json"
 
@@ -69,8 +71,8 @@ def discover_year_div_combos() -> list[tuple[int, int]]:
 
 def _outputs_for_combo(year: int, division: int) -> tuple[Path, Path, Path, Path]:
     """Return (games_rel, seasons_rel, games_abs, seasons_abs)."""
-    games_rel = Path("data") / "processed" / f"games_{year}_d{division}.csv"
-    seasons_rel = Path("data") / "processed" / f"team_stats_with_sos_{year}_d{division}.csv"
+    games_rel = Path("data") / "processed" / "games" / f"games_{year}_d{division}.csv"
+    seasons_rel = Path("data") / "processed" / "team" / f"team_stats_with_sos_{year}_d{division}.csv"
     return games_rel, seasons_rel, PROJECT_ROOT / games_rel, PROJECT_ROOT / seasons_rel
 
 

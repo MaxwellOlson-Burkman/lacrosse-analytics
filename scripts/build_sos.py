@@ -50,19 +50,19 @@ def main() -> None:
     parser.add_argument(
         "--seasons-path",
         type=str,
-        default="data/processed/team_stats_model_ready.csv",
+        default="data/processed/team/team_stats_model_ready.csv",
         help="Path to season-level CSV (model-ready table)",
     )
     parser.add_argument(
         "--games-out",
         type=str,
-        default="data/processed/games.csv",
+        default="data/processed/games/games.csv",
         help="Where to write the scraped game table CSV",
     )
     parser.add_argument(
         "--seasons-out",
         type=str,
-        default="data/processed/team_stats_with_sos.csv",
+        default="data/processed/team/team_stats_with_sos.csv",
         help="Where to write the augmented season table CSV",
     )
     args = parser.parse_args()

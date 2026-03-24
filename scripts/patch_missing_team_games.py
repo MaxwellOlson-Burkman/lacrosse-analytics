@@ -37,11 +37,13 @@ from src.data.sos import compute_sos_metrics  # noqa: E402
 
 
 PROCESSED = PROJECT_ROOT / "data" / "processed"
+GAMES_DIR = PROCESSED / "games"
+TEAM_DIR = PROCESSED / "team"
 
 
 def _slice_paths(year: int, division: int) -> tuple[Path, Path]:
-    games_path = PROCESSED / f"games_{year}_d{division}.csv"
-    seasons_path = PROCESSED / f"team_stats_with_sos_{year}_d{division}.csv"
+    games_path = GAMES_DIR / f"games_{year}_d{division}.csv"
+    seasons_path = TEAM_DIR / f"team_stats_with_sos_{year}_d{division}.csv"
     return games_path, seasons_path
 
 
@@ -61,7 +63,7 @@ def main() -> None:
     if not team_names and not org_ids:
         raise SystemExit("Provide at least one of: --team-name or --org-id")
 
-    seasons_model_ready_path = PROCESSED / "team_stats_model_ready.csv"
+    seasons_model_ready_path = TEAM_DIR / "team_stats_model_ready.csv"
     if not seasons_model_ready_path.exists():
         raise SystemExit(f"Missing {seasons_model_ready_path}. Run your season table build first.")
 

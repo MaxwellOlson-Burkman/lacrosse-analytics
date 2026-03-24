@@ -1,0 +1,72 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+593943,2025,D1,ACC,,,18,18,342,695,,,225-223,0,553,266,,,,,,,,team_site_presto
+593990,2025,D1,ACC,,,15,15,288,658,,,244-140,0,515,240,,,,,,,,team_site_presto
+594017,2025,D1,ACC,,,19,19,412,881,,,305-210,2,657,253,,,,,,,,team_site_presto
+593912,2025,D1,America East,5,9,14,UMass Lowell (3/14/25),50,,,,,39,24,13,,,,,,,,team_site_presto
+593920,2025,D1,America East,10,5,19,Merrimack (2/15/25),56,,,,,41,25,16,,,,,,,,team_site_presto
+507834,2025,D1,America East,10,7,15,Marymount (Va.) (3/19/25); Nichols (4/09/25),54,,,,,42,25,16,,,,,,,,team_site_presto
+593992,2025,D1,America East,1,11,14,SJU (2/08/25),50,,,,,33,32,18,,,,,,,,team_site_presto
+594053,2025,D1,America East,10,9,18,NJIT (4/26/25),51,,,,,42,22,11,,,,,,,,team_site_presto
+593964,2025,D1,America East,4,9,15,Mercyhurst (2/14/25),47,,,,,37,24,11,,,,,,,,team_site_presto
+593974,2025,D1,America East,7,5,19,NJIT (4/19/25),51,,,,,35,25,13,,,,,,,,team_site_presto
+594027,2025,D1,America East,5,7,19,NJIT (3/29/25),52,,,,,43,25,13,,,,,,,,team_site_presto
+594020,2025,D1,ASUN,,,17,17,325,623,,,208-247,0,503,279,,,,,,,,team_site_presto
+593910,2025,D1,ASUN,8,9,21,Mercyhurst (2/08/25),54,,,,,36,24,10,,,,,,,,team_site_presto
+593958,2025,D1,ASUN,9,5,21,HAMPTON (2/22/25),53,,,,,45,24,20,,,,,,,,team_site_presto
+593982,2025,D1,ASUN,,,13,13,200,533,,,165-184,0,376,238,,,,,,,,team_site_presto
+594051,2025,D1,ASUN,,,15,15,292,707,,,211-192,0,520,230,,,,,,,,team_site_presto
+594040,2025,D1,Atlantic 10,7,9,18,Queens (3/11/25),47,,,,,41,23,11,,,,,,,,team_site_presto
+593952,2025,D1,Atlantic 10,5,9,26,St. Bonaventure (4/19/25),69,,,,,51,30,12,,,,,,,,team_site_presto
+593979,2025,D1,Atlantic 10,,,15,15,245,535,,,163-189,1,393,230,,,,,,,,team_site_presto
+594005,2025,D1,Atlantic 10,,,18,18,383,787,,,216-235,1,584,246,,,,,,,,team_site_presto
+594069,2025,D1,Atlantic 10,9,6,17,Drexel (3/09/25),52,,,,,42,22,16,,,,,,,,team_site_presto
+593908,2025,D1,Atlantic 10,6,10,13,Hobart (4/19/25),46,,,,,48,25,13,,,,,,,,team_site_presto
+593936,2025,D1,Big East,7,7,18,Marist (2/28/25),48,,,,,39,24,11,,,,,,,,team_site_presto
+594056,2025,D1,Big East,12,5,21,St. John&#39;s (4/19/25),63,,,,,43,18,19,,,,,,,,team_site_presto
+593972,2025,D1,Big East,,,14,14,261,551,,,210-179,0,387,235,,,,,,,,team_site_presto
+594001,2025,D1,Big East,,,15,15,289,584,,,199-186,0,435,240,,,,,,,,team_site_presto
+594011,2025,D1,Big East,,,15,15,260,582,,,180-239,0,459,289,,,,,,,,team_site_presto
+594029,2025,D1,Big East,8,7,16,BROWNM (3/17/25); Providence (5/01/25),55,,,,,39,33,18,,,,,,,,team_site_presto
+593960,2025,D1,Big Ten,6,8,13,Virginia (3/01/25); Denver (2/01/25),48,,,,,34,18,10,,,,,,,,team_site_presto
+593977,2025,D1,Big Ten,14,4,14,Delaware (3/08/25); Syracuse (5/24/25),46,,,,,37,20,12,,,,,,,,team_site_presto
+594060,2025,D1,Big Ten,,,14,14,236,518,,,144-185,0,423,233,,,,,,,,team_site_presto
+593994,2025,D1,Big Ten,,,17,17,326,648,,,203-216,1,528,289,,,,,,,,team_site_presto
+594009,2025,D1,Big Ten,,,16,16,232,626,,,196-147,1,501,270,,,,,,,,team_site_presto
+593934,2025,D1,CAA,,,13,13,243,598,,,220-122,2,427,184,,,,,,,,team_site_presto
+593940,2025,D1,CAA,,,16,16,314,614,,,204-202,0,479,278,,,,,,,,team_site_presto
+593946,2025,D1,CAA,12,3,29,Hampton (3/13/25),68,,,,,51,23,16,,,,,,,,team_site_presto
+593948,2025,D1,CAA,0,15,9,Iona University (2/09/25),34,,,,,35,26,9,,,,,,,,team_site_presto
+593954,2025,D1,CAA,8,7,27,Hampton (4/19/25),60,,,,,47,23,14,,,,,,,,team_site_presto
+593985,2025,D1,CAA,5,9,24,Hampton (3/29/25),67,,,,,37,21,11,,,,,,,,team_site_presto
+594015,2025,D1,CAA,7,7,28,Hampton (4/26/25),61,,,,,57,21,13,,,,,,,,team_site_presto
+594071,2025,D1,CAA,11,6,25,Hampton (4/12/25),78,,,,,59,25,16,,,,,,,,team_site_presto
+593918,2025,D1,Ivy League,,,13,13,162,481,,,143-155,0,370,212,,,,,,,,team_site_presto
+593931,2025,D1,Ivy League,18,1,22,Hobart (2/25/25),58,,,,,51,21,9,,,,,,,,team_site_presto
+593933,2025,D1,Ivy League,,,13,13,235,507,,,164-167,0,478,211,,,,,,,,team_site_presto
+593949,2025,D1,Ivy League,10,5,20,Marquette (3/01/25),53,,,,,45,19,19,,,,,,,,team_site_presto
+593999,2025,D1,Ivy League,4,10,14,UAlbany (2/18/25),45,,,,,29,24,11,,,,,,,,team_site_presto
+594066,2025,D1,Ivy League,,,17,17,359,772,,,225-256,1,550,219,,,,,,,,team_site_presto
+594037,2025,D1,Ivy League,5,8,21,Dartmouth (4/12/25),54,,,,,41,22,10,,,,,,,,team_site_presto
+593925,2025,D1,MAAC,6,10,12,Hobart (2/08/25); Mount St. Mary&#39;s (4/05/25),50,,,,,40,32,10,,,,,,,,team_site_presto
+594940,2025,D1,MAAC,2,13,13,Hampton (2/09/25),64,,,,,39,27,11,,,,,,,,team_site_presto
+593968,2025,D1,MAAC,6,9,17,Iona (4/19/25),51,,,,,37,23,15,,,,,,,,team_site_presto
+593970,2025,D1,MAAC,8,8,16,Mercer (2/08/25); Manhattan (4/27/25),57,,,,,41,25,9,,,,,,,,team_site_presto
+594042,2025,D1,MAAC,3,10,19,Iona (4/05/25),58,,,,,41,27,13,,,,,,,,team_site_presto
+593988,2025,D1,MAAC,4,10,15,Wagner (2/15/25),49,,,,,46,26,11,,,,,,,,team_site_presto
+594003,2025,D1,MAAC,,,15,15,219,512,,,179-206,3,419,255,,,,,,,,team_site_presto
+594068,2025,D1,MAAC,,,15,15,302,674,,,205-163,2,492,249,,,,,,,,team_site_presto
+594012,2025,D1,MAAC,11,5,24,Marist (4/23/25),58,,,,,49,25,14,,,,,,,,team_site_presto
+593927,2025,D1,NEC,4,10,16,Bellarmine (2/18/25),44,,,,,40,27,15,,,,,,,,team_site_presto
+593938,2025,D1,NEC,6,7,15,Wagner (4/12/25); Cleveland State (4/26/25),59,,,,,40,23,15,,,,,,,,team_site_presto
+593904,2025,D1,NEC,9,5,15,Bellarmine (3/01/25); Mount St. Mary&#39;s (2/08/25); Mercyhurst (3/15/25); Cleveland State (4/12/25),51,,,,,48,17,13,,,,,,,,team_site_presto
+594007,2025,D1,NEC,11,6,19,Detroit Mercy (3/15/25),50,,,,,52,27,14,,,,,,,,team_site_presto
+594036,2025,D1,NEC,1,13,12,UMass Lowell (2/22/25); LIU (3/28/25); VMI (4/19/25),49,,,,,39,23,11,,,,,,,,team_site_presto
+594022,2025,D1,Patriot,,,14,14,338,717,,,190-160,0,489,227,,,,,,,,team_site_presto
+593915,2025,D1,Patriot,,,16,16,314,668,,,205-186,0,558,301,,,,,,,,team_site_presto
+593922,2025,D1,Patriot,,,14,14,294,615,,,190-219,0,455,206,,,,,,,,team_site_presto
+593929,2025,D1,Patriot,10,8,19,UAlbany (2/14/25); HARVARD (2/18/25); Lafayette (3/08/25),62,,,,,53,27,26,,,,,,,,team_site_presto
+593956,2025,D1,Patriot,4,11,15,UMBC (4/24/25),56,,,,,39,23,12,,,,,,,,team_site_presto
+593962,2025,D1,Patriot,10,6,16,Binghamton (2/10/25),50,,,,,40,25,11,,,,,,,,team_site_presto
+594058,2025,D1,Patriot,,,15,15,210,563,,,213-132,0,478,297,,,,,,,,team_site_presto
+593966,2025,D1,Patriot,3,11,21,Holy Cross (4/12/25),45,,,,,39,28,11,,,,,,,,team_site_presto
+594025,2025,D1,Patriot,8,7,22,Iona (2/08/25),66,,,,,43,25,14,,,,,,,,team_site_presto

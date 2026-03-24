@@ -1,0 +1,17 @@
+by_org_id: {}
+
+by_team_name:
+  # Seeded from scripts/fingerprint_vendor.py BIG_TEN_TEAM_URLS for quick wins.
+  Johns Hopkins:
+    url: "https://bluejays.com/sports/mens-lacrosse"
+  Maryland:
+    url: "https://umterps.com/sports/mens-lacrosse"
+  Michigan:
+    url: "https://mgoblue.com/sports/mens-lacrosse"
+  "Ohio St.":
+    url: "https://ohiostatebuckeyes.com/sports/mens-lacrosse"
+  "Penn St.":
+    url: "https://gopsusports.com/sports/mens-lacrosse"
+  Rutgers:
+    url: "https://scarletknights.com/sports/mens-lacrosse"
+

@@ -3,9 +3,8 @@
 Usage (from project root):
 
     python scripts/recompute_sos_from_games_all.py \
-      --games data/processed/games.csv \
-      --seasons-in data/processed/team_stats_with_sos.csv \
-      --seasons-out data/processed/team_stats_with_sos_full.csv
+      --seasons-in data/processed/team/team_stats_with_sos.csv \
+      --seasons-out data/processed/team/team_stats_with_sos_full.csv
 
 This does NOT scrape anything. It:
   - Reads games.csv
@@ -39,18 +38,19 @@ def main() -> None:
     parser.add_argument(
         "--seasons-in",
         type=str,
-        default="data/processed/team_stats_with_sos.csv",
-        help="Input season table CSV (default: data/processed/team_stats_with_sos.csv)",
+        default="data/processed/team/team_stats_with_sos.csv",
+        help="Input season table CSV (default: data/processed/team/team_stats_with_sos.csv)",
     )
     parser.add_argument(
         "--seasons-out",
         type=str,
-        default="data/processed/team_stats_with_sos_full.csv",
-        help="Output season table CSV (default: data/processed/team_stats_with_sos_full.csv)",
+        default="data/processed/team/team_stats_with_sos_full.csv",
+        help="Output season table CSV (default: data/processed/team/team_stats_with_sos_full.csv)",
     )
     args = parser.parse_args()
 
     processed_dir = PROJECT_ROOT / "data" / "processed"
+    games_dir = processed_dir / "games"
     seasons_in_path = PROJECT_ROOT / args.seasons_in
     seasons_out_path = PROJECT_ROOT / args.seasons_out
 
@@ -60,12 +60,12 @@ def main() -> None:
         raise SystemExit(f"Seasons file not found: {seasons_in_path}")
 
     # Build games table from all per-slice files to ensure full coverage of all seasons/divisions.
-    print(f"Loading games from per-slice files in {processed_dir} ...")
+    print(f"Loading games from per-slice files in {games_dir} ...")
     game_files = sorted(
-        f for f in processed_dir.glob("games_*_d*.csv") if f.name != "games.csv"
+        f for f in games_dir.glob("games_*_d*.csv") if f.name != "games.csv"
     )
     if not game_files:
-        raise SystemExit(f"No games_*_d*.csv files found in {processed_dir}")
+        raise SystemExit(f"No games_*_d*.csv files found in {games_dir}")
 
     games_dfs = []
     for f in game_files:

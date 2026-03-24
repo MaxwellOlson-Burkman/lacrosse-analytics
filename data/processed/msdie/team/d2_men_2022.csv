@@ -1,0 +1,66 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+594111,2022,D2,CACC,3,10,18,Davis & Elkins (4/24/22),56,,,,,43,29,16,,,,,,,,team_site_presto
+594245,2022,D2,CACC,11,6,27,D&#39;Youville (3/09/22),60,,,,,61,26,17,,,,,,,,team_site_presto
+594185,2022,D2,CACC,7,7,17,D&#39;Youville (2/25/22),60,,,,,72,34,16,,,,,,,,team_site_presto
+594149,2022,D2,CACC,6,11,22,Dominican (N.Y.) (4/23/22),58,,,,,55,33,14,,,,,,,,team_site_presto
+594127,2022,D2,CACC,4,8,16,St. Thomas Aquinas (3/08/22),50,,,,,42,29,19,,,,,,,,team_site_presto
+594192,2022,D2,Conference Carolinas,9,7,22,Lees-McRae (4/02/22),63,,,,,57,30,15,,,,,,,,team_site_presto
+594138,2022,D2,Conference Carolinas,10,5,23,EMMANUEL COLLEGE (4/13/22),66,,,,,54,30,18,,,,,,,,team_site_presto
+594145,2022,D2,Conference Carolinas,6,8,29,Shorter (3/16/22),56,,,,,74,33,22,,,,,,,,team_site_presto
+594170,2022,D2,Conference Carolinas,2,12,15,Shorter (2/23/22),43,,,,,38,29,16,,,,,,,,team_site_presto
+594155,2022,D2,Conference Carolinas,3,12,19,Emmanuel (4/20/22),56,,,,,43,35,18,,,,,,,,team_site_presto
+594241,2022,D2,Conference Carolinas,10,6,20,Chowan (4/06/22),66,,,,,44,26,13,,,,,,,,team_site_presto
+594151,2022,D2,Conference Carolinas,9,9,26,Lees-McRae (4/26/22),57,,,,,57,26,18,,,,,,,,team_site_presto
+110594,2022,D2,Conference Carolinas,12,4,24,Brevard (4/13/22); Averett (4/30/22),63,,,,,62,30,27,,,,,,,,team_site_presto
+594165,2022,D2,Conference Carolinas,3,14,23,Point U. (2/02/22),72,,,,,45,32,17,,,,,,,,team_site_presto
+594168,2022,D2,Conference Carolinas,1,14,17,Chowan (3/05/22),47,,,,,40,34,15,,,,,,,,team_site_presto
+594214,2022,D2,ECC,0,11,9,Molloy (4/23/22); Davis & Elkins (3/05/22),49,,,,,54,35,12,,,,,,,,team_site_presto
+594187,2022,D2,ECC,11,8,24,Davis & Elkins (4/19/22),64,,,,,46,25,17,,,,,,,,team_site_presto
+594233,2022,D2,ECC,16,2,27,Roberts Wesleyan (4/23/22),63,,,,,44,26,13,,,,,,,,team_site_presto
+594096,2022,D2,ECC,7,10,23,D&#39;Youville (4/23/22),53,,,,,55,29,14,,,,,,,,team_site_presto
+594163,2022,D2,ECC,10,5,24,STAC (4/08/22),69,,,,,55,33,22,,,,,,,,team_site_presto
+594114,2022,D2,G-MAC,5,8,14,Quincy (3/18/22); Embry-Riddle (FL) (3/03/22),47,,,,,39,24,14,,,,,,,,team_site_presto
+594081,2022,D2,G-MAC,2,12,27,D&#39;Youville (3/05/22),42,,,,,34,38,14,,,,,,,,team_site_presto
+594143,2022,D2,G-MAC,7,7,22,Alderson Broaddus (4/23/22),74,,,,,66,30,14,,,,,,,,team_site_presto
+571460,2022,D2,G-MAC,11,5,26,Roberts Wesleyan (4/13/22),72,,,,,55,24,19,,,,,,,,team_site_presto
+594159,2022,D2,G-MAC,13,7,28,Alderson Broaddus (4/19/22),81,,,,,54,22,18,,,,,,,,team_site_presto
+594161,2022,D2,G-MAC,4,10,15,Alderson Broaddus (3/20/22); Davis & Elkins (4/09/22),64,,,,,38,28,16,,,,,,,,team_site_presto
+594109,2022,D2,G-MAC,4,9,16,Davis & Elkins (4/16/22),59,,,,,43,29,13,,,,,,,,team_site_presto
+594237,2022,D2,GLVC,9,6,18,Wheeling (2/12/22),50,,,,,52,24,14,,,,,,,,team_site_presto
+594094,2022,D2,GLVC,9,5,26,Shorter (3/05/22),65,,,,,45,27,17,,,,,,,,team_site_presto
+594211,2022,D2,GLVC,4,10,14,Columbia College (3/02/22),55,,,,,46,37,15,,,,,,,,team_site_presto
+594130,2022,D2,GLVC,8,6,21,Quincy (2/05/22),66,,,,,43,27,22,,,,,,,,team_site_presto
+594091,2022,D2,GLVC,14,4,17,Quincy (4/10/22),63,,,,,46,23,19,,,,,,,,team_site_presto
+594247,2022,D2,NE10,15,2,19,American International (3/05/22),65,,,,,46,28,17,,,,,,,,team_site_presto
+594196,2022,D2,NE10,1,14,11,Saint Michael&#39;s (4/26/22),52,,,,,43,33,26,,,,,,,,team_site_presto
+594199,2022,D2,NE10,4,9,15,Georgian Court (3/14/22),52,,,,,50,30,16,,,,,,,,team_site_presto
+594078,2022,D2,NE10,8,6,18,Saint Rose (3/19/22),62,,,,,48,23,15,,,,,,,,team_site_presto
+594089,2022,D2,NE10,6,7,20,American International (3/29/22),58,,,,,42,25,12,,,,,,,,team_site_presto
+546947,2022,D2,NE10,16,4,21,Southern N.H. (3/26/22); Saint Rose (4/20/22),56,,,,,46,24,12,,,,,,,,team_site_presto
+594102,2022,D2,NE10,11,4,22,Caldwell (3/02/22),68,,,,,55,23,25,,,,,,,,team_site_presto
+594207,2022,D2,NE10,3,12,20,AIC (4/26/22),65,,,,,54,23,17,,,,,,,,team_site_presto
+594099,2022,D2,NE10,7,6,21,American International (4/09/22),67,,,,,51,35,15,,,,,,,,team_site_presto
+594201,2022,D2,NE10,10,6,22,Saint Rose (4/09/22),74,,,,,49,24,22,,,,,,,,team_site_presto
+594194,2022,D2,Peach Belt,10,7,18,Shorter (4/02/22),63,,,,,47,26,21,,,,,,,,team_site_presto
+594216,2022,D2,Peach Belt,3,14,22,Young Harris (4/02/22),63,,,,,62,28,16,,,,,,,,team_site_presto
+594190,2022,D2,Peach Belt,11,6,25,Shorter (4/23/22),69,,,,,72,31,20,,,,,,,,team_site_presto
+594174,2022,D2,Peach Belt,11,7,28,Shorter (4/15/22),69,,,,,62,29,29,,,,,,,,team_site_presto
+594209,2022,D2,RMAC,1,9,12,QUINCY (3/23/22),44,,,,,38,35,18,,,,,,,,team_site_presto
+594244,2022,D2,RMAC,14,4,25,Flagler (3/25/22),69,,,,,65,22,21,,,,,,,,team_site_presto
+571483,2022,D2,RMAC,3,9,18,ASU (4/02/22),47,,,,,35,29,17,,,,,,,,team_site_presto
+594172,2022,D2,RMAC,10,4,23,Adams State (4/10/22),63,,,,,43,22,13,,,,,,,,team_site_presto
+594107,2022,D2,SAC,9,7,24,LMU (3/05/22),68,,,,,54,31,15,,,,,,,,team_site_presto
+110631,2022,D2,SAC,2,12,17,Warren Wilson (3/24/22),65,,,,,59,36,19,,,,,,,,team_site_presto
+594117,2022,D2,SAC,5,10,17,Anderson (3/26/22),61,,,,,43,31,12,,,,,,,,team_site_presto
+594239,2022,D2,SAC,15,4,26,Mars Hill (4/23/22),65,,,,,49,25,18,,,,,,,,team_site_presto
+594123,2022,D2,SAC,4,13,18,Alderson Broaddus (3/02/22); Shorter (3/22/22),66,,,,,43,45,14,,,,,,,,team_site_presto
+594183,2022,D2,SAC,10,7,23,Tusculum M (3/12/22),65,,,,,48,24,20,,,,,,,,team_site_presto
+530117,2022,D2,SAC,12,5,26,Mars Hill (3/19/22),67,,,,,51,29,13,,,,,,,,team_site_presto
+594136,2022,D2,SAC,13,5,23,Coker (3/11/22),65,,,,,57,23,19,,,,,,,,team_site_presto
+594178,2022,D2,Sunshine State,4,13,17,Saint Leo (4/09/22),51,,,,,44,26,13,,,,,,,,team_site_presto
+594087,2022,D2,Sunshine State,12,6,23,Anderson (2/04/22),70,,,,,48,27,17,,,,,,,,team_site_presto
+594085,2022,D2,Sunshine State,10,6,19,Saint Leo (3/26/22); Wilmington (Del.) (3/07/22),60,,,,,55,24,21,,,,,,,,team_site_presto
+594157,2022,D2,Sunshine State,5,10,20,Flagler (3/16/22),50,,,,,35,27,18,,,,,,,,team_site_presto
+594176,2022,D2,Sunshine State,5,9,19,Assumption (3/02/22),53,,,,,46,31,23,,,,,,,,team_site_presto
+594105,2022,D2,Sunshine State,12,3,24,Palm Beach Atlantic (4/06/22),62,,,,,46,23,18,,,,,,,,team_site_presto
+594204,2022,D2,Sunshine State,6,8,22,FLG (3/12/22),65,,,,,46,26,10,,,,,,,,team_site_presto

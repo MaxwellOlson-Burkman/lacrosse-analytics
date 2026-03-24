@@ -1,0 +1,71 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+593943,2023,D1,ACC,,,19,19,428,867,,,330-218,1,677,290,,,,,,,,team_site_presto
+593990,2023,D1,ACC,,,14,14,329,621,,,205-205,1,488,221,,,,,,,,team_site_presto
+594017,2023,D1,ACC,,,15,15,345,640,,,187-259,0,419,186,,,,,,,,team_site_presto
+593912,2023,D1,America East,9,5,21,UMass Lowell (4/01/23),50,,,,,45,24,12,,,,,,,,team_site_presto
+593920,2023,D1,America East,12,5,20,UAlbany (4/08/23); UMass Lowell (3/25/23),59,,,,,47,23,17,,,,,,,,team_site_presto
+507834,2023,D1,America East,6,0,24,Mitchell (3/01/23),60,,,,,46,20,20,,,,,,,,team_site_presto
+593992,2023,D1,America East,3,10,16,Binghamton (3/25/23),46,,,,,37,27,11,,,,,,,,team_site_presto
+594053,2023,D1,America East,6,10,16,Bryant (4/08/23),52,,,,,42,22,13,,,,,,,,team_site_presto
+593964,2023,D1,America East,0,13,12,Quinnipiac (2/09/23); Siena (2/26/23),40,,,,,32,27,8,,,,,,,,team_site_presto
+593974,2023,D1,America East,8,5,16,MOUNT (2/24/23),53,,,,,34,22,13,,,,,,,,team_site_presto
+594027,2023,D1,America East,9,5,21,UMass Lowell (4/22/23),58,,,,,46,27,20,,,,,,,,team_site_presto
+594020,2023,D1,ASUN,,,17,17,310,684,,,166-262,0,462,278,,,,,,,,team_site_presto
+593910,2023,D1,ASUN,11,6,24,Queens (3/25/23),53,,,,,46,27,17,,,,,,,,team_site_presto
+593958,2023,D1,ASUN,12,4,25,Queens (4/08/23),80,,,,,50,24,20,,,,,,,,team_site_presto
+593982,2023,D1,ASUN,,,16,16,271,630,,,256-176,1,485,279,,,,,,,,team_site_presto
+594051,2023,D1,ASUN,,,17,17,418,901,,,295-248,1,633,240,,,,,,,,team_site_presto
+594040,2023,D1,Atlantic 10,9,8,27,Hampton (2/26/23),71,,,,,55,24,18,,,,,,,,team_site_presto
+593952,2023,D1,Atlantic 10,5,8,24,St. Bonaventure (4/01/23),68,,,,,40,20,10,,,,,,,,team_site_presto
+593979,2023,D1,Atlantic 10,,,14,14,218,530,,,173-138,0,417,232,,,,,,,,team_site_presto
+594005,2023,D1,Atlantic 10,,,16,16,326,651,,,213-227,0,491,248,,,,,,,,team_site_presto
+594069,2023,D1,Atlantic 10,10,5,19,Providence (2/25/23),58,,,,,44,21,12,,,,,,,,team_site_presto
+593908,2023,D1,Atlantic 10,1,13,15,VMI (2/25/23),46,,,,,35,21,11,,,,,,,,team_site_presto
+593936,2023,D1,Big East,10,5,17,Ohio State (3/19/23),58,,,,,37,21,12,,,,,,,,team_site_presto
+594056,2023,D1,Big East,13,4,23,Loyola Maryland (4/18/23),56,,,,,61,18,15,,,,,,,,team_site_presto
+593972,2023,D1,Big East,,,14,14,274,547,,,212-198,1,419,226,,,,,,,,team_site_presto
+594001,2023,D1,Big East,,,15,15,258,538,,,171-257,2,383,250,,,,,,,,team_site_presto
+594011,2023,D1,Big East,,,14,14,201,520,,,103-286,3,347,266,,,,,,,,team_site_presto
+594029,2023,D1,Big East,10,5,20,Providence (4/15/23),65,,,,,44,21,14,,,,,,,,team_site_presto
+593960,2023,D1,Big Ten,12,6,22,Bryant (5/14/23),53,,,,,49,21,11,,,,,,,,team_site_presto
+593977,2023,D1,Big Ten,10,6,16,UAlbany (3/11/23),55,,,,,46,22,12,,,,,,,,team_site_presto
+594060,2023,D1,Big Ten,,,17,17,360,684,,,299-200,0,534,254,,,,,,,,team_site_presto
+593994,2023,D1,Big Ten,,,14,14,235,510,,,177-212,1,404,216,,,,,,,,team_site_presto
+594009,2023,D1,Big Ten,,,14,14,263,641,,,193-173,0,451,167,,,,,,,,team_site_presto
+593934,2023,D1,CAA,,,18,18,413,777,,,238-257,0,552,248,,,,,,,,team_site_presto
+593940,2023,D1,CAA,,,14,14,270,543,,,212-168,1,441,254,,,,,,,,team_site_presto
+593946,2023,D1,CAA,5,9,22,Hampton (4/29/23),50,,,,,48,22,16,,,,,,,,team_site_presto
+593948,2023,D1,CAA,0,12,16,Wabash (3/10/23); St. Andrews (3/01/23),53,,,,,61,30,19,,,,,,,,team_site_presto
+593954,2023,D1,CAA,5,9,16,St. John&#39;s (2/25/23),51,,,,,41,26,12,,,,,,,,team_site_presto
+593985,2023,D1,CAA,5,9,14,NJIT (2/21/23); Hampton (4/08/23); Fairfield (4/15/23),48,,,,,40,23,15,,,,,,,,team_site_presto
+594015,2023,D1,CAA,9,7,19,Hampton (3/18/23),61,,,,,55,28,11,,,,,,,,team_site_presto
+594071,2023,D1,CAA,6,9,20,Hampton (4/15/23); Mount St. Mary&#39;s (2/11/23),54,,,,,48,26,15,,,,,,,,team_site_presto
+593918,2023,D1,Ivy League,,,14,14,272,607,,,240-168,0,451,251,,,,,,,,team_site_presto
+593931,2023,D1,Ivy League,11,4,22,DART (4/01/23),60,,,,,49,20,19,,,,,,,,team_site_presto
+593933,2023,D1,Ivy League,,,12,12,217,478,,,195-158,0,396,249,,,,,,,,team_site_presto
+593949,2023,D1,Ivy League,5,7,21,Virginia (2/18/23),55,,,,,44,24,15,,,,,,,,team_site_presto
+593999,2023,D1,Ivy League,7,6,17,Yale (4/01/23); Dartmouth (4/22/23),56,,,,,40,23,10,,,,,,,,team_site_presto
+594066,2023,D1,Ivy League,,,15,15,341,704,,,199-228,1,497,197,,,,,,,,team_site_presto
+594037,2023,D1,Ivy League,9,6,22,CORNELL (5/05/23),58,,,,,41,24,14,,,,,,,,team_site_presto
+593925,2023,D1,MAAC,2,13,18,Marist (3/18/23),52,,,,,44,25,10,,,,,,,,team_site_presto
+593968,2023,D1,MAAC,10,5,14,Canisius (3/25/23); LIU (4/12/23),44,,,,,33,23,13,,,,,,,,team_site_presto
+593970,2023,D1,MAAC,10,8,29,Quinnipiac (4/29/23),56,,,,,54,24,14,,,,,,,,team_site_presto
+594042,2023,D1,MAAC,7,7,16,Quinnipiac (3/05/23),44,,,,,45,26,25,,,,,,,,team_site_presto
+593988,2023,D1,MAAC,8,8,20,VMI (3/29/23),55,,,,,50,25,17,,,,,,,,team_site_presto
+594003,2023,D1,MAAC,,,14,14,295,602,,,229-197,0,404,224,,,,,,,,team_site_presto
+594068,2023,D1,MAAC,,,15,15,240,515,,,173-210,1,386,264,,,,,,,,team_site_presto
+594012,2023,D1,MAAC,9,7,16,UMLM (2/26/23),59,,,,,40,20,14,,,,,,,,team_site_presto
+593927,2023,D1,NEC,6,7,18,Canisius (3/04/23),41,,,,,46,21,11,,,,,,,,team_site_presto
+593938,2023,D1,NEC,2,11,17,Lindenwood (4/08/23),47,,,,,38,23,15,,,,,,,,team_site_presto
+593904,2023,D1,NEC,5,9,14,VMI (3/11/23),50,,,,,43,28,15,,,,,,,,team_site_presto
+594007,2023,D1,NEC,8,8,21,BELL (4/12/23),59,,,,,58,24,13,,,,,,,,team_site_presto
+594036,2023,D1,NEC,3,11,13,Queens (N.C.) (2/25/23),48,,,,,37,23,10,,,,,,,,team_site_presto
+594022,2023,D1,Patriot,,,17,17,330,717,,,263-168,1,613,278,,,,,,,,team_site_presto
+593915,2023,D1,Patriot,,,14,14,319,632,,,194-196,0,505,239,,,,,,,,team_site_presto
+593922,2023,D1,Patriot,,,13,13,238,541,,,140-211,0,387,227,,,,,,,,team_site_presto
+593929,2023,D1,Patriot,2,9,22,Holy Cross (4/28/23),48,,,,,41,20,15,,,,,,,,team_site_presto
+593956,2023,D1,Patriot,1,13,13,UMass Lowell (4/18/23),53,,,,,41,31,11,,,,,,,,team_site_presto
+593962,2023,D1,Patriot,6,10,18,Hampton (3/14/23),44,,,,,51,22,16,,,,,,,,team_site_presto
+594058,2023,D1,Patriot,,,15,15,338,601,,,270-156,0,560,283,,,,,,,,team_site_presto
+593966,2023,D1,Patriot,9,8,17,Colgate (4/22/23),54,,,,,42,20,15,,,,,,,,team_site_presto
+594025,2023,D1,Patriot,8,8,19,Queens (2/05/23),58,,,,,45,22,12,,,,,,,,team_site_presto

@@ -1,0 +1,73 @@
+team_id,season,division,conference,wins,losses,goals_for,goals_against,shots,shot_pct,faceoff_wins,faceoff_losses,faceoff_pct,ground_balls,turnovers,caused_turnovers,clears_attempted,clears_made,clear_pct,emo_goals,emo_attempts,emo_pct,save_pct,source_method
+594111,2024,D2,CACC,4,8,18,Holy Family (3/16/24),44,,,,,52,35,20,,,,,,,,team_site_presto
+594245,2024,D2,CACC,11,4,23,Holy Family (4/20/24),62,,,,,54,27,15,,,,,,,,team_site_presto
+594185,2024,D2,CACC,4,10,20,Holy Family (4/13/24),58,,,,,63,32,16,,,,,,,,team_site_presto
+594149,2024,D2,CACC,9,8,28,Felician (4/24/24),76,,,,,71,27,19,,,,,,,,team_site_presto
+594073,2024,D2,CACC,2,13,12,Bethany (WV) (2/09/24); Rosemont (2/28/24); Dist. Columbia (3/08/24),54,,,,,55,36,18,,,,,,,,team_site_presto
+594127,2024,D2,CACC,10,8,24,Dominican (N.Y.) (4/10/24),67,,,,,54,26,20,,,,,,,,team_site_presto
+594192,2024,D2,Conference Carolinas,7,10,23,Chowan (3/16/24),63,,,,,57,25,15,,,,,,,,team_site_presto
+594138,2024,D2,Conference Carolinas,10,7,24,Lees-McRae (3/20/24); North Greenville (4/26/24),81,,,,,63,28,12,,,,,,,,team_site_presto
+594145,2024,D2,Conference Carolinas,5,9,23,Virginia State (2/28/24),56,,,,,67,29,22,,,,,,,,team_site_presto
+594170,2024,D2,Conference Carolinas,1,15,18,LMC (4/19/24),46,,,,,46,31,16,,,,,,,,team_site_presto
+594155,2024,D2,Conference Carolinas,3,8,17,Averett (2/03/24); Montreat (NC) (2/21/24),63,,,,,53,30,12,,,,,,,,team_site_presto
+594241,2024,D2,Conference Carolinas,12,3,21,Lees-McRae (3/16/24); Chowan (4/03/24),58,,,,,48,27,16,,,,,,,,team_site_presto
+594151,2024,D2,Conference Carolinas,10,8,24,Emmanuel (3/20/24); Lees-McRae (4/03/24),69,,,,,63,30,15,,,,,,,,team_site_presto
+110594,2024,D2,Conference Carolinas,12,7,27,LaGrange (3/16/24),66,,,,,57,26,22,,,,,,,,team_site_presto
+594165,2024,D2,Conference Carolinas,8,8,17,Malone (2/10/24),56,,,,,47,37,11,,,,,,,,team_site_presto
+594168,2024,D2,Conference Carolinas,6,9,16,EMMMLA~1 (4/03/24); LMC (4/06/24),59,,,,,48,28,14,,,,,,,,team_site_presto
+594214,2024,D2,ECC,2,14,14,Dominican (N.Y.) (2/24/24),59,,,,,48,35,18,,,,,,,,team_site_presto
+594187,2024,D2,ECC,13,4,30,UDC MLAX (4/27/24),77,,,,,79,24,21,,,,,,,,team_site_presto
+594233,2024,D2,ECC,14,2,27,D&#39;Youville (4/28/24),57,,,,,62,23,16,,,,,,,,team_site_presto
+594096,2024,D2,ECC,8,10,28,Dist. Columbia (3/30/24),63,,,,,49,31,20,,,,,,,,team_site_presto
+594163,2024,D2,ECC,10,6,24,Dist. Columbia (4/20/24),67,,,,,49,22,17,,,,,,,,team_site_presto
+594114,2024,D2,G-MAC,10,4,23,Thomas More (3/26/24),49,,,,,48,24,17,,,,,,,,team_site_presto
+594081,2024,D2,G-MAC,4,11,15,Holy Family (2/25/24),47,,,,,52,44,26,,,,,,,,team_site_presto
+594143,2024,D2,G-MAC,8,8,23,Tiffin (4/13/24),68,,,,,45,30,23,,,,,,,,team_site_presto
+594218,2024,D2,G-MAC,8,9,26,Davis & Elkins (3/30/24),67,,,,,60,34,17,,,,,,,,team_site_presto
+571460,2024,D2,G-MAC,13,5,26,Thomas More (4/13/24); Tiffin (4/17/24),68,,,,,56,22,15,,,,,,,,team_site_presto
+594159,2024,D2,G-MAC,11,6,27,Tiffin (4/09/24),81,,,,,58,22,19,,,,,,,,team_site_presto
+594076,2024,D2,G-MAC,4,10,25,La Roche (2/23/24),70,,,,,58,24,14,,,,,,,,team_site_presto
+594161,2024,D2,G-MAC,6,10,22,Thomas More (4/20/24),59,,,,,45,30,10,,,,,,,,team_site_presto
+594109,2024,D2,G-MAC,7,8,27,Virginia St. (4/21/24),58,,,,,57,30,29,,,,,,,,team_site_presto
+594237,2024,D2,GLVC,14,5,27,TMUMLAX (2/24/24); Tiffin (2/27/24),65,,,,,50,22,12,,,,,,,,team_site_presto
+594094,2024,D2,GLVC,13,5,22,DUC (3/16/24),63,,,,,55,21,19,,,,,,,,team_site_presto
+594211,2024,D2,GLVC,5,9,23,Adams St. (3/14/24),67,,,,,61,31,21,,,,,,,,team_site_presto
+594130,2024,D2,GLVC,10,5,24,Adams St. (2/16/24),61,,,,,46,24,19,,,,,,,,team_site_presto
+594091,2024,D2,GLVC,11,6,18,Walsh (2/21/24),57,,,,,56,24,16,,,,,,,,team_site_presto
+594231,2024,D2,GLVC,7,8,21,Columbia (MO) (3/03/24),52,,,,,57,32,19,,,,,,,,team_site_presto
+594247,2024,D2,NE10,17,2,22,Molloy (4/09/24),56,,,,,39,21,20,,,,,,,,team_site_presto
+594196,2024,D2,NE10,5,10,25,Davis & Elkins (3/04/24),57,,,,,39,30,25,,,,,,,,team_site_presto
+594199,2024,D2,NE10,7,7,24,Caldwell (3/09/24),81,,,,,55,24,18,,,,,,,,team_site_presto
+594078,2024,D2,NE10,9,6,19,Southern N.H. (4/14/24),61,,,,,50,20,16,,,,,,,,team_site_presto
+594089,2024,D2,NE10,3,10,14,D&#39;Youville (2/17/24),58,,,,,51,26,18,,,,,,,,team_site_presto
+546947,2024,D2,NE10,3,8,17,Wagner (2/17/24),42,,,,,31,21,10,,,,,,,,team_site_presto
+594102,2024,D2,NE10,13,4,26,Wilmington (Del.) (3/02/24),65,,,,,53,24,18,,,,,,,,team_site_presto
+594207,2024,D2,NE10,9,5,18,D&#39;Youville (3/08/24),61,,,,,54,28,22,,,,,,,,team_site_presto
+594099,2024,D2,NE10,4,9,17,Felician (2/24/24),61,,,,,50,25,15,,,,,,,,team_site_presto
+594201,2024,D2,NE10,12,5,20,Franklin Pierce (3/05/24),58,,,,,49,21,15,,,,,,,,team_site_presto
+594194,2024,D2,Peach Belt,7,9,30,Shorter (4/27/24),92,,,,,63,26,24,,,,,,,,team_site_presto
+594216,2024,D2,Peach Belt,7,9,28,Shorter (4/20/24),78,,,,,46,25,14,,,,,,,,team_site_presto
+594190,2024,D2,Peach Belt,12,4,28,Shorter (4/13/24),71,,,,,63,24,23,,,,,,,,team_site_presto
+594174,2024,D2,Peach Belt,9,6,26,Tusculum (2/18/24),70,,,,,73,33,21,,,,,,,,team_site_presto
+594226,2024,D2,Peach Belt,1,10,13,St. Thomas Aquinas (2/12/24),47,,,,,38,30,13,,,,,,,,team_site_presto
+594209,2024,D2,RMAC,1,13,15,Colorado St.-Pueblo (3/06/24),47,,,,,51,33,18,,,,,,,,team_site_presto
+594244,2024,D2,RMAC,13,4,27,Dominican (CA) (2/23/24),65,,,,,64,20,21,,,,,,,,team_site_presto
+571483,2024,D2,RMAC,2,12,15,Westminster UT (4/19/24),50,,,,,60,37,26,,,,,,,,team_site_presto
+594224,2024,D2,RMAC,7,8,24,DUC (2/17/24),66,,,,,63,27,34,,,,,,,,team_site_presto
+594228,2024,D2,RMAC,2,10,19,Adams St. (2/02/24),50,,,,,48,26,14,,,,,,,,team_site_presto
+594172,2024,D2,RMAC,11,3,27,CSU Pueblo (4/19/24),69,,,,,59,26,32,,,,,,,,team_site_presto
+594107,2024,D2,SAC,7,9,29,Tusculum (3/19/24),86,,,,,68,25,15,,,,,,,,team_site_presto
+110631,2024,D2,SAC,2,14,26,Warren Wilson (4/09/24),79,,,,,76,30,19,,,,,,,,team_site_presto
+594117,2024,D2,SAC,7,8,21,Virginia State (4/13/24),63,,,,,43,24,13,,,,,,,,team_site_presto
+594239,2024,D2,SAC,17,2,25,Mars Hill (3/27/24),60,,,,,49,24,19,,,,,,,,team_site_presto
+594123,2024,D2,SAC,4,11,22,Virginia State (2/06/24),59,,,,,42,26,21,,,,,,,,team_site_presto
+594183,2024,D2,SAC,12,4,27,Tusculum (3/02/24),68,,,,,56,23,18,,,,,,,,team_site_presto
+530117,2024,D2,SAC,2,11,14,Hampton (2/24/24),50,,,,,39,28,12,,,,,,,,team_site_presto
+594136,2024,D2,SAC,11,5,23,Mount Olive (2/28/24); Lincoln Memorial (3/30/24); Mars Hill (3/02/24),68,,,,,61,23,19,,,,,,,,team_site_presto
+594178,2024,D2,Sunshine State,6,8,20,Chowan (3/06/24),50,,,,,42,19,15,,,,,,,,team_site_presto
+594087,2024,D2,Sunshine State,10,7,20,Saint Leo (4/20/24),72,,,,,63,24,19,,,,,,,,team_site_presto
+594085,2024,D2,Sunshine State,6,9,16,Westminster (Utah) (3/09/24); Embry-Riddle (FL) (4/06/24); Palm Beach Atl. (3/16/24),44,,,,,41,24,13,,,,,,,,team_site_presto
+594157,2024,D2,Sunshine State,5,10,16,QU (3/02/24),54,,,,,41,26,15,,,,,,,,team_site_presto
+594176,2024,D2,Sunshine State,6,5,21,Chowan (2/17/24),59,,,,,37,18,16,,,,,,,,team_site_presto
+594105,2024,D2,Sunshine State,12,4,18,Florida Tech (3/30/24); Lynn (4/03/24); Florida Tech (4/24/24); Florida Tech (2/03/24); Barton (2/10/24),63,,,,,47,21,18,,,,,,,,team_site_presto
+594204,2024,D2,Sunshine State,9,6,22,Montevallo (3/02/24),61,,,,,46,24,14,,,,,,,,team_site_presto
